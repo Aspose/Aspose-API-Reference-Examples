@@ -1,5 +1,5 @@
 ---
-title: Aspose.Words Examples and Code-snippets
+title: Aspose.Words Examples
 additionalTitle: Aspose API References
 description: Examples and code-snippets of Aspose.Words product family. It includes basic and advance examples of usage of Aspose.Words.
 type: docs

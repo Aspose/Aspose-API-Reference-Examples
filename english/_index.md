@@ -7,10 +7,10 @@ weight: 10
 url: /
 ---
 
-## Aspose.Words Examples and Code-snippets
+## Aspose.Words
 {{% alert color="primary" %}}
 Aspose.Words examples and code-snippets for creating, editing, converting, printing, and many more features for Word documents in your application. 
 {{% /alert %}}
 
 These are links to some useful resources:
-[Aspose.Words for .NET Examples](/words/net/)
+- [Aspose.Words for .NET Examples](./words/net/)

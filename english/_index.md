@@ -17,4 +17,4 @@ Aspose.Words examples and code-snippets for creating, editing, converting, print
 {{< blocks/product-item-new title=".NET" href="/words/net/" class="docs-btn"  >}}{{< blocks/product-item-new title="JAVA" href="/words/java/" class="docs-btn" >}}{{< blocks/product-item-new title="C++" href="/words/cpp/" class="docs-btn" >}}{{< blocks/product-item-new title="PYTHON via" href="/words/python-net/" class="docs-btn" type="net" >}}{{< /blocks/product-card-new >}}
 
 {{% /blocks/product-row-new %}
-{{< blocks/product-section-new>}}
+{{< /blocks/product-section-new>}}

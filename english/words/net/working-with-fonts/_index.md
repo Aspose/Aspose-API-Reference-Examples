@@ -1,6 +1,6 @@
 ---
-title: working with fonts
-linktitle: working with fonts
+title: Working with Fonts
+linktitle: Working with Fonts
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

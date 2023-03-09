@@ -11,20 +11,21 @@ is_root: true
 ## Examples
 | Title | Description |
 | --- | --- | 
-| [apply license](./apply-license/) |  |  
-| [enable opentype features](./enable-opentype-features/) |  |  
-| [working with comments](./working-with-comments/) |  |  
-| [working with fields](./working-with-fields/) |  |  
-| [working with fonts](./working-with-fonts/) |  |  
-| [working with footnote and endnote](./working-with-footnote-and-endnote/) |  |  
-| [working with formfields](./working-with-formfields/) |  |  
-| [working with headers and footers](./working-with-headers-and-footers/) |  |  
-| [working with hyphenation](./working-with-hyphenation/) |  |  
-| [working with list](./working-with-list/) |  |  
-| [working with markdown](./working-with-markdown/) |  |  
-| [working with node](./working-with-node/) |  |  
-| [working with oleobjects and activex](./working-with-oleobjects-and-activex/) |  |  
-| [working with revisions](./working-with-revisions/) |  |  
-| [working with section](./working-with-section/) |  |  
-| [working with textboxes](./working-with-textboxes/) |  |  
-| [working with vba macros](./working-with-vba-macros/) |  |  
+
+| [Apply License](./apply-license/) | Examples of different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license |  
+| [Enable OpenType features](./enable-opentype-features/) |  |  
+| [Working with Comments](./working-with-comments/) |  |  
+| [Working with Fields](./working-with-fields/) |  |  
+| [Working with Fonts](./working-with-fonts/) |  |  
+| [Working with Footnote and Endnote](./working-with-footnote-and-endnote/) |  |  
+| [Working with FormFields](./working-with-formfields/) |  |  
+| [Working with Headers and Footers](./working-with-headers-and-footers/) |  |  
+| [Working with Hyphenation](./working-with-hyphenation/) |  |  
+| [Working with List](./working-with-list/) |  |  
+| [Working with Markdown](./working-with-markdown/) |  |  
+| [Working with Node](./working-with-node/) |  |  
+| [Working with OleObjects and ActiveX](./working-with-oleobjects-and-activex/) |  |  
+| [Working with Revisions](./working-with-revisions/) |  |  
+| [Working with Section](./working-with-section/) |  |  
+| [Working with Textboxes](./working-with-textboxes/) |  |  
+| [Working with VBA Macros](./working-with-vba-macros/) |  |  

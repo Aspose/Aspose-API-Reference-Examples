@@ -1,6 +1,6 @@
 ---
-title: working with markdown
-linktitle: working with markdown
+title: Working with Markdown
+linktitle: Working with Markdown
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -1,6 +1,6 @@
 ---
-title: working with formfields
-linktitle: working with formfields
+title: Working with FormFields
+linktitle: Working with FormFields
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -1,6 +1,6 @@
 ---
-title: working with revisions
-linktitle: working with revisions
+title: Working with Revisions
+linktitle: Working with Revisions
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

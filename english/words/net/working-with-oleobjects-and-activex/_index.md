@@ -1,6 +1,6 @@
 ---
-title: working with oleobjects and activex
-linktitle: working with oleobjects and activex
+title: Working with OleObjects and ActiveX
+linktitle: Working with OleObjects and ActiveX
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -1,6 +1,6 @@
 ---
-title: enable opentype features
-linktitle: enable opentype features
+title: Enable OpenType features
+linktitle: Enable OpenType features
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -1,6 +1,6 @@
 ---
-title: working with textboxes
-linktitle: working with textboxes
+title: Working with Textboxes
+linktitle: Working with Textboxes
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -1,6 +1,6 @@
 ---
-title: working with list
-linktitle: working with list
+title: Working with List
+linktitle: Working with List
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

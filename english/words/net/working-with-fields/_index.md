@@ -1,6 +1,6 @@
 ---
-title: working with fields
-linktitle: working with fields
+title: Working with Fields
+linktitle: Working with Fields
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

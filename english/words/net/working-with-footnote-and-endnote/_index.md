@@ -1,6 +1,6 @@
 ---
-title: working with footnote and endnote
-linktitle: working with footnote and endnote
+title: Working with Footnote and Endnote
+linktitle: Working with Footnote and Endnote
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

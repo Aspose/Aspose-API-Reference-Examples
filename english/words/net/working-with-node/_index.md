@@ -1,6 +1,6 @@
 ---
-title: working with node
-linktitle: working with node
+title: Working with Node
+linktitle: Working with Node
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

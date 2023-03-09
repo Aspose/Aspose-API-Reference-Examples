@@ -1,6 +1,6 @@
 ---
-title: working with section
-linktitle: working with section
+title: Working with Section
+linktitle: Working with Section
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

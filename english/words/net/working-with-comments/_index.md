@@ -1,6 +1,6 @@
 ---
-title: working with comments
-linktitle: working with comments
+title: Working with Comments
+linktitle: Working with Comments
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

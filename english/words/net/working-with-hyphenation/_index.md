@@ -1,6 +1,6 @@
 ---
-title: working with hyphenation
-linktitle: working with hyphenation
+title: Working with Hyphenation
+linktitle: Working with Hyphenation
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

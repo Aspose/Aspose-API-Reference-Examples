@@ -1,6 +1,6 @@
 ---
-title: working with headers and footers
-linktitle: working with headers and footers
+title: Working with Headers and Footers
+linktitle: Working with Headers and Footers
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

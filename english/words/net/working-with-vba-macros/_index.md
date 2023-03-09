@@ -1,6 +1,6 @@
 ---
-title: working with vba macros
-linktitle: working with vba macros
+title: Working with VBA Macros
+linktitle: Working with VBA Macros
 second_title: Aspose.Words for .NET API Reference
 description:
 type: docs

@@ -10,5 +10,21 @@ is_root: true
 
 ## Examples
 | Title | Description |
-| --- | --- |
-| [How to apply license](./apply-license/) | These examples include how to apply license to Aspose.Words for .NET from file, stream, and other ways. |  
+| --- | --- | 
+| [apply license](./apply-license/) |  |  
+| [enable opentype features](./enable-opentype-features/) |  |  
+| [working with comments](./working-with-comments/) |  |  
+| [working with fields](./working-with-fields/) |  |  
+| [working with fonts](./working-with-fonts/) |  |  
+| [working with footnote and endnote](./working-with-footnote-and-endnote/) |  |  
+| [working with formfields](./working-with-formfields/) |  |  
+| [working with headers and footers](./working-with-headers-and-footers/) |  |  
+| [working with hyphenation](./working-with-hyphenation/) |  |  
+| [working with list](./working-with-list/) |  |  
+| [working with markdown](./working-with-markdown/) |  |  
+| [working with node](./working-with-node/) |  |  
+| [working with oleobjects and activex](./working-with-oleobjects-and-activex/) |  |  
+| [working with revisions](./working-with-revisions/) |  |  
+| [working with section](./working-with-section/) |  |  
+| [working with textboxes](./working-with-textboxes/) |  |  
+| [working with vba macros](./working-with-vba-macros/) |  |  

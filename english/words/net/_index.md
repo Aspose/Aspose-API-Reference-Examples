@@ -11,7 +11,6 @@ is_root: true
 ## Examples
 | Title | Description |
 | --- | --- | 
-
 | [Apply License](./apply-license/) | Examples of different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license |  
 | [Enable OpenType features](./enable-opentype-features/) |  |  
 | [Working with Comments](./working-with-comments/) |  |  

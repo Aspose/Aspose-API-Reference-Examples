@@ -18,24 +18,21 @@ To license Aspose.Words for .NET through your license, follow these steps:
 - [License.SetLicense(string)](/words/net/aspose.words/license/setlicense/#setlicense_1) raises an exception if there is a problem with the license.
 
 ```csharp
-        {
-            License license = new License();
+	License license = new License();
 
-            // This line attempts to set a license from several locations relative to the executable and Aspose.Words.dll.
-            // You can also use the additional overload to load a license from a stream, this is useful,
-            // for instance, when the license is stored as an embedded resource.
-            try
-            {
-                license.SetLicense("Aspose.Words.lic");
-                
-                Console.WriteLine("License set successfully.");
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("\nThere was an error setting the license: " + e.Message);
-            }
-        }
-
+	// This line attempts to set a license from several locations relative to the executable and Aspose.Words.dll.
+	// You can also use the additional overload to load a license from a stream, this is useful,
+	// for instance, when the license is stored as an embedded resource.
+	try
+	{
+		license.SetLicense("Aspose.Words.lic");
+		
+		Console.WriteLine("License set successfully.");
+	}
+	catch (Exception e)
+	{
+		Console.WriteLine("\nThere was an error setting the license: " + e.Message);
+	}
 ```
 
 ## Apply License From Stream
@@ -46,21 +43,18 @@ To enable Aspose.Words for .NET license from stream, follow these steps:
 - [License.SetLicense(stream)](/words/net/aspose.words/license/setlicense/#setlicense_1) throws an exception if there is a problem with the license.
 
 ```csharp
-        {
-            License license = new License();
+	License license = new License();
 
-            try
-            {
-                license.SetLicense(new MemoryStream(File.ReadAllBytes("Aspose.Words.lic")));
-                
-                Console.WriteLine("License set successfully.");
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("\nThere was an error setting the license: " + e.Message);
-            }
-        }
-
+	try
+	{
+		license.SetLicense(new MemoryStream(File.ReadAllBytes("Aspose.Words.lic")));
+		
+		Console.WriteLine("License set successfully.");
+	}
+	catch (Exception e)
+	{
+		Console.WriteLine("\nThere was an error setting the license: " + e.Message);
+	}
 ```
 
 ## Apply Metered License
@@ -71,21 +65,18 @@ To enable metered license of Aspose.Words for .NET, follow these steps:
 
 
 ```csharp
-        {
-            try
-            {
-                Metered metered = new Metered();
-                metered.SetMeteredKey("*****", "*****");
+	try
+	{
+		Metered metered = new Metered();
+		metered.SetMeteredKey("*****", "*****");
 
-                Document doc = new Document(MyDir + "Document.docx");
+		Document doc = new Document(MyDir + "Document.docx");
 
-                Console.WriteLine(doc.PageCount);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("\nThere was an error setting the license: " + e.Message);
-            }
-        }
-
+		Console.WriteLine(doc.PageCount);
+	}
+	catch (Exception e)
+	{
+		Console.WriteLine("\nThere was an error setting the license: " + e.Message);
+	}
 ```
 

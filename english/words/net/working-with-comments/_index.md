@@ -38,7 +38,21 @@ To add comments into a Word Document using Aspose.Words for .NET follow these st
 ```
 
 ## Anchor Comment
-
+To anchor comments into a Word Document using Aspose.Words for .NET follow these steps.
+- Create an instance of the [Document](/words/net/aspose.words/document/) class.
+- Create three [Run](/words/net/aspose.words/run/) objects.
+- The first two run some text, while the third runs a [Comment](/words/net/aspose.words/comment/).
+- Each of the Run objects has an associated CommentRangeStart and CommentRangeEnd object.
+- The example then creates two Paragraph objects and appends them to the document's FirstSection.Body node.
+- The first Paragraph object contains content for the first run, while the second Paragraph object contains content for the second run.
+- Finally, the example creates a Comment object and attaches it to the document's FirstParagraph node.
+- The Comment object contains information about both runs (the text and comment).
+- The example creates a document with two sections, the first of which has a paragraph and the second of which has a comment.
+- The example then creates two runs, one for the paragraph and one for the comment.
+- Finally, it inserts the comments into their respective positions in the document.
+- When executed, this example will create a document that looks like this: Some text is added is added to the first section.
+- A Comment text.
+- Save the document.
 ```csharp
             
 	Document doc = new Document();
@@ -73,7 +87,11 @@ To add comments into a Word Document using Aspose.Words for .NET follow these st
 ```
 
 ## Add Remove Comment Reply
-
+To remove comments reply from a Word Document using Aspose.Words for .NET follow these steps.
+- Create an instance of the [Document](/words/net/aspose.words/document/) class.
+- Get [Comment](/words/net/aspose.words/comment/) object by calling [Document.GetChild](/words/net/aspose.words/compositenode/getchild/) method.
+- Invoke [Comment.RemoveReply](/words/net/aspose.words/comment/removereply/) method with the target reply to remove.
+- Save the document. 
 ```csharp
             
 	Document doc = new Document(MyDir + "Comments.docx");
@@ -87,6 +105,75 @@ To add comments into a Word Document using Aspose.Words for .NET follow these st
             
 ```
 
+## Extract Comments
+The following example shows how to extract comments from Document using Aspose.Words for .NET.
+- Call [Document.GetChildNodes](/words/net/aspose.words/compositenode/getchildnodes/) method by NodeType.Comment that returns [NodeCollection](/words/net/aspose.words/nodecollection/)
+- Iterate the comments to get comment author, datetime and comment text.
+ 
+```csharp
+	List<string> ExtractComments(Document doc)
+    {
+		List<string> collectedComments = new List<string>();
+		NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
+
+		foreach (Comment comment in comments)
+		{
+			collectedComments.Add(comment.Author + " " + comment.DateTime + " " +
+								  comment.ToString(SaveFormat.Text));
+		}
+
+		return collectedComments;
+	}
+```
+## Extract Comments By Author
+
+The following example shows how to extract comments from Document by specific Author using Aspose.Words for .NET.
+- Call [Document.GetChildNodes](/words/net/aspose.words/compositenode/getchildnodes/) method by NodeType.Comment that returns [NodeCollection](/words/net/aspose.words/nodecollection/)
+- Iterate the comments and check the comment author.
+- If comment is by specific author process that comment.
+
+```csharp
+	List<string> ExtractComments(Document doc, string authorName)
+    {
+		List<string> collectedComments = new List<string>();
+		NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
+
+		foreach (Comment comment in comments)
+		{
+			if (comment.Author == authorName)
+				collectedComments.Add(comment.Author + " " + comment.DateTime + " " +
+									  comment.ToString(SaveFormat.Text));
+		}
+
+		return collectedComments;
+	}
+```
+## Remove Comments
+
+```csharp
+	void RemoveComments(Document doc)
+	{
+		NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
+
+		comments.Clear();
+	}
+```
+## Remove Comments by Author
+
+```csharp
+	void RemoveComments(Document doc, string authorName)
+	{
+		NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
+
+		// Look through all comments and remove those written by the authorName.
+		for (int i = comments.Count - 1; i >= 0; i--)
+		{
+			Comment comment = (Comment) comments[i];
+			if (comment.Author == authorName)
+				comment.Remove();
+		}
+	}
+```
 ## Process Comments
 
 ```csharp
@@ -116,58 +203,7 @@ To add comments into a Word Document using Aspose.Words for .NET follow these st
             
 ```
 
-## Extract Comments
 
-```csharp
-	List<string> collectedComments = new List<string>();
-	NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
-
-	foreach (Comment comment in comments)
-	{
-		collectedComments.Add(comment.Author + " " + comment.DateTime + " " +
-							  comment.ToString(SaveFormat.Text));
-	}
-
-	return collectedComments;
-```
-
-## Extract Comments
-
-```csharp
-	List<string> collectedComments = new List<string>();
-	NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
-
-	foreach (Comment comment in comments)
-	{
-		if (comment.Author == authorName)
-			collectedComments.Add(comment.Author + " " + comment.DateTime + " " +
-								  comment.ToString(SaveFormat.Text));
-	}
-
-	return collectedComments;
-```
-
-## Remove Comments
-
-```csharp
-	NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
-
-	comments.Clear();
-```
-
-## Remove Comments
-
-```csharp
-	NodeCollection comments = doc.GetChildNodes(NodeType.Comment, true);
-
-	// Look through all comments and remove those written by the authorName.
-	for (int i = comments.Count - 1; i >= 0; i--)
-	{
-		Comment comment = (Comment) comments[i];
-		if (comment.Author == authorName)
-			comment.Remove();
-	}
-```
 
 ## Comment Resolved And Replies
 

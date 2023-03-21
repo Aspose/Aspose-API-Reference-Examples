@@ -2,17 +2,17 @@
 title: Working with Fonts
 linktitle: Working with Fonts
 second_title: Aspose.Words for .NET API Reference
-description:
+description: Examples show how to apply font formatting, font line spacing, DMLText Effect, enable/disable font substitute, font fallback settings, get list of available font in Word Document using Aspose.Words for .NET
 type: docs
 weight: 420
 url: /words/net/working-with-fonts/
 ---
+The following examples show how to apply font formatting, font line spacing, DMLText Effect, enable/disable font substitute, font fallback settings, get list of available font in Word Document using Aspose.Words for .NET.
 
 ## Font Formatting
 
 ```csharp
-        {
-            //ExStart:WriteAndFont
+            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
 
@@ -26,16 +26,13 @@ url: /words/net/working-with-fonts/
             builder.Write("Sample text.");
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.FontFormatting.docx");
-            //ExEnd:WriteAndFont
-        }
-
+            
 ```
 
 ## Get Font Line Spacing
 
 ```csharp
-        {
-            //ExStart:GetFontLineSpacing
+            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
             
@@ -44,16 +41,13 @@ url: /words/net/working-with-fonts/
 
             Font font = builder.Document.FirstSection.Body.FirstParagraph.Runs[0].Font;
             Console.WriteLine($"lineSpacing = {font.LineSpacing}");
-            //ExEnd:GetFontLineSpacing
-        }
-
+            
 ```
 
 ## Check DMLText Effect
 
 ```csharp
-        {
-            //ExStart:CheckDMLTextEffect
+            
             Document doc = new Document(MyDir + "DrawingML text effects.docx");
             
             RunCollection runs = doc.FirstSection.Body.FirstParagraph.Runs;
@@ -65,16 +59,13 @@ url: /words/net/working-with-fonts/
             Console.WriteLine(runFont.HasDmlEffect(TextDmlEffect.Reflection));
             Console.WriteLine(runFont.HasDmlEffect(TextDmlEffect.Outline));
             Console.WriteLine(runFont.HasDmlEffect(TextDmlEffect.Fill));
-            //ExEnd:CheckDMLTextEffect
-        }
-
+            
 ```
 
 ## Set Font Formatting
 
 ```csharp
-        {
-            //ExStart:DocumentBuilderSetFontFormatting
+            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
 
@@ -90,16 +81,13 @@ url: /words/net/working-with-fonts/
             builder.Writeln("I'm a very nice formatted string.");
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontFormatting.docx");
-            //ExEnd:DocumentBuilderSetFontFormatting
-        }
-
+            
 ```
 
 ## Set Font Emphasis Mark
 
 ```csharp
-        {
-            //ExStart:SetFontEmphasisMark
+            
             Document document = new Document();
             DocumentBuilder builder = new DocumentBuilder(document);
 
@@ -111,16 +99,13 @@ url: /words/net/working-with-fonts/
             builder.Write("Simple text");
 
             document.Save(ArtifactsDir + "WorkingWithFonts.SetFontEmphasisMark.docx");
-            //ExEnd:SetFontEmphasisMark
-        }
-
+            
 ```
 
 ## Set Fonts Folders
 
 ```csharp
-        {
-            //ExStart:SetFontsFolders
+            
             FontSettings.DefaultInstance.SetFontsSources(new FontSourceBase[]
             {
                 new SystemFontSource(), new FolderFontSource("C:\\MyFonts\\", true)
@@ -128,16 +113,13 @@ url: /words/net/working-with-fonts/
 
             Document doc = new Document(MyDir + "Rendering.docx");
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFolders.pdf");
-            //ExEnd:SetFontsFolders           
-        }
-
+            
 ```
 
 ## Enable Disable Font Substitution
 
 ```csharp
-        {
-            //ExStart:EnableDisableFontSubstitution
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -147,16 +129,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.EnableDisableFontSubstitution.pdf");
-            //ExEnd:EnableDisableFontSubstitution
-        }
-
+            
 ```
 
 ## Set Font Fallback Settings
 
 ```csharp
-        {
-            //ExStart:SetFontFallbackSettings
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -165,16 +144,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontFallbackSettings.pdf");
-            //ExEnd:SetFontFallbackSettings
-        }
-
+            
 ```
 
 ## Noto Fallback Settings
 
 ```csharp
-        {
-            //ExStart:SetPredefinedFontFallbackSettings
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -183,30 +159,24 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.NotoFallbackSettings.pdf");
-            //ExEnd:SetPredefinedFontFallbackSettings
-        }
-
+            
 ```
 
 ## Set Fonts Folders Default Instance
 
 ```csharp
-        {
-            //ExStart:SetFontsFoldersDefaultInstance
+            
             FontSettings.DefaultInstance.SetFontsFolder("C:\\MyFonts\\", true);
-            //ExEnd:SetFontsFoldersDefaultInstance           
+            
 
             Document doc = new Document(MyDir + "Rendering.docx");
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFoldersDefaultInstance.pdf");
-        }
-
 ```
 
 ## Set Fonts Folders Multiple Folders
 
 ```csharp
-        {
-            //ExStart:SetFontsFoldersMultipleFolders
+            
             Document doc = new Document(MyDir + "Rendering.docx");
             
             FontSettings fontSettings = new FontSettings();
@@ -218,16 +188,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFoldersMultipleFolders.pdf");
-            //ExEnd:SetFontsFoldersMultipleFolders           
-        }
-
+            
 ```
 
 ## Set Fonts Folders System And Custom Folder
 
 ```csharp
-        {
-            //ExStart:SetFontsFoldersSystemAndCustomFolder
+            
             Document doc = new Document(MyDir + "Rendering.docx");
             
             FontSettings fontSettings = new FontSettings();
@@ -248,33 +215,27 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFoldersSystemAndCustomFolder.pdf");
-            //ExEnd:SetFontsFoldersSystemAndCustomFolder
-        }
-
+            
 ```
 
 ## Set Fonts Folders With Priority
 
 ```csharp
-        {
-            //ExStart:SetFontsFoldersWithPriority
+            
             FontSettings.DefaultInstance.SetFontsSources(new FontSourceBase[]
             {
                 new SystemFontSource(), new FolderFontSource("C:\\MyFonts\\", true,1)
             });
-            //ExEnd:SetFontsFoldersWithPriority           
+            
 
             Document doc = new Document(MyDir + "Rendering.docx");
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFoldersWithPriority.pdf");
-        }
-
 ```
 
 ## Set True Type Fonts Folder
 
 ```csharp
-        {
-            //ExStart:SetTrueTypeFontsFolder
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -286,16 +247,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetTrueTypeFontsFolder.pdf");
-            //ExEnd:SetTrueTypeFontsFolder
-        }
-
+            
 ```
 
 ## Specify Default Font When Rendering
 
 ```csharp
-        {
-            //ExStart:SpecifyDefaultFontWhenRendering
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -306,16 +264,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.SpecifyDefaultFontWhenRendering.pdf");
-            //ExEnd:SpecifyDefaultFontWhenRendering
-        }
-
+            
 ```
 
 ## Font Settings With Load Options
 
 ```csharp
-        {
-            //ExStart:FontSettingsWithLoadOptions
+            
             FontSettings fontSettings = new FontSettings();
 
             TableSubstitutionRule substitutionRule = fontSettings.SubstitutionSettings.TableSubstitution;
@@ -326,16 +281,13 @@ url: /words/net/working-with-fonts/
             loadOptions.FontSettings = fontSettings;
             
             Document doc = new Document(MyDir + "Rendering.docx", loadOptions);
-            //ExEnd:FontSettingsWithLoadOptions
-        }
-
+            
 ```
 
 ## Set Fonts Folder
 
 ```csharp
-        {
-            //ExStart:SetFontsFolder
+            
             FontSettings fontSettings = new FontSettings();
             fontSettings.SetFontsFolder(MyDir + "Fonts", false);
             
@@ -343,52 +295,43 @@ url: /words/net/working-with-fonts/
             loadOptions.FontSettings = fontSettings;
             
             Document doc = new Document(MyDir + "Rendering.docx", loadOptions);
-            //ExEnd:SetFontsFolder
-        }
-
+            
 ```
 
 ## Font Settings With Load Option
 
 ```csharp
-        {
-            //ExStart:FontSettingsWithLoadOption
+            
             LoadOptions loadOptions = new LoadOptions();
             loadOptions.FontSettings = new FontSettings();
 
             Document doc = new Document(MyDir + "Rendering.docx", loadOptions);
-            //ExEnd:FontSettingsWithLoadOption   
-        }
-
+            
 ```
 
 ## Font Settings Default Instance
 
 ```csharp
-        {
-            //ExStart:FontSettingsFontSource
-            //ExStart:FontSettingsDefaultInstance
+            
+            
             FontSettings fontSettings = FontSettings.DefaultInstance;
-            //ExEnd:FontSettingsDefaultInstance   
+            
             fontSettings.SetFontsSources(new FontSourceBase[]
             {
                 new SystemFontSource(),
                 new FolderFontSource("C:\\MyFonts\\", true)
             });
-            //ExEnd:FontSettingsFontSource
+            
 
             LoadOptions loadOptions = new LoadOptions();
             loadOptions.FontSettings = fontSettings;
             Document doc = new Document(MyDir + "Rendering.docx", loadOptions);
-        }
-
 ```
 
 ## Get List Of Available Fonts
 
 ```csharp
-        {
-            //ExStart:GetListOfAvailableFonts
+            
             FontSettings fontSettings = new FontSettings();
             List<FontSourceBase> fontSources = new List<FontSourceBase>(fontSettings.GetFontsSources());
 
@@ -406,16 +349,13 @@ url: /words/net/working-with-fonts/
                 Console.WriteLine("Version  : " + fontInfo.Version);
                 Console.WriteLine("FilePath : " + fontInfo.FilePath);
             }
-            //ExEnd:GetListOfAvailableFonts
-        }
-
+            
 ```
 
 ## Receive Notifications Of Fonts
 
 ```csharp
-        {
-            //ExStart:ReceiveNotificationsOfFonts
+            
             Document doc = new Document(MyDir + "Rendering.docx");
 
             FontSettings fontSettings = new FontSettings();
@@ -434,16 +374,13 @@ url: /words/net/working-with-fonts/
             doc.FontSettings = fontSettings;
             
             doc.Save(ArtifactsDir + "WorkingWithFonts.ReceiveNotificationsOfFonts.pdf");
-            //ExEnd:ReceiveNotificationsOfFonts
-        }
-
+            
 ```
 
 ## Receive Warning Notification
 
 ```csharp
-        {
-            //ExStart:ReceiveWarningNotification
+            
             Document doc = new Document(MyDir + "Rendering.docx");
             
             // When you call UpdatePageLayout the document is rendered in memory. Any warnings that occured during rendering
@@ -455,29 +392,23 @@ url: /words/net/working-with-fonts/
             
             // Even though the document was rendered previously, any save warnings are notified to the user during document save.
             doc.Save(ArtifactsDir + "WorkingWithFonts.ReceiveWarningNotification.pdf");
-            //ExEnd:ReceiveWarningNotification  
-        }
-
+            
 ```
 
 ## Resource Steam Font Source Example
 
 ```csharp
-        {
             Document doc = new Document(MyDir + "Rendering.docx");
             
             FontSettings.DefaultInstance.SetFontsSources(new FontSourceBase[]
                 { new SystemFontSource(), new ResourceSteamFontSource() });
 
             doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFolders.pdf");
-        }
-
 ```
 
 ## Get Substitution Without Suffixes
 
 ```csharp
-        {
             Document doc = new Document(MyDir + "Get substitution without suffixes.docx");
 
             DocumentSubstitutionWarnings substitutionWarningHandler = new DocumentSubstitutionWarnings();
@@ -496,7 +427,5 @@ url: /words/net/working-with-fonts/
             Assert.AreEqual(
                 "Font 'DINOT-Regular' has not been found. Using 'DINOT' font instead. Reason: font name substitution.",
                 substitutionWarningHandler.FontWarnings[0].Description);
-        }
-
 ```
 

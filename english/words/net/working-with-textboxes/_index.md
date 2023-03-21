@@ -2,17 +2,17 @@
 title: Working with Textboxes
 linktitle: Working with Textboxes
 second_title: Aspose.Words for .NET API Reference
-description:
+description: Examples contain create a link, check sequence, and break a link using Aspose.Words for .NET.
 type: docs
 weight: 1320
 url: /words/net/working-with-textboxes/
 ---
 
-## Create ALink
+The following examples contain create a link, check sequence, and break a link using Aspose.Words for .NET.
+
+## Create A Link
 
 ```csharp
-        {
-            //ExStart:CreateALink
             Document doc = new Document();
 
             Shape shape1 = new Shape(doc, ShapeType.TextBox);
@@ -23,16 +23,12 @@ url: /words/net/working-with-textboxes/
 
             if (textBox1.IsValidLinkTarget(textBox2))
                 textBox1.Next = textBox2;
-            //ExEnd:CreateALink
-        }
-
+            
 ```
 
 ## Check Sequence
 
 ```csharp
-        {
-            //ExStart:CheckSequence
             Document doc = new Document();
 
             Shape shape = new Shape(doc, ShapeType.TextBox);
@@ -52,16 +48,12 @@ url: /words/net/working-with-textboxes/
             {
                 Console.WriteLine("The Tail of the sequence.");
             }
-            //ExEnd:CheckSequence
-        }
-
+            
 ```
 
-## Break ALink
+## Break A Link
 
 ```csharp
-        {
-            //ExStart:BreakALink
             Document doc = new Document();
 
             Shape shape = new Shape(doc, ShapeType.TextBox);
@@ -75,8 +67,6 @@ url: /words/net/working-with-textboxes/
 
             // Break a link, which leads to this textbox.
             textBox.Previous?.BreakForwardLink();
-            //ExEnd:BreakALink
-        }
-
+            
 ```
 

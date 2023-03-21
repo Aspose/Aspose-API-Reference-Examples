@@ -2,411 +2,335 @@
 title: Working with Markdown
 linktitle: Working with Markdown
 second_title: Aspose.Words for .NET API Reference
-description:
+description: Examples contain how to bold text, italic text, strickethrough, inline code, autolink, add image, ordered list, heading, table and read markdown document using Aspose.Words for .NET.
 type: docs
 weight: 810
 url: /words/net/working-with-markdown/
 ---
 
+The following examples contain how to bold text, italic text, strickethrough, inline code, autolink, add image, ordered list, heading, table and read markdown document using Aspose.Words for .NET.
 ## Bold Text
 
 ```csharp
-        {
-            //ExStart:BoldText
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Make the text Bold.
-            builder.Font.Bold = true;
-            builder.Writeln("This text will be Bold");
-            //ExEnd:BoldText
-        }
-
+	// Make the text Bold.
+	builder.Font.Bold = true;
+	builder.Writeln("This text will be Bold");  
 ```
 
 ## Italic Text
 
 ```csharp
-        {
-            //ExStart:ItalicText
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Make the text Italic.
-            builder.Font.Italic = true;
-            builder.Writeln("This text will be Italic");
-            //ExEnd:ItalicText
-        }
-
+	// Make the text Italic.
+	builder.Font.Italic = true;
+	builder.Writeln("This text will be Italic");
+            
 ```
 
 ## Strikethrough
 
 ```csharp
-        {
-            //ExStart:Strikethrough
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Make the text Strikethrough.
-            builder.Font.StrikeThrough = true;
-            builder.Writeln("This text will be StrikeThrough");
-            //ExEnd:Strikethrough
-        }
-
+	// Make the text Strikethrough.
+	builder.Font.StrikeThrough = true;
+	builder.Writeln("This text will be StrikeThrough");
+            
 ```
 
 ## Inline Code
 
 ```csharp
-        {
-            //ExStart:InlineCode
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Number of backticks is missed, one backtick will be used by default.
-            Style inlineCode1BackTicks = builder.Document.Styles.Add(StyleType.Character, "InlineCode");
-            builder.Font.Style = inlineCode1BackTicks;
-            builder.Writeln("Text with InlineCode style with 1 backtick");
+	// Number of backticks is missed, one backtick will be used by default.
+	Style inlineCode1BackTicks = builder.Document.Styles.Add(StyleType.Character, "InlineCode");
+	builder.Font.Style = inlineCode1BackTicks;
+	builder.Writeln("Text with InlineCode style with 1 backtick");
 
-            // There will be 3 backticks.
-            Style inlineCode3BackTicks = builder.Document.Styles.Add(StyleType.Character, "InlineCode.3");
-            builder.Font.Style = inlineCode3BackTicks;
-            builder.Writeln("Text with InlineCode style with 3 backtick");
-            //ExEnd:InlineCode
-        }
-
+	// There will be 3 backticks.
+	Style inlineCode3BackTicks = builder.Document.Styles.Add(StyleType.Character, "InlineCode.3");
+	builder.Font.Style = inlineCode3BackTicks;
+	builder.Writeln("Text with InlineCode style with 3 backtick");
+            
 ```
 
 ## Autolink
 
 ```csharp
-        {
-            //ExStart:Autolink
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Insert hyperlink.
-            builder.InsertHyperlink("https://www.aspose.com", "https://www.aspose.com", false);
-            builder.InsertHyperlink("email@aspose.com", "mailto:email@aspose.com", false);
-            //ExEnd:Autolink
-        }
-
+	// Insert hyperlink.
+	builder.InsertHyperlink("https://www.aspose.com", "https://www.aspose.com", false);
+	builder.InsertHyperlink("email@aspose.com", "mailto:email@aspose.com", false);
+            
 ```
 
 ## Link
 
 ```csharp
-        {
-            //ExStart:Link
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Insert hyperlink.
-            builder.InsertHyperlink("Aspose", "https://www.aspose.com", false);
-            //ExEnd:Link
-        }
-
+	// Insert hyperlink.
+	builder.InsertHyperlink("Aspose", "https://www.aspose.com", false);
+            
 ```
 
 ## Image
 
 ```csharp
-        {
-            //ExStart:Image
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Insert image.
-            Shape shape = new Shape(builder.Document, ShapeType.Image);
-            shape.WrapType = WrapType.Inline;
-            shape.ImageData.SourceFullName = "/attachment/1456/pic001.png";
-            shape.ImageData.Title = "title";
-            builder.InsertNode(shape);
-            //ExEnd:Image
-        }
-
+	// Insert image.
+	Shape shape = new Shape(builder.Document, ShapeType.Image);
+	shape.WrapType = WrapType.Inline;
+	shape.ImageData.SourceFullName = "/attachment/1456/pic001.png";
+	shape.ImageData.Title = "title";
+	builder.InsertNode(shape);
+            
 ```
 
 ## Horizontal Rule
 
 ```csharp
-        {
-            //ExStart:HorizontalRule
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Insert horizontal rule.
-            builder.InsertHorizontalRule();
-            //ExEnd:HorizontalRule
-        }
-
+	// Insert horizontal rule.
+	builder.InsertHorizontalRule();
+            
 ```
 
 ## Heading
 
 ```csharp
-        {
-            //ExStart:Heading
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // By default Heading styles in Word may have Bold and Italic formatting.
-            //If we do not want to be emphasized, set these properties explicitly to false.
-            builder.Font.Bold = false;
-            builder.Font.Italic = false;
+	// By default Heading styles in Word may have Bold and Italic formatting.
+	//If we do not want to be emphasized, set these properties explicitly to false.
+	builder.Font.Bold = false;
+	builder.Font.Italic = false;
 
-            builder.ParagraphFormat.StyleName = "Heading 1";
-            builder.Writeln("This is an H1 tag");
-            //ExEnd:Heading
-        }
-
+	builder.ParagraphFormat.StyleName = "Heading 1";
+	builder.Writeln("This is an H1 tag");
+            
 ```
 
 ## Setext Heading
 
 ```csharp
-        {
-            //ExStart:SetextHeading
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            builder.ParagraphFormat.StyleName = "Heading 1";
-            builder.Writeln("This is an H1 tag");
+	builder.ParagraphFormat.StyleName = "Heading 1";
+	builder.Writeln("This is an H1 tag");
 
-            // Reset styles from the previous paragraph to not combine styles between paragraphs.
-            builder.Font.Bold = false;
-            builder.Font.Italic = false;
+	// Reset styles from the previous paragraph to not combine styles between paragraphs.
+	builder.Font.Bold = false;
+	builder.Font.Italic = false;
 
-            Style setexHeading1 = builder.Document.Styles.Add(StyleType.Paragraph, "SetextHeading1");
-            builder.ParagraphFormat.Style = setexHeading1;
-            builder.Document.Styles["SetextHeading1"].BaseStyleName = "Heading 1";
-            builder.Writeln("Setext Heading level 1");
+	Style setexHeading1 = builder.Document.Styles.Add(StyleType.Paragraph, "SetextHeading1");
+	builder.ParagraphFormat.Style = setexHeading1;
+	builder.Document.Styles["SetextHeading1"].BaseStyleName = "Heading 1";
+	builder.Writeln("Setext Heading level 1");
 
-            builder.ParagraphFormat.Style = builder.Document.Styles["Heading 3"];
-            builder.Writeln("This is an H3 tag");
+	builder.ParagraphFormat.Style = builder.Document.Styles["Heading 3"];
+	builder.Writeln("This is an H3 tag");
 
-            // Reset styles from the previous paragraph to not combine styles between paragraphs.
-            builder.Font.Bold = false;
-            builder.Font.Italic = false;
+	// Reset styles from the previous paragraph to not combine styles between paragraphs.
+	builder.Font.Bold = false;
+	builder.Font.Italic = false;
 
-            Style setexHeading2 = builder.Document.Styles.Add(StyleType.Paragraph, "SetextHeading2");
-            builder.ParagraphFormat.Style = setexHeading2;
-            builder.Document.Styles["SetextHeading2"].BaseStyleName = "Heading 3";
+	Style setexHeading2 = builder.Document.Styles.Add(StyleType.Paragraph, "SetextHeading2");
+	builder.ParagraphFormat.Style = setexHeading2;
+	builder.Document.Styles["SetextHeading2"].BaseStyleName = "Heading 3";
 
-            // Setex heading level will be reset to 2 if the base paragraph has a Heading level greater than 2.
-            builder.Writeln("Setext Heading level 2");
-            //ExEnd:SetextHeading
+	// Setex heading level will be reset to 2 if the base paragraph has a Heading level greater than 2.
+	builder.Writeln("Setext Heading level 2");
+	
 
-            builder.Document.Save(ArtifactsDir + "Test.md");
-        }
-
+	builder.Document.Save(ArtifactsDir + "Test.md");
 ```
 
 ## Indented Code
 
 ```csharp
-        {
-            //ExStart:IndentedCode
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            Style indentedCode = builder.Document.Styles.Add(StyleType.Paragraph, "IndentedCode");
-            builder.ParagraphFormat.Style = indentedCode;
-            builder.Writeln("This is an indented code");
-            //ExEnd:IndentedCode
-        }
-
+	Style indentedCode = builder.Document.Styles.Add(StyleType.Paragraph, "IndentedCode");
+	builder.ParagraphFormat.Style = indentedCode;
+	builder.Writeln("This is an indented code");
+            
 ```
 
 ## Fenced Code
 
 ```csharp
-        {
-            //ExStart:FencedCode
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            Style fencedCode = builder.Document.Styles.Add(StyleType.Paragraph, "FencedCode");
-            builder.ParagraphFormat.Style = fencedCode;
-            builder.Writeln("This is an fenced code");
+	Style fencedCode = builder.Document.Styles.Add(StyleType.Paragraph, "FencedCode");
+	builder.ParagraphFormat.Style = fencedCode;
+	builder.Writeln("This is an fenced code");
 
-            Style fencedCodeWithInfo = builder.Document.Styles.Add(StyleType.Paragraph, "FencedCode.C#");
-            builder.ParagraphFormat.Style = fencedCodeWithInfo;
-            builder.Writeln("This is a fenced code with info string");
-            //ExEnd:FencedCode
-        }
-
+	Style fencedCodeWithInfo = builder.Document.Styles.Add(StyleType.Paragraph, "FencedCode.C#");
+	builder.ParagraphFormat.Style = fencedCodeWithInfo;
+	builder.Writeln("This is a fenced code with info string");
+            
 ```
 
 ## Quote
 
 ```csharp
-        {
-            //ExStart:Quote
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // By default a document stores blockquote style for the first level.
-            builder.ParagraphFormat.StyleName = "Quote";
-            builder.Writeln("Blockquote");
+	// By default a document stores blockquote style for the first level.
+	builder.ParagraphFormat.StyleName = "Quote";
+	builder.Writeln("Blockquote");
 
-            // Create styles for nested levels through style inheritance.
-            Style quoteLevel2 = builder.Document.Styles.Add(StyleType.Paragraph, "Quote1");
-            builder.ParagraphFormat.Style = quoteLevel2;
-            builder.Document.Styles["Quote1"].BaseStyleName = "Quote";
-            builder.Writeln("1. Nested blockquote");
-            //ExEnd:Quote
-        }
-
+	// Create styles for nested levels through style inheritance.
+	Style quoteLevel2 = builder.Document.Styles.Add(StyleType.Paragraph, "Quote1");
+	builder.ParagraphFormat.Style = quoteLevel2;
+	builder.Document.Styles["Quote1"].BaseStyleName = "Quote";
+	builder.Writeln("1. Nested blockquote");
+            
 ```
 
 ## Bulleted List
 
 ```csharp
-        {
-            //ExStart:BulletedList
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            builder.ListFormat.ApplyBulletDefault();
-            builder.ListFormat.List.ListLevels[0].NumberFormat = "-";
+	builder.ListFormat.ApplyBulletDefault();
+	builder.ListFormat.List.ListLevels[0].NumberFormat = "-";
 
-            builder.Writeln("Item 1");
-            builder.Writeln("Item 2");
+	builder.Writeln("Item 1");
+	builder.Writeln("Item 2");
 
-            builder.ListFormat.ListIndent();
+	builder.ListFormat.ListIndent();
 
-            builder.Writeln("Item 2a");
-            builder.Writeln("Item 2b");
-            //ExEnd:BulletedList
-        }
-
+	builder.Writeln("Item 2a");
+	builder.Writeln("Item 2b");
+            
 ```
 
 ## Ordered List
 
 ```csharp
-        {
-            //ExStart:OrderedList
-            Document doc = new Document();
-            DocumentBuilder builder = new DocumentBuilder(doc);
+	Document doc = new Document();
+	DocumentBuilder builder = new DocumentBuilder(doc);
 
-            builder.ListFormat.ApplyBulletDefault();
-            builder.ListFormat.List.ListLevels[0].NumberFormat = $"{(char) 0}.";
-            builder.ListFormat.List.ListLevels[1].NumberFormat = $"{(char) 1}.";
+	builder.ListFormat.ApplyBulletDefault();
+	builder.ListFormat.List.ListLevels[0].NumberFormat = $"{(char) 0}.";
+	builder.ListFormat.List.ListLevels[1].NumberFormat = $"{(char) 1}.";
 
-            builder.Writeln("Item 1");
-            builder.Writeln("Item 2");
+	builder.Writeln("Item 1");
+	builder.Writeln("Item 2");
 
-            builder.ListFormat.ListIndent();
+	builder.ListFormat.ListIndent();
 
-            builder.Writeln("Item 2a");
-            builder.Writeln("Item 2b");
-            //ExEnd:OrderedList
-        }
-
+	builder.Writeln("Item 2a");
+	builder.Writeln("Item 2b");
+            
 ```
 
 ## Table
 
 ```csharp
-        {
-            //ExStart:Table
-            // Use a document builder to add content to the document.
-            DocumentBuilder builder = new DocumentBuilder();
+	// Use a document builder to add content to the document.
+	DocumentBuilder builder = new DocumentBuilder();
 
-            // Add the first row.
-            builder.InsertCell();
-            builder.Writeln("a");
-            builder.InsertCell();
-            builder.Writeln("b");
+	// Add the first row.
+	builder.InsertCell();
+	builder.Writeln("a");
+	builder.InsertCell();
+	builder.Writeln("b");
 
-            // Add the second row.
-            builder.InsertCell();
-            builder.Writeln("c");
-            builder.InsertCell();
-            builder.Writeln("d");
-            //ExEnd:Table
-        }
-
+	// Add the second row.
+	builder.InsertCell();
+	builder.Writeln("c");
+	builder.InsertCell();
+	builder.Writeln("d");
+            
 ```
 
 ## Read Markdown Document
 
 ```csharp
-        {
-            //ExStart:ReadMarkdownDocument
-            Document doc = new Document(MyDir + "Quotes.md");
+	Document doc = new Document(MyDir + "Quotes.md");
 
-            // Let's remove Heading formatting from a Quote in the very last paragraph.
-            Paragraph paragraph = doc.FirstSection.Body.LastParagraph;
-            paragraph.ParagraphFormat.Style = doc.Styles["Quote"];
+	// Let's remove Heading formatting from a Quote in the very last paragraph.
+	Paragraph paragraph = doc.FirstSection.Body.LastParagraph;
+	paragraph.ParagraphFormat.Style = doc.Styles["Quote"];
 
-            doc.Save(ArtifactsDir + "WorkingWithMarkdown.ReadMarkdownDocument.md");
-            //ExEnd:ReadMarkdownDocument
-        }
-
+	doc.Save(ArtifactsDir + "WorkingWithMarkdown.ReadMarkdownDocument.md");
+            
 ```
 
 ## Emphases
 
 ```csharp
-        {
-            //ExStart:Emphases
-            Document doc = new Document();
-            DocumentBuilder builder = new DocumentBuilder(doc);
+	Document doc = new Document();
+	DocumentBuilder builder = new DocumentBuilder(doc);
 
-            builder.Writeln("Markdown treats asterisks (*) and underscores (_) as indicators of emphasis.");
-            builder.Write("You can write ");
+	builder.Writeln("Markdown treats asterisks (*) and underscores (_) as indicators of emphasis.");
+	builder.Write("You can write ");
 
-            builder.Font.Bold = true;
-            builder.Write("bold");
+	builder.Font.Bold = true;
+	builder.Write("bold");
 
-            builder.Font.Bold = false;
-            builder.Write(" or ");
+	builder.Font.Bold = false;
+	builder.Write(" or ");
 
-            builder.Font.Italic = true;
-            builder.Write("italic");
+	builder.Font.Italic = true;
+	builder.Write("italic");
 
-            builder.Font.Italic = false;
-            builder.Writeln(" text. ");
+	builder.Font.Italic = false;
+	builder.Writeln(" text. ");
 
-            builder.Write("You can also write ");
-            builder.Font.Bold = true;
+	builder.Write("You can also write ");
+	builder.Font.Bold = true;
 
-            builder.Font.Italic = true;
-            builder.Write("BoldItalic");
+	builder.Font.Italic = true;
+	builder.Write("BoldItalic");
 
-            builder.Font.Bold = false;
-            builder.Font.Italic = false;
-            builder.Write("text.");
+	builder.Font.Bold = false;
+	builder.Font.Italic = false;
+	builder.Write("text.");
 
-            builder.Document.Save(ArtifactsDir + "WorkingWithMarkdown.Emphases.md");
-            //ExEnd:Emphases
-        }
-
+	builder.Document.Save(ArtifactsDir + "WorkingWithMarkdown.Emphases.md");
+            
 ```
 
 ## Use Warning Source
 
 ```csharp
-        {
-            //ExStart:UseWarningSourceMarkdown
-            Document doc = new Document(MyDir + "Emphases markdown warning.docx");
+	Document doc = new Document(MyDir + "Emphases markdown warning.docx");
 
-            WarningInfoCollection warnings = new WarningInfoCollection();
-            doc.WarningCallback = warnings;
+	WarningInfoCollection warnings = new WarningInfoCollection();
+	doc.WarningCallback = warnings;
 
-            doc.Save(ArtifactsDir + "WorkingWithMarkdown.UseWarningSource.md");
+	doc.Save(ArtifactsDir + "WorkingWithMarkdown.UseWarningSource.md");
 
-            foreach (WarningInfo warningInfo in warnings)
-            {
-                if (warningInfo.Source == WarningSource.Markdown)
-                    Console.WriteLine(warningInfo.Description);
-            }
-            //ExEnd:UseWarningSourceMarkdown
-        }
-
+	foreach (WarningInfo warningInfo in warnings)
+	{
+		if (warningInfo.Source == WarningSource.Markdown)
+			Console.WriteLine(warningInfo.Description);
+	}
+            
 ```
 

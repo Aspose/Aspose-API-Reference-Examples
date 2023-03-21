@@ -14,7 +14,7 @@ is_root: true
 | [Apply License](./apply-license/) | Examples of different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license. |  
 | [Enable OpenType features](./enable-opentype-features/) | Example shows how to enable OpenType features in Aspose.Words for .NET. |  
 | [Working with Comments](./working-with-comments/) | Examples show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies in Aspose.Words for .NET. |  
-| [Working with Fields](./working-with-fields/) |  |  
+| [Working with Fields](./working-with-fields/) | Examples show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET. |  
 | [Working with Fonts](./working-with-fonts/) |  |  
 | [Working with Footnote and Endnote](./working-with-footnote-and-endnote/) |  |  
 | [Working with FormFields](./working-with-formfields/) |  |  

@@ -4,7 +4,7 @@ linktitle: Split Document
 second_title: Aspose.Words for .NET API Reference
 description: Examples contain by headings html, by sections html, by sections, page by page, merge documents and by page range
 type: docs
-weight: 1430
+weight: 1450
 url: /words/net/split-document/
 ---
 Examples contain by headings html, by sections html, by sections, page by page, merge documents and by page range

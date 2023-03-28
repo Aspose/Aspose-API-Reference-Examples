@@ -37,3 +37,4 @@ is_root: true
 | [Programming With Table Of Content](./programming-with-table-of-content/) | Examples contain change style of toc level and change toc tab stops |  
 | [Document Protection](./document-protection/) | Examples contain password protection, allow only form fields protect, remove document protection, unrestricted editable regions, unrestricted section, get protection type, read only protection and remove read only restriction |  
 | [Programming With Digitalsinatures](./programming-with-digitalsinatures/) | Examples contain sign document, signing encrypted document, creating and signing new signature line, signing existing signature line, set signature provider id, create new signature line and set provider id and access and verify signature |  
+| [Split Document](./split-document/) | Examples contain by headings html, by sections html, by sections, page by page, merge documents and by page range |  

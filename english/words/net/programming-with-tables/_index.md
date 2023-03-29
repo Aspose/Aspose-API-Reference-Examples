@@ -91,7 +91,9 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
 ## Import Table From Data Table
 
 ```csharp
-
+		public Table ImportTableFromDataTable(DocumentBuilder builder, DataTable dataTable,
+            bool importColumnHeadings)
+        {
             Table table = builder.StartTable();
 
             // Check if the columns' names from the data source are to be included in a header row.
@@ -148,7 +150,7 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
             builder.EndTable();
 
             return table;
-        
+        }
 ```
 
 ## Clone Complete Table
@@ -559,7 +561,8 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
 ## Print Cell Merge Type
 
 ```csharp
-
+	public string PrintCellMergeType(Cell cell)
+        {
             bool isHorizontallyMerged = cell.CellFormat.HorizontalMerge != CellMerge.None;
             bool isVerticallyMerged = cell.CellFormat.VerticalMerge != CellMerge.None;
             
@@ -576,7 +579,7 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
                 return $"The cell at {cellLocation} is vertically merged";
             
             return $"The cell at {cellLocation} is not merged";
-        
+        }
 ```
 
 ## Vertical Merge
@@ -680,7 +683,8 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
 ## Merge Cells
 
 ```csharp
-
+		internal void MergeCells(Cell startCell, Cell endCell)
+        {
             Table parentTable = startCell.ParentRow.ParentTable;
 
             // Find the row and cell indices for the start and end cell.
@@ -709,7 +713,7 @@ Examples contain auto fit table to contents, auto fit table to fixed column widt
                     }
                 }
             }
-        
+        }
 ```
 
 ## Repeat Rows On Subsequent Pages

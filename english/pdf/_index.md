@@ -13,6 +13,6 @@ Aspose.PDF for .NET examples and code-snippets for creating, editing, converting
 {{% /alert %}}
 
 These are links to some useful resources:
-- [Programming with annotations](./net/annotation/)
+- [Programming with annotations](./net/annotations/)
 
 

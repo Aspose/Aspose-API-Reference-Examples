@@ -3,7 +3,7 @@ title: Programming with Annotations
 linktitle: Programming with Annotations
 type: docs
 weight: 10
-url: /pdf/net/annotation/
+url: /pdf/net/annotations/
 description: "Programming with Annotations includes API Examples and code-snippets of Aspose.PDF for .NET that includes adding annotation, deleting annotation, getting annotation info, and many more."
 is_root: true
 ---

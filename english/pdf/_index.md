@@ -5,6 +5,7 @@ description: Examples and code-snippets of Aspose.PDF product family. It include
 type: docs
 weight: 10
 url: /pdf/
+is_root: true
 ---
 
 ## Aspose.PDF for .NET

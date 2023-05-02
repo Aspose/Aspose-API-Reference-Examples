@@ -5,6 +5,7 @@ description: Examples and code-snippets of Aspose.Words product family. It inclu
 type: docs
 weight: 10
 url: /words/
+is_root: true
 ---
 
 ## Aspose.Words for .NET

@@ -2,7 +2,7 @@
 title: Programming with Annotations
 linktitle: Programming with Annotations
 type: docs
-weight: 10
+weight: 11
 url: /pdf/net/annotations/
 description: "Programming with Annotations includes API Examples and code-snippets of Aspose.PDF for .NET that includes adding annotation, deleting annotation, getting annotation info, and many more."
 ---
@@ -10,7 +10,7 @@ description: "Programming with Annotations includes API Examples and code-snippe
 ## Examples
 | Title | Description |
 | --- | --- | 
-| [Add Annotation](./addannotation/) | The example shows how to add annotation with Aspose.PDF for .NET |  
+| [Add Annotation](./addannotation/) | Learn how to add text annotations with Aspose.PDF for .NET using this C# source code. Customize your annotations with specific details and icons. |  
 | [Addlnk Annotation](./addlnkannotation/) | The example shows how to addlnk annotation with Aspose.PDF for .NET |  
 | [Add Swf File As Annotation](./addswffileasannotation/) | The example shows how to add swf file as annotation with Aspose.PDF for .NET |  
 | [Delete All Annotations From Page](./deleteallannotationsfrompage/) | The example shows how to delete all annotations from page with Aspose.PDF for .NET |  

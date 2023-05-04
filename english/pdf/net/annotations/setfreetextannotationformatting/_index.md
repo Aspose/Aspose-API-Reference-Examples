@@ -7,7 +7,6 @@ type: docs
 weight: 140
 url: /pdf/net/annotations/setfreetextannotationformatting/
 ---
-# Set Free Text Annotation Formatting using Aspose.PDF for .NET
 
 Aspose.PDF for .NET is a powerful and easy-to-use PDF document manipulation API that allows you to work with PDF files programmatically in your .NET applications. One of the features provided by Aspose.PDF for .NET is the ability to set free text annotation formatting in PDF documents. In this article, we will walk you through the step-by-step process of setting free text annotation formatting using Aspose.PDF for .NET.
 

@@ -11,13 +11,11 @@ Aspose.PDF for .NET is a powerful library for creating, manipulating, and conver
 
 In this tutorial, we will guide you through the process of setting callout properties for a free text annotation using Aspose.PDF for .NET in C#. Follow the steps below to get started.
 
-## Steps to Set Callout Property using Aspose.PDF for .NET
+## Install Aspose.PDF for .NET
 
-## Step 1: Install Aspose.PDF for .NET
+If you haven't already done so, you will need to [download](https://releases.aspose.com/pdf/net/) and install Aspose.PDF for .NET from the Aspose Releases or via NuGet package manager.
 
-If you haven't already done so, you will need to download and install Aspose.PDF for .NET from the Aspose website or via NuGet package manager.
-
-## Step 2: Create a new PDF document
+## Create a new PDF document
 
 Create a new PDF document using the `Document` class provided by Aspose.PDF for .NET.
 
@@ -27,7 +25,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
-## Step 3: Add a new page to the document
+## Add a new page to the document
 
 Add a new page to the document using the `Pages` collection of the `Document` class.
 
@@ -35,7 +33,7 @@ Add a new page to the document using the `Pages` collection of the `Document` cl
 Page page = doc.Pages.Add();
 ```
 
-## Step 4: Set default appearance
+## Set default appearance
 
 Set the default appearance for the free text annotation by creating a new `DefaultAppearance` object and setting its properties such as `TextColor` and `FontSize`.
 
@@ -45,7 +43,7 @@ da.TextColor = System.Drawing.Color.Red;
 da.FontSize = 10;
 ```
 
-## Step 5: Create a free text annotation with callout
+## Create a free text annotation with callout
 
 Create a new free text annotation with callout by using the `FreeTextAnnotation` class. Set the `Intent` property to `FreeTextIntent.FreeTextCallout` to specify that this is a callout annotation. Set the `EndingStyle` property to `LineEnding.OpenArrow` to specify the style of the arrow at the end of the callout. Set the `Callout` property to an array of `Point` objects that represent the points on the page where the callout line should be drawn.
 
@@ -59,7 +57,7 @@ fta.Callout = new Point[]
 };
 ```
 
-## Step 6: Add the free text annotation to the page
+## Add the free text annotation to the page
 
 Add the free text annotation to the page by using the `Annotations` collection of the `Page` class.
 
@@ -67,7 +65,7 @@ Add the free text annotation to the page by using the `Annotations` collection o
 page.Annotations.Add(fta);
 ```
 
-## Step 7: Add text to the annotation
+## Add text to the annotation
 
 Add text to the annotation by setting the `RichText` property to a string of formatted XML. In this example, we're setting the text color to red and the font size to 9.
 

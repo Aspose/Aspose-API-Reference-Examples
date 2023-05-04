@@ -9,11 +9,9 @@ url: /pdf/net/annotations/updatefreetextannotation/
 ---
 In this article, we will provide a step-by-step guide to explain the following C# source code of Update Free Text Annotation feature of Aspose.PDF for .NET. We will go through each line of code and explain what it does, so even beginners can understand it.
 
-## Step-by-step guide to Update Free Text Annotation using Aspose.PDF for .NET
-
 Now let's explain each line of the code above step by step:
 
-### Step 1: Setting the document directory
+## Step 1: Setting the document directory
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
@@ -21,7 +19,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 In this line, we are setting the path to the directory that contains the PDF document that we want to update.
 
-### Step 2: Opening the PDF document
+## Step 2: Opening the PDF document
 
 ```csharp
 Document doc1 = new Document(dataDir + "input.pdf");
@@ -29,7 +27,7 @@ Document doc1 = new Document(dataDir + "input.pdf");
 
 Here we are opening the PDF document using Aspose.PDF's `Document` class and specifying the path to the input PDF file.
 
-### Step 3: Updating the font size and color of the free text annotation
+## Step 3: Updating the font size and color of the free text annotation
 
 ```csharp
 (doc1.Pages[1].Annotations[0] as FreeTextAnnotation).TextStyle.FontSize = 18;
@@ -38,7 +36,7 @@ Here we are opening the PDF document using Aspose.PDF's `Document` class and spe
 
 In this step, we are updating the font size and color of the first free text annotation on the second page of the PDF document. We are doing this by accessing the `TextStyle` property of the `FreeTextAnnotation` object and setting its `FontSize` and `Color` properties to 18 and Green, respectively.
 
-### Step 4: Handling Exceptions
+## Step 4: Handling Exceptions
 
 ```csharp
 catch (Exception ex)

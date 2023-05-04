@@ -23,6 +23,6 @@ description: "Programming with Annotations includes API Examples and code-snippe
 | [lnk Annotation Line Width](./lnkannotationlinewidth/) | This article provides a step-by-step guide for setting the line width of the lnk Annotation using Aspose.PDF for .NET. |  
 | [Redact Page](./redactpage/) | This article explains how to redact a PDF page using Aspose.PDF for .NET, including step-by-step instructions and example source code. |  
 | [Set Callout Property](./setcalloutproperty/) | Learn how to set Callout Property using Aspose.PDF for .NET. Customize annotations with callout lines, text color, and ending styles. |  
-| [Set Free Text Annotation Formatting](./setfreetextannotationformatting/) | This article provides a step-by-step guide on how to create a free text annotation and specify its contents using Aspose.PDF for .NET |  
-| [Strike Out Words](./strikeoutwords/) | This article provides a step-by-step guide to using Aspose.PDF for .NET's Strike Out Words feature, including step by step guide and explanations |  
+| [Set Free Text Annotation Formatting](./setfreetextannotationformatting/) | This article provides a step-by-step guide on how to create a free text annotation and specify its contents using Aspose.PDF for .NET. |  
+| [Strike Out Words](./strikeoutwords/) | This article provides a step-by-step guide to using Aspose.PDF for .NET's Strike Out Words feature, including step by step guide and explanations. |  
 | [Update Free Text Annotation](./updatefreetextannotation/) | Learn how to update free text annotation feature of Aspose.PDF for .NET using C# source code. |  

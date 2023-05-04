@@ -13,7 +13,7 @@ Follow the below steps for Delete All Annotations From Page Using Aspose.PDF for
 
 ## Step 1: Install Aspose.PDF for .NET
 
-To use Aspose.PDF for .NET, you need to install the library first. You can download the library from the Aspose website and install it on your computer. After installation, you need to add a reference to the library in your project.
+To use Aspose.PDF for .NET, you need to install the library first. You can [download](https://releases.aspose.com/pdf/net/) the library from the Aspose releases and install it on your computer. After installation, you need to add a reference to the library in your project.
 
 ## Step 2: Create a New Console Application
 

@@ -13,11 +13,11 @@ description: "Programming with Annotations includes API Examples and code-snippe
 | [Add Annotation](./addannotation/) | Learn how to add text annotations with Aspose.PDF for .NET using this C# source code. Customize your annotations with specific details and icons. |  
 | [Addlnk Annotation](./addlnkannotation/) | Learn how to add Ink Annotation feature to PDF documents in C# using Aspose.PDF for .NET with step-by-step guide and full source code. |  
 | [Add Swf File As Annotation](./addswffileasannotation/) | Learn how to add SWF files as annotations in Aspose.PDF for .NET with this step-by-step guide. |  
-| [Delete All Annotations From Page](./deleteallannotationsfrompage/) | The example shows how to delete all annotations from page with Aspose.PDF for .NET |  
-| [Delete Particular Annotation](./deleteparticularannotation/) | The example shows how to delete particular annotation with Aspose.PDF for .NET |  
-| [Extract Highlighted Text](./extracthighlightedtext/) | The example shows how to extract highlighted text with Aspose.PDF for .NET |  
-| [Get All Annotations From Page](./getallannotationsfrompage/) | The example shows how to get all annotations from page with Aspose.PDF for .NET |  
-| [Get Particular Annotation](./getparticularannotation/) | The example shows how to get particular annotation with Aspose.PDF for .NET |  
+| [Delete All Annotations From Page](./deleteallannotationsfrompage/) | Learn how to delete all annotations from a PDF page with Aspose.PDF for .NET using this step-by-step guide. |  
+| [Delete Particular Annotation](./deleteparticularannotation/) | Learn how to delete a particular annotation from a PDF document using Aspose.PDF for .NET with this step-by-step guide. |  
+| [Extract Highlighted Text](./extracthighlightedtext/) | Learn how to extract highlighted text using Aspose.PDF for .NET with this step-by-step guide. |  
+| [Get All Annotations From Page](./getallannotationsfrompage/) | Learn how to use Aspose.PDF for .NET to retrieve all annotations from a PDF page with this step-by-step guide. |  
+| [Get Particular Annotation](./getparticularannotation/) | Learn how to use Aspose.PDF for .NET to get particular annotation in a PDF document with this step-by-step guide.  |  
 | [Get Resource Of Annotation](./getresourceofannotation/) | The example shows how to get resource of annotation with Aspose.PDF for .NET |  
 | [Invisible Annotation](./invisibleannotation/) | The example shows how to invisible annotation with Aspose.PDF for .NET |  
 | [lnk Annotation Line Width](./lnkannotationlinewidth/) | The example shows how to lnk annotation line width with Aspose.PDF for .NET |  

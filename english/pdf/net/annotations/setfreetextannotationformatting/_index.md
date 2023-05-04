@@ -2,7 +2,7 @@
 title: Set Free Text Annotation Formatting
 linktitle: Set Free Text Annotation Formatting
 second_title: Aspose.PDF for .NET API Reference
-description: The example shows how to set free text annotation formatting with Aspose.PDF for .NET
+description: This article provides a step-by-step guide on how to create a free text annotation and specify its contents using Aspose.PDF for .NET
 type: docs
 weight: 140
 url: /pdf/net/annotations/setfreetextannotationformatting/
@@ -16,7 +16,7 @@ Aspose.PDF for .NET is a powerful and easy-to-use PDF document manipulation API 
 Before we get started, make sure that you have the following prerequisites:
 
 - Microsoft Visual Studio 2010 or later
-- Aspose.PDF for .NET (you can download the latest version from the official website)
+- Aspose.PDF for .NET
 - Basic knowledge of C#
 
 
@@ -77,7 +77,7 @@ After creating the free text annotation, you can specify the contents of the ann
 // Specify the contents of annotation
 freetext.Contents = "Free Text
 
-
+### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
 ```csharp
 
             

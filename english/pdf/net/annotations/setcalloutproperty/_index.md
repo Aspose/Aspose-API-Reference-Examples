@@ -14,7 +14,7 @@ The example shows how to set callout property with Aspose.PDF for .NET
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             Document doc = new Document();
             Page page = doc.Pages.Add();

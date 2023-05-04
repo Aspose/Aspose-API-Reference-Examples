@@ -12,7 +12,7 @@ description: "Programming with Annotations includes API Examples and code-snippe
 | --- | --- | 
 | [Add Annotation](./addannotation/) | Learn how to add text annotations with Aspose.PDF for .NET using this C# source code. Customize your annotations with specific details and icons. |  
 | [Addlnk Annotation](./addlnkannotation/) | Learn how to add Ink Annotation feature to PDF documents in C# using Aspose.PDF for .NET with step-by-step guide and full source code. |  
-| [Add Swf File As Annotation](./addswffileasannotation/) | The example shows how to add swf file as annotation with Aspose.PDF for .NET |  
+| [Add Swf File As Annotation](./addswffileasannotation/) | Learn how to add SWF files as annotations in Aspose.PDF for .NET with this step-by-step guide. |  
 | [Delete All Annotations From Page](./deleteallannotationsfrompage/) | The example shows how to delete all annotations from page with Aspose.PDF for .NET |  
 | [Delete Particular Annotation](./deleteparticularannotation/) | The example shows how to delete particular annotation with Aspose.PDF for .NET |  
 | [Extract Highlighted Text](./extracthighlightedtext/) | The example shows how to extract highlighted text with Aspose.PDF for .NET |  

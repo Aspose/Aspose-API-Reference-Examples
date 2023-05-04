@@ -14,7 +14,7 @@ The example shows how to lnk annotation line width with Aspose.PDF for .NET
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             Document doc = new Document();
             doc.Pages.Add();
@@ -46,8 +46,7 @@ The example shows how to lnk annotation line width with Aspose.PDF for .NET
             dataDir = dataDir + "lnkAnnotationLineWidth_out.pdf";
             // Save output file
             doc.Save(dataDir);
-            
-            Console.WriteLine("\nlnk annotation line width setup successfully.\nFile saved at " + dataDir);
+
         
 ```
 

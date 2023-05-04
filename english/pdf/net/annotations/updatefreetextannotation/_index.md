@@ -16,7 +16,7 @@ The example shows how to update free text annotation with Aspose.PDF for .NET
             {
                 
                 // The path to the documents directory.
-                string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+                string dataDir = "YOUR DOCUMENT DIRECTORY";
 
                 // Open document
                 Document doc1 = new Document(dataDir + "input.pdf");

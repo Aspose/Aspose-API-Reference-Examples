@@ -14,7 +14,7 @@ The example shows how to invisible annotation with Aspose.PDF for .NET
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             // Open document
             Document doc = new Document(dataDir + "input.pdf");
@@ -28,8 +28,7 @@ The example shows how to invisible annotation with Aspose.PDF for .NET
             dataDir = dataDir + "InvisibleAnnotation_out.pdf";
             // Save output file
             doc.Save(dataDir);
-            
-            Console.WriteLine("\nAnnotation nvisible successfully.\nFile saved at " + dataDir);
+
         
 ```
 

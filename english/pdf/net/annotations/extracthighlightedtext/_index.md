@@ -14,7 +14,7 @@ The example shows how to extract highlighted text with Aspose.PDF for .NET
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir ="YOUR DOCUMENT DIRECTORY";
             Document doc = new Document(dataDir + "ExtractHighlightedText.pdf");
             // Loop through all the annotations
             foreach (Annotation annotation in doc.Pages[1].Annotations)

@@ -14,7 +14,7 @@ The example shows how to delete all annotations from page with Aspose.PDF for .N
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             // Open document
             Document pdfDocument = new Document(dataDir + "DeleteAllAnnotationsFromPage.pdf");
@@ -25,8 +25,6 @@ The example shows how to delete all annotations from page with Aspose.PDF for .N
             dataDir = dataDir + "DeleteAllAnnotationsFromPage_out.pdf";
             // Save updated document
             pdfDocument.Save(dataDir);
-            
-            Console.WriteLine("\nAll annotation from a page deleted successfully.\nFile saved at " + dataDir);
-        
+                    
 ```
 

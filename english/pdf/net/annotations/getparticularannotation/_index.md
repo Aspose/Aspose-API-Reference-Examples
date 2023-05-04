@@ -14,7 +14,7 @@ The example shows how to get particular annotation with Aspose.PDF for .NET
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             // Open document
             Document pdfDocument = new Document(dataDir + "GetParticularAnnotation.pdf");

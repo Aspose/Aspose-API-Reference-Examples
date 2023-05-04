@@ -15,7 +15,7 @@ The example shows how to redact page with Aspose.PDF for .NET
            
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             // Open document
             Document doc = new Document(dataDir + "input.pdf");
@@ -37,8 +37,6 @@ The example shows how to redact page with Aspose.PDF for .NET
             annot.Redact();
             dataDir = dataDir + "RedactPage_out.pdf";
             doc.Save(dataDir);
-            
-            Console.WriteLine("\nCertain page region with RedactionAnnotation redact successfully.\nFile saved at " + dataDir);
 
         
 ```

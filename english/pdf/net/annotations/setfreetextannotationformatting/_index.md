@@ -14,7 +14,7 @@ The example shows how to set free text annotation formatting with Aspose.PDF for
 
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
             
             // Open document
             Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.pdf");
@@ -29,10 +29,7 @@ The example shows how to set free text annotation formatting with Aspose.PDF for
             pdfDocument.Pages[1].Annotations.Add(freetext);
             dataDir = dataDir + "SetFreeTextAnnotationFormatting_out.pdf";
             // Save the updated document
-            pdfDocument.Save(dataDir);
-            
-            Console.WriteLine("\nFree TextAnnotation with specific text formatting added successfully.\nFile saved at " + dataDir);
-            
+            pdfDocument.Save(dataDir);            
         
 ```
 

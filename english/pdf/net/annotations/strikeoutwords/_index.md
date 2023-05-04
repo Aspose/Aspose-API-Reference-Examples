@@ -15,7 +15,7 @@ The example shows how to strike out words with Aspose.PDF for .NET
             
             
             // The path to the documents directory.
-            string dataDir = RunExamples.GetDataDir_AsposePdf_Annotations();
+            string dataDir = "YOUR DOCUMENT DIRECTORY";
 
             // Open document
             Document document = new Document(dataDir + "input.pdf");
@@ -60,8 +60,7 @@ The example shows how to strike out words with Aspose.PDF for .NET
             }
             dataDir = dataDir + "StrikeOutWords_out.pdf";
             document.Save(dataDir);
-            
-            Console.WriteLine("\nWords strikeout successfully.\nFile saved at " + dataDir);
+
 
         
 ```

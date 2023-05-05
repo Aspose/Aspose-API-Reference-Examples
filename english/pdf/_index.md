@@ -3,7 +3,7 @@ title: Aspose.PDF Examples
 additionalTitle: Aspose API References
 description: Examples and code-snippets of Aspose.PDF product family. It includes basic and advance examples of usage of Aspose.PDF.
 type: docs
-weight: 10
+weight: 11
 url: /pdf/
 is_root: true
 ---

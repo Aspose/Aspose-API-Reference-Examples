@@ -13,9 +13,9 @@ description:
 | [Add Java Script To Page](./addjavascripttopage/) | Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for document and page level scripting. |  
 | [Add Layers](./addlayers/) | Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for creating and saving layered PDFs. |  
 | [Add Remove Javascript To Doc](./addremovejavascripttodoc/) | Learn how to add and remove JavaScript from PDF documents using Aspose.PDF for .NET. Step-by-step guide with code examples for document-level scripting. |  
-| [Add TOC](./addtoc/) |  |  
-| [Allow Resuse Page Content](./allowresusepagecontent/) |  |  
-| [Convert From RGBTo Grayscale](./convertfromrgbtograyscale/) |  |  
+| [Add TOC](./addtoc/) | Learn how to add a table of contents to PDF documents using Aspose.PDF for .NET. Step-by-step guide with example source code. Boost document navigation! |  
+| [Allow Resuse Page Content](./allowresusepagecontent/) | Learn how to optimize PDFs by enabling "Allow Resuse Page Content" feature using Aspose.PDF for .NET. Reduce file size and improve performance. |  
+| [Convert From RGBTo Grayscale](./convertfromrgbtograyscale/) | Learn how to convert PDFs from RGB to Grayscale using Aspose.PDF for .NET. Enhance printing quality and reduce file size. |  
 | [Create Multilayer PDFFirst Approach](./createmultilayerpdffirstapproach/) |  |  
 | [Create Multilayer PDFSecond Approach](./createmultilayerpdfsecondapproach/) |  |  
 | [Create PDFA1With Aspose Pdf](./createpdfa1withasposepdf/) |  |  

@@ -16,12 +16,12 @@ description:
 | [Add TOC](./addtoc/) | Learn how to add a table of contents to PDF documents using Aspose.PDF for .NET. Step-by-step guide with example source code. Boost document navigation! |  
 | [Allow Resuse Page Content](./allowresusepagecontent/) | Learn how to optimize PDFs by enabling "Allow Resuse Page Content" feature using Aspose.PDF for .NET. Reduce file size and improve performance. |  
 | [Convert From RGBTo Grayscale](./convertfromrgbtograyscale/) | Learn how to convert PDFs from RGB to Grayscale using Aspose.PDF for .NET. Enhance printing quality and reduce file size. |  
-| [Create Multilayer PDFFirst Approach](./createmultilayerpdffirstapproach/) |  |  
-| [Create Multilayer PDFSecond Approach](./createmultilayerpdfsecondapproach/) |  |  
-| [Create PDFA1With Aspose Pdf](./createpdfa1withasposepdf/) |  |  
-| [Customize Page Numbes While Adding TOC](./customizepagenumbeswhileaddingtoc/) |  |  
-| [Determine Progress](./determineprogress/) |  |  
-| [Embed Font](./embedfont-/) |  |  
+| [Create Multilayer PDF First Approach](./createmultilayerpdffirstapproach/) | Learn how to create multilayer PDF documents using the First Approach with Aspose.PDF for .NET. Add text, images, and more to enhance your PDFs. |  
+| [Create Multilayer PDF Second Approach](./createmultilayerpdfsecondapproach/) | Learn how to create a multilayer PDF using Aspose.PDF for .NET. Step-by-step guide with source code for creating dynamic PDFs with text and images. |  
+| [Create PDF A1 With Aspose Pdf](./createpdfa1withasposepdf/) | Learn how to create a PDF A1 document using Aspose.PDF for .NET. Step-by-step guide with C# source code. Efficiently optimize PDFs. |  
+| [Customize Page Numbes While Adding TOC](./customizepagenumbeswhileaddingtoc/) | Learn how to customize page numbers while adding a table of contents (TOC) using Aspose.PDF for .NET with this step-by-step guide and code example. |  
+| [Determine Progress](./determineprogress/) | Learn how to determine the progress of a PDF document's conversion process using Aspose.PDF for .NET with this step-by-step guide and code example. |  
+| [Embed Font](./embedfont/) | Learn how to embed fonts in a PDF file using Aspose.PDF for .NET with this step-by-step guide. Ensure your documents are displayed correctly on any device. |  
 | [Embed Fonts Using Subset Strategy](./embedfontsusingsubsetstrategy/) |  |  
 | [Embed Font While Doc Creation](./embedfontwhiledoccreation/) |  |  
 | [Flatten Annotation](./flattenannotation/) |  |  

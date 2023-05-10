@@ -30,16 +30,16 @@ description:
 | [Get File Info](./getfileinfo/) |  |  
 | [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) |  |  
 | [Get XMPMetadata](./getxmpmetadata/) |  |  
-| [Get Zoom Factor](./getzoomfactor/) |  |  
-| [Hide Page Numbers In TOC](./hidepagenumbersintoc/) |  |  
-| [Link Duplicate Streams](./linkduplicatestreams/) |  |  
-| [Optimize Document](./optimizedocument/) |  |  
-| [Optimize File Size](./optimizefilesize/) |  |  
-| [Remove Unused Objects](./removeunusedobjects/) |  |  
-| [Remove Unused Streams](./removeunusedstreams/) |  |  
-| [Set Default Font](./setdefaultfont/) |  |  
+| [Get Zoom Factor](./getzoomfactor/) | Learn how to use Aspose.PDF for .NET to get the zoom factor of a PDF file with this step-by-step guide. |  
+| [Hide Page Numbers In TOC](./hidepagenumbersintoc/) | Learn how to hide page numbers in a table of contents using Aspose.PDF for .NET with this step-by-step guide. |  
+| [Link Duplicate Streams](./linkduplicatestreams/) | Learn how to use Aspose.PDF for .NET Link Duplicate Streams feature to optimize your PDF documents with this step-by-step guide. |  
+| [Optimize Document](./optimizedocument/) | Optimize Document for the web is essential for user experience. Learn how to do it using Aspose.PDF for .NET with this step-by-step guide. |  
+| [Optimize File Size](./optimizefilesize/) | Learn how to optimize file size of your PDF documents with Aspose.PDF for .NET using this step-by-step guide. |  
+| [Remove Unused Objects](./removeunusedobjects/) | Learn how to use Aspose.PDF for .NET to remove unused objects from PDF documents with this step-by-step guide |  
+| [Remove Unused Streams](./removeunusedstreams/) | Learn how to remove unused streams from PDF files using Aspose.PDF for .NET. Our step-by-step guide. |  
+| [Set Default Font](./setdefaultfont/) | Learn how to set the default font for a PDF document using Aspose.PDF for .NET with this step-by-step guide. |  
 | [Set Document Window](./setdocumentwindow/) |  |  
-| [Set Expiry Date](./setexpirydate/) |  |  
+| [Set Expiry Date](./setexpirydate/) | Learn how to set expiry date in PDF documents using Aspose.PDF for .NET with this step-by-step guide. |  
 | [Set File Info](./setfileinfo/) | Learn how to use Aspose.PDF for .NET to set file info in your PDF documents with this step-by-step guide. |  
 | [Set Properties For Print Dialog](./setpropertiesforprintdialog/) | Learn how to set properties for print dialog in Aspose.PDF for .NET using step-by-step guide. |  
 | [Set XMPMetadata](./setxmpmetadata/) | Learn how to set XMPMetadata in PDF files using Aspose.PDF for .NET. Follow this step-by-step guide. |  

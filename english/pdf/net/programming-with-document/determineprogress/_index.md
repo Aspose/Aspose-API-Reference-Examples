@@ -12,7 +12,7 @@ Aspose.PDF for .NET provides a feature that allows you to determine the progress
 
 ## Step 1: Loading the PDF document
 
-The first step is to load the PDF document that you want to convert. For this example, we will use the file "AddTOC.pdf". Replace the path to this file with the path to your own PDF document.
+The first step is to load the PDF document that you want to convert. For this tutorial, we will use the file "AddTOC.pdf". Replace the path to this file with the path to your own PDF document.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
@@ -21,7 +21,7 @@ Document pdfDocument = new Document(dataDir + "AddTOC.pdf");
 
 ## Step 2: Setting up the custom progress handler
 
-Next, we need to set up the custom progress handler that will be called during the conversion process. In this example, we will use the `ConversionProgressEventHandler` delegate provided by Aspose.PDF for .NET.
+Next, we need to set up the custom progress handler that will be called during the conversion process. In this tutorial, we will use the `ConversionProgressEventHandler` delegate provided by Aspose.PDF for .NET.
 
 ```csharp
 DocSaveOptions saveOptions = new DocSaveOptions();

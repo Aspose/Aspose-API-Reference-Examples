@@ -2,12 +2,12 @@
 title: Document Formatting
 linktitle: Document Formatting
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting, apply paragraph style,
+description: Tutorials contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting, apply paragraph style,
 type: docs
 weight: 1490
 url: /words/net/document-formatting/
 ---
-Examples contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting, apply paragraph style, apply borders and shading to paragraph, change asian paragraph spacing and indents, snap to grid and get paragraph style separator
+Tutorials contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting, apply paragraph style, apply borders and shading to paragraph, change asian paragraph spacing and indents, snap to grid and get paragraph style separator
 
 ## Space Between Asian And Latin Text
 

@@ -2,12 +2,12 @@
 title: Programming With Pclsaveoptions
 linktitle: Programming With Pclsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain rasterize transformed elements
+description: Tutorials contain rasterize transformed elements
 type: docs
 weight: 1670
 url: /words/net/programming-with-pclsaveoptions/
 ---
-Examples contain rasterize transformed elements
+Tutorials contain rasterize transformed elements
 
 ## Rasterize Transformed Elements
 

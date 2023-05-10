@@ -2,12 +2,12 @@
 title: Programming With Sdt
 linktitle: Programming With Sdt
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain check box type content control, current state of check box, modify content controls, combo box content control, rich text box content control, 
+description: Tutorials contain check box type content control, current state of check box, modify content controls, combo box content control, rich text box content control, 
 type: docs
 weight: 1400
 url: /words/net/programming-with-sdt/
 ---
-Examples contain check box type content control, current state of check box, modify content controls, combo box content control, rich text box content control, set content control color, clear contents control, bind sd tto custom xml part, set content control style, creating table repeating section mapped to custom xml part, multi section and structured document tag range start xml mapping
+Tutorials contain check box type content control, current state of check box, modify content controls, combo box content control, rich text box content control, set content control color, clear contents control, bind sd tto custom xml part, set content control style, creating table repeating section mapped to custom xml part, multi section and structured document tag range start xml mapping
 
 ## Check Box Type Content Control
 

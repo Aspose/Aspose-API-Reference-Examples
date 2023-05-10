@@ -29,7 +29,7 @@ Document pdfDocument = new Document(dataDir + "DeleteParticularAnnotation.pdf");
 
 ## Step 3: Get the page to delete the particular annotation
 
-Delete the particular annotation by specifying its index and the index of the page it belongs to. In this example, we delete the annotation located at index 1 on the second page of the PDF file.
+Delete the particular annotation by specifying its index and the index of the page it belongs to. In this tutorial, we delete the annotation located at index 1 on the second page of the PDF file.
 
 ```csharp
 pdfDocument.Pages[1].Annotations.Delete(1);

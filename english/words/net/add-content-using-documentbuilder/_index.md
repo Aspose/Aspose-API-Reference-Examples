@@ -2,12 +2,12 @@
 title: Add Content Using Documentbuilder
 linktitle: Add Content Using Documentbuilder
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text i
+description: Tutorials contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text i
 type: docs
 weight: 1460
 url: /words/net/add-content-using-documentbuilder/
 ---
-Examples contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text input form field, insert check box form field, insert combo box form field, insert html, insert hyperlink, insert table of contents, insert inline image, insert floating image, insert paragraph, insert tcfield, cursor position, move to node, move to document start end, move to section, move to headers footers, move to paragraph, move to table cell, move to bookmark end and move to merge field
+Tutorials contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text input form field, insert check box form field, insert combo box form field, insert html, insert hyperlink, insert table of contents, insert inline image, insert floating image, insert paragraph, insert tcfield, cursor position, move to node, move to document start end, move to section, move to headers footers, move to paragraph, move to table cell, move to bookmark end and move to merge field
 
 ## Create New Document
 

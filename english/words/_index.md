@@ -1,7 +1,7 @@
 ---
-title: Aspose.Words Examples
+title: Aspose.Words Tutorials
 additionalTitle: Aspose API References
-description: Examples and code-snippets of Aspose.Words product family. It includes basic and advance examples of usage of Aspose.Words.
+description: Tutorials and code-snippets of Aspose.Words product family. It includes basic and advance tutorials of usage of Aspose.Words.
 type: docs
 weight: 10
 url: /words/
@@ -10,7 +10,7 @@ is_root: true
 
 ## Aspose.Words for .NET
 {{% alert color="primary" %}}
-Aspose.Words for .NET examples and code-snippets for creating, editing, converting, printing, and many more features for Word documents in your application. 
+Aspose.Words for .NET tutorials and code-snippets for creating, editing, converting, printing, and many more features for Word documents in your application. 
 {{% /alert %}}
 
 These are links to some useful resources:

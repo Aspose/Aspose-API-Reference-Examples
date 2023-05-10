@@ -2,12 +2,12 @@
 title: Programming With Digital Signatures
 linktitle: Programming With Digital Signatures
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain sign document, signing encrypted document, creating and signing new signature line, signing existing signature line, set signature provider id,
+description: Tutorials contain sign document, signing encrypted document, creating and signing new signature line, signing existing signature line, set signature provider id,
 type: docs
 weight: 1440
 url: /words/net/programming-with-digital-signatures/
 ---
-Examples contain sign document, signing encrypted document, creating and signing new signature line, signing existing signature line, set signature provider id, create new signature line and set provider id and access and verify signature
+Tutorials contain sign document, signing encrypted document, creating and signing new signature line, signing existing signature line, set signature provider id, create new signature line and set provider id and access and verify signature
 
 ## Sign Document
 

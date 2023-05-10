@@ -2,12 +2,12 @@
 title: Remove Content
 linktitle: Remove Content
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain remove page breaks, remove page breaks, remove section breaks, remove footers, remove toc and remove table of contents
+description: Tutorials contain remove page breaks, remove page breaks, remove section breaks, remove footers, remove toc and remove table of contents
 type: docs
 weight: 1370
 url: /words/net/remove-content/
 ---
-Examples contain remove page breaks, remove page breaks, remove section breaks, remove footers, remove toc and remove table of contents
+Tutorials contain remove page breaks, remove page breaks, remove section breaks, remove footers, remove toc and remove table of contents
 
 ## Remove Page Breaks
 

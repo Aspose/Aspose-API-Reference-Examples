@@ -2,12 +2,12 @@
 title: Programming With Htmlfixedsaveoptions
 linktitle: Programming With Htmlfixedsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain use font from target machine and write all css rules in single file
+description: Tutorials contain use font from target machine and write all css rules in single file
 type: docs
 weight: 1610
 url: /words/net/programming-with-htmlfixedsaveoptions/
 ---
-Examples contain use font from target machine and write all css rules in single file
+Tutorials contain use font from target machine and write all css rules in single file
 
 ## Use Font From Target Machine
 

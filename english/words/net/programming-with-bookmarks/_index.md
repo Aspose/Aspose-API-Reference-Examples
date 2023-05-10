@@ -2,12 +2,12 @@
 title: Programming With Bookmarks
 linktitle: Programming With Bookmarks
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain access bookmarks, update bookmark data, bookmark table columns, copy bookmarked text, append bookmarked text, create bookmark, show hide bookma
+description: Tutorials contain access bookmarks, update bookmark data, bookmark table columns, copy bookmarked text, append bookmarked text, create bookmark, show hide bookma
 type: docs
 weight: 1380
 url: /words/net/programming-with-bookmarks/
 ---
-Examples contain access bookmarks, update bookmark data, bookmark table columns, copy bookmarked text, append bookmarked text, create bookmark, show hide bookmarks, show hide bookmarked content, untangle row bookmarks, untangle and delete row by bookmark
+Tutorials contain access bookmarks, update bookmark data, bookmark table columns, copy bookmarked text, append bookmarked text, create bookmark, show hide bookmarks, show hide bookmarked content, untangle row bookmarks, untangle and delete row by bookmark
 
 ## Access Bookmarks
 

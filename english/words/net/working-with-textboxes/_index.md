@@ -2,13 +2,13 @@
 title: Working with Textboxes
 linktitle: Working with Textboxes
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain create a link, check sequence, and break a link using Aspose.Words for .NET.
+description: Tutorials contain create a link, check sequence, and break a link using Aspose.Words for .NET.
 type: docs
 weight: 1320
 url: /words/net/working-with-textboxes/
 ---
 
-The following examples contain create a link, check sequence, and break a link using Aspose.Words for .NET.
+The following tutorials contain create a link, check sequence, and break a link using Aspose.Words for .NET.
 
 ## Create A Link
 

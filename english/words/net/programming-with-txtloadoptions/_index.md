@@ -2,12 +2,12 @@
 title: Programming With Txtloadoptions
 linktitle: Programming With Txtloadoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain detect numbering with whitespaces, handle spaces options and document text direction
+description: Tutorials contain detect numbering with whitespaces, handle spaces options and document text direction
 type: docs
 weight: 1640
 url: /words/net/programming-with-txtloadoptions/
 ---
-Examples contain detect numbering with whitespaces, handle spaces options and document text direction
+Tutorials contain detect numbering with whitespaces, handle spaces options and document text direction
 
 ## Detect Numbering With Whitespaces
 

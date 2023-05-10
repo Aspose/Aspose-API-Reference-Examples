@@ -2,12 +2,12 @@
 title: Programming With Fileformat
 linktitle: Programming With Fileformat
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain detect file format, detect document signatures and verify encrypted document
+description: Tutorials contain detect file format, detect document signatures and verify encrypted document
 type: docs
 weight: 1610
 url: /words/net/programming-with-fileformat/
 ---
-Examples contain detect file format, detect document signatures and verify encrypted document
+Tutorials contain detect file format, detect document signatures and verify encrypted document
 
 ## Detect File Format
 

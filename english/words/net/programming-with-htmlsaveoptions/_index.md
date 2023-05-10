@@ -2,12 +2,12 @@
 title: Programming With Htmlsaveoptions
 linktitle: Programming With Htmlsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain export roundtrip information, export fonts as base 64, export resources, convert metafiles to emf or wmf, convert metafiles to svg, add css cla
+description: Tutorials contain export roundtrip information, export fonts as base 64, export resources, convert metafiles to emf or wmf, convert metafiles to svg, add css cla
 type: docs
 weight: 1620
 url: /words/net/programming-with-htmlsaveoptions/
 ---
-Examples contain export roundtrip information, export fonts as base 64, export resources, convert metafiles to emf or wmf, convert metafiles to svg, add css class name prefix, export cid urls for mhtml resources, resolve font names and export text input form field as text
+Tutorials contain export roundtrip information, export fonts as base 64, export resources, convert metafiles to emf or wmf, convert metafiles to svg, add css class name prefix, export cid urls for mhtml resources, resolve font names and export text input form field as text
 
 ## Export Roundtrip Information
 

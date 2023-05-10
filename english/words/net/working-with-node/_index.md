@@ -2,13 +2,13 @@
 title: Working with Node
 linktitle: Working with Node
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain how to use node type, get parent node, owner document, recursive all nodes, traverse all nodes, enumerate child nodes, and create paragraph nodes in Word Document using Aspose.Words for .NET.
+description: Tutorials contain how to use node type, get parent node, owner document, recursive all nodes, traverse all nodes, enumerate child nodes, and create paragraph nodes in Word Document using Aspose.Words for .NET.
 type: docs
 weight: 1000
 url: /words/net/working-with-node/
 ---
 
-The following examples contain how to use node type, get parent node, owner document, recursive all nodes, traverse all nodes, enumerate child nodes, and create paragraph nodes in Word Document using Aspose.Words for .NET.
+The following tutorials contain how to use node type, get parent node, owner document, recursive all nodes, traverse all nodes, enumerate child nodes, and create paragraph nodes in Word Document using Aspose.Words for .NET.
 ## Use Node Type
 
 ```csharp

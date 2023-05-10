@@ -2,12 +2,12 @@
 title: Programming With Pdfsaveoptions
 linktitle: Programming With Pdfsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain display doc title in window titlebar, pdf render warnings, digitally signed pdf using certificate holder, embedded all fonts, embedded subset f
+description: Tutorials contain display doc title in window titlebar, pdf render warnings, digitally signed pdf using certificate holder, embedded all fonts, embedded subset f
 type: docs
 weight: 1680
 url: /words/net/programming-with-pdfsaveoptions/
 ---
-Examples contain display doc title in window titlebar, pdf render warnings, digitally signed pdf using certificate holder, embedded all fonts, embedded subset fonts, disable embed windows fonts, skip embedded arial and times roman fonts, avoid embedding core fonts, escape uri, export header footer bookmarks, scale wmf fonts to metafile size, additional text positioning, conversion to pdf 17, downsampling images, set outline options, custom properties export, export document structure, image compression, update last printed property, dml 3deffects rendering and interpolate images
+Tutorials contain display doc title in window titlebar, pdf render warnings, digitally signed pdf using certificate holder, embedded all fonts, embedded subset fonts, disable embed windows fonts, skip embedded arial and times roman fonts, avoid embedding core fonts, escape uri, export header footer bookmarks, scale wmf fonts to metafile size, additional text positioning, conversion to pdf 17, downsampling images, set outline options, custom properties export, export document structure, image compression, update last printed property, dml 3deffects rendering and interpolate images
 
 ## Display Doc Title In Window Titlebar
 

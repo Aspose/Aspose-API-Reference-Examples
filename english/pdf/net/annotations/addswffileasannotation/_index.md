@@ -33,7 +33,7 @@ This code will load the "AddSwfFileAsAnnotation.pdf" file from the document dire
 
 ## Step 3: Get the page to add annotation
 
-Now, we need to get the reference of the page to which we want to add the annotation. In this example, we'll add the annotation to the first page of the document.
+Now, we need to get the reference of the page to which we want to add the annotation. In this tutorial, we'll add the annotation to the first page of the document.
 
 ```csharp
 Page page = doc.Pages[1];

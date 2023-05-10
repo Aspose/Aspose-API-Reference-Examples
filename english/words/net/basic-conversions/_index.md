@@ -2,12 +2,12 @@
 title: Basic Conversions
 linktitle: Basic Conversions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain doc to docx, docx to rtf, docx to pdf, docx to byte, docx to epub, docx to mhtml and sending email, docx to markdown, docx to txt, txt to docx,
+description: Tutorials contain doc to docx, docx to rtf, docx to pdf, docx to byte, docx to epub, docx to mhtml and sending email, docx to markdown, docx to txt, txt to docx,
 type: docs
 weight: 1600
 url: /words/net/basic-conversions/
 ---
-Examples contain doc to docx, docx to rtf, docx to pdf, docx to byte, docx to epub, docx to mhtml and sending email, docx to markdown, docx to txt, txt to docx, pdf to jpeg and pdf to docx
+Tutorials contain doc to docx, docx to rtf, docx to pdf, docx to byte, docx to epub, docx to mhtml and sending email, docx to markdown, docx to txt, txt to docx, pdf to jpeg and pdf to docx
 
 ## Doc To Docx
 

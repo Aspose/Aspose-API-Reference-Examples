@@ -7,12 +7,12 @@ url: /pdf/net/programming-with-document/
 description: 
 ---
 
-## Examples
+## Tutorials
 | Title | Description |
 | --- | --- | 
-| [Add Java Script To Page](./addjavascripttopage/) | Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for document and page level scripting. |  
-| [Add Layers](./addlayers/) | Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for creating and saving layered PDFs. |  
-| [Add Remove Javascript To Doc](./addremovejavascripttodoc/) | Learn how to add and remove JavaScript from PDF documents using Aspose.PDF for .NET. Step-by-step guide with code examples for document-level scripting. |  
+| [Add Java Script To Page](./addjavascripttopage/) | Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for document and page level scripting. |  
+| [Add Layers](./addlayers/) | Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for creating and saving layered PDFs. |  
+| [Add Remove Javascript To Doc](./addremovejavascripttodoc/) | Learn how to add and remove JavaScript from PDF documents using Aspose.PDF for .NET. Step-by-step guide with code tutorials for document-level scripting. |  
 | [Add TOC](./addtoc/) | Learn how to add a table of contents to PDF documents using Aspose.PDF for .NET. Step-by-step guide with example source code. Boost document navigation! |  
 | [Allow Resuse Page Content](./allowresusepagecontent/) | Learn how to optimize PDFs by enabling "Allow Resuse Page Content" feature using Aspose.PDF for .NET. Reduce file size and improve performance. |  
 | [Convert From RGBTo Grayscale](./convertfromrgbtograyscale/) | Learn how to convert PDFs from RGB to Grayscale using Aspose.PDF for .NET. Enhance printing quality and reduce file size. |  
@@ -22,7 +22,7 @@ description:
 | [Customize Page Numbes While Adding TOC](./customizepagenumbeswhileaddingtoc/) | Learn how to customize page numbers while adding a table of contents (TOC) using Aspose.PDF for .NET with this step-by-step guide and code example. |  
 | [Determine Progress](./determineprogress/) | Learn how to determine the progress of a PDF document's conversion process using Aspose.PDF for .NET with this step-by-step guide and code example. |  
 | [Embed Font](./embedfont/) | Learn how to embed fonts in a PDF file using Aspose.PDF for .NET with this step-by-step guide. Ensure your documents are displayed correctly on any device. |  
-| [Embed Fonts Using Subset Strategy](./embedfontsusingsubsetstrategy/) |  |  
+| [Embed Fonts Using Subset Strategy](./embedfontsusingsubsetstrategy/) | Learn how to embed fonts in a PDF file with Subset Strategy using Aspose.PDF for .NET. Optimize your PDF size by embedding only necessary characters. |  
 | [Embed Font While Doc Creation](./embedfontwhiledoccreation/) |  |  
 | [Flatten Annotation](./flattenannotation/) |  |  
 | [Get All Fonts](./getallfonts/) |  |  

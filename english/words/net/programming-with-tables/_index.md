@@ -2,12 +2,12 @@
 title: Programming With Tables
 linktitle: Programming With Tables
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain auto fit table to contents, auto fit table to fixed column widths, auto fit table to page width, build table from data table, import table from
+description: Tutorials contain auto fit table to contents, auto fit table to fixed column widths, auto fit table to page width, build table from data table, import table from
 type: docs
 weight: 1590
 url: /words/net/programming-with-tables/
 ---
-Examples contain auto fit table to contents, auto fit table to fixed column widths, auto fit table to page width, build table from data table, import table from data table, clone complete table, clone last row, finding index, insert table directly, insert table from html, create simple table, formatted table, nested table, combine rows, split table, row format disable break across pages, keep table together, check cells merged, print cell merge type, vertical merge, horizontal merge, merge cell range, convert to horizontally merged cells, merge cells, repeat rows on subsequent pages, auto fit to page width, preferred width settings, retrieve preferred width type, get table position, get floating table position, floating table position and set relative horizontal or vertical position
+Tutorials contain auto fit table to contents, auto fit table to fixed column widths, auto fit table to page width, build table from data table, import table from data table, clone complete table, clone last row, finding index, insert table directly, insert table from html, create simple table, formatted table, nested table, combine rows, split table, row format disable break across pages, keep table together, check cells merged, print cell merge type, vertical merge, horizontal merge, merge cell range, convert to horizontally merged cells, merge cells, repeat rows on subsequent pages, auto fit to page width, preferred width settings, retrieve preferred width type, get table position, get floating table position, floating table position and set relative horizontal or vertical position
 
 ## Auto Fit Table To Contents
 

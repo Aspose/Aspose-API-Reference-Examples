@@ -2,13 +2,13 @@
 title: Working with Revisions
 linktitle: Working with Revisions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contains how to accept revisions, get revision types,  get revision groups,  remove comments in PDF,  show revisions in balloons, get revision group details, access revised version, move node in tracked document, and shape revision using Aspose.Words for .NET.
+description: Tutorials contains how to accept revisions, get revision types,  get revision groups,  remove comments in PDF,  show revisions in balloons, get revision group details, access revised version, move node in tracked document, and shape revision using Aspose.Words for .NET.
 type: docs
 weight: 1130
 url: /words/net/working-with-revisions/
 ---
 
-The following examples contains how to accept revisions, get revision types,  get revision groups,  remove comments in PDF,  show revisions in balloons, get revision group details, access revised version, move node in tracked document, and shape revision using Aspose.Words for .NET.
+The following tutorials contains how to accept revisions, get revision types,  get revision groups,  remove comments in PDF,  show revisions in balloons, get revision group details, access revised version, move node in tracked document, and shape revision using Aspose.Words for .NET.
 
 
 ## Accept Revisions

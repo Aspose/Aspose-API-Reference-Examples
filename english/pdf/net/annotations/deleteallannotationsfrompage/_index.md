@@ -17,7 +17,7 @@ To use Aspose.PDF for .NET, you need to install the library first. You can [down
 
 ## Step 2: Create a New Console Application
 
-Create a new console application in Visual Studio and add a reference to the Aspose.PDF library. In this example, we will use C# language.
+Create a new console application in Visual Studio and add a reference to the Aspose.PDF library. In this tutorial, we will use C# language.
 
 ## Step 3: Load the PDF Document
 

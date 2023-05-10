@@ -2,13 +2,13 @@
 title: Working with Hyphenation
 linktitle: Working with Hyphenation
 second_title: Aspose.Words for .NET API Reference
-description: Examples contains hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET.
+description: Tutorials contains hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET.
 type: docs
 weight: 750
 url: /words/net/working-with-hyphenation/
 ---
 
-The following examples contains hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET.
+The following tutorials contains hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET.
 
 ## Hyphenate Words Of Languages
 

@@ -2,12 +2,12 @@
 title: Programming With Ranges
 linktitle: Programming With Ranges
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain ranges delete text and ranges get text
+description: Tutorials contain ranges delete text and ranges get text
 type: docs
 weight: 1390
 url: /words/net/programming-with-ranges/
 ---
-Examples contain ranges delete text and ranges get text
+Tutorials contain ranges delete text and ranges get text
 
 ## Ranges Delete Text
 

@@ -2,12 +2,12 @@
 title: Programming With Docsaveoptions
 linktitle: Programming With Docsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain encrypt document with password, do not compress small metafiles and do not save picture bullet
+description: Tutorials contain encrypt document with password, do not compress small metafiles and do not save picture bullet
 type: docs
 weight: 1600
 url: /words/net/programming-with-docsaveoptions/
 ---
-Examples contain encrypt document with password, do not compress small metafiles and do not save picture bullet
+Tutorials contain encrypt document with password, do not compress small metafiles and do not save picture bullet
 
 ## Encrypt Document With Password
 

@@ -2,7 +2,7 @@
 title: Add Remove Javascript To Doc
 linktitle: Add Remove Javascript To Doc
 second_title: Aspose.PDF for .NET API Reference
-description: Learn how to add and remove JavaScript from PDF documents using Aspose.PDF for .NET. Step-by-step guide with code examples for document-level scripting.
+description: Learn how to add and remove JavaScript from PDF documents using Aspose.PDF for .NET. Step-by-step guide with code tutorials for document-level scripting.
 type: docs
 weight: 30
 url: /pdf/net/programming-with-document/addremovejavascripttodoc/
@@ -32,7 +32,7 @@ doc.JavaScript["func2"] = "function func2() { hello(); }";
 doc.Save(dataDir + "AddJavascript.pdf");
 ```
 
-In this example, we have added two JavaScript functions, `func1` and `func2`, to the PDF document.
+In this tutorial, we have added two JavaScript functions, `func1` and `func2`, to the PDF document.
 
 ## Step 3: Remove Document Level JavaScript
 
@@ -51,7 +51,7 @@ doc1.JavaScript.Remove("func1");
 Console.WriteLine("Key 'func1' removed");
 ```
 
-In this example, we remove the `func1` JavaScript function from the PDF document.
+In this tutorial, we remove the `func1` JavaScript function from the PDF document.
 
 ## Step 4: Save and Verify Changes
 
@@ -96,4 +96,4 @@ This code will save the modified PDF document and display the success message.
 
 ## Conclusion
 
-In this article, we have provided a step-by-step guide to adding and removing JavaScript from PDF documents using Aspose.PDF for .NET. By following the instructions and utilizing the provided code examples, you can easily incorporate JavaScript into your PDF documents and remove it when needed. JavaScript enables dynamic functionality and interactivity in your PDF files, enhancing the user experience.
+In this article, we have provided a step-by-step guide to adding and removing JavaScript from PDF documents using Aspose.PDF for .NET. By following the instructions and utilizing the provided code tutorials, you can easily incorporate JavaScript into your PDF documents and remove it when needed. JavaScript enables dynamic functionality and interactivity in your PDF files, enhancing the user experience.

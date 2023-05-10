@@ -2,12 +2,12 @@
 title: Working with Footnote and Endnote
 linktitle: Working with Footnote and Endnote
 second_title: Aspose.Words for .NET API Reference
-description: Examples explain how to set Foot note and end note in Word Document using Aspose.Words for .NET
+description: Tutorials explain how to set Foot note and end note in Word Document using Aspose.Words for .NET
 type: docs
 weight: 660
 url: /words/net/working-with-footnote-and-endnote/
 ---
-The following examples explain how to set Foot note and end note in Word Document using Aspose.Words for .NET.
+The following tutorials explain how to set Foot note and end note in Word Document using Aspose.Words for .NET.
 
 ## Set Foot Note Columns
 

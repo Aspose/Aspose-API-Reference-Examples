@@ -50,7 +50,7 @@ Replace "SetFreeTextAnnotationFormatting.pdf" with the actual name of your PDF d
 
 ### 5. Set up default appearance
 
-To set up the default appearance of the free text annotation, you need to instantiate the DefaultAppearance object with the desired font, font size, and color. In this example, we are setting the font to "Arial", font size to 28, and color to red.
+To set up the default appearance of the free text annotation, you need to instantiate the DefaultAppearance object with the desired font, font size, and color. In this tutorial, we are setting the font to "Arial", font size to 28, and color to red.
 
 ```csharp
 // Instantiate DefaultAppearance object

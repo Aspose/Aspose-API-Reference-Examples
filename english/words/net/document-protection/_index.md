@@ -2,12 +2,12 @@
 title: Document Protection
 linktitle: Document Protection
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain password protection, allow only form fields protect, remove document protection, unrestricted editable regions, unrestricted section, get prote
+description: Tutorials contain password protection, allow only form fields protect, remove document protection, unrestricted editable regions, unrestricted section, get prote
 type: docs
 weight: 1430
 url: /words/net/document-protection/
 ---
-Examples contain password protection, allow only form fields protect, remove document protection, unrestricted editable regions, unrestricted section, get protection type, read only protection and remove read only restriction
+Tutorials contain password protection, allow only form fields protect, remove document protection, unrestricted editable regions, unrestricted section, get protection type, read only protection and remove read only restriction
 
 ## Password Protection
 

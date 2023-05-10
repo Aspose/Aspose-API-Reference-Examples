@@ -67,7 +67,7 @@ page.Annotations.Add(fta);
 
 ## Add text to the annotation
 
-Add text to the annotation by setting the `RichText` property to a string of formatted XML. In this example, we're setting the text color to red and the font size to 9.
+Add text to the annotation by setting the `RichText` property to a string of formatted XML. In this tutorial, we're setting the text color to red and the font size to 9.
 
 ```csharp
 fta.RichText = "<body xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:xfa=\"http://www.xfa.org/schema/xfa-data/1.0/\" xfa:APIVersion=\"Acrobat:11.0.23\" xfa:spec=\"2.0.2\"  style=\"color:#FF

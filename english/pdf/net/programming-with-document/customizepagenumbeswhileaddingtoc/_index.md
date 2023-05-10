@@ -12,7 +12,7 @@ In this tutoria, we will explore how to customize page numbers while adding a ta
 
 ## Step 1: Loading an existing PDF file
 
-First, we need to load an existing PDF file. For this example, we will use the file "42824.pdf" located in the "YOUR DOCUMENT DIRECTORY" directory. Replace this directory path with the actual path to your document directory.
+First, we need to load an existing PDF file. For this tutorial, we will use the file "42824.pdf" located in the "YOUR DOCUMENT DIRECTORY" directory. Replace this directory path with the actual path to your document directory.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
@@ -31,7 +31,7 @@ Aspose.Pdf.Page tocPage = doc.Pages.Insert(1);
 
 ## Step 3: Creating a TOC object
 
-To create a TOC object, we first need to create a `TocInfo` object and set its properties. In this example, we will set the title of the TOC to "Table Of Contents" and the page number prefix to "P".
+To create a TOC object, we first need to create a `TocInfo` object and set its properties. In this tutorial, we will set the title of the TOC to "Table Of Contents" and the page number prefix to "P".
 
 ```csharp
 TocInfo tocInfo = new TocInfo();

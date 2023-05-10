@@ -48,7 +48,7 @@ In the code above, we set the border color of the annotation to red.
 
 ## Setting the Annotation Flags
 
-After we have created the annotation and set its characteristics, we can specify the annotation flags. In this example, we want the annotation to be printable, but not viewable.
+After we have created the annotation and set its characteristics, we can specify the annotation flags. In this tutorial, we want the annotation to be printable, but not viewable.
 
 ```csharp
 annotation.Flags = AnnotationFlags.Print | AnnotationFlags.NoView;

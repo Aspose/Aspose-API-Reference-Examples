@@ -2,12 +2,12 @@
 title: Apply License
 linktitle: Apply License
 second_title: Aspose.Words for .NET API Reference
-description: Examples of different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license
+description: Tutorials of different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license
 type: docs
 weight: 10
 url: /words/net/apply-license/
 ---
-The following examples are different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license.
+The following tutorials are different variations of applying licensing to Aspose.Words for .NET including apply license from file, stream and metered license.
 
 ## Apply License From File
 

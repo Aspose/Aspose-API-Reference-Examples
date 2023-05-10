@@ -10,7 +10,7 @@ url: /pdf/net/annotations/strikeoutwords/
 Aspose.PDF for .NET is a PDF document manipulation and processing library that provides various features to create, modify, and convert PDF files. One of the useful features that Aspose.PDF provides is the ability to strike out words or phrases in a PDF document using C# source code. In this article, we will provide a step-by-step guide on how to strike out words using Aspose.PDF for .NET.
 
 ## Loading the PDF document
-The first step is to load the PDF document that you want to modify. In this example, we will load a PDF document named "input.pdf" from the "YOUR DOCUMENT DIRECTORY" folder. 
+The first step is to load the PDF document that you want to modify. In this tutorial, we will load a PDF document named "input.pdf" from the "YOUR DOCUMENT DIRECTORY" folder. 
 
 ```
 string dataDir = "YOUR DOCUMENT DIRECTORY";

@@ -2,12 +2,12 @@
 title: Programming With Document Properties
 linktitle: Programming With Document Properties
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain get variables, enumerate properties, add custom document properties, remove custom document properties, remove personal information, configurin
+description: Tutorials contain get variables, enumerate properties, add custom document properties, remove custom document properties, remove personal information, configurin
 type: docs
 weight: 1520
 url: /words/net/programming-with-document-properties/
 ---
-Examples contain get variables, enumerate properties, add custom document properties, remove custom document properties, remove personal information, configuring link to content, convert between measurement units and use control characters
+Tutorials contain get variables, enumerate properties, add custom document properties, remove custom document properties, remove personal information, configuring link to content, convert between measurement units and use control characters
 
 ## Get Variables
 

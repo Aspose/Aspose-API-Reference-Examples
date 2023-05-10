@@ -2,12 +2,12 @@
 title: Programming With Styles And Themes
 linktitle: Programming With Styles And Themes
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain access styles, copy styles, get theme properties, set theme properties and insert style separator
+description: Tutorials contain access styles, copy styles, get theme properties, set theme properties and insert style separator
 type: docs
 weight: 1410
 url: /words/net/programming-with-styles-and-themes/
 ---
-Examples contain access styles, copy styles, get theme properties, set theme properties and insert style separator
+Tutorials contain access styles, copy styles, get theme properties, set theme properties and insert style separator
 
 ## Access Styles
 

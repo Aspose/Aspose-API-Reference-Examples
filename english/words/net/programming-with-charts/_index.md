@@ -2,12 +2,12 @@
 title: Programming With Charts
 linktitle: Programming With Charts
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain format number of data label, create chart using shape, insert simple column chart, insert column chart, insert area chart, insert bubble chart,
+description: Tutorials contain format number of data label, create chart using shape, insert simple column chart, insert column chart, insert area chart, insert bubble chart,
 type: docs
 weight: 1540
 url: /words/net/programming-with-charts/
 ---
-Examples contain format number of data label, create chart using shape, insert simple column chart, insert column chart, insert area chart, insert bubble chart, insert scatter chart, define xyaxis properties, date time values to axis, number format for axis, bounds of axis, interval unit between labels on axis, hide chart axis, tick multi line label alignment, chart data label, default options for data labels, single chart data point and single chart series
+Tutorials contain format number of data label, create chart using shape, insert simple column chart, insert column chart, insert area chart, insert bubble chart, insert scatter chart, define xyaxis properties, date time values to axis, number format for axis, bounds of axis, interval unit between labels on axis, hide chart axis, tick multi line label alignment, chart data label, default options for data labels, single chart data point and single chart series
 
 ## Format Number Of Data Label
 
@@ -90,7 +90,7 @@ Examples contain format number of data label, create chart using shape, insert s
             // Delete default generated series.
             seriesColl.Clear();
 
-            // Create category names array, in this example we have two categories.
+            // Create category names array, in this tutorial we have two categories.
             string[] categories = new string[] { "Category 1", "Category 2" };
 
             // Please note, data arrays must not be empty and arrays must be the same size.

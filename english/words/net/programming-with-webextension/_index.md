@@ -2,12 +2,12 @@
 title: Programming With Webextension
 linktitle: Programming With Webextension
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain  and using web extension task panes
+description: Tutorials contain  and using web extension task panes
 type: docs
 weight: 1530
 url: /words/net/programming-with-webextension/
 ---
-Examples contain  and using web extension task panes
+Tutorials contain  and using web extension task panes
 
 ## Using Web Extension Task Panes
 

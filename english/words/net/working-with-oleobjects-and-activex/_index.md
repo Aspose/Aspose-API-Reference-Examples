@@ -2,13 +2,13 @@
 title: Working with OleObjects and ActiveX
 linktitle: Working with OleObjects and ActiveX
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain how to insert Ole Object with and without Ole Package, Ole Object as Icon, and read Active XControl Properties using Aspose.Words for .NET.
+description: Tutorials contain how to insert Ole Object with and without Ole Package, Ole Object as Icon, and read Active XControl Properties using Aspose.Words for .NET.
 type: docs
 weight: 1080
 url: /words/net/working-with-oleobjects-and-activex/
 ---
 
-The following examples contain how to insert Ole Object with and without Ole Package, Ole Object as Icon, and read Active XControl Properties using Aspose.Words for .NET.
+The following tutorials contain how to insert Ole Object with and without Ole Package, Ole Object as Icon, and read Active XControl Properties using Aspose.Words for .NET.
 ## Insert Ole Object
 
 ```csharp

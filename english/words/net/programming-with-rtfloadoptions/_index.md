@@ -2,12 +2,12 @@
 title: Programming With Rtfloadoptions
 linktitle: Programming With Rtfloadoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain recognize utf 8text
+description: Tutorials contain recognize utf 8text
 type: docs
 weight: 1630
 url: /words/net/programming-with-rtfloadoptions/
 ---
-Examples contain recognize utf 8text
+Tutorials contain recognize utf 8text
 
 ## Recognize Utf 8Text
 

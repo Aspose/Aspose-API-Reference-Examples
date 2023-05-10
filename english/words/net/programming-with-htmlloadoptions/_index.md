@@ -2,12 +2,12 @@
 title: Programming With Htmlloadoptions
 linktitle: Programming With Htmlloadoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain preferred control type
+description: Tutorials contain preferred control type
 type: docs
 weight: 1600
 url: /words/net/programming-with-htmlloadoptions/
 ---
-Examples contain preferred control type
+Tutorials contain preferred control type
 
 ## Preferred Control Type
 

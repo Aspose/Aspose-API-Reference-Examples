@@ -2,12 +2,12 @@
 title: Programming With Markdownsaveoptions
 linktitle: Programming With Markdownsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain export into markdown with table content alignment and set images folder
+description: Tutorials contain export into markdown with table content alignment and set images folder
 type: docs
 weight: 1640
 url: /words/net/programming-with-markdownsaveoptions/
 ---
-Examples contain export into markdown with table content alignment and set images folder
+Tutorials contain export into markdown with table content alignment and set images folder
 
 ## Export Into Markdown With Table Content Alignment
 

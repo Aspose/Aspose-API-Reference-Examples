@@ -2,13 +2,13 @@
 title: Working with VBA Macros
 linktitle: Working with VBA Macros
 second_title: Aspose.Words for .NET API Reference
-description: Examples containg create vba project, read vba macros, modify vba macros, clone vba project, clone vba module, and remove broken ref using Aspose.Words for .NET
+description: Tutorials containg create vba project, read vba macros, modify vba macros, clone vba project, clone vba module, and remove broken ref using Aspose.Words for .NET
 type: docs
 weight: 1350
 url: /words/net/working-with-vba-macros/
 ---
 
-Then following examples containg create vba project, read vba macros, modify vba macros, clone vba project, clone vba module, and remove broken ref using Aspose.Words for .NET.
+Then following tutorials containg create vba project, read vba macros, modify vba macros, clone vba project, clone vba module, and remove broken ref using Aspose.Words for .NET.
 
 ## Create Vba Project
 

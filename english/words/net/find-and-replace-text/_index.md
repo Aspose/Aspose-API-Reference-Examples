@@ -2,12 +2,12 @@
 title: Find And Replace Text
 linktitle: Find And Replace Text
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain simple find replace, meta characters in search pattern, replace text containing meta characters, ignore text inside fields, ignore text inside 
+description: Tutorials contain simple find replace, meta characters in search pattern, replace text containing meta characters, ignore text inside fields, ignore text inside 
 type: docs
 weight: 1360
 url: /words/net/find-and-replace-text/
 ---
-Examples contain simple find replace, meta characters in search pattern, replace text containing meta characters, ignore text inside fields, ignore text inside delete revisions, ignore text inside insert revisions, replace text in footer, replace with regex, recognize and substitutions within replacement patterns, replace with string and replace text in table
+Tutorials contain simple find replace, meta characters in search pattern, replace text containing meta characters, ignore text inside fields, ignore text inside delete revisions, ignore text inside insert revisions, replace text in footer, replace with regex, recognize and substitutions within replacement patterns, replace with string and replace text in table
 
 ## Simple Find Replace
 

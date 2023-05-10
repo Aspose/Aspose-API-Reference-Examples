@@ -2,12 +2,12 @@
 title: Programming With Table Styles And Formatting
 linktitle: Programming With Table Styles And Formatting
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain get distance between table surrounding text, apply outline border, build table with borders, modify row formatting, apply row formatting, set c
+description: Tutorials contain get distance between table surrounding text, apply outline border, build table with borders, modify row formatting, apply row formatting, set c
 type: docs
 weight: 1580
 url: /words/net/programming-with-table-styles-and-formatting/
 ---
-Examples contain get distance between table surrounding text, apply outline border, build table with borders, modify row formatting, apply row formatting, set cell padding, modify cell formatting, format table and cell with different borders, set table title and description, allow cell spacing, build table with style, expand formatting on cells and row from style, create table style, define conditional formatting, set table cell formatting and set table row formatting
+Tutorials contain get distance between table surrounding text, apply outline border, build table with borders, modify row formatting, apply row formatting, set cell padding, modify cell formatting, format table and cell with different borders, set table title and description, allow cell spacing, build table with style, expand formatting on cells and row from style, create table style, define conditional formatting, set table cell formatting and set table row formatting
 
 ## Get Distance Between Table Surrounding Text
 

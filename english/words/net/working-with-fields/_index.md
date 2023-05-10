@@ -2,12 +2,12 @@
 title: Working with Fields
 linktitle: Working with Fields
 second_title: Aspose.Words for .NET API Reference
-description: Examples show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET
+description: Tutorials show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET
 type: docs
 weight: 140
 url: /words/net/working-with-fields/
 ---
-The following examples show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET.
+The following tutorials show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET.
 
 ## Field Code
 

@@ -2,12 +2,12 @@
 title: Compare Documents
 linktitle: Compare Documents
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain compare for equal, compare options, comparison target and comparison granularity
+description: Tutorials contain compare for equal, compare options, comparison target and comparison granularity
 type: docs
 weight: 1480
 url: /words/net/compare-documents/
 ---
-Examples contain compare for equal, compare options, comparison target and comparison granularity
+Tutorials contain compare for equal, compare options, comparison target and comparison granularity
 
 ## Compare For Equal
 

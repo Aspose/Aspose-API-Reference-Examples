@@ -2,12 +2,12 @@
 title: Programming With Pdfloadoptions
 linktitle: Programming With Pdfloadoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain load encrypted pdf and load page range of pdf
+description: Tutorials contain load encrypted pdf and load page range of pdf
 type: docs
 weight: 1620
 url: /words/net/programming-with-pdfloadoptions/
 ---
-Examples contain load encrypted pdf and load page range of pdf
+Tutorials contain load encrypted pdf and load page range of pdf
 
 ## Load Encrypted Pdf
 

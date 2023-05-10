@@ -2,7 +2,7 @@
 title: Add Java Script To Page
 linktitle: Add Java Script To Page
 second_title: Aspose.PDF for .NET API Reference
-description: Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for document and page level scripting.
+description: Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for document and page level scripting.
 type: docs
 weight: 10
 url: /pdf/net/programming-with-document/addjavascripttopage/
@@ -35,7 +35,7 @@ JavascriptAction javaScript = new JavascriptAction("this.print({bUI:true,bSilent
 doc.OpenAction = javaScript;
 ```
 
-In this example, we are adding a JavaScript statement that will print the PDF file with the specified options when the document is opened.
+In this tutorial, we are adding a JavaScript statement that will print the PDF file with the specified options when the document is opened.
 
 ## Step 3: Add JavaScript at Page Level
 
@@ -47,7 +47,7 @@ doc.Pages[2].Actions.OnOpen = new JavascriptAction("app.alert('page 1 opened')")
 doc.Pages[2].Actions.OnClose = new JavascriptAction("app.alert('page 1 closed')");
 ```
 
-In this example, we are adding JavaScript statements that will display an alert message when the page is opened or closed.
+In this tutorial, we are adding JavaScript statements that will display an alert message when the page is opened or closed.
 
 ## Step 4: Save the PDF File
 

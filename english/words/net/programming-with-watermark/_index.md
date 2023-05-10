@@ -2,12 +2,12 @@
 title: Programming With Watermark
 linktitle: Programming With Watermark
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain add text watermark with specific options
+description: Tutorials contain add text watermark with specific options
 type: docs
 weight: 1570
 url: /words/net/programming-with-watermark/
 ---
-Examples contain add text watermark with specific options
+Tutorials contain add text watermark with specific options
 
 ## Add Text Watermark With Specific Options
 

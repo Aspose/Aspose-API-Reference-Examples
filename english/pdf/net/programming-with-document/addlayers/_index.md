@@ -2,7 +2,7 @@
 title: Add Layers
 linktitle: Add Layers
 second_title: Aspose.PDF for .NET API Reference
-description: Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code examples for creating and saving layered PDFs.
+description: Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for creating and saving layered PDFs.
 type: docs
 weight: 20
 url: /pdf/net/programming-with-document/addlayers/
@@ -57,7 +57,7 @@ layer.Contents.Add(new Aspose.Pdf.Operators.Stroke());
 page.Layers.Add(layer);
 ```
 
-In this example, we have added three layers with different colors and names to the page.
+In this tutorial, we have added three layers with different colors and names to the page.
 
 ## Step 4: Save the PDF File
 
@@ -108,4 +108,4 @@ Console.WriteLine("\nLayers added successfully to PDF file.\nFile saved at " + d
 
 ## Conclusion
 
-In this article, we have provided a step-by-step guide to adding layers to PDF files using Aspose.PDF for .NET. By following the instructions and utilizing the provided code examples, you can easily incorporate layers into your PDF documents. Layers allow you to organize and control the visibility of content, providing a more interactive and customizable experience for your users.
+In this article, we have provided a step-by-step guide to adding layers to PDF files using Aspose.PDF for .NET. By following the instructions and utilizing the provided code tutorials, you can easily incorporate layers into your PDF documents. Layers allow you to organize and control the visibility of content, providing a more interactive and customizable experience for your users.

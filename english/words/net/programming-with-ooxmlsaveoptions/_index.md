@@ -2,12 +2,12 @@
 title: Programming With Ooxmlsaveoptions
 linktitle: Programming With Ooxmlsaveoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain encrypt docx with password, ooxml compliance iso 29500_ 2008_ strict, update last saved time property, keep legacy control chars and set compre
+description: Tutorials contain encrypt docx with password, ooxml compliance iso 29500_ 2008_ strict, update last saved time property, keep legacy control chars and set compre
 type: docs
 weight: 1660
 url: /words/net/programming-with-ooxmlsaveoptions/
 ---
-Examples contain encrypt docx with password, ooxml compliance iso 29500_ 2008_ strict, update last saved time property, keep legacy control chars and set compression level
+Tutorials contain encrypt docx with password, ooxml compliance iso 29500_ 2008_ strict, update last saved time property, keep legacy control chars and set compression level
 
 ## Encrypt Docx With Password
 

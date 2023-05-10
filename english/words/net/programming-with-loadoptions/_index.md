@@ -2,12 +2,12 @@
 title: Programming With Loadoptions
 linktitle: Programming With Loadoptions
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain update dirty fields, load encrypted document, convert shape to office math, set ms word version, use temp folder, warning callback, load with e
+description: Tutorials contain update dirty fields, load encrypted document, convert shape to office math, set ms word version, use temp folder, warning callback, load with e
 type: docs
 weight: 1610
 url: /words/net/programming-with-loadoptions/
 ---
-Examples contain update dirty fields, load encrypted document, convert shape to office math, set ms word version, use temp folder, warning callback, load with encoding, skip pdf images, convert metafiles to png and load chm
+Tutorials contain update dirty fields, load encrypted document, convert shape to office math, set ms word version, use temp folder, warning callback, load with encoding, skip pdf images, convert metafiles to png and load chm
 
 ## Update Dirty Fields
 

@@ -2,12 +2,12 @@
 title: Join And Append Documents
 linktitle: Join And Append Documents
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain simple append document, append document, append document to blank, append with import format options, different page setup, join continuous, jo
+description: Tutorials contain simple append document, append document, append document to blank, append with import format options, different page setup, join continuous, jo
 type: docs
 weight: 1500
 url: /words/net/join-and-append-documents/
 ---
-Examples contain simple append document, append document, append document to blank, append with import format options, different page setup, join continuous, join new page, keep source formatting, keep source together, list keep source formatting, list use destination styles, restart page numbering, update page layout, use destination styles, smart style behavior, insert document with builder, keep source numbering, ignore text boxes, ignore header footer, link headers footers, remove source headers footers and unlink headers footers
+Tutorials contain simple append document, append document, append document to blank, append with import format options, different page setup, join continuous, join new page, keep source formatting, keep source together, list keep source formatting, list use destination styles, restart page numbering, update page layout, use destination styles, smart style behavior, insert document with builder, keep source numbering, ignore text boxes, ignore header footer, link headers footers, remove source headers footers and unlink headers footers
 
 ## Simple Append Document
 

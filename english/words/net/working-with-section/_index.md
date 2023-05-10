@@ -2,12 +2,12 @@
 title: Working with Section
 linktitle: Working with Section
 second_title: Aspose.Words for .NET API Reference
-description: Examples contain add section, delete section, delete all sections, append section content, clone section, copy section, delete header footer content, delete section content, modify page setup in all sections and sections access by index using Aspose.Words for .NET.
+description: Tutorials contain add section, delete section, delete all sections, append section content, clone section, copy section, delete header footer content, delete section content, modify page setup in all sections and sections access by index using Aspose.Words for .NET.
 type: docs
 weight: 1220
 url: /words/net/working-with-section/
 ---
-The following examples contain add section, delete section, delete all sections, append section content, clone section, copy section, delete header footer content, delete section content, modify page setup in all sections and sections access by index using Aspose.Words for .NET.
+The following tutorials contain add section, delete section, delete all sections, append section content, clone section, copy section, delete header footer content, delete section content, modify page setup in all sections and sections access by index using Aspose.Words for .NET.
 
 ## Add Section
 

@@ -44,7 +44,7 @@ tocPage.TocInfo = tocInfo;
 
 ## Step 4: Create TOC elements
 
-Now, we will create the elements of the table of contents. In this example, we will create four TOC elements corresponding to different pages. Modify the following code as per your requirements:
+Now, we will create the elements of the table of contents. In this tutorial, we will create four TOC elements corresponding to different pages. Modify the following code as per your requirements:
 
 ```csharp
 string[] titles = new string[4];

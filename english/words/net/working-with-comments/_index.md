@@ -2,13 +2,13 @@
 title: Working with Comments
 linktitle: Working with Comments
 second_title: Aspose.Words for .NET API Reference
-description: Examples show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies in Aspose.Words for .NET
+description: Tutorials show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies in Aspose.Words for .NET
 type: docs
 weight: 50
 url: /words/net/working-with-comments/
 ---
 
-The following examples show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies using [Comment](/words/net/aspose.words/comment/) class in Aspose.Words for .NET.
+The following tutorials show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies using [Comment](/words/net/aspose.words/comment/) class in Aspose.Words for .NET.
 
 ## Add Comments
 To add comments into a Word Document using Aspose.Words for .NET follow these steps.
@@ -50,7 +50,7 @@ To anchor comments into a Word Document using Aspose.Words for .NET follow these
 - The example creates a document with two sections, the first of which has a paragraph and the second of which has a comment.
 - The example then creates two runs, one for the paragraph and one for the comment.
 - Finally, it inserts the comments into their respective positions in the document.
-- When executed, this example will create a document that looks like this: Some text is added is added to the first section.
+- When executed, this tutorial will create a document that looks like this: Some text is added is added to the first section.
 - A Comment text.
 - Save the document.
 ```csharp

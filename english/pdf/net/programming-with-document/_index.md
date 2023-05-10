@@ -23,11 +23,13 @@ description:
 | [Determine Progress](./determineprogress/) | Learn how to determine the progress of a PDF document's conversion process using Aspose.PDF for .NET with this step-by-step guide and code example. |  
 | [Embed Font](./embedfont/) | Learn how to embed fonts in a PDF file using Aspose.PDF for .NET with this step-by-step guide. Ensure your documents are displayed correctly on any device. |  
 | [Embed Fonts Using Subset Strategy](./embedfontsusingsubsetstrategy/) | Learn how to embed fonts in a PDF file with Subset Strategy using Aspose.PDF for .NET. Optimize your PDF size by embedding only necessary characters. |  
-| [Embed Font While Doc Creation](./embedfontwhiledoccreation/) |  |  
-| [Flatten Annotation](./flattenannotation/) |  |  
-| [Get All Fonts](./getallfonts/) |  |  
-| [Get Document Window](./getdocumentwindow/) |  |  
-| [Get File Info](./getfileinfo/) |  |  
+| [Embed Font While Doc Creation](./embedfontwhiledoccreation/) | Learn how to embed a font while creating a PDF document using Aspose.PDF for .NET. Ensure correct display on different devices. |  
+| [Flatten Annotation](./flattenannotation/) | Learn how to flatten annotations in a PDF document using Aspose.PDF for .NET. Preserve annotations and prevent accidental alteration. |  
+| [Get All Fonts](./getallfonts/) | Learn how to use Aspose.PDF for .NET to get all the fonts used in a PDF document programmatically with this step-by-step guide and example code. |  
+| [Get Document Window](./getdocumentwindow/) | Learn how to use the GetDocumentWindow feature of Aspose.PDF for .NET to retrieve information about a PDF document's window properties. |  
+| [Get File Info](./getfileinfo/) | Learn how to use the GetFileInfo feature of Aspose.PDF for .NET to retrieve metadata information about a PDF document. |  
+| [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) | Learn how to use the GetWarningsForFontSubstitution feature of Aspose.PDF for .NET to detect font substitution warnings when opening a PDF document. |  
+| [Get XMP Metadata](./getxmpmetadata/) | Learn how to use the GetXmpMetadata feature of Aspose.PDF for .NET to extract XMP metadata from a PDF document using C# source code. |  
 | [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) |  |  
 | [Get XMPMetadata](./getxmpmetadata/) |  |  
 | [Get Zoom Factor](./getzoomfactor/) | Learn how to use Aspose.PDF for .NET to get the zoom factor of a PDF file with this step-by-step guide. |  
@@ -45,7 +47,6 @@ description:
 | [Set XMPMetadata](./setxmpmetadata/) | Learn how to set XMPMetadata in PDF files using Aspose.PDF for .NET. Follow this step-by-step guide. |  
 | [Set Zoom Factor](./setzoomfactor/) | Learn how to set the zoom factor for PDF files using Aspose.PDF for .NET with our step-by-step guide. |  
 | [Shrink Documents](./shrinkdocuments/) | Learn how to use Aspose.PDF for .NET to shrink PDF documents with this step-by-step guide.  |  
-| [Trim White Space](./trimwhitespace/) |  |  
 | [Unembed Fonts](./unembedfonts/) | Learn how to use Aspose.PDF for .NET to get Unembed Fonts and optimize PDF files. A step-by-step guide. |  
 | [Validate PDFABStandard](./validatepdfabstandard/) | Learn how to use Aspose.PDF for .NET to validate PDF documents against the PDFABStandard with our step-by-step guide and code example. |  
 | [Validate PDFAStandard](./validatepdfastandard/) | Learn how to use Aspose.PDF for .NET to validate PDF files for PDFAStandard with this step-by-step guide. |  

@@ -11,6 +11,6 @@ url: /words/net/apply-license/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Apply License From File](./apply-license-from-file/) | |
-| [Apply License From Stream](./apply-license-from-stream/) | |
-| [Apply Metered License](./apply-metered-license/) | |
+| [Apply License From File](./apply-license-from-file/) | Learn how to apply a license from a file using Aspose.Words for .NET. Step-by-step guide with complete source code. |
+| [Apply License From Stream](./apply-license-from-stream/) | Learn how to apply a license from a stream using Aspose.Words for .NET.|
+| [Apply Metered License](./apply-metered-license/) | Learn how to apply a metered license using Aspose.Words for .NET. |

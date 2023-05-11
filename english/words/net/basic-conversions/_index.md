@@ -15,7 +15,7 @@ url: /words/net/basic-conversions/
 | [Docx To Rtf](./docx-to-rtf/) | |
 | [Docx To Pdf](./docx-to-pdf/) | |
 | [Docx To Byte](./docx-to-byte/) | |
-| [Docx To Epub](./docx-to-epub/) | |
+| [Docx To Epub](./docx-to-epub/) | Learn how to convert Docx files to Epub format using Aspose.PDF for .NET with this comprehensive step-by-step guide. |
 | [Docx To Mhtml And Sending Email](./docx-to-mhtml-and-sending-email/) | |
 | [Docx To Markdown](./docx-to-markdown/) | |
 | [Docx To Txt](./docx-to-txt/) | |

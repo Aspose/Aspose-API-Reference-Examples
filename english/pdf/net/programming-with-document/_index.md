@@ -30,8 +30,8 @@ description:
 | [Get File Info](./getfileinfo/) | Learn how to use the GetFileInfo feature of Aspose.PDF for .NET to retrieve metadata information about a PDF document. |  
 | [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) | Learn how to use the GetWarningsForFontSubstitution feature of Aspose.PDF for .NET to detect font substitution warnings when opening a PDF document. |  
 | [Get XMP Metadata](./getxmpmetadata/) | Learn how to use the GetXmpMetadata feature of Aspose.PDF for .NET to extract XMP metadata from a PDF document using C# source code. |  
-| [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) |  |  
-| [Get XMPMetadata](./getxmpmetadata/) |  |  
+| [Get Warnings For Font Substitution](./getwarningsforfontsubstitution/) | Learn how to use the GetWarningsForFontSubstitution feature of Aspose.PDF for .NET to detect font substitution warnings when opening a PDF document. |  
+| [Get XMPMetadata](./getxmpmetadata/) | Learn how to use the GetXmpMetadata feature of Aspose.PDF for .NET to extract XMP metadata from a PDF document using C# source code. |  
 | [Get Zoom Factor](./getzoomfactor/) | Learn how to use Aspose.PDF for .NET to get the zoom factor of a PDF file with this step-by-step guide. |  
 | [Hide Page Numbers In TOC](./hidepagenumbersintoc/) | Learn how to hide page numbers in a table of contents using Aspose.PDF for .NET with this step-by-step guide. |  
 | [Link Duplicate Streams](./linkduplicatestreams/) | Learn how to use Aspose.PDF for .NET Link Duplicate Streams feature to optimize your PDF documents with this step-by-step guide. |  
@@ -40,7 +40,6 @@ description:
 | [Remove Unused Objects](./removeunusedobjects/) | Learn how to use Aspose.PDF for .NET to remove unused objects from PDF documents with this step-by-step guide |  
 | [Remove Unused Streams](./removeunusedstreams/) | Learn how to remove unused streams from PDF files using Aspose.PDF for .NET. Our step-by-step guide. |  
 | [Set Default Font](./setdefaultfont/) | Learn how to set the default font for a PDF document using Aspose.PDF for .NET with this step-by-step guide. |  
-| [Set Document Window](./setdocumentwindow/) |  |  
 | [Set Expiry Date](./setexpirydate/) | Learn how to set expiry date in PDF documents using Aspose.PDF for .NET with this step-by-step guide. |  
 | [Set File Info](./setfileinfo/) | Learn how to use Aspose.PDF for .NET to set file info in your PDF documents with this step-by-step guide. |  
 | [Set Properties For Print Dialog](./setpropertiesforprintdialog/) | Learn how to set properties for print dialog in Aspose.PDF for .NET using step-by-step guide. |  

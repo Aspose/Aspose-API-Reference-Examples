@@ -7,42 +7,9 @@ type: docs
 weight: 1620
 url: /words/net/programming-with-pdfloadoptions/
 ---
-Tutorials contain load encrypted pdf and load page range of pdf
 
-## Load Encrypted Pdf
-
-```csharp
-
-            
-            Document doc = new Document(MyDir + "Pdf Document.pdf");
-
-            PdfSaveOptions saveOptions = new PdfSaveOptions
-            {
-                EncryptionDetails = new PdfEncryptionDetails("Aspose", null)
-            };
-
-            doc.Save(ArtifactsDir + "WorkingWithPdfLoadOptions.LoadEncryptedPdf.pdf", saveOptions);
-
-            PdfLoadOptions loadOptions = new PdfLoadOptions { Password = "Aspose", LoadFormat = LoadFormat.Pdf };
-
-            doc = new Document(ArtifactsDir + "WorkingWithPdfLoadOptions.LoadEncryptedPdf.pdf", loadOptions);
-            
-        
-```
-
-## Load Page Range Of Pdf
-
-```csharp
-
-            
-            PdfLoadOptions loadOptions = new PdfLoadOptions { PageIndex = 0, PageCount = 1 };
-
-            
-            Document doc = new Document(MyDir + "Pdf Document.pdf", loadOptions);
-
-            doc.Save(ArtifactsDir + "WorkingWithPdfLoadOptions.LoadPageRangeOfPdf.pdf");
-            
-            
-        
-```
-
+ ## Tutorials
+| Title | Description |
+| --- | --- |
+| [Load Encrypted Pdf](./load-encrypted-pdf/) | |
+| [Load Page Range Of Pdf](./load-page-range-of-pdf/) | |

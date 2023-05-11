@@ -7,22 +7,8 @@ type: docs
 weight: 1670
 url: /words/net/programming-with-pclsaveoptions/
 ---
-Tutorials contain rasterize transformed elements
 
-## Rasterize Transformed Elements
-
-```csharp
-
-            
-            Document doc = new Document(MyDir + "Rendering.docx");
-
-            PclSaveOptions saveOptions = new PclSaveOptions
-            {
-                SaveFormat = SaveFormat.Pcl, RasterizeTransformedElements = false
-            };
-
-            doc.Save(ArtifactsDir + "WorkingWithPclSaveOptions.RasterizeTransformedElements.pcl", saveOptions);
-            
-        
-```
-
+ ## Tutorials
+| Title | Description |
+| --- | --- |
+| [Rasterize Transformed Elements](./rasterize-transformed-elements/) | |

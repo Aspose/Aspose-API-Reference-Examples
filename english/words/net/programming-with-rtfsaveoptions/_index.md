@@ -7,19 +7,8 @@ type: docs
 weight: 1690
 url: /words/net/programming-with-rtfsaveoptions/
 ---
-Tutorials contain saving images as wmf
 
-## Saving Images As Wmf
-
-```csharp
-
-            
-            Document doc = new Document(MyDir + "Document.docx");
-
-            RtfSaveOptions saveOptions = new RtfSaveOptions { SaveImagesAsWmf = true };
-
-            doc.Save(ArtifactsDir + "WorkingWithRtfSaveOptions.SavingImagesAsWmf.rtf", saveOptions);
-            
-        
-```
-
+ ## Tutorials
+| Title | Description |
+| --- | --- |
+| [Saving Images As Wmf](./saving-images-as-wmf/) | |

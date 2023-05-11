@@ -7,19 +7,8 @@ type: docs
 weight: 1630
 url: /words/net/programming-with-rtfloadoptions/
 ---
-Tutorials contain recognize utf 8text
 
-## Recognize Utf 8Text
-
-```csharp
-
-            
-            RtfLoadOptions loadOptions = new RtfLoadOptions { RecognizeUtf8Text = true };
-
-            Document doc = new Document(MyDir + "UTF-8 characters.rtf", loadOptions);
-
-            doc.Save(ArtifactsDir + "WorkingWithRtfLoadOptions.RecognizeUtf8Text.rtf");
-            
-        
-```
-
+ ## Tutorials
+| Title | Description |
+| --- | --- |
+| [Recognize Utf 8Text](./recognize-utf-8text/) | |

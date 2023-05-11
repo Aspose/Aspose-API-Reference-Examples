@@ -14,11 +14,12 @@ url: /words/net/basic-conversions/doc-to-docx/
 ```csharp
 
             
-            
-            Document doc = new Document(MyDir + "Document.doc");
+            // The path to the documents directory.
+			string dataDir = "YOUR DOCUMENT DIRECTORY";
+            Document doc = new Document(dataDir + "Document.doc");
             
 
-            doc.Save(ArtifactsDir + "BaseConversions.DocToDocx.docx");
+            doc.Save(dataDir + "BaseConversions.DocToDocx.docx");
             
         
 ```

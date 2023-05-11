@@ -13,8 +13,9 @@ url: /words/net/basic-conversions/docx-to-byte/
 
 ```csharp
 
-            
-            Document doc = new Document(MyDir + "Document.docx");
+            // The path to the documents directory.
+			string dataDir = "YOUR DOCUMENT DIRECTORY";
+            Document doc = new Document(dataDir + "Document.docx");
 
             MemoryStream outStream = new MemoryStream();
             doc.Save(outStream, SaveFormat.Docx);

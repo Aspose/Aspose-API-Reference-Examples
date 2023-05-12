@@ -11,4 +11,4 @@ url: /words/net/enable-opentype-features/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Open Type Features](./open-type-features/) | |
+| [Open Type Features](./open-type-features/) | Learn how to enable and use Open Type features in Aspose.Words for .NET |

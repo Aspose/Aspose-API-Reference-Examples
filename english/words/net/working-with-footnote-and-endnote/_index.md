@@ -11,6 +11,6 @@ url: /words/net/working-with-footnote-and-endnote/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Set Foot Note Columns](./set-foot-note-columns/) | |
-| [Set Footnote And End Note Position](./set-footnote-and-end-note-position/) | |
-| [Set Endnote Options](./set-endnote-options/) | |
+| [Set Foot Note Columns](./set-foot-note-columns/) | Learn how to set the number of columns for footnotes in Word documents using Aspose.Words for .NET. |
+| [Set Footnote And End Note Position](./set-footnote-and-end-note-position/) | Learn how to set the position of footnotes and endnotes in Word documents using Aspose.Words for .NET. |
+| [Set Endnote Options](./set-endnote-options/) | Learn how to set endnote options in Word documents using Aspose.Words for .NET. |

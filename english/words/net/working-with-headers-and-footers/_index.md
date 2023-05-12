@@ -12,4 +12,4 @@ url: /words/net/working-with-headers-and-footers/
 | Title | Description |
 | --- | --- |
 | [Create Header Footer](./create-header-footer/) | |
-| [Copy Headers Footers From Previous Section](./copy-headers-footers-from-previous-section/) | |
+| [Copy Headers Footers From Previous Section](./copy-headers-footers-from-previous-section/) | Learn how to copy headers and footers from the previous section in Word documents using Aspose.Words for .NET. |

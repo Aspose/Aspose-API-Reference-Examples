@@ -2,32 +2,74 @@
 title: Anchor Comment
 linktitle: Anchor Comment
 second_title: Aspose.Words for .NET API Reference
-description:
+description: Learn how to anchor comment replies to specific text in Word documents using Aspose.Words for .NET. 
 type: docs
 weight: 10
 url: /words/net/working-with-comments/anchor-comment/
 ---
 
+In this comprehensive tutorial, you will learn how to anchor comment replies to specific text in a Word document using Aspose.Words for .NET. We will guide you through the process and provide you with the necessary C# code snippets. By the end of this guide, you will be able to associate comments with specific text in your documents.
 
+## Prerequisites
+Before we begin, ensure that you have the following prerequisites:
+- Aspose.Words for .NET library installed on your system.
 
-To anchor comments into a Word Document using Aspose.Words for .NET follow these steps.
-- Create an instance of the [Document](/words/net/aspose.words/document/) class.
-- Create three [Run](/words/net/aspose.words/run/) objects.
-- The first two run some text, while the third runs a [Comment](/words/net/aspose.words/comment/).
-- Each of the Run objects has an associated CommentRangeStart and CommentRangeEnd object.
-- The example then creates two Paragraph objects and appends them to the document's FirstSection.Body node.
-- The first Paragraph object contains content for the first run, while the second Paragraph object contains content for the second run.
-- Finally, the example creates a Comment object and attaches it to the document's FirstParagraph node.
-- The Comment object contains information about both runs (the text and comment).
-- The example creates a document with two sections, the first of which has a paragraph and the second of which has a comment.
-- The example then creates two runs, one for the paragraph and one for the comment.
-- Finally, it inserts the comments into their respective positions in the document.
-- When executed, this tutorial will create a document that looks like this: Some text is added is added to the first section.
-- A Comment text.
-- Save the document.
+## Step 1: Create a New Document and Add Text
+To start, create a new document using the Document class and add the desired text:
+
 ```csharp
-            
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document();
+
+Paragraph para1 = new Paragraph(doc);
+Run run1 = new Run(doc, "Some ");
+Run run2 = new Run(doc, "text ");
+para1.AppendChild(run1);
+para1.AppendChild(run2);
+doc.FirstSection.Body.AppendChild(para1);
+
+Paragraph para2 = new Paragraph(doc);
+Run run3 = new Run(doc, "is ");
+Run run4 = new Run(doc, "added ");
+para2.AppendChild(run3);
+para2.AppendChild(run4);
+doc.FirstSection.Body.AppendChild(para2);
+```
+
+## Step 2: Create a Comment and Add Comment Range
+Next, create a comment and associate it with specific text using CommentRangeStart and CommentRangeEnd objects:
+
+```csharp
+Comment comment = new Comment(doc, "Awais Hafeez", "AH", DateTime.Today);
+comment.Paragraphs.Add(new Paragraph(doc));
+comment.FirstParagraph.Runs.Add(new Run(doc, "Comment text."));
+
+CommentRangeStart commentRangeStart = new CommentRangeStart(doc, comment.Id);
+CommentRangeEnd commentRangeEnd = new CommentRangeEnd(doc, comment.Id);
+
+run1.ParentNode.InsertAfter(commentRangeStart, run1);
+run3.ParentNode.InsertAfter(commentRangeEnd, run3);
+commentRangeEnd.ParentNode.InsertAfter(comment, commentRangeEnd);
+```
+
+## Step 3: Save the Document
+After anchoring the comment to specific text, save the document to a file using the Save method of the Document class:
+
+```csharp
+doc.Save(dataDir + "WorkingWithComments.AnchorComment.doc");
+```
+
+### Example Source Code for Anchor Comment Reply using Aspose.Words for .NET
+Here is the complete source code for anchoring a comment reply using Aspose.Words for .NET:
+
+```csharp
+
+    // Create an instance of the Document.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";        
 	Document doc = new Document();
+
+    // Create three Run objects.
+    // The first two run some text, while the third runs a Comment
 
 	Paragraph para1 = new Paragraph(doc);
 	Run run1 = new Run(doc, "Some ");
@@ -47,6 +89,8 @@ To anchor comments into a Word Document using Aspose.Words for .NET follow these
 	comment.Paragraphs.Add(new Paragraph(doc));
 	comment.FirstParagraph.Runs.Add(new Run(doc, "Comment text."));
 
+	// Each of the Run objects has an associated CommentRangeStart and CommentRangeEnd object.
+
 	CommentRangeStart commentRangeStart = new CommentRangeStart(doc, comment.Id);
 	CommentRangeEnd commentRangeEnd = new CommentRangeEnd(doc, comment.Id);
 
@@ -54,7 +98,7 @@ To anchor comments into a Word Document using Aspose.Words for .NET follow these
 	run3.ParentNode.InsertAfter(commentRangeEnd, run3);
 	commentRangeEnd.ParentNode.InsertAfter(comment, commentRangeEnd);
 
-	doc.Save(ArtifactsDir + "WorkingWithComments.AnchorComment.doc");
+	doc.Save(dataDir + "WorkingWithComments.AnchorComment.doc");
             
 ```
 

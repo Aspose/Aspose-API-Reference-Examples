@@ -11,7 +11,7 @@ url: /words/net/working-with-node/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Use Node Type](./use-node-type/) | |
+| [Use Node Type](./use-node-type/) | Learn how to use node type to access document specific information with Aspose.Words for .NET. |
 | [Get Parent Node](./get-parent-node/) | Learn how to get the parent node of a specific element with Aspose.Words for .NET. |
 | [Owner Document](./owner-document/) | Learn how to use the owner document in Aspose.Words for .NET. |
 | [Enumerate Child Nodes](./enumerate-child-nodes/) | Learn how to enumerate child nodes in a paragraph with Aspose.Words for .NET. |

@@ -15,7 +15,5 @@ url: /words/net/working-with-node/
 | [Get Parent Node](./get-parent-node/) | |
 | [Owner Document](./owner-document/) | |
 | [Enumerate Child Nodes](./enumerate-child-nodes/) | |
-| [Recurse All Nodes](./recurse-all-nodes/) | |
-| [Traverse All Nodes](./traverse-all-nodes/) | |
 | [Typed Access](./typed-access/) | |
 | [Create And Add Paragraph Node](./create-and-add-paragraph-node/) | |

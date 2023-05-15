@@ -11,12 +11,12 @@ url: /words/net/working-with-revisions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Accept Revisions](./accept-revisions/) | |
-| [Get Revision Types](./get-revision-types/) | |
-| [Get Revision Groups](./get-revision-groups/) | |
-| [Remove Comments In Pdf](./remove-comments-in-pdf/) | |
-| [Show Revisions In Balloons](./show-revisions-in-balloons/) | |
-| [Get Revision Group Details](./get-revision-group-details/) | |
-| [Access Revised Version](./access-revised-version/) | |
-| [Move Node In Tracked Document](./move-node-in-tracked-document/) | |
-| [Shape Revision](./shape-revision/) | |
+| [Accept Revisions](./accept-revisions/) | Acceptez les modifications dans un document Word avec Aspose.Words pour .NET. Code source inclus. Sortie formatée en markdown. |
+| [Get Revision Types](./get-revision-types/) | Get revision types in a Word document with Aspose.Words for .NET. |
+| [Get Revision Groups](./get-revision-groups/) | Get revision group details in a Word document with Aspose.Words for .NET. |
+| [Remove Comments In Pdf](./remove-comments-in-pdf/) | Remove comments in a PDF file with Aspose.Words for .NET. |
+| [Show Revisions In Balloons](./show-revisions-in-balloons/) | Display revisions in balloons with Aspose.Words for .NET. |
+| [Get Revision Group Details](./get-revision-group-details/) | Get revision group details in a Word document with Aspose.Words for .NET. |
+| [Access Revised Version](./access-revised-version/) | Access a revised version of a Word document with Aspose.Words for .NET. |
+| [Move Node In Tracked Document](./move-node-in-tracked-document/) | Move nodes in a tracked document with Aspose.Words for .NET. |
+| [Shape Revision](./shape-revision/) | Revise shapes in a Word document with Aspose.Words for .NET. |

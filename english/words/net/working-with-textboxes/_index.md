@@ -7,6 +7,7 @@ type: docs
 weight: 1320
 url: /words/net/working-with-textboxes/
 ---
+Working with Textboxes is a comprehensive resource that takes you step-by-step through working with text boxes in Word documents using the Aspose.Words library for .NET. The tutorials teach you how to add, modify and delete text boxes, position them, define their size, style and properties. You will also learn how to manage content in text boxes, including adding and editing text, adding lists, tables, and other items. This resource is essential for developers wishing to manipulate text boxes in Word documents using Aspose.Words for .NET, providing increased flexibility and customization in creating professional documents.
 
  ## Tutorials
 | Title | Description |

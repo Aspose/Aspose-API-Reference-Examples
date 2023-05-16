@@ -8,7 +8,7 @@ weight: 10
 url: /words/net/working-with-textboxes/create-a-link/
 ---
 
-## step 1: Setting up the document and creating TextBox shapes
+## Step 1: Setting up the document and creating TextBox shapes
 
 To start, we need to set up the document and create two TextBox shapes. The following code initializes a new instance of the `Document` class and creates two text box shapes:
 
@@ -21,7 +21,7 @@ TextBox textBox1 = shape1.TextBox;
 TextBox textBox2 = shape2.TextBox;
 ```
 
-## step 2: Creating a link between TextBoxes
+## Step 2: Creating a link between TextBoxes
 
 We will now create a link between the two TextBoxes using the `IsValidLinkTarget()` method and the `Next` property of the first TextBox.
 

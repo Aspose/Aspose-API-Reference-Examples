@@ -33,7 +33,7 @@ DocumentSplitCriteria = DocumentSplitCriteria.HeadingParagraph
 doc.Save(dataDir + "SplitDocument.ParTitresHtml.html", options);
 ```
 
-## Example source code for By Headings HTML using Aspose.Words for .NET
+### Example source code for By Headings HTML using Aspose.Words for .NET
 
 Here is the complete source code for the By HTML Heading feature of Aspose.Words for .NET:
 

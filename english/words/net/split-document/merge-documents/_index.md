@@ -50,7 +50,7 @@ sourceDoc = new Document(documentPath.FullName);
 mergedDoc.Save(dataDir + "SplitDocument.MergeDocuments.docx");
 ```
 
-## Example source code for Merge Documents using Aspose.Words for .NET
+### Example source code for Merge Documents using Aspose.Words for .NET
 
 Here is the complete source code for the Merge Documents feature of Aspose.Words for .NET:
 

@@ -8,7 +8,7 @@ weight: 10
 url: /words/net/working-with-textboxes/check-sequence/
 ---
 
-## step 1: Setting up the document and creating a TextBox shape
+## Step 1: Setting up the document and creating a TextBox shape
 
 To start, we need to set up the document and create a TextBox shape. The following code initializes a new instance of the `Document` class and creates a text box shape:
 
@@ -18,11 +18,11 @@ Shape shape = new Shape(doc, ShapeType.TextBox);
 TextBox textBox = shape.TextBox;
 ```
 
-## step 2: Checking the TextBox sequence
+## Step 2: Checking the TextBox sequence
 
 We will now check the sequence of the TextBox using `if` conditions. The provided source code contains three separate conditions to check the position of the TextBox relative to the preceding and following shapes.
 
-## step 3: Checking the sequence head:
+## Step 3: Checking the sequence head:
 
 ```csharp
 if (textBox. Next != null && textBox. Previous == null)
@@ -33,7 +33,7 @@ if (textBox. Next != null && textBox. Previous == null)
 
 If the TextBox has a next shape (`Next`) but no previous shape (`Previous`), that means it is the head of the sequence. The message "The head of the sequence" will be displayed.
 
-## step 4: Checking the middle of the sequence:
+## Step 4: Checking the middle of the sequence:
 
 ```csharp
 if (textBox. Next != null && textBox. Previous != null)
@@ -44,7 +44,7 @@ if (textBox. Next != null && textBox. Previous != null)
 
 If the TextBox has both a Next shape (`Next`) and a Previous shape (`Previous`), this indicates that it is in the middle of the sequence. The message "The middle of the sequence" will be displayed.
 
-## step 5: Verification of the end of the sequence:
+## Step 5: Verification of the end of the sequence:
 
 ```csharp
 if (textBox. Next == null && textBox. Previous != null)

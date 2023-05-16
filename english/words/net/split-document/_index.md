@@ -7,6 +7,7 @@ type: docs
 weight: 1450
 url: /words/net/split-document/
 ---
+Split Document is a comprehensive resource that explains how to split a document into separate parts using the Aspose.Words for .NET library. The tutorials provide detailed step-by-step explanations, complete source code examples, and practical tips for splitting a document according to different conditions, such as number of pages, sections, paragraphs, etc. This resource is essential for developers who want to automate the process of splitting large documents and simplifying the management of individual parts. With Aspose.Words for .NET, you can easily extract, save and manipulate different parts of a document, greatly improving the efficiency and flexibility of your document processing workflow.
 
  ## Tutorials
 | Title | Description |

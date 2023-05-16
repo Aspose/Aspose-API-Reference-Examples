@@ -8,8 +8,6 @@ weight: 10
 url: /words/net/add-content-using-documentbuilder/move-to-section/
 ---
 
-# Sample source code for moving to a section using Aspose.Words for .NET
-
 In this example, we will walk you through how to use the Move To Section feature of Aspose.Words for .NET step by step using the provided C# source code. This feature allows you to navigate and manipulate different sections inside a Word document. Follow the steps below to integrate this functionality into your application.
 
 ## Step 1: Create a new document and add a section

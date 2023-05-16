@@ -7,6 +7,7 @@ type: docs
 weight: 690
 url: /words/net/working-with-formfields/
 ---
+Working with Form Fields is a comprehensive resource for learning how to work with form fields in Word documents using the Aspose.Words for .NET library. Tutorials provide step-by-step explanations, complete source code, and hands-on examples for creating, modifying, and managing form fields such as checkboxes, text boxes, drop-down lists, and more. You will also learn how to extract and populate data from form fields, as well as customize their formatting and behavior. This resource is essential for developers wishing to automate the creation and management of forms in Word documents using Aspose.Words for .NET.
 
  ## Tutorials
 | Title | Description |

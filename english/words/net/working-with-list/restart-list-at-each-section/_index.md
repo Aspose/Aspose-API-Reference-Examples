@@ -59,30 +59,31 @@ So ! You have successfully reset a numbered list to each section in a Word docum
 
 ### Example source code for resetting the list at each section
 
-	```csharp
-	string dataDir = "YOUR DOCUMENT DIRECTORY";
-	Document doc = new Document();
+```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document();
 
-	doc.Lists.Add(ListTemplate.NumberDefault);
+doc.Lists.Add(ListTemplate.NumberDefault);
 
-	List list = doc.Lists[0];
-	list. IsRestartAtEachSection = true;
+List list = doc.Lists[0];
+list. IsRestartAtEachSection = true;
 
-	DocumentBuilder builder = new DocumentBuilder(doc);
-	builder.ListFormat.List = list;
+DocumentBuilder builder = new DocumentBuilder(doc);
+builder.ListFormat.List = list;
 
-	for (int i = 1; i < 45; i++)
-	{
-		 builder.Writeln($"List item {i}");
+for (int i = 1; i < 45; i++)
+{
+	 builder.Writeln($"List item {i}");
 
-		 if (i == 15)
-			 builder.InsertBreak(BreakType.SectionBreakNewPage);
-	}
+	 if (i == 15)
+		 builder.InsertBreak(BreakType.SectionBreakNewPage);
+}
 
-	OoxmlSaveOptions options = new OoxmlSaveOptions { Compliance = OoxmlCompliance.Iso29500_2008_Transitional };
+OoxmlSaveOptions options = new OoxmlSaveOptions { Compliance = OoxmlCompliance.Iso29500_2008_Transitional };
 
-	doc.Save(dataDir + "ResetListAtEachSection.docx", options);
-	```
+doc.Save(dataDir + "ResetListAtEachSection.docx", options);
+
+```
 
 Feel free to use this code in your own projects and modify it to suit your specific needs.
 

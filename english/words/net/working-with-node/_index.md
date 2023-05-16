@@ -7,6 +7,7 @@ type: docs
 weight: 1000
 url: /words/net/working-with-node/
 ---
+Working with Revisions is a comprehensive resource that guides you through working with revisions in Word documents using the Aspose.Words for .NET library. The tutorials show you step by step how to add, delete, accept and reject revisions, how to display revisions in the document, how to compare different versions and much more. You will learn how to work effectively with reviews for collaboration and change management in your Word documents. This resource is essential for developers who want to automate revision management in their Aspose.Words for .NET-based applications.
 
  ## Tutorials
 | Title | Description |

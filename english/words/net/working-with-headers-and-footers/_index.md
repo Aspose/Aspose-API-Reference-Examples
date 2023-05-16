@@ -8,6 +8,9 @@ weight: 730
 url: /words/net/working-with-headers-and-footers/
 ---
 
+Working with Headers and Footers is a comprehensive resource for learning how to manipulate and customize headers and footers in Word documents by using the Aspose.Words library for .NET. Tutorials provide detailed explanations, code examples and step-by-step instructions for adding, modifying and removing headers and footers, setting different headers and footers for different sections of a document , insert images, tables, dynamic fields and much more. This resource is essential for developers wanting to create professional, custom Word documents with headers and footers tailored to their specific needs.
+
+
  ## Tutorials
 | Title | Description |
 | --- | --- |

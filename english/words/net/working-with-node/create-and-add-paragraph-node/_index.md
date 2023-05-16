@@ -54,17 +54,14 @@ doc.Save("output.docx", SaveFormat.Docx);
 
 ### Sample Source Code for Create and Add Paragraph Node with Aspose.Words for .NET
 
-	```csharp
-	Document doc = new Document();
+```csharp
+Document doc = new Document();
 
-	Paragraph para = new Paragraph(doc);
+Paragraph para = new Paragraph(doc);
 
-	Section section = doc.LastSection;
-	section.Body.AppendChild(para);
-	```
+Section section = doc.LastSection;
+section.Body.AppendChild(para);
+
+```
 
 This is a complete code example to create and add a paragraph node using Aspose.Words for .NET. Be sure to import the necessary references and follow the steps previously described to integrate this code into your project.
-
-For more information on using Aspose.Words for .NET, see the official Aspose.Words documentation.
-
----

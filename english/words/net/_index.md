@@ -15,7 +15,7 @@ is_root: true
 | [Enable OpenType features](./enable-opentype-features/) | Example shows how to enable OpenType features in Aspose.Words for .NET. |  
 | [Working with Comments](./working-with-comments/) | Tutorials show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies in Aspose.Words for .NET. |  
 | [Working with Fields](./working-with-fields/) | Tutorials show how to insert Field, update filed culture, replace field hyperlink, remove field, and insert nested fields into Word Document using in Aspose.Words for .NET. |  
-| [Working with Footnote and Endnote](./working-with-footnote-and-endnote/) | Tutorials explain how to set Foot note and end note in Word Document using Aspose.Words for .NET |  
+| [Working with Footnote and Endnote](./working-with-footnote-and-endnote/) | Tutorials explain how to set Footnote and endnote in Word Document using Aspose.Words for .NET |  
 | [Working with FormFields](./working-with-formfields/) | Tutorials containing how insert form fileds, working with form fileds' properties, get form fields collection, and get form fields get by name in Word Document using Aspose.Words for .NET. |  
 | [Working with Headers and Footers](./working-with-headers-and-footers/) | Tutorials contain how to create header footer and copy header footer from previous section of Word Document using Aspose.Words for .NET. |  
 | [Working with Hyphenation](./working-with-hyphenation/) | Tutorials contain hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET. |  

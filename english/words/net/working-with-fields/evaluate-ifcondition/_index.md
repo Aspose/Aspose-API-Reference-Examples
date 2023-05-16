@@ -1,6 +1,6 @@
 ---
-title: Evaluate IFCondition
-linktitle: Evaluate IFCondition
+title: Evaluate IF Condition
+linktitle: Evaluate IF Condition
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide for evaluating the IF condition in your Word documents with Aspose.Words for .NET. 
 type: docs

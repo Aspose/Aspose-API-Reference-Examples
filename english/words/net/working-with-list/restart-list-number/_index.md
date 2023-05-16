@@ -80,33 +80,33 @@ So ! You have successfully reset the number of a list in a Word document using A
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
-	Document doc = new Document();
-	DocumentBuilder builder = new DocumentBuilder(doc);
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
 
-	// Create a list based on a template.
-	List list1 = doc.Lists.Add(ListTemplate.NumberArabicParenthesis);
-	list1.ListLevels[0].Font.Color = Color.Red;
-	list1.ListLevels[0].Alignment = ListLevelAlignment.Right;
+// Create a list based on a template.
+List list1 = doc.Lists.Add(ListTemplate.NumberArabicParenthesis);
+list1.ListLevels[0].Font.Color = Color.Red;
+list1.ListLevels[0].Alignment = ListLevelAlignment.Right;
 
-	builder.Writeln("List 1 starts below:");
-	builder.ListFormat.List = list1;
-	builder.Writeln("Item 1");
-	builder.Writeln("Item 2");
-	builder.ListFormat.RemoveNumbers();
+builder.Writeln("List 1 starts below:");
+builder.ListFormat.List = list1;
+builder.Writeln("Item 1");
+builder.Writeln("Item 2");
+builder.ListFormat.RemoveNumbers();
 
-	// To reuse the first list, we need to restart numbering by creating a copy of the original list formatting.
-	List list2 = doc.Lists.AddCopy(list1);
+// To reuse the first list, we need to restart numbering by creating a copy of the original list formatting.
+List list2 = doc.Lists.AddCopy(list1);
 
-	// We can modify the new list in any way, including setting a new start number.
-	list2.ListLevels[0].StartAt = 10;
+// We can modify the new list in any way, including setting a new start number.
+list2.ListLevels[0].StartAt = 10;
 
-	builder.Writeln("List 2 starts below:");
-	builder.ListFormat.List = list2;
-	builder.Writeln("Item 1");
-	builder.Writeln("Item 2");
-	builder.ListFormat.RemoveNumbers();
+builder.Writeln("List 2 starts below:");
+builder.ListFormat.List = list2;
+builder.Writeln("Item 1");
+builder.Writeln("Item 2");
+builder.ListFormat.RemoveNumbers();
 
-	builder.Document.Save(dataDir + "WorkingWithList.RestartListNumber.docx");
+builder.Document.Save(dataDir + "WorkingWithList.RestartListNumber.docx");
             
 ```
 

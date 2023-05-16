@@ -136,7 +136,7 @@ doc.Save(dataDir + "WorkingWithHeadersAndFooters.CreateHeaderFooter.docx");
 
 We add a page break and a section break to create a new page where the primary headers/footers will be visible. We set the parameters for the new section, then we use the `CopyHeadersFootersFromPreviousSection` method to copy the headers/footers from the previous section. Finally, we set the appropriate cell widths for the main footer table and save the document.
 
-# Example source code to create headers and footers with Aspose.Words for .NET
+### Example source code to create headers and footers with Aspose.Words for .NET
 
 ```csharp
 	// The path to the documents directory.

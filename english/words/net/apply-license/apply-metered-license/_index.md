@@ -13,7 +13,7 @@ In this comprehensive tutorial, you will learn how to apply a metered license us
 ## Prerequisites
 Before we begin, ensure that you have the following prerequisites:
 - Aspose.Words for .NET library installed on your system.
-- Valid credentials for metered licensing. If you don't have them, you can obtain them from the Aspose website.
+- Valid credentials for metered licensing. 
 
 ## Step 1: Import the Required Namespaces
 To start, import the necessary namespaces in your C# code. These namespaces contain the classes and methods needed for working with Aspose.Words.

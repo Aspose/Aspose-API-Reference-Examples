@@ -13,7 +13,7 @@ In this step-by-step tutorial, you will learn how to apply a license from a stre
 ## Prerequisites
 Before we begin, ensure that you have the following prerequisites:
 - Aspose.Words for .NET library installed on your system.
-- A valid license file for Aspose.Words. If you don't have one, you can obtain it from the Aspose website.
+- A valid license file for Aspose.Words.
 
 ## Step 1: Import the Required Namespaces
 To start, import the necessary namespaces in your C# code. These namespaces contain the classes and methods needed for working with Aspose.Words.

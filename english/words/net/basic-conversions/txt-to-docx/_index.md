@@ -32,11 +32,13 @@ That's it! You have successfully converted a plain text file (Txt) to a Word doc
 
 ### Example source code for Txt To Docx using Aspose.Words for .NET
 
-	```csharp
-	// The encoding of the text file is automatically detected.
-	Document doc = new Document(MyDir + "English text.txt");
+```csharp
 
-	doc.Save(ArtifactsDir + "BaseConversions.TxtToDocx.docx");
-	```
+// The encoding of the text file is automatically detected.
+Document doc = new Document(MyDir + "English text.txt");
+
+doc.Save(ArtifactsDir + "BaseConversions.TxtToDocx.docx");
+
+```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

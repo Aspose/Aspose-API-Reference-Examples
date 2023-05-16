@@ -18,7 +18,6 @@ This is a comprehensive resource for learning how to work with fields in Word do
 | [Replace Hyperlinks](./replace-hyperlinks/) | Replace hyperlinks in Word documents using Aspose.Words for .NET. Step-by-step instructions for replacing hyperlinks. |
 | [Rename Merge Fields](./rename-merge-fields/) | In this tutorial, you will learn how to rename merge fields in a document using Aspose.Words for .NET. |
 | [Remove Field](./remove-field/) | In this guide, you will learn how to delete a specific field in a document using Aspose.Words for .NET. |
-| [Unlink Fields](./unlink-fields/) | |
 | [Insert TOA Field Without Document Builder](./insert-toafield-without-document-builder/) | Step by step guide to insert TOA field without Document Builder using Aspose.Words for .NET. |
 | [Insert Nested Fields](./insert-nested-fields/) | Learn how to easily insert nested fields into your Word documents with Aspose.Words for .NET. |
 | [Insert Merge Field Using DOM](./insert-merge-field-using-dom/) | Learn how to insert custom field merge fields into your Word documents with Aspose.Words for .NET. |
@@ -34,7 +33,7 @@ This is a comprehensive resource for learning how to work with fields in Word do
 | [Delete Fields](./delete-fields/) | Step by step guide for deleting merge fields in your Word documents using Aspose.Words for .NET |
 | [Field Update Culture](./field-update-culture/) | Learn how to update field culture in your Word documents with Aspose.Words for .NET. |
 | [Field Display Results](./field-display-results/) | Step by step guide for displaying field results in your Word documents with Aspose.Words for .NET. |
-| [Evaluate IFCondition](./evaluate-ifcondition/) | Step by step guide for evaluating the IF condition in your Word documents with Aspose.Words for .NET. |
+| [Evaluate IF Condition](./evaluate-ifcondition/) | Step by step guide for evaluating the IF condition in your Word documents with Aspose.Words for .NET. |
 | [Convert Fields In Paragraph](./convert-fields-in-paragraph/) | Convert IF fields to plain text in a paragraph with Aspose.Words for .NET. |
 | [Convert Fields In Document](./convert-fields-in-document/) | Step-by-step guide to convert document fields to text using Aspose.Words for .NET. |
 | [Convert Fields In Body](./convert-fields-in-body/) | Learn how to use Aspose.Words for .NET to convert Page fields to text in the body of a Word document. |

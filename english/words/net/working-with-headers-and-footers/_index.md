@@ -11,5 +11,5 @@ url: /words/net/working-with-headers-and-footers/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Create Header Footer](./create-header-footer/) | |
+| [Create Header Footer](./create-header-footer/) | Learn how to create headers and footers in your Word documents with Aspose.Words for .NET. Customize headers and footers for each page. |
 | [Copy Headers Footers From Previous Section](./copy-headers-footers-from-previous-section/) | Learn how to copy headers and footers from the previous section in Word documents using Aspose.Words for .NET. |

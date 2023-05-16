@@ -11,4 +11,4 @@ url: /words/net/programming-with-watermark/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Add Text Watermark With Specific Options](./add-text-watermark-with-specific-options/) | |
+| [Add Text Watermark With Specific Options](./add-text-watermark-with-specific-options/) | Learn how to add a text watermark with specific options using Aspose.Words for .NET. Step-by-step guide. |

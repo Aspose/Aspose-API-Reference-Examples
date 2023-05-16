@@ -11,6 +11,6 @@ url: /words/net/working-with-textboxes/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Create A Link](./create-a-link/) | |
-| [Check Sequence](./check-sequence/) | |
-| [Break A Link](./break-a-link/) | |
+| [Create A Link](./create-a-link/) | Tutorial: How to create a link between TextBoxes in a Word document with Aspose.Words for .NET. |
+| [Check Sequence](./check-sequence/) | Tutorial: How to check the sequence of TextBoxes in a Word document with Aspose.Words for .NET. |
+| [Break A Link](./break-a-link/) | Tutorial: How to break links in a Word document with Aspose.Words for .NET. |

@@ -44,7 +44,8 @@ That's it! You have successfully converted a Word document in Docx format to Mar
 
 ### Example source code for Docx To Markdown using Aspose.Words for .NET
 
-	```csharp
+```csharp
+
 	// The path to the documents directory.
 	string dataDir = "YOUR DOCUMENT DIRECTORY";
 	Document doc = new Document();
@@ -53,6 +54,7 @@ That's it! You have successfully converted a Word document in Docx format to Mar
 	builder.Writeln("Some text!");
 
 	doc.Save(dataDir + "BaseConversions.DocxToMarkdown.md");
-	```
+
+```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

@@ -56,7 +56,8 @@ That's it! You have successfully converted a Word document in Docx format to a b
 
 ### Example source code for Docx To Byte using Aspose.Words for .NET
 
-	```csharp
+```csharp
+
 	// MemoryStream outStream = new MemoryStream();
 	doc.Save(outStream, SaveFormat.Docx);
 
@@ -64,6 +65,7 @@ That's it! You have successfully converted a Word document in Docx format to a b
 	MemoryStream inStream = new MemoryStream(docBytes);
 
 	Document docFromBytes = new Document(inStream);
-	```
+	
+```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

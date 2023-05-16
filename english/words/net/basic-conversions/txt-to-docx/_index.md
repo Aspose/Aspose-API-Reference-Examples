@@ -17,6 +17,7 @@ To get started, ensure that you have Aspose.Words for .NET installed and set up 
 First, initialize the `Document` object by providing the path to your plain text file:
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(MyDir + "English text.txt");
 ```
 
@@ -25,7 +26,7 @@ Document doc = new Document(MyDir + "English text.txt");
 Next, save the document in the Docx format by calling the `Save` method on the `Document` object and providing the path and file name for the output Docx document:
 
 ```csharp
-doc.Save(ArtifactsDir + "BaseConversions.TxtToDocx.docx");
+doc.Save(dataDir + "BaseConversions.TxtToDocx.docx");
 ```
 
 That's it! You have successfully converted a plain text file (Txt) to a Word document in Docx format using Aspose.Words for .NET.
@@ -34,10 +35,12 @@ That's it! You have successfully converted a plain text file (Txt) to a Word doc
 
 ```csharp
 
-// The encoding of the text file is automatically detected.
-Document doc = new Document(MyDir + "English text.txt");
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	// The encoding of the text file is automatically detected.
+	Document doc = new Document(MyDir + "English text.txt");
 
-doc.Save(ArtifactsDir + "BaseConversions.TxtToDocx.docx");
+	doc.Save(dataDir + "BaseConversions.TxtToDocx.docx");
 
 ```
 

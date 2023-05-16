@@ -52,11 +52,13 @@ That's it! You have successfully converted a Word document in .doc format to the
 ### Example source code for Doc To Docx using Aspose.Words for .NET
 
 ```csharp
-// The path to the documents directory.
-string dataDir = "YOUR DOCUMENT DIRECTORY";
-Document doc = new Document(dataDir + "Document.doc");
 
-doc.Save(dataDir + "BaseConversions.DocToDocx.docx");
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(dataDir + "Document.doc");
+
+	doc.Save(dataDir + "BaseConversions.DocToDocx.docx");
+	
 ```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

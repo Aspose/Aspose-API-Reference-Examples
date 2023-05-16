@@ -17,6 +17,7 @@ To get started, make sure you have Aspose.Words for .NET installed and set up in
 First, initialize the `Document` object by providing the path to your PDF document:
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(MyDir + "Pdf Document.pdf");
 ```
 
@@ -25,7 +26,7 @@ Document doc = new Document(MyDir + "Pdf Document.pdf");
 Next, save the document in the Docx format by calling the `Save` method on the `Document` object and providing the path and file name for the output Docx document:
 
 ```csharp
-doc.Save(ArtifactsDir + "BaseConversions.PdfToDocx.docx");
+doc.Save(dataDir + "BaseConversions.PdfToDocx.docx");
 ```
 
 That's it! You have successfully converted a PDF document to the Docx format using Aspose.Words for .NET.
@@ -33,9 +34,13 @@ That's it! You have successfully converted a PDF document to the Docx format usi
 ### Example source code for Pdf To Docx using Aspose.Words for .NET
 
 ```csharp
-Document doc = new Document(MyDir + "Pdf Document.pdf");
 
-doc.Save(ArtifactsDir + "BaseConversions.PdfToDocx.docx");
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(MyDir + "Pdf Document.pdf");
+
+	doc.Save(dataDir + "BaseConversions.PdfToDocx.docx");
+	
 ```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

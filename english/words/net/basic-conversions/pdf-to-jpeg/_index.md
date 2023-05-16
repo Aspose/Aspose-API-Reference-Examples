@@ -17,6 +17,7 @@ To get started, make sure you have Aspose.Words for .NET installed and set up in
 First, initialize the `Document` object by providing the path to your PDF document:
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(MyDir + "Pdf Document.pdf");
 ```
 
@@ -25,7 +26,7 @@ Document doc = new Document(MyDir + "Pdf Document.pdf");
 Next, save the document as Jpeg images by calling the `Save` method on the `Document` object and providing the path and file name for the output Jpeg images:
 
 ```csharp
-doc.Save(ArtifactsDir + "BaseConversions.PdfToJpeg.jpeg");
+doc.Save(dataDir + "BaseConversions.PdfToJpeg.jpeg");
 ```
 
 That's it! You have successfully converted a PDF document to Jpeg images using Aspose.Words for .NET.
@@ -33,9 +34,13 @@ That's it! You have successfully converted a PDF document to Jpeg images using A
 ### Example source code for Pdf To Jpeg using Aspose.Words for .NET
 
 ```csharp
-Document doc = new Document(MyDir + "Pdf Document.pdf");
 
-doc.Save(ArtifactsDir + "BaseConversions.PdfToJpeg.jpeg");
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(MyDir + "Pdf Document.pdf");
+
+	doc.Save(dataDir + "BaseConversions.PdfToJpeg.jpeg");
+
 ```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

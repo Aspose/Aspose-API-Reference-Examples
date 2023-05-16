@@ -17,6 +17,7 @@ To get started, ensure that you have Aspose.Words for .NET installed and set up 
 First, open a stream to read the Docx document:
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Stream stream = File.OpenRead(MyDir + "Document.docx");
 ```
 
@@ -62,14 +63,17 @@ dstStream.Position = 0;
 Finally, write the memory stream to an RTF file:
 
 ```csharp
-File.WriteAllBytes(ArtifactsDir + "BaseConversions.DocxToRtf.rtf", dstStream.ToArray());
+File.WriteAllBytes(dataDir + "BaseConversions.DocxToRtf.rtf", dstStream.ToArray());
 ```
 
 That's it! You have successfully converted a Word document in Docx format to RTF using Aspose.Words for .NET.
 
 ### Example source code for Docx To Rtf using Aspose.Words for .NET
 
-	```csharp
+```csharp
+
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
 	// Read only access is enough for Aspose.Words to load a document.
 	Stream stream = File.OpenRead(MyDir + "Document.docx");
 
@@ -86,7 +90,8 @@ That's it! You have successfully converted a Word document in Docx format to RTF
 	// Rewind the stream position back to zero so it is ready for the next reader.
 	dstStream.Position = 0;
 
-	File.WriteAllBytes(ArtifactsDir + "BaseConversions.DocxToRtf.rtf", dstStream.ToArray());
-	```
+	File.WriteAllBytes(dataDir + "BaseConversions.DocxToRtf.rtf", dstStream.ToArray());
+	
+```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

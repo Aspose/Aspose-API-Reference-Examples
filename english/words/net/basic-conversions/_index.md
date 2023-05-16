@@ -13,7 +13,7 @@ Basic Conversions walks you through basic document conversions using the Aspose.
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Doc To Docx](./doc-to-docx/) | Learn how to convert Word documents from .doc to Docx format using Aspose.Words for .NET.  |
+| [Doc To Docx](./doc-to-docx/) | Learn how to convert Word documents from Doc to Docx format using Aspose.Words for .NET.  |
 | [Docx To Rtf](./docx-to-rtf/) | Learn how to convert Word documents from Docx to RTF format using Aspose.Words for .NET.  |  
 | [Docx To Pdf](./docx-to-pdf/) | Learn how to convert Word documents from Docx to PDF using Aspose.Words for .NET. | 
 | [Docx To Byte](./docx-to-byte/) | Learn how to convert Word documents from Docx to byte array using Aspose.Words for .NET. |  

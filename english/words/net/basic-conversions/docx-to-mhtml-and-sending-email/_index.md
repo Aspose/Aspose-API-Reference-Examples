@@ -66,7 +66,8 @@ That's it! You have successfully converted a Word document in Docx format to MHT
 
 ### Example source code for Docx To Mhtml And Sending Email using Aspose.Words for .NET
 
-	```csharp
+```csharp
+
 	// Document doc = new Document(MyDir + "Document.docx");
 
 	Stream stream = new MemoryStream();
@@ -85,6 +86,7 @@ That's it! You have successfully converted a Word document in Docx format to MHT
 	SmtpClient client = new SmtpClient();
 	client.Host = "your_smtp.com";
 	client.Send(message);
-	```
+	
+```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

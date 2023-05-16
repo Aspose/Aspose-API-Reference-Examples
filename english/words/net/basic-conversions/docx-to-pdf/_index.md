@@ -25,7 +25,7 @@ Document doc = new Document(MyDir + "Document.docx");
 Next, save the document in PDF format by calling the `Save` method on the `Document` object and providing the path and file name for the output PDF document:
 
 ```csharp
-doc.Save(ArtifactsDir + "BaseConversions.DocxToPdf.pdf");
+doc.Save(MyDir + "BaseConversions.DocxToPdf.pdf");
 ```
 
 That's it! You have successfully converted a Word document in Docx format to PDF using Aspose.Words for .NET.
@@ -33,9 +33,11 @@ That's it! You have successfully converted a Word document in Docx format to PDF
 ### Example source code for Docx To Pdf using Aspose.Words for .NET
 
 ```csharp
-Document doc = new Document(MyDir + "Document.docx");
 
-doc.Save(ArtifactsDir + "BaseConversions.DocxToPdf.pdf");
+	Document doc = new Document(MyDir + "Document.docx");
+
+	doc.Save(MyDir + "BaseConversions.DocxToPdf.pdf");
+	
 ```
 
 Feel free to use this code in your own projects and modify it according to your specific requirements.

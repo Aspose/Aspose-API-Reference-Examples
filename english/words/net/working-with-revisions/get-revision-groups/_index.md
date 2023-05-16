@@ -2,7 +2,7 @@
 title: Get Revision Groups
 linktitle: Get Revision Groups
 second_title: Aspose.Words for .NET API Reference
-description: Get revision group details in a Word document with Aspose.Words for .NET.
+description: Get revision groups in a Word document with Aspose.Words for .NET.
 type: docs
 weight: 10
 url: /words/net/working-with-revisions/get-revision-groups/
@@ -36,13 +36,15 @@ foreach(RevisionGroup group in doc.Revisions.Groups)
 Here is the complete source code to get the revision groups in a document using Aspose.Words for .NET:
 
 ```csharp
-Document doc = new Document(MyDir + "Revisions.docx");
 
-foreach(RevisionGroup group in doc.Revisions.Groups)
-{
-     Console.WriteLine("{0}, {1}:", group.Author, group.RevisionType);
-     Console.WriteLine(group.Text);
-}
+	Document doc = new Document(MyDir + "Revisions.docx");
+
+	foreach(RevisionGroup group in doc.Revisions.Groups)
+	{
+		 Console.WriteLine("{0}, {1}:", group.Author, group.RevisionType);
+		 Console.WriteLine(group.Text);
+	}
+	
 ```
 
 

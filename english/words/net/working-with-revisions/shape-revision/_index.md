@@ -76,6 +76,7 @@ Assert. False(shapes[1].IsMoveToRevision);
 Here is the complete source code for making revisions to shapes in a document using Aspose.Words for .NET:
 
 ```csharp
+
 	Document doc = new Document();
 
 	// Insert an inline shape without tracking revisions.

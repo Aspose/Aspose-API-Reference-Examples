@@ -15,6 +15,7 @@ In this step-by-step guide, we'll walk you through how to move a node in a track
 The first step is to create a new document and add paragraphs.
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Paragraph 1");
@@ -59,6 +60,15 @@ We will stop tracking revisions in the document.
 doc.StopTrackRevisions();
 ```
 
+## Step 5: Saving the document
+
+After inserting the text input form field, save the document to the desired location using the `Save` method. Make sure to provide the appropriate file path:
+
+```csharp
+Console.WriteLine("Paragraph count: {0}", body.Paragraphs.Count);
+doc.Save(dataDir + "WorkingWithRevisions.MoveNodeInTrackedDocument.docx");
+```
+
 
 ### Example source code for Move Node In Tracked Document using Aspose.Words for .NET
 
@@ -66,6 +76,9 @@ Here is the full source code for moving a node in a tracked document using Aspos
 
 
 ```csharp
+
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
 	Document doc = new Document();
 	DocumentBuilder builder = new DocumentBuilder(doc);
 	builder.Writeln("Paragraph 1");
@@ -96,7 +109,7 @@ Here is the full source code for moving a node in a tracked document using Aspos
 
 	// There are 3 additional paragraphs in the move-from range.
 	Console.WriteLine("Paragraph count: {0}", body.Paragraphs.Count);
-	doc.Save(ArtifactsDir + "WorkingWithRevisions.MoveNodeInTrackedDocument.docx");
+	doc.Save(dataDir + "WorkingWithRevisions.MoveNodeInTrackedDocument.docx");
             
 ```
 

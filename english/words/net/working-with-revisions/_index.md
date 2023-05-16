@@ -11,7 +11,7 @@ url: /words/net/working-with-revisions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Accept Revisions](./accept-revisions/) | Acceptez les modifications dans un document Word avec Aspose.Words pour .NET. Code source inclus. Sortie formatée en markdown. |
+| [Accept Revisions](./accept-revisions/) | Learn how to accept revisions to a Word document using Aspose.Words for .NET. |
 | [Get Revision Types](./get-revision-types/) | Get revision types in a Word document with Aspose.Words for .NET. |
 | [Get Revision Groups](./get-revision-groups/) | Get revision group details in a Word document with Aspose.Words for .NET. |
 | [Remove Comments In Pdf](./remove-comments-in-pdf/) | Remove comments in a PDF file with Aspose.Words for .NET. |

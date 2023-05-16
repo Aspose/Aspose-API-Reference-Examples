@@ -2,27 +2,22 @@
 title: Accept Revisions
 linktitle: Accept Revisions
 second_title: Aspose.Words for .NET API Reference
-description: Acceptez les modifications dans un document Word avec Aspose.Words pour .NET. Code source inclus. Sortie formatée en markdown.
+description: Learn how to accept revisions to a Word document using Aspose.Words for .NET
 type: docs
 weight: 10
 url: /words/net/working-with-revisions/accept-revisions/
 ---
 
-In this step-by-step guide, we'll walk you through how to accept changes in a Word document using Aspose.Words for .NET. We'll provide you with the complete source code and show you how to format the markdown output.
+In this tutorial, we will walk you through accepting revisions to a Word document using the Accept Revisions feature of Aspose.Words for .NET. Follow the steps below to understand the source code and accept changes to the document.
 
-## Step 1: Creating the document
+## Step 1: Adding and Editing Document Content
 
-The first step is to create a new document.
+In this example, we are creating a document and adding content. We use several paragraphs to illustrate changes and revisions. Here's how:
 
 ```csharp
+// Path to the documents directory.
+string dataDir = "YOUR DOCUMENTS DIRECTORY";
 Document doc = new Document();
-```
-
-## Step 2: Add paragraphs
-
-Next, we will add paragraphs to the document.
-
-```csharp
 Body body = doc.FirstSection.Body;
 Paragraph para = body.FirstParagraph;
 
@@ -32,95 +27,68 @@ body.AppendParagraph("Paragraph 2.");
 body.AppendParagraph("Paragraph 3.");
 ```
 
-## Step 3: Track revisions
+## Step 2: Track reviews and add reviews
 
-We are going to enable revision tracking in the document.
+We enable revision tracking and add a revision to the document. Here's how:
 
 ```csharp
 doc.StartTrackRevisions("John Doe", DateTime.Now);
-```
 
-## Step 4: Adding a paragraph as a review
-
-We will add a new paragraph which will be considered a revision.
-
-```csharp
+// This paragraph is a revision and will have the corresponding "IsInsertRevision" flag set.
 para = body.AppendParagraph("Paragraph 4.");
+Assert.True(para.IsInsertRevision);
 ```
 
-## Step 5: Delete a paragraph
+## Step 3: Delete a paragraph and manage revisions
 
-We are going to delete an existing paragraph from the document.
+We delete a paragraph and check for saved revisions. Here's how:
 
 ```csharp
 ParagraphCollection paragraphs = body.Paragraphs;
+Assert.AreEqual(4, paragraphs.Count);
 para = paragraphs[2];
 para.Remove();
+
+// As we are tracking revisions, the paragraph still exists in the document, will have the "IsDeleteRevision" flag set
+// and will be displayed as a review in Microsoft Word, until we accept or reject all reviews.
+Assert.AreEqual(4, paragraphs.Count);
+Assert.True(para.IsDeleteRevision);
 ```
 
-## Step 6: Accept Changes
+## Step 4: Accept Changes
 
-We will now accept all the changes made to the document.
+We accept all changes to the document. Here's how:
 
 ```csharp
 doc.AcceptAllRevisions();
+Assert.AreEqual(3, paragraphs.Count);
+Assert.That(para, Is.Empty);
 ```
 
-## Step 7: Stop Tracking Reviews
+## Step 5: Stop tracking reviews
 
-Finally, we'll stop tracking revisions in the document.
+We're going to stop tracking revisions so that changes to the document no longer show up as revisions. Here's how:
 
 ```csharp
 doc.StopTrackRevisions();
 ```
+## Step 6: Saving the document
 
-## Markdown output formats
+After inserting the text input form field, save the document to the desired location using the `Save` method. Make sure to provide the appropriate file path:
 
-The document output can be formatted in markdown to improve readability. For example :
-
-```markdown
-- Paragraph 1.
-- Paragraph 2.
-- Paragraph 3.
+```csharp
+doc.Save(dataDir + "WorkingWithRevisions.AcceptRevisions.docx");
 ```
 
 ### Example source code for Accept Revisions using Aspose.Words for .NET
 
 Here is the complete source code for accepting changes in a document using Aspose.Words for .NET:
 
-```csharp
-Document doc = new Document();
-Body body = doc.FirstSection.Body;
-Paragraph para = body.FirstParagraph;
-
-// Add text to the first paragraph, then add two more paragraphs.
-para.AppendChild(new Run(doc, "Paragraph 1. "));
-body.AppendParagraph("Paragraph 2.");
-body.AppendParagraph("Paragraph 3.");
-
-// Start tracking revisions.
-doc.StartTrackRevisions("John Doe", DateTime.Now);
-
-// Add a revision paragraph.
-para = body.AppendParagraph("Paragraph 4.");
-
-// Get the document's paragraph collection and remove a paragraph.
-ParagraphCollection paragraphs = body.Paragraphs;
-para = paragraphs[2];
-para.Remove();
-
-// Accept all revisions.
-doc.AcceptAllRevisions();
-
-// Stop tracking revisions.
-doc.StopTrackRevisions();
-
-// Save the document.
-doc.Save(ArtifactsDir + "WorkingWithRevisions.AcceptRevisions.docx");
-```
-
 
 ```csharp
+
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
 	Document doc = new Document();
 	Body body = doc.FirstSection.Body;
 	Paragraph para = body.FirstParagraph;
@@ -160,7 +128,7 @@ doc.Save(ArtifactsDir + "WorkingWithRevisions.AcceptRevisions.docx");
 	doc.StopTrackRevisions();
 
 	// Save the document.
-	doc.Save(ArtifactsDir + "WorkingWithRevisions.AcceptRevisions.docx");
+	doc.Save(dataDir + "WorkingWithRevisions.AcceptRevisions.docx");
             
 ```
 

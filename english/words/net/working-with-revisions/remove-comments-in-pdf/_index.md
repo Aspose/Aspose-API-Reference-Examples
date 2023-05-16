@@ -15,6 +15,7 @@ In this step-by-step guide, we are going to tell you how to remove comments in a
 The first step is to load the document containing the comments.
 
 ```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(MyDir + "Revisions.docx");
 ```
 
@@ -31,7 +32,7 @@ doc.LayoutOptions.CommentDisplayMode = CommentDisplayMode.Hide;
 Finally, we will save the document in PDF format by deleting the comments.
 
 ```csharp
-doc.Save(ArtifactsDir + "WorkingWithRevisions.RemoveCommentsInPdf.pdf");
+doc.Save(dataDir + "WorkingWithRevisions.RemoveCommentsInPdf.pdf");
 ```
 
 ## Markdown output formats
@@ -47,10 +48,14 @@ The output can be formatted in markdown to improve readability. For example :
 Here is the complete source code to remove comments in a PDF file using Aspose.Words for .NET:
 
 ```csharp
-Document doc = new Document(MyDir + "Revisions.docx");
 
-// Hide comments in the PDF.
-doc.LayoutOptions.CommentDisplayMode = CommentDisplayMode.Hide;
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(MyDir + "Revisions.docx");
 
-doc.Save(ArtifactsDir + "WorkingWithRevisions.RemoveCommentsInPdf.pdf");
+	// Hide comments in the PDF.
+	doc.LayoutOptions.CommentDisplayMode = CommentDisplayMode.Hide;
+
+	doc.Save(dataDir + "WorkingWithRevisions.RemoveCommentsInPdf.pdf");
+
 ```

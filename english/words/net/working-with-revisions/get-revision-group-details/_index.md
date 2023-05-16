@@ -43,20 +43,22 @@ foreach (Revision revision in doc.Revisions)
 Here is the complete source code to get the details of a group of revisions in a document using Aspose.Words for .NET:
 
 ```csharp
-Document doc = new Document(MyDir + "Revisions.docx");
 
-foreach (Revision revision in doc.Revisions)
-{
-     string groupText = revision.Group != null
-         ? "Revision group text: " + revision.Group.Text
-         : "The revision does not belong to any group";
+	Document doc = new Document(MyDir + "Revisions.docx");
 
-     Console.WriteLine("Type: " + revision.RevisionType);
-     Console.WriteLine("Author: " + revision.Author);
-     Console.WriteLine("Date: " + revision.DateTime);
-     Console.WriteLine("Revision text: " + revision.ParentNode.ToString(SaveFormat.Text));
-     Console.WriteLine(groupText);
-}
+	foreach (Revision revision in doc.Revisions)
+	{
+		 string groupText = revision.Group != null
+			 ? "Revision group text: " + revision.Group.Text
+			 : "The revision does not belong to any group";
+
+		 Console.WriteLine("Type: " + revision.RevisionType);
+		 Console.WriteLine("Author: " + revision.Author);
+		 Console.WriteLine("Date: " + revision.DateTime);
+		 Console.WriteLine("Revision text: " + revision.ParentNode.ToString(SaveFormat.Text));
+		 Console.WriteLine(groupText);
+	}
+	
 ```
 
 

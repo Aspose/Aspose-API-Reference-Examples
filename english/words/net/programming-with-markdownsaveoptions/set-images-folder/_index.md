@@ -44,7 +44,7 @@ using (MemoryStream stream = new MemoryStream())
 
 We save the document to a memory stream using the specified Markdown export options. You can then use the flow to perform other operations, such as saving Markdown content to a file.
 
-# Example source code to set images folder for MarkdownSaveOptions with Aspose.Words for .NET
+### Example source code to set images folder for MarkdownSaveOptions with Aspose.Words for .NET
 
 ```csharp
 // The path to the documents directory.

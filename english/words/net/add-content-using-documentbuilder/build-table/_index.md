@@ -2,7 +2,7 @@
 title: Build Table
 linktitle: Build Table
 second_title: Aspose.Words for .NET API Reference
-description:
+description: Learn how to build a table in a Word document using Aspose.Words for .NET.
 type: docs
 weight: 10
 url: /words/net/add-content-using-documentbuilder/build-table/

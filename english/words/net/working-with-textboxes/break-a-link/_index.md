@@ -2,7 +2,7 @@
 title: Break A Link
 linktitle: Break A Link
 second_title: Aspose.Words for .NET API Reference
-description: Tutorial: How to break links in a Word document with Aspose.Words for .NET.
+description: Learn how to break links in a Word document with Aspose.Words for .NET.
 type: docs
 weight: 10
 url: /words/net/working-with-textboxes/break-a-link/

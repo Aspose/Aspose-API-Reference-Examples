@@ -2,7 +2,7 @@
 title: Check Sequence
 linktitle: Check Sequence
 second_title: Aspose.Words for .NET API Reference
-description: Tutorial: How to check the sequence of TextBoxes in a Word document with Aspose.Words for .NET.
+description: Learn how to check the sequence of TextBoxes in a Word document with Aspose.Words for .NET.
 type: docs
 weight: 10
 url: /words/net/working-with-textboxes/check-sequence/

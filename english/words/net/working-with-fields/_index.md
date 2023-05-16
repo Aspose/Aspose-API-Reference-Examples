@@ -7,6 +7,7 @@ type: docs
 weight: 140
 url: /words/net/working-with-fields/
 ---
+This is a comprehensive resource for learning how to work with fields in Word documents using the Aspose.Words for .NET library. The tutorials provide step-by-step explanations, detailed source code, and practical examples for effectively manipulating and managing fields such as field codes, updates, result displays, IF conditions, mail merges, and even more. This resource is essential for developers wishing to automate the generation and manipulation of Word documents using Aspose.Words for .NET.
 
  ## Tutorials
 | Title | Description |

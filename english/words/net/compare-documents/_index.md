@@ -11,7 +11,7 @@ url: /words/net/compare-documents/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Compare For Equal](./compare-for-equal/) | |
-| [Compare Options](./compare-options/) | |
+| [Compare For Equal](./compare-for-equal/) | Step-by-step guide to explain C# source code of Compare for Equals feature with Aspose.Words for .NET. |
+| [Compare Options](./compare-options/) | Step-by-step guide to explain C# source code of Compare Options feature with Aspose.Words for .NET. |
 | [Comparison Target](./comparison-target/) | |
 | [Comparison Granularity](./comparison-granularity/) | |

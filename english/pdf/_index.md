@@ -14,7 +14,7 @@ Aspose.PDF for .NET tutorials and code-snippets for creating, editing, convertin
 {{% /alert %}}
 
 These are links to some useful resources:
-- [Programming with Document](./programming-with-document/)
+- [Programming with Document](./net/programming-with-document/)
 - [Programming with annotations](./net/annotations/)
  
 

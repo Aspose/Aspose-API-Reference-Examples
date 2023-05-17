@@ -8,6 +8,8 @@ description: "API Tutorials and code-snippets of Aspose.Words for .NET that incl
 is_root: true
 ---
 
+ Aspose.Words for .NET Tutorials is a valuable resource for developers using Aspose.Words for .NET. This tutorial provides complete and detailed documentation on using Aspose.Words in .NET projects. It offers tutorials, sample code, and in-depth explanations of available features and APIs. It is an essential resource for learning how to manipulate and generate Word documents in your .NET applications. Whether you are a beginner or an experienced user, this tutorial will guide you through the various features of Aspose.Words, allowing you to get the most out of this powerful library.
+
 ## Tutorials
 | Title | Description |
 | --- | --- | 
@@ -25,7 +27,10 @@ is_root: true
 | [Working with Revisions](./working-with-revisions/) | Tutorials contain how to accept revisions, get revision types,  get revision groups,  remove comments in PDF,  show revisions in balloons, get revision group details, access revised version, move node in tracked document, and shape revision using Aspose.Words for .NET. |  
 | [Working with Textboxes](./working-with-textboxes/) | Tutorials contain create a link, check sequence, and break a link using Aspose.Words for .NET. |  
 | [Split Document](./split-document/) | Tutorials contain by headings html, by sections html, by sections, page by page, merge documents and by page range |  
-| [Add Content Using Documentbuilder](./add-content-using-documentbuilder/) | Tutorials contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text input form field, insert check box form field, insert combo box form field, insert html, insert hyperlink, insert table of contents, insert inline image, insert floating image, insert paragraph, insert tcfield, cursor position, move to node, move to document and many more. |   
+| [Add Content Using Documentbuilder](./add-content-using-documentbuilder/) | Tutorials contain create new document, document builder insert bookmark, build table, insert horizontal rule, horizontal rule format, insert break, insert text input form field, insert check box form field, insert combo box form field, insert html, insert hyperlink, insert table of contents, insert inline image, insert floating image, insert paragraph, insert tcfield, cursor position, move to node, move to document and many more. |
+| [Clone And Combine Documents](./clone-and-combine-documents/) | Tutorials contain cloning document, insert document at replace and insert document at mail merge. |
+| [Compare Documents](./compare-documents/) | Tutorials contain compare for equal, compare options, comparison target and comparison granularity. |
+| [Document Formatting](./document-formatting/) | Tutorials contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting and apply paragraph style. |   
 | [Programming With Watermark](./programming-with-watermark/) | Tutorials contain add text watermark with specific options |   
 | [Programming With Markdownsaveoptions](./programming-with-markdownsaveoptions/) | Tutorials contain export into markdown with table content alignment and set images folder |  
 | [Basic Conversions](./basic-conversions/) | Tutorials contain doc to docx, docx to rtf, docx to pdf, docx to byte, docx to epub, docx to mhtml and sending email, docx to markdown, docx to txt, txt to docx, pdf to jpeg and pdf to docx |  

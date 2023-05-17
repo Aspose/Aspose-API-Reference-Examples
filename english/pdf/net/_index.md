@@ -13,5 +13,5 @@ Aspose.PDF for .NET Tutorials is a comprehensive and detailed guide to using Asp
 ## Tutorials
 | Title | Description |
 | --- | --- | 
-| [Programming with Document](./programming-with-document/) | This resource offers Aspose.PDF for .NET library tutorials for programming with documents. It covers topics like creating/manipulating PDFs, adding images/tables/links, optimizing documents, and adding security. It's a valuable resource for developers working with PDF documents using Aspose.PDF for .NET. |
-| [Programming with Annotations](./annotations/) | Programming with Annotations includes API Tutorials and code-snippets of Aspose.PDF for .NET that includes adding annotation, deleting annotation, getting annotation info, and many more. |  
+| [Programming with Document](./net/programming-with-document/) | This resource offers Aspose.PDF for .NET library tutorials for programming with documents. It covers topics like creating/manipulating PDFs, adding images/tables/links, optimizing documents, and adding security. It's a valuable resource for developers working with PDF documents using Aspose.PDF for .NET. |
+| [Programming with Annotations](./net/annotations/) | Programming with Annotations includes API Tutorials and code-snippets of Aspose.PDF for .NET that includes adding annotation, deleting annotation, getting annotation info, and many more. |  

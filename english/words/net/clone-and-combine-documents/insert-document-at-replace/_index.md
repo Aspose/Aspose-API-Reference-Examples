@@ -42,7 +42,7 @@ mainDoc.Range.Replace(new Regex("\\[MY_DOCUMENT\\]"), "", options);
 mainDoc.Save(dataDir + "CloneAndCombineDocuments.InsertDocumentAtReplace.docx");
 ```
 
-## Example source code for Insert Document At Replace using Aspose.Words for .NET
+### Example source code for Insert Document At Replace using Aspose.Words for .NET
 
 Here is the complete source code for the Insert Document feature when replacing Aspose.Words for .NET:
 

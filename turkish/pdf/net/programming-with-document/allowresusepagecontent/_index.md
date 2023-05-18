@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak "Sayfa İçeriğinin Yeniden Kullanılmasına İzin Ver" özelliğini etkinleştirerek PDF'leri nasıl optimize edeceğinizi öğrenin. Dosya boyutunu azaltın ve performansı artırın.
 type: docs
 weight: 50
-url: /ru/pdf/net/programming-with-document/allowresusepagecontent/
+url: /tr/pdf/net/programming-with-document/allowresusepagecontent/
 ---
 
 Bu öğreticide, Aspose.PDF for .NET kullanarak "Sayfa İçeriğinin Yeniden Kullanılmasına İzin Ver" özelliğinin nasıl etkinleştirileceğini açıklayacağız. Bu özellik, sayfa içeriğini yeniden kullanarak, dosya boyutunu küçülterek ve performansı artırarak PDF belgesini optimize eder. Aşağıdaki adım adım kılavuzu izleyin:

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki her bölüme numaralı bir listeyi nasıl sıfırlayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-at-each-section/
+url: /tr/words/net/working-with-list/restart-list-at-each-section/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesindeki her bölüme numaralı bir listeyi nasıl sıfırlayacağınızı göstereceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve bunu kendi projelerinize nasıl uygulayacağınızı göstereceğiz.

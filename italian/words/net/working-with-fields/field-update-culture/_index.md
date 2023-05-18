@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come aggiornare la cultura del campo nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/field-update-culture/
+url: /it/words/net/working-with-fields/field-update-culture/
 ---
 
 Ecco una guida dettagliata per spiegare il codice sorgente C# di seguito, che utilizza la funzionalità "Field Culture Update" di Aspose.Words per .NET. Assicurati di seguire attentamente ogni passaggio per ottenere i risultati desiderati.

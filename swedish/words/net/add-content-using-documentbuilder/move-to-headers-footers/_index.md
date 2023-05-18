@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att navigera och ändra sidhuvuden och sidfötter i Word-dokument med denna steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-headers-footers/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-headers-footers/
 ---
 
 det här exemplet kommer vi att utforska funktionen Move To Headers Footers i Aspose.Words för .NET. Aspose.Words är ett kraftfullt dokumentmanipuleringsbibliotek som låter utvecklare skapa, modifiera och konvertera Word-dokument programmatiskt. Funktionen Flytta till sidhuvuden/sidfötter gör att vi kan navigera till olika sidhuvuden och sidfötter i ett dokument och lägga till innehåll till dem.

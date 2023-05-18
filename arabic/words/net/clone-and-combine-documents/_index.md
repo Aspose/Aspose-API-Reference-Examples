@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على استنساخ المستند وإدراج المستند عند الاستبدال وإدراج المستند عند دمج المراسلات.
 type: docs
 weight: 1470
-url: /ru/words/net/clone-and-combine-documents/
+url: /ar/words/net/clone-and-combine-documents/
 ---
 تقدم Clone And Combine Documents دروسًا حول النسخ والجمع بين المستندات باستخدام Aspose.Words for .NET. توضح البرامج التعليمية بالتفصيل كيفية استنساخ المستندات ودمجها في سيناريوهات مختلفة. يقدمون نموذجًا من التعليمات البرمجية وشروحات خطوة بخطوة لإرشادك خلال العملية. إنه مورد مفيد لأولئك الذين يعملون مع Aspose.Words for .NET ويريدون معرفة كيفية التعامل مع المستندات بفاعلية باستخدام هذه الميزات.
 

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie hervorgehobenen Text mit Aspose.PDF für .NET extrahieren.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /de/pdf/net/annotations/extracthighlightedtext/
 ---
 Um hervorgehobenen Text aus einem PDF-Dokument zu extrahieren, können Sie die Aspose.PDF für .NET-API verwenden. Diese API bietet eine einfache Möglichkeit, den gesamten Text abzurufen, der in einem Dokument hervorgehoben wurde.
 

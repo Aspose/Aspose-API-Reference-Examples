@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a anotar archivos PDF de forma invisible utilizando el código fuente de C# con Aspose.PDF para .NET. Guía paso por paso.
 type: docs
 weight: 100
-url: /ru/pdf/net/annotations/invisibleannotation/
+url: /es/pdf/net/annotations/invisibleannotation/
 ---
 ## Comprender las anotaciones en documentos PDF
 

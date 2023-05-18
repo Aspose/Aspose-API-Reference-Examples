@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a obtener el separador de estilo de párrafo con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/get-paragraph-style-separator/
+url: /es/words/net/document-formatting/get-paragraph-style-separator/
 ---
 
 En este tutorial, lo guiaremos a través de cómo usar la función Obtener separador de estilo de párrafo con Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y aplicar los cambios.

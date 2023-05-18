@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kopf- und Fußzeilen aus dem vorherigen Abschnitt in Word-Dokumente kopieren.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /de/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET Kopf- und Fußzeilen aus dem vorherigen Abschnitt in ein Word-Dokument kopieren. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

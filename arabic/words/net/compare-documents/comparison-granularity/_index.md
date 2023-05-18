@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على ميزة مقارنة التفاصيل في Aspose.Words for .NET التي تسمح بمقارنة المستندات حرفًا بحرف ، والإبلاغ عن التغييرات التي تم إجراؤها.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-granularity/
+url: /ar/words/net/compare-documents/comparison-granularity/
 ---
 فيما يلي دليل تفصيلي خطوة بخطوة لشرح الكود المصدري C # أدناه ، والذي يستخدم ميزة مقارنة التفاصيل في Aspose.Words for .NET.
 

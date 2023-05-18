@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile otomatik bağlantı eklemeyi öğrenin Adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/autolink/
+url: /tr/words/net/working-with-markdown/autolink/
 ---
 
 Bu örnekte "Autolink" özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. Bu özellik, belgenize otomatik olarak köprüler eklemenizi sağlar.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET reine Textdateien (Txt) in Word-Dokumente (Docx) konvertieren. Schritt-für-Schritt-Anleitung mit Beispielcode.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/txt-to-docx/
+url: /de/words/net/basic-conversions/txt-to-docx/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET eine reine Textdatei (Txt) in ein Word-Dokument im Docx-Format konvertieren. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

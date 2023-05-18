@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام مستند المالك في Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/owner-document/
+url: /ar/words/net/working-with-node/owner-document/
 ---
 
 فيما يلي دليل تفصيلي خطوة بخطوة لشرح كود مصدر C # أدناه والذي يوضح كيفية استخدام وظائف المستندات الاحتكارية مع Aspose.Words for .NET.

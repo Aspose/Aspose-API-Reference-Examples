@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come convertire i documenti di Word dal formato .doc al formato Docx utilizzando Aspose.Words per .NET. Tutorial passo passo con codice sorgente di esempio.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/doc-to-docx/
+url: /it/words/net/basic-conversions/doc-to-docx/
 ---
 
 In questo tutorial, ti guideremo attraverso il processo passo-passo dell'utilizzo di Aspose.Words per .NET per convertire un documento Word in formato .doc nel formato Docx. Spiegheremo il codice sorgente C# fornito e ti guideremo su come implementarlo nei tuoi progetti.

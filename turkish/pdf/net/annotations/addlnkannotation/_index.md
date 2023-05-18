@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Adım adım kılavuz ve tam kaynak kodu ile Aspose.PDF for .NET kullanarak C# dilinde Ink Annotation özelliğinin PDF belgelerine nasıl ekleneceğini öğrenin.
 type: docs
 weight: 20
-url: /ru/pdf/net/annotations/addlnkannotation/
+url: /tr/pdf/net/annotations/addlnkannotation/
 ---
 Aspose.PDF for .NET, geliştiricilerin çeşitli PDF işlemlerini gerçekleştirmesini sağlayan güçlü bir kitaplıktır. Böyle bir işlem, PDF belgelerine Mürekkep Açıklaması eklemektir. Bu makalede, Aspose.PDF for .NET kullanarak Ink Annotation eklemek için C# kaynak kodunu açıklayan adım adım bir kılavuz sağlayacağız. Başlayalım!
 

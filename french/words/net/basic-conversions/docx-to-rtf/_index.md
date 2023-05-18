@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à convertir des documents Word du format Docx au format RTF en utilisant Aspose.Words pour .NET. Tutoriel étape par étape avec un exemple de code source.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/docx-to-rtf/
+url: /fr/words/net/basic-conversions/docx-to-rtf/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment utiliser Aspose.Words pour .NET pour convertir un document Word au format Docx en RTF. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

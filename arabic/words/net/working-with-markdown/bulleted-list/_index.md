@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء قائمة نقطية باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /ar/words/net/working-with-markdown/bulleted-list/
 ---
 
 في هذا البرنامج التعليمي ، سنخبرك بكيفية إنشاء قائمة نقطية باستخدام Aspose.Words for .NET. يتم استخدام قائمة نقطية لسرد العناصر بدون استخدام الترقيم.

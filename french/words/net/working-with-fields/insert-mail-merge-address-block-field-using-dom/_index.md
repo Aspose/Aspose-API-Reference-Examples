@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ de bloc d'adresse de fusion et publipostage dans vos documents Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
+url: /fr/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C# ci-dessous, qui utilise la fonctionnalité "Insert Mail Merge Address Block Field" d'Aspose.Words pour .NET. Assurez-vous de suivre attentivement chaque étape pour obtenir les résultats souhaités.

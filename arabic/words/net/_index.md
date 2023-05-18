@@ -3,7 +3,7 @@ title: Aspose.Words for .NET Tutorials
 linktitle: Aspose.Words for .NET Tutorials
 type: docs
 weight: 10
-url: /ru/words/net/
+url: /ar/words/net/
 description: "البرامج التعليمية لواجهة برمجة التطبيقات ومقتطفات التعليمات البرمجية لـ Aspose.Words for .NET والتي تتضمن إنشاء وتحرير وتحويل وطباعة والعديد من الميزات الأخرى لاستخدام معالجة مستندات Word"
 is_root: true
 ---

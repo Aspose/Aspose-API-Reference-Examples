@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer une licence limitée à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /fr/words/net/apply-license/apply-metered-license/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à appliquer une licence limitée à l'aide d'Aspose.Words pour .NET. Nous vous guiderons tout au long du processus avec des instructions détaillées étape par étape et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure d'appliquer une licence limitée et de tirer parti des fonctionnalités avancées d'Aspose.Words pour vos besoins de traitement de documents.

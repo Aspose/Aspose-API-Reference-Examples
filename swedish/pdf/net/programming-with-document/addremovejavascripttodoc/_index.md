@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till och tar bort JavaScript från PDF-dokument med Aspose.PDF för .NET. Steg-för-steg-guide med kodhandledning för skript på dokumentnivå.
 type: docs
 weight: 30
-url: /ru/pdf/net/programming-with-document/addremovejavascripttodoc/
+url: /sv/pdf/net/programming-with-document/addremovejavascripttodoc/
 ---
 
 För att lägga till och ta bort JavaScript från PDF-dokument kommer vi att använda Aspose.PDF för .NET-biblioteket. Detta kraftfulla bibliotek låter oss manipulera PDF-filer i .NET-applikationer. Följ steg-för-steg-instruktionerna nedan för att lägga till och ta bort JavaScript med Aspose.PDF för .NET.

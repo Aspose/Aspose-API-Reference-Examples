@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Greifen Sie mit Aspose.Words für .NET auf eine überarbeitete Version eines Word-Dokuments zu.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/access-revised-version/
+url: /de/words/net/working-with-revisions/access-revised-version/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET auf die überarbeitete Version eines Word-Dokuments zugreifen. Wir stellen Ihnen den vollständigen Quellcode zur Verfügung und zeigen Ihnen, wie Sie die Markdown-Ausgabe formatieren.

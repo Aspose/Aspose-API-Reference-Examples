@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Hervorhebungen (fett und kursiv) mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /de/words/net/working-with-markdown/emphases/
 ---
 
 In diesem Beispiel erklären wir, wie Hervorhebungen mit Aspose.Words für .NET verwendet werden. Hervorhebungen werden verwendet, um bestimmte Teile des Textes hervorzuheben, z. B. Fett- und Kursivschrift.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a eliminar secuencias no utilizadas de archivos PDF con Aspose.PDF para .NET. Nuestra guía paso a paso.
 type: docs
 weight: 270
-url: /ru/pdf/net/programming-with-document/removeunusedstreams/
+url: /es/pdf/net/programming-with-document/removeunusedstreams/
 ---
 En este ejemplo, analizaremos cómo eliminar secuencias no utilizadas de documentos PDF utilizando Aspose.PDF para .NET. Proporcionaremos una guía paso a paso sobre cómo hacer esto, incluido el código fuente completo con explicaciones.
 

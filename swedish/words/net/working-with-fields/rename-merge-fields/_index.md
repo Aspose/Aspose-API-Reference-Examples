@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: I den här handledningen kommer du att lära dig hur du byter namn på sammanslagningsfält i ett dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /sv/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som använder funktionen för att byta namn på sammanslagningsfält i Aspose.Words för .NET. Följ varje steg noggrant för att få önskat resultat.

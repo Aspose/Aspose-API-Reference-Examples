@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per convalidare i documenti PDF rispetto allo standard PDFABS con la nostra guida dettagliata e l'esempio di codice.
 type: docs
 weight: 380
-url: /ru/pdf/net/programming-with-document/validatepdfabstandard/
+url: /it/pdf/net/programming-with-document/validatepdfabstandard/
 ---
 Se si lavora con documenti PDF in .NET, potrebbe essere necessario convalidare il PDF rispetto a uno standard come PDF/A. Aspose.PDF per .NET fornisce un metodo facile da usare per convalidare un documento PDF rispetto allo standard PDF/A-1a. In questo articolo, forniremo una guida dettagliata per spiegare il seguente codice sorgente C# per ottenere e convalidare lo standard PDF/A-1a utilizzando Aspose.PDF per .NET.
 

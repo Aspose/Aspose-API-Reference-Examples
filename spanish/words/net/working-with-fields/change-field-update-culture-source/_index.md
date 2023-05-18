@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Cambiar la fuente de cultura de actualización de campo, guía paso a paso para modificar la fuente de cultura en Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /es/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 En este tutorial, lo guiaremos a través del proceso de cambio de la fuente cultural de actualización de campo en documentos de Word usando Aspose.Words para .NET. Al modificar la fuente de referencia cultural, puede controlar el formato de la fecha durante la actualización de campos y las operaciones de combinación de correspondencia. Le proporcionaremos el código fuente de C# necesario y las instrucciones paso a paso para lograrlo.

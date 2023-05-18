@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para eliminar campos de combinación en sus documentos de Word utilizando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /es/words/net/working-with-fields/delete-fields/
 ---
 
 Para explicar cómo usar la función "Eliminar campos" en Aspose. Words para .NET hemos creado una guía paso a paso a continuación. 

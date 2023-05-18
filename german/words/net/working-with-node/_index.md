@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials erfahren Sie, wie Sie den Knotentyp verwenden, den übergeordneten Knoten und das Eigentümerdokument abrufen, alle Knoten rekursiv verwenden, alle Knoten durchlaufen, untergeordnete Knoten aufzählen und Absatzknoten in einem Word-Dokument mit Aspose.Words für .NET erstellen.
 type: docs
 weight: 1000
-url: /ru/words/net/working-with-node/
+url: /de/words/net/working-with-node/
 ---
 „Arbeiten mit Revisionen“ ist eine umfassende Ressource, die Sie durch die Arbeit mit Revisionen in Word-Dokumenten mithilfe der Aspose.Words für .NET-Bibliothek führt. Die Tutorials zeigen Ihnen Schritt für Schritt, wie Sie Revisionen hinzufügen, löschen, akzeptieren und ablehnen, wie Sie Revisionen im Dokument anzeigen, wie Sie verschiedene Versionen vergleichen und vieles mehr. Sie erfahren, wie Sie mit Bewertungen für die Zusammenarbeit und das Änderungsmanagement in Ihren Word-Dokumenten effektiv arbeiten. Diese Ressource ist wichtig für Entwickler, die die Revisionsverwaltung in ihren Aspose.Words für .NET-basierte Anwendungen automatisieren möchten.
 

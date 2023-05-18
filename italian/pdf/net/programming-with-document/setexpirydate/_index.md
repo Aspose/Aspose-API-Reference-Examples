@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare la data di scadenza nei documenti PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /it/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF per .NET è una potente libreria che offre varie funzionalità per lavorare con i file PDF. Una di queste funzionalità è la possibilità di impostare una data di scadenza per un documento PDF. In questo tutorial, ti guideremo attraverso il processo di impostazione di una data di scadenza per un documento PDF utilizzando Aspose.PDF per .NET. 
 

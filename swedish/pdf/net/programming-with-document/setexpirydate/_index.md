@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in utgångsdatum i PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /sv/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF för .NET är ett kraftfullt bibliotek som tillhandahåller olika funktioner för att arbeta med PDF-filer. En sådan funktion är möjligheten att ställa in ett utgångsdatum för ett PDF-dokument. I den här handledningen går vi igenom processen att ställa in ett utgångsdatum för ett PDF-dokument med Aspose.PDF för .NET. 
 

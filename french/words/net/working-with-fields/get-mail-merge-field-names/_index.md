@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment obtenir des noms de champs de fusion et publipostage dans vos documents Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/get-mail-merge-field-names/
+url: /fr/words/net/working-with-fields/get-mail-merge-field-names/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C# ci-dessous, qui utilise la fonctionnalité "Get Merge Field Names" d'Aspose.Words pour .NET. Assurez-vous de suivre attentivement chaque étape pour obtenir les résultats souhaités.

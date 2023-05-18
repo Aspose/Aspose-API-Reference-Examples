@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come lavorare con le proprietà dei campi modulo nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-work-with-properties/
+url: /it/words/net/working-with-formfields/form-fields-work-with-properties/
 ---
 
 In questo tutorial passo-passo, ti guideremo su come lavorare con le proprietà del campo modulo in un documento Word utilizzando Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام Aspose.Words for .NET للانتقال إلى نهاية إشارة مرجعية في مستندات Word باستخدام هذا الدليل التفصيلي خطوة بخطوة.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
+url: /ar/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
 ---
 
 في هذا المثال ، سوف نستكشف ميزة Move To Bookmark End في Aspose.Words for .NET. Aspose.Words مكتبة قوية لمعالجة المستندات تمكن المطورين من إنشاء وتعديل وتحويل مستندات Word برمجيًا. تسمح لنا ميزة Move To Bookmark End بالانتقال إلى نهاية إشارة مرجعية معينة داخل مستند وإضافة محتوى بعدها.

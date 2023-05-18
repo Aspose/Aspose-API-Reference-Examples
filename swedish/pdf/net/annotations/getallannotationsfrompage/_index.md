@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att hämta alla kommentarer från en PDF-sida med denna steg-för-steg-guide.
 type: docs
 weight: 70
-url: /ru/pdf/net/annotations/getallannotationsfrompage/
+url: /sv/pdf/net/annotations/getallannotationsfrompage/
 ---
 Den här artikeln guidar dig genom processen att extrahera alla kommentarer från en PDF-sida med Aspose.PDF för .NET. Aspose.PDF för .NET är ett bibliotek som låter utvecklare skapa, redigera och konvertera PDF-dokument. Med hjälp av denna guide kommer du att kunna få alla kommentarer från en specifik PDF-sida med den medföljande C#-källkoden.
 

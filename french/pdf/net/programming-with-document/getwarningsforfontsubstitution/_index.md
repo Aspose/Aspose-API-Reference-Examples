@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser la fonctionnalité GetWarningsForFontSubstitution d'Aspose.PDF pour .NET pour détecter les avertissements de substitution de polices lors de l'ouverture d'un document PDF.
 type: docs
 weight: 190
-url: /ru/pdf/net/programming-with-document/getwarningsforfontsubstitution/
+url: /fr/pdf/net/programming-with-document/getwarningsforfontsubstitution/
 ---
 
  Aspose.PDF pour .NET est une bibliothèque de manipulation PDF populaire qui permet aux développeurs de créer, éditer et convertir des fichiers PDF dans leurs applications .NET. L'une des fonctionnalités offertes par cette bibliothèque est la capacité de détecter les avertissements de substitution de polices lors de l'ouverture d'un document PDF. Ce didacticiel vous guidera à travers les étapes d'utilisation de`GetWarningsForFontSubstitution` fonctionnalité d'Aspose.PDF pour .NET pour détecter les avertissements de substitution de police lors de l'ouverture d'un document PDF.

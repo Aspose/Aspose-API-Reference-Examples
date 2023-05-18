@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar XMPMetadata en archivos PDF usando Aspose.PDF para .NET. Siga esta guía paso a paso.
 type: docs
 weight: 330
-url: /ru/pdf/net/programming-with-document/setxmpmetadata/
+url: /es/pdf/net/programming-with-document/setxmpmetadata/
 ---
 En este artículo, proporcionaremos una guía paso a paso sobre cómo usar Aspose.PDF para .NET para configurar metadatos XMP en un archivo PDF. Proporcionaremos un código fuente de ejemplo completo al final del artículo.
 

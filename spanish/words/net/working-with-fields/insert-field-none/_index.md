@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a Insérez un champ AUCUN dans vos documentos Word con Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field-none/
+url: /es/words/net/working-with-fields/insert-field-none/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que utiliza la función "Insertar campo NINGUNO" de Aspose.Words para .NET. Asegúrese de seguir cada paso cuidadosamente para obtener los resultados deseados.

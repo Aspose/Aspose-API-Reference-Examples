@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir OLE nesnesini simge olarak nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
+url: /tr/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
 ---
 
 Aşağıda, Aspose.Words for .NET kullanılarak bir OLE nesnesinin bir simge olarak nasıl ekleneceğini gösteren C# kaynak kodunu açıklayan adım adım bir kılavuz bulunmaktadır.

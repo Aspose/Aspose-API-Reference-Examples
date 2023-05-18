@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come impostare la cartella delle immagini durante l'esportazione in Markdown con Aspose.Words per .NET. Personalizza il posizionamento delle immagini per una migliore organizzazione e integrazione.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/set-images-folder/
+url: /it/words/net/programming-with-markdownsaveoptions/set-images-folder/
 ---
 
 Ecco una guida passo passo per spiegare il seguente codice sorgente C# che aiuta a impostare la cartella delle immagini per le opzioni di esportazione Markdown utilizzando la libreria Aspose.Words per .NET. Assicurati di aver incluso la libreria Aspose.Words nel tuo progetto prima di utilizzare questo codice.

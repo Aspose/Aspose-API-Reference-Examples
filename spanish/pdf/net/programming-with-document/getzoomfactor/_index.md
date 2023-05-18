@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener el factor de zoom de un archivo PDF con esta guía paso a paso.
 type: docs
 weight: 210
-url: /ru/pdf/net/programming-with-document/getzoomfactor/
+url: /es/pdf/net/programming-with-document/getzoomfactor/
 ---
 Aspose.PDF para .NET es una biblioteca de manipulación de PDF que proporciona muchas funciones para realizar diversas operaciones en documentos PDF. Una de estas funciones es la capacidad de obtener el factor de zoom de un archivo PDF. En este tutorial, explicaremos cómo usar Aspose.PDF para .NET para obtener el factor de zoom de un archivo PDF usando el código fuente de C#.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te sahip belgesini nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/owner-document/
+url: /tr/words/net/working-with-node/owner-document/
 ---
 
 Aspose.Words for .NET ile tescilli belge işlevselliğinin nasıl kullanılacağını gösteren aşağıdaki C# kaynak kodunu açıklayan adım adım bir kılavuz.

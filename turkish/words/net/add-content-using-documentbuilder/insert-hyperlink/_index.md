@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak Word belgelerine köprüleri nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-hyperlink/
+url: /tr/words/net/add-content-using-documentbuilder/insert-hyperlink/
 ---
 
 Bu kapsamlı eğitimde, Aspose.Words for .NET kullanarak bir Word belgesine nasıl köprü ekleneceğini öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda belgelerinize tıklanabilir köprüler ekleyebileceksiniz.

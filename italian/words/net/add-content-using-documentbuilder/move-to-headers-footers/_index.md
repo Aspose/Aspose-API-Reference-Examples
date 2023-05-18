@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare Aspose.Words per .NET per navigare e modificare intestazioni e piè di pagina nei documenti di Word con questa guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-headers-footers/
+url: /it/words/net/add-content-using-documentbuilder/move-to-headers-footers/
 ---
 
 In questo esempio, esploreremo la funzione Move To Headers Footers di Aspose.Words per .NET. Aspose.Words è una potente libreria di manipolazione dei documenti che consente agli sviluppatori di creare, modificare e convertire i documenti di Word a livello di codice. La funzione Sposta in intestazioni/piè di pagina ci consente di navigare tra diverse intestazioni e piè di pagina all'interno di un documento e di aggiungervi contenuto.

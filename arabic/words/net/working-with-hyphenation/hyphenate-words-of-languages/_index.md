@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية وصل الكلمات بلغات مختلفة في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenate-words-of-languages/
+url: /ar/words/net/working-with-hyphenation/hyphenate-words-of-languages/
 ---
 
 في هذا البرنامج التعليمي المفصل خطوة بخطوة ، سنوجهك حول كيفية وصل الكلمات بلغات مختلفة في مستندات Word باستخدام Aspose.Words for .NET. سنشرح كود المصدر C # المقدم ونوضح لك كيفية تنفيذه في مشاريعك الخاصة.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: قم بالوصول إلى نسخة منقحة من مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/access-revised-version/
+url: /ar/words/net/working-with-revisions/access-revised-version/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سوف نوضح لك كيفية الوصول إلى النسخة المنقحة من مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile belgeye özgü bilgilere erişmek için düğüm türünü nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/use-node-type/
+url: /tr/words/net/working-with-node/use-node-type/
 ---
 
 Aspose.Words for .NET ile düğüm tipi işlevselliğinin nasıl kullanılacağını gösteren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz.

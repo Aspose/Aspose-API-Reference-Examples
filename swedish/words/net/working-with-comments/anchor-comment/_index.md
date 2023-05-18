@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du förankrar kommentarsvar till specifik text i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/anchor-comment/
+url: /sv/words/net/working-with-comments/anchor-comment/
 ---
 
 den här omfattande handledningen kommer du att lära dig hur du förankrar kommentarsvar till specifik text i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna associera kommentarer med specifik text i dina dokument.

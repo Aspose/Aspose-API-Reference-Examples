@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar formato personalizado a sus párrafos con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/paragraph-formatting/
+url: /es/words/net/document-formatting/paragraph-formatting/
 ---
 
 En este tutorial, lo guiaremos a través de cómo usar la función de formato de párrafo con Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y aplicar los cambios.

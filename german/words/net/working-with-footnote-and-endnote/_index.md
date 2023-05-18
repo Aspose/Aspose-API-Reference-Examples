@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials wird erläutert, wie Sie mit Aspose.Words für .NET Fußnoten und Endnoten in Word-Dokumenten festlegen
 type: docs
 weight: 660
-url: /ru/words/net/working-with-footnote-and-endnote/
+url: /de/words/net/working-with-footnote-and-endnote/
 ---
 „Arbeiten mit Fußnoten und Endnoten“ ist eine umfassende Ressource, die Sie durch die Arbeit mit Fußnoten und Endnoten in Ihren Word-Dokumenten mithilfe der Aspose.Words-Bibliothek für .NET führt. Die Tutorials bieten detaillierte Schritt-für-Schritt-Erklärungen, vollständigen Quellcode und praktische Beispiele zum Hinzufügen, Ändern und Entfernen von Fuß- und Endnoten. Sie erfahren außerdem, wie Sie das Format und den Stil von Notizen anpassen, zwischen Notizen navigieren und sie in verschiedene Formate wie PDF oder HTML konvertieren. Diese Ressource ist für Entwickler unerlässlich, die Referenzen und Anmerkungen in ihren Word-Dokumenten mit Aspose.Words für .NET verwalten möchten.
 

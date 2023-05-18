@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar anpassade fält i dina Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field-using-field-builder/
+url: /sv/words/net/working-with-fields/insert-field-using-field-builder/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan, som använder funktionen "Infoga ett fält med FieldBuilder" i Aspose.Words för .NET. Se till att följa varje steg noggrant för att få önskat resultat.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Freitextanmerkungsfunktion von Aspose.PDF für .NET mithilfe von C#-Quellcode aktualisieren.
 type: docs
 weight: 160
-url: /ru/pdf/net/annotations/updatefreetextannotation/
+url: /de/pdf/net/annotations/updatefreetextannotation/
 ---
 In diesem Artikel stellen wir eine Schritt-für-Schritt-Anleitung bereit, um den folgenden C#-Quellcode der Funktion „Freitextanmerkungen aktualisieren“ von Aspose.PDF für .NET zu erklären. Wir gehen jede Codezeile durch und erklären, was sie bewirkt, damit auch Anfänger sie verstehen können.
 

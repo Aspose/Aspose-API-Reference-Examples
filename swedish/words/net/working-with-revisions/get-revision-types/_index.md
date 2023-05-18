@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Få versionstyper i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-types/
+url: /sv/words/net/working-with-revisions/get-revision-types/
 ---
 
 I den här steg-för-steg-guiden kommer vi att berätta för dig hur du får de typer av revisioner i ett Word-dokument med Aspose.Words för .NET. Vi kommer att förse dig med den fullständiga källkoden och visa dig hur du formaterar markdown-utdata.

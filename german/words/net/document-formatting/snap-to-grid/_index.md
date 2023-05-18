@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Snap to Grid-Funktion mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/snap-to-grid/
+url: /de/words/net/document-formatting/snap-to-grid/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie die Funktion „An Raster ausrichten“ mit Aspose.Words für .NET verwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und die Änderungen anzuwenden.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar formaterade stycken i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-paragraph/
+url: /sv/words/net/add-content-using-documentbuilder/insert-paragraph/
 ---
 
 den här omfattande handledningen kommer du att lära dig hur du infogar stycken i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna lägga till formaterade stycken i dina dokument.

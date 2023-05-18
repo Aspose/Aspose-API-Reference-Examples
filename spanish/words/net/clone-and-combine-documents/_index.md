@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen documento de clonación, insertar documento en reemplazo e insertar documento en combinación de correspondencia.
 type: docs
 weight: 1470
-url: /ru/words/net/clone-and-combine-documents/
+url: /es/words/net/clone-and-combine-documents/
 ---
 Clone And Combine Documents ofrece tutoriales sobre cómo clonar y combinar documentos usando Aspose.Words para .NET. Los tutoriales explican en detalle cómo clonar y combinar documentos en diferentes escenarios. Proporcionan código de muestra y explicaciones paso a paso para guiarlo a través del proceso. Es un recurso útil para aquellos que trabajan con Aspose.Words para .NET y desean aprender a manipular documentos de manera efectiva utilizando estas funciones.
 

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, adım adım talimatlar ve örnek kaynak kodu dahil olmak üzere Aspose.PDF for .NET kullanarak bir PDF sayfasının nasıl yeniden düzenleneceğini açıklamaktadır.
 type: docs
 weight: 120
-url: /ru/pdf/net/annotations/redactpage/
+url: /tr/pdf/net/annotations/redactpage/
 ---
 Aspose.PDF for .NET kullanarak bir PDF belgesindeki hassas bilgileri yeniden düzenlemek istiyorsanız, şanslısınız! İşte başlamanız için adım adım bir kılavuz:
 

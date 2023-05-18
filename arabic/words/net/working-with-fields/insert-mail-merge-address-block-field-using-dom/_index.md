@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقل كتلة عنوان دمج المراسلات في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
+url: /ar/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
 ---
 
 فيما يلي دليل تفصيلي خطوة بخطوة لشرح الكود المصدري C # أدناه ، والذي يستخدم ميزة "إدراج حقل كتلة عنوان دمج المراسلات" في Aspose.Words for .NET. تأكد من اتباع كل خطوة بعناية للحصول على النتائج المرجوة.

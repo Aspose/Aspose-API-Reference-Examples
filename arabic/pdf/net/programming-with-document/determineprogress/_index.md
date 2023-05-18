@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحديد تقدم عملية تحويل مستند PDF باستخدام Aspose.PDF for .NET مع هذا الدليل خطوة بخطوة ومثال التعليمات البرمجية.
 type: docs
 weight: 110
-url: /ru/pdf/net/programming-with-document/determineprogress/
+url: /ar/pdf/net/programming-with-document/determineprogress/
 ---
 
 يوفر Aspose.PDF for .NET ميزة تسمح لك بتحديد تقدم عملية تحويل مستند PDF. في هذا البرنامج التعليمي ، سنقدم دليلًا تفصيليًا حول كيفية تنفيذ هذه الميزة باستخدام C # و Aspose.PDF لـ .NET.

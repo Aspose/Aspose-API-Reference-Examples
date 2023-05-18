@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar una tabla de contenido en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-table-of-contents/
+url: /es/words/net/add-content-using-documentbuilder/insert-table-of-contents/
 ---
 
 En este completo tutorial, aprenderá cómo insertar una tabla de contenido en un documento de Word usando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá generar una tabla de contenido con encabezados y números de página apropiados.

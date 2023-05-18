@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Web için Optimize Belgesi, kullanıcı deneyimi için çok önemlidir. Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bunu nasıl yapacağınızı öğrenin.
 type: docs
 weight: 240
-url: /ru/pdf/net/programming-with-document/optimizedocument/
+url: /tr/pdf/net/programming-with-document/optimizedocument/
 ---
 PDF belgelerini web için optimize etmek, hızlı ve verimli bir kullanıcı deneyimi sağlamak için çok önemli bir adımdır. Bu adım adım kılavuz, PDF belgelerinizi web için optimize etmek üzere Aspose.PDF for .NET'i nasıl kullanacağınızı öğretecektir.
 

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata per spiegare il codice sorgente C# della funzione HTML By Heading di Aspose.Words per .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /it/words/net/split-document/by-headings-html/
 ---
 In questo tutorial, ti illustreremo come suddividere un documento Word in parti più piccole utilizzando la funzione Intestazione HTML di Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e generare documenti HTML separati basati sull'intestazione.
 

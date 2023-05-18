@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تغيير تباعد الفقرات الآسيوية والمسافات البادئة باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /ar/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية تغيير المسافات والمسافات البادئة لفقرة آسيوية باستخدام Aspose.Words for .NET. اتبع الخطوات أدناه لفهم شفرة المصدر وتطبيق التغييرات.

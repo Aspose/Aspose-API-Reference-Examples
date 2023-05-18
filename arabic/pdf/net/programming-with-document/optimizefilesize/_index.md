@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحسين حجم ملف مستندات PDF الخاصة بك باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 250
-url: /ru/pdf/net/programming-with-document/optimizefilesize/
+url: /ar/pdf/net/programming-with-document/optimizefilesize/
 ---
 Aspose.PDF for .NET هي مكتبة تتيح للمطورين إنشاء ملفات PDF وتحريرها ومعالجتها في تطبيقات .NET الخاصة بهم. واحدة من أكثر الميزات المفيدة لهذه المكتبة هي القدرة على تحسين حجم ملف مستند PDF. في هذه المقالة ، سنقدم دليلاً خطوة بخطوة لتحسين حجم ملف مستند PDF باستخدام Aspose.PDF لـ .NET.
 

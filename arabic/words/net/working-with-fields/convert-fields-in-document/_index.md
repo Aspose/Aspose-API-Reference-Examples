@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لتحويل حقول المستند إلى نص باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-document/
+url: /ar/words/net/working-with-fields/convert-fields-in-document/
 ---
 
 في هذا البرنامج التعليمي ، سنوجهك دليلًا خطوة بخطوة باستخدام وظيفة ConvertFieldsInDocument في Aspose.Words لبرنامج .NET. سنشرح بالتفصيل الكود المصدري C # اللازم لهذه الميزة ونقدم عينة من تنسيقات إخراج تخفيض السعر.

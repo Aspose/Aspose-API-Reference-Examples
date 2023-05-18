@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Seitenfelder in Text im Hauptteil eines Word-Dokuments konvertieren.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-body/
+url: /de/words/net/working-with-fields/convert-fields-in-body/
 ---
 
 In diesem Schritt-für-Schritt-Tutorial führen wir Sie durch die Verwendung der ConvertFieldsInBody-Funktion von Aspose.Words für .NET mithilfe des bereitgestellten C#-Quellcodes. Mit dieser Funktion können Sie bestimmte Felder im Hauptteil Ihres Dokuments in einfachen Text umwandeln und so die Verarbeitung Ihrer Dokumente erleichtern. Befolgen Sie die nachstehenden Schritte, um diese Funktion effektiv zu nutzen.

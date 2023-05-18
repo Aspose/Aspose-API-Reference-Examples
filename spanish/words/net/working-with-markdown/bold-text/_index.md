@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a poner texto en negrita con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bold-text/
+url: /es/words/net/working-with-markdown/bold-text/
 ---
 
 En este ejemplo, le diremos cómo poner texto en negrita con Aspose.Words para .NET. El texto en negrita lo hace más visible y le da más protagonismo.

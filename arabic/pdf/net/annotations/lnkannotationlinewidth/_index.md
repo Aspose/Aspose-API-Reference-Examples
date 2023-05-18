@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: توفر هذه المقالة دليلاً خطوة بخطوة لتعيين عرض خط التعليق التوضيحي lnk باستخدام Aspose.PDF لـ .NET.
 type: docs
 weight: 110
-url: /ru/pdf/net/annotations/lnkannotationlinewidth/
+url: /ar/pdf/net/annotations/lnkannotationlinewidth/
 ---
 Aspose.PDF هي أداة قوية ومستخدمة على نطاق واسع للعمل مع ملفات PDF في تطبيقات .NET. يوفر مجموعة متنوعة من الميزات لإنشاء ملفات PDF وتحريرها ومعالجتها ، بما في ذلك القدرة على إضافة التعليقات التوضيحية إلى الصفحات. في هذا البرنامج التعليمي ، سنشرح كيفية تعيين عرض خط التعليق التوضيحي للرابط باستخدام Aspose.PDF لـ .NET.
 

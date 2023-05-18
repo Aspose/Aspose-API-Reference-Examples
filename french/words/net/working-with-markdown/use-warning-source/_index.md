@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser la source d'avertissement avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /fr/words/net/working-with-markdown/use-warning-source/
 ---
 
 Dans cet exemple, nous allons vous montrer comment utiliser la source d'avertissement avec Aspose.Words pour .NET. La source d'avertissement indique l'origine de l'avertissement lors de l'utilisation de la fonction de rappel.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener fuentes no incrustadas y optimizar archivos PDF. Una guía paso a paso.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /es/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF para .NET es una potente biblioteca que proporciona una amplia gama de funciones para trabajar con documentos PDF. Una de sus funciones es la de obtener fuentes incrustadas de un documento PDF. Esto puede ser útil si necesita extraer fuentes de un documento PDF y usarlas en otras aplicaciones.
 

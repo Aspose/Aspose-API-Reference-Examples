@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a restablecer el número de una lista en un documento de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-number/
+url: /es/words/net/working-with-list/restart-list-number/
 ---
 En este tutorial paso a paso, le mostraremos cómo restablecer el número de una lista en un documento de Word usando Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.
 

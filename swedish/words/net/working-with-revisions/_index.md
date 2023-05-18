@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller hur man accepterar revisioner, hämtar revisionstyper, hämtar revisionsgrupper, tar bort kommentarer i PDF, visar revisioner i ballonger, får detaljer om revisionsgrupp, får åtkomst till reviderad version, flyttar nod i spårat dokument och formar revision med Aspose.Words för .NET .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /sv/words/net/working-with-revisions/
 ---
 
  ## Handledningar

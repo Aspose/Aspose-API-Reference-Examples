@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine biçimlendirilmiş paragraflar eklemeyi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-paragraph/
+url: /tr/words/net/add-content-using-documentbuilder/insert-paragraph/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak bir Word belgesine nasıl paragraf ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda belgelerinize biçimlendirilmiş paragraflar ekleyebileceksiniz.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile girintili kodu nasıl kullanacağınızı adım adım öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/indented-code/
+url: /tr/words/net/working-with-markdown/indented-code/
 ---
 
 Bu örnekte girintili kod özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. Girintili kod, belirli biçimlendirme ile kod bloklarını görsel olarak temsil etmek için kullanılır.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder funktionen Aspose.PDF för .NET Link Duplicate Streams för att optimera dina PDF-dokument med denna steg-för-steg-guide.
 type: docs
 weight: 230
-url: /ru/pdf/net/programming-with-document/linkduplicatestreams/
+url: /sv/pdf/net/programming-with-document/linkduplicatestreams/
 ---
 Aspose.PDF för .NET är ett omfattande och kraftfullt bibliotek som tillhandahåller en mängd olika funktioner för att arbeta med PDF-filer. En av dess nyckelfunktioner är möjligheten att optimera PDF-filer. I den här artikeln kommer vi att förklara hur du använder funktionen Link Duplicate Streams i Aspose.PDF för .NET för att optimera PDF-filer. Vi kommer att tillhandahålla steg-för-steg-instruktioner och inkludera ett komplett källkodsexempel för att göra det enkelt för utvecklare att följa med.
 

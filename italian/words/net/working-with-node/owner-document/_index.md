@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare il documento del proprietario in Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/owner-document/
+url: /it/words/net/working-with-node/owner-document/
 ---
 
 Ecco una guida dettagliata per spiegare il codice sorgente C# di seguito che illustra come utilizzare la funzionalità del documento proprietario con Aspose.Words per .NET.

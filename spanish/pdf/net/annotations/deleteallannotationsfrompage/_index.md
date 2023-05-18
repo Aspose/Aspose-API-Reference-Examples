@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a eliminar todas las anotaciones de una página PDF con Aspose.PDF para .NET usando esta guía paso a paso.
 type: docs
 weight: 40
-url: /ru/pdf/net/annotations/deleteallannotationsfrompage/
+url: /es/pdf/net/annotations/deleteallannotationsfrompage/
 ---
 Aspose.PDF para .NET es una potente biblioteca que permite a los desarrolladores crear, manipular y transformar archivos PDF. En este artículo, exploraremos cómo usar Aspose.PDF para .NET para eliminar todas las anotaciones de una página específica de un documento PDF. Le proporcionaremos una guía paso a paso para ayudarlo a comprender el proceso.
 

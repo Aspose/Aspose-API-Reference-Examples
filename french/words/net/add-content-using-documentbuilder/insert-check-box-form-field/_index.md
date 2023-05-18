@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de formulaire de case à cocher dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
+url: /fr/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à insérer un champ de formulaire de case à cocher dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure d'ajouter des champs de formulaire de case à cocher avec des propriétés personnalisables à vos documents.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie asiatische Absatzabstände und Einzüge mit Aspose.Words für .NET ändern.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /de/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie die Abstände und Einzüge eines asiatischen Absatzes mit Aspose.Words für .NET ändern. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und die Änderungen anzuwenden.

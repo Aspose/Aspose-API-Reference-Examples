@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Extrahera enkelt efter sidintervall från ett Word-dokument med hjälp av Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-page-range/
+url: /sv/words/net/split-document/by-page-range/
 ---
 
 ## Introduktion

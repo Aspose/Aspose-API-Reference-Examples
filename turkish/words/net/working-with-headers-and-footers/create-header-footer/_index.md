@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizde üst bilgileri ve alt bilgileri nasıl oluşturacağınızı öğrenin. Her sayfa için üst bilgileri ve alt bilgileri özelleştirin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/create-header-footer/
+url: /tr/words/net/working-with-headers-and-footers/create-header-footer/
 ---
 
 Aspose.Words for .NET işlevselliğini kullanarak üst bilgiler ve alt bilgiler oluşturmak için aşağıdaki C# kaynak kodunu açıklayan adım adım bir kılavuz. Bu kodu kullanmadan önce Aspose.Words kütüphanesini projenize dahil ettiğinizden emin olun.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تحميل قاموس الواصلة للغة معينة في Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
+url: /ar/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
 ---
 
 في هذا البرنامج التعليمي خطوة بخطوة ، سنوضح لك كيفية تحميل قاموس الواصلة للغة معينة في Aspose.Words for .NET. سنشرح كود المصدر C # المقدم ونوضح لك كيفية تنفيذه في مشاريعك الخاصة.

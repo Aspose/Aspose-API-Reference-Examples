@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar una licencia medida usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /es/words/net/apply-license/apply-metered-license/
 ---
 
 En este completo tutorial, aprenderá cómo aplicar una licencia medida usando Aspose.Words para .NET. Lo guiaremos a través del proceso con instrucciones detalladas paso a paso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá aplicar una licencia medida y aprovechar las funciones avanzadas de Aspose.Words para sus necesidades de procesamiento de documentos.

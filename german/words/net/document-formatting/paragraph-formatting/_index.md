@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET benutzerdefinierte Formatierungen auf Ihre Absätze anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/paragraph-formatting/
+url: /de/words/net/document-formatting/paragraph-formatting/
 ---
 
 In diesem Tutorial führen wir Sie durch die Verwendung der Absatzformatierungsfunktion mit Aspose.Words für .NET. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und die Änderungen anzuwenden.

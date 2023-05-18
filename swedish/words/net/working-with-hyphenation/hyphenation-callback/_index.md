@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder återuppringning av avstavning i Aspose.Words för .NET för att hantera ordavstavning.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /sv/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 I denna steg-för-steg handledning kommer vi att visa dig hur du använder avstavningsåteruppringningsfunktionen i Aspose.Words för .NET. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

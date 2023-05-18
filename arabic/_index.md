@@ -4,7 +4,7 @@ additionalTitle: مراجع Aspose API
 description: البرامج التعليمية ومقتطفات التعليمات البرمجية لمنتجات Aspose مثل Aspose.Words و Aspose.Cells و Aspose.PDF ومنتجات أخرى. يتضمن دروسًا أساسية ومتقدمة حول استخدام منتجات Aspose.
 type: docs
 weight: 10
-url: /ru/
+url: /ar/
 ---
 
 ## كلمات

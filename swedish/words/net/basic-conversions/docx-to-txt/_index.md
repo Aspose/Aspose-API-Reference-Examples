@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du konverterar Word-dokument från Docx till vanlig text (Txt) med Aspose.Words för .NET. Steg-för-steg handledning med exempel på källkod.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/docx-to-txt/
+url: /sv/words/net/basic-conversions/docx-to-txt/
 ---
 
 I denna steg-för-steg handledning kommer vi att guida dig om hur du använder Aspose.Words för .NET för att konvertera ett Word-dokument i Docx-format till vanlig text (Txt). Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

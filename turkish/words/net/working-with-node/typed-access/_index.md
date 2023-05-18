@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te tabloları işlemek için yazılı erişimi nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/typed-access/
+url: /tr/words/net/working-with-node/typed-access/
 ---
 
 Yazılı Erişim özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını gösteren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz.

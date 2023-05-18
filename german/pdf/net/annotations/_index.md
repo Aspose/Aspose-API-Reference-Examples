@@ -3,7 +3,7 @@ title: Programmieren mit Anmerkungen
 linktitle: Programming with Annotations
 type: docs
 weight: 11
-url: /ru/pdf/net/annotations/
+url: /de/pdf/net/annotations/
 description: „Programmierung mit Annotationen umfasst API-Tutorials und Codeausschnitte von Aspose.PDF für .NET, die das Hinzufügen von Annotationen, das Löschen von Annotationen, das Abrufen von Annotationsinformationen und vieles mehr umfassen.“
 ---
 Eine umfassende Sammlung von Tutorials, die zeigen, wie Sie mit Aspose.PDF für .NET mit Anmerkungen in PDF-Dokumenten arbeiten. Es bietet eine breite Palette von Codeausschnitten, die veranschaulichen, wie verschiedene Arten von Anmerkungen wie Text, Linie, Kreis, Rechteck, Polygon, Hyperlink und viele mehr erstellt und bearbeitet werden. Jedes Beispiel enthält den vollständigen C#-Code sowie eine detaillierte Erläuterung der Funktionalität des Codes und der erwarteten Ausgabe. Es ist eine ausgezeichnete Ressource für .NET-Entwickler, die lernen möchten, wie man mit Aspose.PDF mit Anmerkungen in PDF-Dokumenten arbeitet.

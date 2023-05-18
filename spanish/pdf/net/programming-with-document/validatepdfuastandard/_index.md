@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para validar el estándar PDF/UA usando el código C#. Guía paso por paso.
 type: docs
 weight: 400
-url: /ru/pdf/net/programming-with-document/validatepdfuastandard/
+url: /es/pdf/net/programming-with-document/validatepdfuastandard/
 ---
 Aspose.PDF para .NET es una potente biblioteca que proporciona varias funciones para trabajar con documentos PDF. Una de sus características es la capacidad de validar documentos PDF para el cumplimiento del estándar PDF/UA. En este artículo, proporcionaremos una guía paso a paso sobre cómo usar Aspose.PDF para .NET para obtener y validar el cumplimiento del estándar PDF/UA usando el código C#.
 

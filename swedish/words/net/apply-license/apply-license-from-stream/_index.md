@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ansöker om en licens från en stream med Aspose.Words för .NET. Steg-för-steg guide
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-stream/
+url: /sv/words/net/apply-license/apply-license-from-stream/
 ---
 
 I denna steg-för-steg handledning kommer du att lära dig hur du ansöker om en licens från en stream med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med de nödvändiga kodavsnitten. I slutet av denna handledning kommer du att kunna ansöka om en licens för att låsa upp alla funktioner i Aspose.Words.

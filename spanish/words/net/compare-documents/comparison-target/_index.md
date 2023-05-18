@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda la función de destino de comparación de Aspose.Words para .NET que le permite comparar documentos y generar un nuevo documento que contenga los cambios realizados.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-target/
+url: /es/words/net/compare-documents/comparison-target/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que usa la funcionalidad de destino de comparación de Aspose.Words para .NET.

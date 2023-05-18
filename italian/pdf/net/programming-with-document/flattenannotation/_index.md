@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come appiattire le annotazioni in un documento PDF utilizzando Aspose.PDF per .NET. Conserva le annotazioni e previeni l'alterazione accidentale.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /it/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF per .NET è una potente libreria che consente agli sviluppatori di lavorare con i documenti PDF in modo programmatico. Una delle funzionalità che fornisce è la capacità di appiattire le annotazioni nei documenti PDF. Appiattire le annotazioni in un documento PDF significa che le annotazioni diventano parte del contenuto del documento e non possono più essere modificate o eliminate. Ciò è utile quando si desidera garantire che le annotazioni vengano conservate e non possano essere modificate accidentalmente.

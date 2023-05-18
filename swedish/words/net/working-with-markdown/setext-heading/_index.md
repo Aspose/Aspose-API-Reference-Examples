@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Setext-rubriker för att formatera dina dokument med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/setext-heading/
+url: /sv/words/net/working-with-markdown/setext-heading/
 ---
 
 I den här handledningen går vi igenom hur du använder Setext Heading-funktionen med Aspose.Words för .NET. Setext Heading är en alternativ metod för att formatera titlar i Markdown-dokument.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine onay kutusu form alanlarının nasıl ekleneceğini öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
+url: /tr/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak bir Word belgesine nasıl onay kutusu form alanı ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgelerinize özelleştirilebilir özelliklere sahip onay kutusu form alanları ekleyebileceksiniz.

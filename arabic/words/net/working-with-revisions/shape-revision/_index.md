@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: راجع الأشكال في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/shape-revision/
+url: /ar/words/net/working-with-revisions/shape-revision/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سنرشدك إلى كيفية إجراء مراجعات للأشكال في مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

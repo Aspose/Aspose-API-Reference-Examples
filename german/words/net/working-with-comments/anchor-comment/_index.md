@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kommentarantworten zu bestimmtem Text in Word-Dokumenten verankern.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/anchor-comment/
+url: /de/words/net/working-with-comments/anchor-comment/
 ---
 
 In diesem umfassenden Tutorial erfahren Sie, wie Sie Kommentarantworten mit Aspose.Words für .NET an einem bestimmten Text in einem Word-Dokument verankern. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Leitfadens werden Sie in der Lage sein, Kommentare mit bestimmtem Text in Ihren Dokumenten zu verknüpfen.

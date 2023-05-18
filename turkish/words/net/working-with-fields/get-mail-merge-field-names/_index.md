@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizde adres mektup birleştirme alan adlarını nasıl alacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/get-mail-merge-field-names/
+url: /tr/words/net/working-with-fields/get-mail-merge-field-names/
 ---
 
 Aspose.Words for .NET'in "Get Merge Field Names" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

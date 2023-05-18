@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à coder en ligne avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/inline-code/
+url: /fr/words/net/working-with-markdown/inline-code/
 ---
 
 Dans cet exemple, nous vous expliquerons comment utiliser la fonctionnalité de code en ligne avec Aspose.Words pour .NET. Le code en ligne est utilisé pour représenter visuellement des morceaux de code à l'intérieur d'un paragraphe.

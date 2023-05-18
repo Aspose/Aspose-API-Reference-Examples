@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du bryter länkar i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /sv/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words för .NET är ett kraftfullt bibliotek som erbjuder olika funktioner för att arbeta med Microsoft Word-dokument programmatiskt. En av dess användbara funktioner är möjligheten att bryta länkar i ett dokument. I den här handledningen kommer vi att utforska källkoden i C# som visar hur man bryter en länk med Aspose.Words för .NET.

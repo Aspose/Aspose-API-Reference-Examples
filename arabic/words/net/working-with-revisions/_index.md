@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على كيفية قبول المراجعات ، والحصول على أنواع المراجعات ، والحصول على مجموعات المراجعة ، وإزالة التعليقات في PDF ، وإظهار المراجعات في البالونات ، والحصول على تفاصيل مجموعة المراجعة ، والوصول إلى النسخة المنقحة ، ونقل العقدة في المستند المتعقب ، ومراجعة الشكل باستخدام Aspose.Words for .NET .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /ar/words/net/working-with-revisions/
 ---
 
  ## دروس

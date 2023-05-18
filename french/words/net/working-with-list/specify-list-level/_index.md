@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à spécifier le niveau de liste dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/specify-list-level/
+url: /fr/words/net/working-with-list/specify-list-level/
 ---
 
 Dans ce didacticiel pas à pas, nous allons vous montrer comment spécifier le niveau de liste dans un document Word à l'aide de Aspose.Words pour .NET. Nous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

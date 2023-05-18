@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile özel alan birleştirme alanlarını Word belgelerinize nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-merge-field-using-dom/
+url: /tr/words/net/working-with-fields/insert-merge-field-using-dom/
 ---
 
 Aspose.Words for .NET'in "Alan Birleştirme Alanı Ekle" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

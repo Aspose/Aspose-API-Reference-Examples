@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinizdeki birleştirme alanlarını silmek için adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /tr/words/net/working-with-fields/delete-fields/
 ---
 
 Aspose'da "Alanları Sil" özelliğinin nasıl kullanılacağını açıklamak. .NET için kelimeler, aşağıda adım adım bir kılavuz oluşturduk. 

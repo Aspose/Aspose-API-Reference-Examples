@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF belgelerine JavaScript eklemeyi ve kaldırmayı öğrenin. Belge düzeyinde komut dosyası oluşturmaya yönelik kod eğitimlerini içeren adım adım kılavuz.
 type: docs
 weight: 30
-url: /ru/pdf/net/programming-with-document/addremovejavascripttodoc/
+url: /tr/pdf/net/programming-with-document/addremovejavascripttodoc/
 ---
 
 PDF belgelerine JavaScript eklemek ve kaldırmak için Aspose.PDF for .NET kitaplığını kullanacağız. Bu güçlü kitaplık, .NET uygulamalarında PDF dosyalarını değiştirmemize olanak tanır. Aspose.PDF for .NET kullanarak JavaScript eklemek ve kaldırmak için aşağıdaki adım adım talimatları izleyin.

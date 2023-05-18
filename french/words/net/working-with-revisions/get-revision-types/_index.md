@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Obtenez des types de révision dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-types/
+url: /fr/words/net/working-with-revisions/get-revision-types/
 ---
 
 Dans ce guide étape par étape, nous allons vous expliquer comment obtenir les types de révisions dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous fournirons le code source complet et vous montrerons comment formater la sortie Markdown.

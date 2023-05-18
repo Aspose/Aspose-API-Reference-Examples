@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a anclar respuestas de comentarios a texto específico en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/anchor-comment/
+url: /es/words/net/working-with-comments/anchor-comment/
 ---
 
 En este completo tutorial, aprenderá a anclar las respuestas de los comentarios a un texto específico en un documento de Word usando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá asociar comentarios con texto específico en sus documentos.

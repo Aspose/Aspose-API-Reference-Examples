@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie Anmerkungen in einem PDF-Dokument mit Aspose.PDF für .NET reduzieren. Behalten Sie Anmerkungen bei und verhindern Sie versehentliche Änderungen.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /de/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, die es Entwicklern ermöglicht, programmgesteuert mit PDF-Dokumenten zu arbeiten. Eine der Funktionen, die es bietet, ist die Möglichkeit, Anmerkungen in PDF-Dokumenten zu reduzieren. Das Reduzieren von Anmerkungen in einem PDF-Dokument bedeutet, dass die Anmerkungen Teil des Dokumentinhalts werden und nicht mehr bearbeitet oder gelöscht werden können. Dies ist nützlich, wenn Sie sicherstellen möchten, dass die Anmerkungen erhalten bleiben und nicht versehentlich geändert werden können.

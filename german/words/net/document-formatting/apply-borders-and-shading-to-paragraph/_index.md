@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Rahmen und Schattierungen auf einen Absatz anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
+url: /de/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie mithilfe der Funktionalität von Aspose.Words für .NET Rahmen und Schattierungen auf einen Absatz anwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und Formatierungsänderungen anzuwenden.

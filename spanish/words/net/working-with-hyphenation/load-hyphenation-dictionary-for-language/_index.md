@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a cargar un diccionario de división de palabras para un idioma específico en Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
+url: /es/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
 ---
 
 En este tutorial paso a paso, le mostraremos cómo cargar un diccionario de guiones para un idioma específico en Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'i kullanarak PDF belgelerini küçültmeyi öğrenin.
 type: docs
 weight: 350
-url: /ru/pdf/net/programming-with-document/shrinkdocuments/
+url: /tr/pdf/net/programming-with-document/shrinkdocuments/
 ---
 Aspose.PDF for .NET, geliştiricilerin C# kullanarak PDF belgeleri oluşturmasını, değiştirmesini ve optimize etmesini sağlayan güçlü bir kitaplıktır. Bu eğitimde, bir PDF belgesini küçültmek için Aspose.PDF'nin nasıl kullanılacağına dair bir örnek üzerinden ilerleyeceğiz.
 

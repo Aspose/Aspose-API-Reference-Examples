@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ajuster automatiquement l'espace entre le texte asiatique et latin dans votre document avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/space-between-asian-and-latin-text/
+url: /fr/words/net/document-formatting/space-between-asian-and-latin-text/
 ---
 
 Dans ce didacticiel, nous allons vous montrer comment utiliser la fonctionnalité Espace entre le texte asiatique et latin avec Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications.

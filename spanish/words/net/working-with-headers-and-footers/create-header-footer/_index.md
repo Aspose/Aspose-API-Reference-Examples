@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear encabezados y pies de página en sus documentos de Word con Aspose.Words para .NET. Personalice encabezados y pies de página para cada página.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/create-header-footer/
+url: /es/words/net/working-with-headers-and-footers/create-header-footer/
 ---
 
 Aquí hay una guía paso a paso para explicar el siguiente código fuente de C# para crear encabezados y pies de página usando la funcionalidad Aspose.Words para .NET. Asegúrese de haber incluido la biblioteca Aspose.Words en su proyecto antes de usar este código.

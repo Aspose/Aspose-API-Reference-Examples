@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET'in GetXmpMetadata özelliğinin, C# kaynak kodunu kullanarak bir PDF belgesinden XMP meta verilerini ayıklamak için nasıl kullanılacağını öğrenin.
 type: docs
 weight: 200
-url: /ru/pdf/net/programming-with-document/getxmpmetadata/
+url: /tr/pdf/net/programming-with-document/getxmpmetadata/
 ---
 
  Aspose.PDF for .NET, geliştiricilerin kendi .NET uygulamalarında PDF dosyaları oluşturmasına, düzenlemesine ve dönüştürmesine olanak tanıyan popüler bir PDF işleme kitaplığıdır. Bu kitaplığın sunduğu özelliklerden biri, XMP meta verilerini bir PDF belgesinden çıkarma yeteneğidir. Bu öğretici, kullanımın adımlarında size rehberlik edecektir.`GetXmpMetadata` Aspose.PDF for .NET'in bir PDF belgesinden XMP meta verilerini ayıklama özelliği.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per ottenere font Unembed e ottimizzare i file PDF. Una guida passo passo.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /it/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF per .NET è una potente libreria che offre un'ampia gamma di funzionalità per lavorare con i documenti PDF. Una delle sue caratteristiche è quella di ottenere caratteri non incorporati da un documento PDF. Ciò può essere utile se è necessario estrarre i caratteri da un documento PDF e utilizzarli in altre applicazioni.
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar las propiedades para el cuadro de diálogo de impresión en Aspose.PDF para .NET usando la guía paso a paso.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /es/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 aquí hay una guía paso a paso para configurar las propiedades del cuadro de diálogo de impresión usando Aspose.PDF para .NET:
 

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à résoudre les commentaires et leurs réponses dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/comment-resolved-and-replies/
+url: /fr/words/net/working-with-comments/comment-resolved-and-replies/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à résoudre les commentaires et leurs réponses dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de gérer la résolution des commentaires et de mettre à jour le statut des commentaires et leurs réponses.

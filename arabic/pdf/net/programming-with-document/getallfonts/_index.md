@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على جميع الخطوط المستخدمة في مستند PDF برمجيًا باستخدام هذا الدليل التفصيلي وكود المثال.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /ar/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF for .NET مكتبة قوية تمكن المطورين من العمل مع مستندات PDF برمجيًا. إحدى الميزات التي يوفرها هي القدرة على الحصول على جميع الخطوط المستخدمة في مستند PDF. يمكن أن يكون هذا مفيدًا إذا كنت بحاجة إلى تحليل الخطوط أو معالجتها برمجيًا في مستند PDF.

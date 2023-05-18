@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine getaktete Lizenz anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /de/words/net/apply-license/apply-metered-license/
 ---
 
 In diesem umfassenden Tutorial erfahren Sie, wie Sie mit Aspose.Words für .NET eine getaktete Lizenz anwenden. Wir führen Sie mit detaillierten Schritt-für-Schritt-Anleitungen durch den Prozess und stellen die notwendigen C#-Code-Schnipsel bereit. Am Ende dieses Leitfadens werden Sie in der Lage sein, eine gebührenpflichtige Lizenz anzuwenden und die erweiterten Funktionen von Aspose.Words für Ihre Dokumentverarbeitungsanforderungen zu nutzen.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie anhand der Schritt-für-Schritt-Anleitung, wie Sie Eigenschaften für den Druckdialog in Aspose.PDF für .NET festlegen.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /de/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 Hier ist eine Schritt-für-Schritt-Anleitung zum Festlegen von Eigenschaften für den Druckdialog mit Aspose.PDF für .NET:
 

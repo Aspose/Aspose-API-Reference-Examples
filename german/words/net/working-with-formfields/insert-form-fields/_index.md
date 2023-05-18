@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Dropdown-Formularfelder in Word-Dokumente einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/insert-form-fields/
+url: /de/words/net/working-with-formfields/insert-form-fields/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET Formularfelder, insbesondere ein Dropdown-Formularfeld, in ein Word-Dokument einfügen. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

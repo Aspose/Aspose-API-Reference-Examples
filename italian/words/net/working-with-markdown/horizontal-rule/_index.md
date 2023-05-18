@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire una regola orizzontale con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/horizontal-rule/
+url: /it/words/net/working-with-markdown/horizontal-rule/
 ---
 
 In questo esempio, ti mostreremo come utilizzare la funzionalità della regola orizzontale con Aspose.Words per .NET. La riga orizzontale viene utilizzata per separare visivamente le sezioni di un documento.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تضمين خط أثناء إنشاء مستند PDF باستخدام Aspose.PDF for .NET. تأكد من العرض الصحيح على أجهزة مختلفة.
 type: docs
 weight: 140
-url: /ru/pdf/net/programming-with-document/embedfontwhiledoccreation/
+url: /ar/pdf/net/programming-with-document/embedfontwhiledoccreation/
 ---
 
 في هذا البرنامج التعليمي ، سنناقش كيفية تضمين خط أثناء إنشاء مستند PDF باستخدام Aspose.PDF لـ .NET. Aspose.PDF for .NET مكتبة قوية تتيح للمطورين إنشاء مستندات PDF وتحريرها ومعالجتها برمجيًا. توفر هذه المكتبة مجموعة كبيرة من الميزات للعمل مع مستندات PDF ، بما في ذلك إضافة النصوص والصور والجداول وغير ذلك الكثير. يعد دمج الخطوط أثناء إنشاء مستند PDF مطلبًا شائعًا للمطورين الذين يرغبون في ضمان عرض مستند PDF بشكل صحيح على أجهزة مختلفة ، بغض النظر عما إذا كانت الخطوط المطلوبة مثبتة على تلك الأجهزة أم لا.

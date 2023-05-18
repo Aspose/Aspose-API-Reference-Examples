@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Feld in Ihre Word-Dokumente einfügen. Personalisieren Sie Ihre Dokumente mit dynamischen Feldern.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field/
+url: /de/words/net/working-with-fields/insert-field/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „Ein Feld einfügen“ von Aspose.Words für .NET verwendet. Stellen Sie sicher, dass Sie jeden Schritt sorgfältig befolgen, um die gewünschten Ergebnisse zu erzielen.

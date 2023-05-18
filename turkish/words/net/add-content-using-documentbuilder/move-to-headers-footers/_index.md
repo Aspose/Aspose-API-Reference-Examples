@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu adım adım kılavuz ile Word belgelerinde üst bilgiler ve alt bilgilerde gezinmek ve bunları değiştirmek için Aspose.Words for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-headers-footers/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-headers-footers/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in Üst Bilgilere Alt Bilgilere Taşı özelliğini inceleyeceğiz. Aspose.Words, geliştiricilerin Word belgelerini program aracılığıyla oluşturmasına, değiştirmesine ve dönüştürmesine olanak sağlayan güçlü bir belge işleme kitaplığıdır. Üstbilgilere/Altbilgilere Taşı özelliği, bir belge içindeki farklı üstbilgilere ve altbilgilere gitmemizi ve bunlara içerik eklememizi sağlar.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Textwasserzeichen mit bestimmten Optionen hinzufügen. Schritt für Schritt Anleitung.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /de/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET ein Textwasserzeichen mit bestimmten Optionen hinzufügen. Ein Textwasserzeichen ist Text, der einem Dokument überlagert wird, um anzuzeigen, dass es sich um einen Entwurf, vertraulich usw. handelt.

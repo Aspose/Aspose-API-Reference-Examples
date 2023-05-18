@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a copiar encabezados y pies de página de la sección anterior en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /es/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo copiar encabezados y pies de página de la sección anterior en un documento de Word usando Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

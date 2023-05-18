@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller jämför för lika, jämför alternativ, jämförelsemål och jämförelsegranularitet.
 type: docs
 weight: 1480
-url: /ru/words/net/compare-documents/
+url: /sv/words/net/compare-documents/
 ---
 
 Compare Documents är en omfattande handledning om att jämföra dokument med Aspose.Words för .NET. Den här handledningen ger detaljerad information om de olika metoderna och funktionerna som är tillgängliga för att jämföra dokument, inklusive att ställa in jämförelsealternativ, analysera resultat och hantera upptäckta skillnader. Den kommer med massor av kodexempel och skärmdumpar för att göra det lättare att förstå. Oavsett om du är nybörjare eller en erfaren utvecklare, tar den här resursen dig steg-för-steg genom processen för jämförelse av dokument med Aspose.Words för .NET.

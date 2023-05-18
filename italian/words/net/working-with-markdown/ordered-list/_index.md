@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un elenco ordinato con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/ordered-list/
+url: /it/words/net/working-with-markdown/ordered-list/
 ---
 
 In questo esempio, spiegheremo come utilizzare la funzionalità dell'elenco ordinato con Aspose.Words per .NET. L'elenco ordinato ti consente di organizzare gli elementi in sequenza con i numeri.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du automatiskt justerar utrymmet mellan asiatisk och latinsk text i ditt dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/space-between-asian-and-latin-text/
+url: /sv/words/net/document-formatting/space-between-asian-and-latin-text/
 ---
 
 I den här handledningen kommer vi att visa dig hur du använder Space-funktionen mellan asiatisk och latinsk text med Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa ändringarna.

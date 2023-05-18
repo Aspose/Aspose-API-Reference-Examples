@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: In diesem Tutorial erfahren Sie, wie Sie Zusammenführungsfelder in einem Dokument mit Aspose.Words für .NET umbenennen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /de/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion zum Umbenennen von Zusammenführungsfeldern von Aspose.Words für .NET verwendet. Befolgen Sie jeden Schritt sorgfältig, um die gewünschten Ergebnisse zu erzielen.

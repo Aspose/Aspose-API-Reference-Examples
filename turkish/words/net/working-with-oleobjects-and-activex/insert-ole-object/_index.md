@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir OLE nesnesini bir belgeye nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object/
+url: /tr/words/net/working-with-oleobjects-and-activex/insert-ole-object/
 ---
 
 Aspose.Words for .NET kullanarak bir OLE nesnesinin nasıl ekleneceğini gösteren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz.

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare una tabella con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/table/
+url: /it/words/net/working-with-markdown/table/
 ---
 
 

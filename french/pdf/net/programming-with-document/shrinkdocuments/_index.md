@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour réduire les documents PDF avec ce guide étape par étape.
 type: docs
 weight: 350
-url: /ru/pdf/net/programming-with-document/shrinkdocuments/
+url: /fr/pdf/net/programming-with-document/shrinkdocuments/
 ---
 Aspose.PDF pour .NET est une bibliothèque puissante qui permet aux développeurs de créer, manipuler et optimiser des documents PDF à l'aide de C#. Dans ce didacticiel, nous allons parcourir un exemple d'utilisation de Aspose.PDF pour réduire un document PDF.
 

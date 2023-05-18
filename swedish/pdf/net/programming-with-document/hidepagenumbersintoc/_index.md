@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du döljer sidnummer i en innehållsförteckning med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /sv/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 den här artikeln kommer vi att diskutera implementeringen av funktionen Hide Page Numbers In TOC i Aspose.PDF för .NET med C#. Vi kommer att börja med en kort introduktion till Aspose.PDF för .NET och sedan dyka in i steg-för-steg-guiden för att implementera denna funktion. 
 

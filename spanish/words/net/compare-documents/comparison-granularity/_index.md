@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda la característica Comparar granularidad de Aspose.Words para .NET que permite comparar documentos carácter por carácter e informar los cambios realizados.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-granularity/
+url: /es/words/net/compare-documents/comparison-granularity/
 ---
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que utiliza la función Comparar granularidad de Aspose.Words para .NET.
 

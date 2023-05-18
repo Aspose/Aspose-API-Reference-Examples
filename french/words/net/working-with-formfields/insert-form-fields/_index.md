@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de formulaire déroulants dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/insert-form-fields/
+url: /fr/words/net/working-with-formfields/insert-form-fields/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment insérer des champs de formulaire, en particulier un champ de formulaire déroulant, dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

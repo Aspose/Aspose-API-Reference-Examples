@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare l'accesso digitato per manipolare le tabelle in Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/typed-access/
+url: /it/words/net/working-with-node/typed-access/
 ---
 
 Ecco una guida passo passo per spiegare il codice sorgente C# di seguito che illustra come utilizzare la funzionalità di accesso tipizzato con Aspose.Words per .NET.

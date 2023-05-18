@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET eine bestimmte Anmerkung aus einem PDF-Dokument löschen.
 type: docs
 weight: 50
-url: /ru/pdf/net/annotations/deleteparticularannotation/
+url: /de/pdf/net/annotations/deleteparticularannotation/
 ---
 In diesem Tutorial zeigen wir Ihnen, wie Sie Aspose.PDF für .NET verwenden, um mit C# eine bestimmte Anmerkung aus einer PDF-Datei zu löschen.
 

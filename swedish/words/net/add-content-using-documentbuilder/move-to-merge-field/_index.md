@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du implementerar funktionen Move To Merge Field i Aspose.Words för .NET med hjälp av en steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-merge-field/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-merge-field/
 ---
 
 det här exemplet kommer vi att utforska funktionen Move To Merge Field i Aspose.Words för .NET. Aspose.Words är ett kraftfullt dokumentmanipuleringsbibliotek som gör det möjligt för utvecklare att skapa, ändra och konvertera Word-dokument programmatiskt. Funktionen Move To Merge Field låter oss navigera för att slå samman fält i ett dokument och utföra olika operationer på dem.

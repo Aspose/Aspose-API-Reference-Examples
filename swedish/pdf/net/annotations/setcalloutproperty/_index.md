@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in bildtextegenskap med Aspose.PDF för .NET. Anpassa kommentarer med textlinjer, textfärg och avslutningsstilar.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /sv/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF för .NET är ett kraftfullt bibliotek för att skapa, manipulera och konvertera PDF-dokument i C#. En av funktionerna i det här biblioteket är möjligheten att ställa in bildtextegenskaper för fritextkommentarer i PDF-dokument. Detta kan göras med hjälp av`FreeTextAnnotation` klass, som låter dig skapa kommentarer med länktexter.
 

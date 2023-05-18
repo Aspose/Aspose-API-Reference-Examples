@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية حذف جميع التعليقات التوضيحية من صفحة PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 40
-url: /ru/pdf/net/annotations/deleteallannotationsfrompage/
+url: /ar/pdf/net/annotations/deleteallannotationsfrompage/
 ---
 Aspose.PDF for .NET مكتبة قوية تسمح للمطورين بإنشاء ملفات PDF ومعالجتها وتحويلها. في هذه المقالة ، سوف نستكشف كيفية استخدام Aspose.PDF for .NET لحذف جميع التعليقات التوضيحية من صفحة معينة من مستند PDF. سنقدم لك دليلًا تفصيليًا لمساعدتك على فهم العملية.
 

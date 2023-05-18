@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a acoplar anotaciones en un documento PDF con Aspose.PDF para .NET. Conservar las anotaciones y evitar alteraciones accidentales.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /es/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF para .NET es una potente biblioteca que permite a los desarrolladores trabajar con documentos PDF mediante programación. Una de las características que proporciona es la capacidad de acoplar anotaciones en documentos PDF. Acoplar anotaciones en un documento PDF significa que las anotaciones pasan a formar parte del contenido del documento y ya no se pueden editar ni eliminar. Esto es útil cuando desea asegurarse de que las anotaciones se conserven y no se puedan modificar accidentalmente.

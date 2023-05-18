@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir dosyadan nasıl lisans uygulayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-file/
+url: /tr/words/net/apply-license/apply-license-from-file/
 ---
 
 ## giriiş

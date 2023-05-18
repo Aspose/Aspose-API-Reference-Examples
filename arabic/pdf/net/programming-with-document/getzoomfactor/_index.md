@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على عامل التكبير / التصغير لملف PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 210
-url: /ru/pdf/net/programming-with-document/getzoomfactor/
+url: /ar/pdf/net/programming-with-document/getzoomfactor/
 ---
 Aspose.PDF for .NET هي مكتبة لمعالجة ملفات PDF توفر العديد من الميزات لإجراء عمليات متنوعة على مستندات PDF. إحدى هذه الميزات هي القدرة على الحصول على عامل التكبير / التصغير لملف PDF. في هذا البرنامج التعليمي ، سنشرح كيفية استخدام Aspose.PDF لـ .NET للحصول على عامل التكبير / التصغير لملف PDF باستخدام الكود المصدري C #.
 

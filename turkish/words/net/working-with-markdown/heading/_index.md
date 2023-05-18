@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile başlığı nasıl kullanacağınızı adım adım öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /tr/words/net/working-with-markdown/heading/
 ---
 
 Bu örnekte, size başlıklar özelliğini Aspose.Words for .NET ile nasıl kullanacağınızı göstereceğiz. Başlıklar, bir belgenin içeriğini yapılandırmak ve öncelik sırasına koymak için kullanılır.

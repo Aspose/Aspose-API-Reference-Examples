@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine içindekiler tablosunu nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-table-of-contents/
+url: /tr/words/net/add-content-using-documentbuilder/insert-table-of-contents/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak bir Word belgesine içindekiler tablosunu nasıl ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, uygun başlıklara ve sayfa numaralarına sahip bir içindekiler tablosu oluşturabileceksiniz.

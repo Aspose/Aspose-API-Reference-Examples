@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till lager i PDF-filer med Aspose.PDF för .NET. Steg-för-steg-guide med kodhandledning för att skapa och spara skiktade PDF-filer.
 type: docs
 weight: 20
-url: /ru/pdf/net/programming-with-document/addlayers/
+url: /sv/pdf/net/programming-with-document/addlayers/
 ---
 
 För att lägga till lager i en PDF-fil kommer vi att använda Aspose.PDF för .NET. Detta bibliotek låter oss arbeta med PDF-filer i .NET-applikationer effektivt. Följ steg-för-steg-instruktionerna nedan för att lägga till lager med Aspose.PDF för .NET.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للتحقق من صحة معيار PDF / UA باستخدام كود C #. دليل خطوة بخطوة.
 type: docs
 weight: 400
-url: /ru/pdf/net/programming-with-document/validatepdfuastandard/
+url: /ar/pdf/net/programming-with-document/validatepdfuastandard/
 ---
 Aspose.PDF for .NET مكتبة قوية توفر ميزات متنوعة للعمل مع مستندات PDF. تتمثل إحدى ميزاته في القدرة على التحقق من صحة مستندات PDF للتوافق مع معايير PDF / UA. في هذه المقالة ، سنقدم إرشادات خطوة بخطوة حول كيفية استخدام Aspose.PDF لـ .NET للحصول على التوافق القياسي مع PDF / UA والتحقق من صحته باستخدام كود C #.
 

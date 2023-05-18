@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzu kullanarak Aspose.PDF for .NET ile PDF belgelerinizin dosya boyutunu nasıl optimize edeceğinizi öğrenin.
 type: docs
 weight: 250
-url: /ru/pdf/net/programming-with-document/optimizefilesize/
+url: /tr/pdf/net/programming-with-document/optimizefilesize/
 ---
 Aspose.PDF for .NET, geliştiricilerin kendi .NET uygulamalarında PDF dosyaları oluşturmasına, düzenlemesine ve değiştirmesine olanak sağlayan bir kitaplıktır. Bu kitaplığın en kullanışlı özelliklerinden biri, bir PDF belgesinin dosya boyutunu optimize etme yeteneğidir. Bu yazıda, Aspose.PDF for .NET kullanarak bir PDF belgesinin dosya boyutunu optimize etmek için adım adım bir kılavuz sağlayacağız.
 

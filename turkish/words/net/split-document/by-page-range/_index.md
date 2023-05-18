@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak bir Word belgesinden sayfa aralığına göre kolayca ayıklayın.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-page-range/
+url: /tr/words/net/split-document/by-page-range/
 ---
 
 ## giriiş

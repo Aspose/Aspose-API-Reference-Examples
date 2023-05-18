@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein OLE-Objekt als Symbol einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
+url: /de/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der veranschaulicht, wie Sie mit Aspose.Words für .NET ein OLE-Objekt als Symbol einfügen.

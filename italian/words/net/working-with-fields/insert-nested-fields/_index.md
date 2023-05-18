@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire facilmente campi nidificati nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-nested-fields/
+url: /it/words/net/working-with-fields/insert-nested-fields/
 ---
 
 Ecco una guida dettagliata per spiegare il codice sorgente C# di seguito, che utilizza la funzionalità "Inserisci campi nidificati" di Aspose.Words per .NET. Assicurati di seguire attentamente ogni passaggio per ottenere i risultati desiderati.

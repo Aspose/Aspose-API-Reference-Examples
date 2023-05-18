@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a incrustar una fuente mientras crea un documento PDF con Aspose.PDF para .NET. Asegurar la visualización correcta en diferentes dispositivos.
 type: docs
 weight: 140
-url: /ru/pdf/net/programming-with-document/embedfontwhiledoccreation/
+url: /es/pdf/net/programming-with-document/embedfontwhiledoccreation/
 ---
 
 En este tutorial, discutiremos cómo incrustar una fuente al crear un documento PDF usando Aspose.PDF para .NET. Aspose.PDF para .NET es una potente biblioteca que permite a los desarrolladores crear, editar y manipular documentos PDF mediante programación. Esta biblioteca proporciona una amplia gama de funciones para trabajar con documentos PDF, incluida la adición de texto, imágenes, tablas y mucho más. Incrustar fuentes al crear un documento PDF es un requisito común para los desarrolladores que desean asegurarse de que el documento PDF se muestre correctamente en diferentes dispositivos, independientemente de si las fuentes requeridas están instaladas en esos dispositivos o no.

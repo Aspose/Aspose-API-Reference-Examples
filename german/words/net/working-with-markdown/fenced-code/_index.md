@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie die Funktion „Fenced Code“ mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/fenced-code/
+url: /de/words/net/working-with-markdown/fenced-code/
 ---
 
 In diesem Beispiel führen wir Sie durch die Verwendung der Funktion „Fenced Code“ mit Aspose.Words für .NET. Umzäunter Code wird verwendet, um Codeblöcke mit einer bestimmten Formatierung darzustellen.

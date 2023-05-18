@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Modifica sorgente cultura aggiornamento campo, guida passo passo per modificare la sorgente cultura in Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /it/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 In questo tutorial, ti guideremo attraverso il processo di modifica dell'origine della cultura dell'aggiornamento del campo nei documenti di Word utilizzando Aspose.Words per .NET. Modificando l'origine delle impostazioni cultura, è possibile controllare la formattazione della data durante le operazioni di aggiornamento dei campi e stampa unione. Ti forniremo il codice sorgente C# necessario e le istruzioni dettagliate per raggiungere questo obiettivo.

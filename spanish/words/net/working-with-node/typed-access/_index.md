@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar el acceso con tipo para manipular tablas en Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/typed-access/
+url: /es/words/net/working-with-node/typed-access/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo usar la característica de acceso con tipo con Aspose.Words para .NET.

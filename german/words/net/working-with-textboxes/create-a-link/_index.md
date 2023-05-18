@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Verknüpfung zwischen Textfeldern in einem Word-Dokument erstellen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /de/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## Schritt 1: Einrichten des Dokuments und Erstellen von TextBox-Formen

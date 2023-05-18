@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين تاريخ انتهاء الصلاحية في مستندات PDF باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /ar/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF for .NET مكتبة قوية توفر العديد من الميزات للعمل مع ملفات PDF. إحدى هذه الميزات هي القدرة على تحديد تاريخ انتهاء صلاحية لمستند PDF. في هذا البرنامج التعليمي ، سنرشدك خلال عملية تحديد تاريخ انتهاء صلاحية مستند PDF باستخدام Aspose.PDF لـ .NET. 
 

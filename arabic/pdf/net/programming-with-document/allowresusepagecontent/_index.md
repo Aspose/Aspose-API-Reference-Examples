@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحسين ملفات PDF عن طريق تمكين ميزة "السماح بإعادة استخدام محتوى الصفحة" باستخدام Aspose.PDF لـ .NET. تقليل حجم الملف وتحسين الأداء.
 type: docs
 weight: 50
-url: /ru/pdf/net/programming-with-document/allowresusepagecontent/
+url: /ar/pdf/net/programming-with-document/allowresusepagecontent/
 ---
 
 في هذا البرنامج التعليمي ، سنشرح كيفية تمكين ميزة "السماح بإعادة استخدام محتوى الصفحة" باستخدام Aspose.PDF لـ .NET. تعمل هذه الميزة على تحسين مستند PDF عن طريق إعادة استخدام محتوى الصفحة وتقليل حجم الملف وتحسين الأداء. اتبع الدليل المفصل أدناه:

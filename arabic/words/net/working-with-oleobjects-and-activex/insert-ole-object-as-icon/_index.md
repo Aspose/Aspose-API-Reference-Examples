@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج كائن OLE كرمز باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
+url: /ar/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon/
 ---
 
 فيما يلي دليل تفصيلي خطوة بخطوة لشرح شفرة المصدر C # أدناه والتي توضح كيفية إدراج كائن OLE كأيقونة باستخدام Aspose.Words for .NET.

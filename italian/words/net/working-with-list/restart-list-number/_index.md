@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come reimpostare il numero di un elenco in un documento di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-number/
+url: /it/words/net/working-with-list/restart-list-number/
 ---
 In questo tutorial passo-passo, ti mostreremo come reimpostare il numero di un elenco in un documento di Word utilizzando Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.
 

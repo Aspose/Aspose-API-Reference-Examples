@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du skapar ett PDF A1-dokument med Aspose.PDF för .NET. Steg-för-steg-guide med C#-källkod. Optimera PDF-filer effektivt.
 type: docs
 weight: 90
-url: /ru/pdf/net/programming-with-document/createpdfa1withasposepdf/
+url: /sv/pdf/net/programming-with-document/createpdfa1withasposepdf/
 ---
 
 I denna steg-för-steg-guide kommer vi att förklara hur man använder Aspose.PDF för .NET för att skapa ett PDF A1-dokument. Vi kommer att förse dig med nödvändig C#-källkod och instruktioner för att utföra denna uppgift.

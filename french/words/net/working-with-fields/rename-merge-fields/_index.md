@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Dans ce didacticiel, vous apprendrez à renommer les champs de fusion dans un document à l'aide de Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /fr/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui utilise la fonctionnalité de renommage du champ de fusion d'Aspose.Words pour .NET. Suivez attentivement chaque étape pour obtenir les résultats souhaités.

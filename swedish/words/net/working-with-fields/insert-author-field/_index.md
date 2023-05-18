@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett AUTHOR-fält i dina Word-dokument med Aspose.Words för .NET. Ange författarens namn för att anpassa dina dokument.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-author-field/
+url: /sv/words/net/working-with-fields/insert-author-field/
 ---
 
 

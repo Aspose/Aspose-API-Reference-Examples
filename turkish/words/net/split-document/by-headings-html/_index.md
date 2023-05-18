@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in Başlığa Göre HTML özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /tr/words/net/split-document/by-headings-html/
 ---
 Bu öğreticide, Aspose.Words for .NET'in HTML Başlığına Göre özelliğini kullanarak bir Word belgesini nasıl daha küçük parçalara böleceğinizi göstereceğiz. Kaynak kodunu anlamak ve Başlığa dayalı ayrı HTML belgeleri oluşturmak için aşağıdaki adımları izleyin.
 

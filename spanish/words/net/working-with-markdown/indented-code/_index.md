@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar código sangrado con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/indented-code/
+url: /es/words/net/working-with-markdown/indented-code/
 ---
 
 En este ejemplo, explicaremos cómo usar la función de código sangrado con Aspose.Words para .NET. El código sangrado se usa para representar visualmente bloques de código con un formato específico.

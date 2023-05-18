@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment insérer des signets dans des documents Word à l'aide de DocumentBuilder dans Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /fr/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 Dans cet exemple complet, vous apprendrez à insérer des signets dans un document Word à l'aide de la classe DocumentBuilder dans Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de créer et de gérer des signets dans vos documents.

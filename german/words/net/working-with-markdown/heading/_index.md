@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Überschriften mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /de/words/net/working-with-markdown/heading/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie die Überschriftenfunktion mit Aspose.Words für .NET verwenden. Überschriften dienen der Strukturierung und Priorisierung des Inhalts eines Dokuments.

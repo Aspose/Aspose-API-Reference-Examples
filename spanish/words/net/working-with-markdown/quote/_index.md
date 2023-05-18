@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar las comillas con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/quote/
+url: /es/words/net/working-with-markdown/quote/
 ---
 
 En este ejemplo, explicaremos cómo utilizar la función de comillas con Aspose. Words for .NET Quote se utiliza para resaltar secciones de texto rodeándolas con un borde especial.

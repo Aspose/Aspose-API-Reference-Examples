@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la devolución de llamada de separación de palabras en Aspose.Words para .NET para manejar la separación de palabras.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /es/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 En este tutorial paso a paso, le mostraremos cómo usar la función de devolución de llamada de partición en Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

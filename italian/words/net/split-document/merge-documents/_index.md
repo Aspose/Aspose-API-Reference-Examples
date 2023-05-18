@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per spiegare il codice sorgente C# della funzionalità Unisci documenti di Aspose.Words per .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /it/words/net/split-document/merge-documents/
 ---
 
 In questo tutorial, ti illustreremo come unire più documenti di Word utilizzando la funzione Unisci documenti di Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e ottenere un documento unito contenente tutti i documenti di origine.

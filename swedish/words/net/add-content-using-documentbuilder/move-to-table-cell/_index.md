@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att använda Flytta till tabellcell i Aspose.Words för .NET
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-table-cell/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-table-cell/
 ---
 
 I det här exemplet kommer vi att gå igenom hur du använder funktionen Flytta till tabellcell i Aspose.Words för .NET med hjälp av den medföljande C#-källkoden steg för steg. Den här funktionen låter dig navigera och manipulera specifika celler i en tabell i ett Word-dokument. Följ stegen nedan för att integrera den här funktionen i din applikation.

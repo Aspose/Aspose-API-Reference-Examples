@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Verschieben Sie Knoten in einem verfolgten Dokument mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/move-node-in-tracked-document/
+url: /de/words/net/working-with-revisions/move-node-in-tracked-document/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET einen Knoten in einem verfolgten Word-Dokument verschieben. Wir stellen Ihnen den vollständigen Quellcode zur Verfügung und zeigen Ihnen, wie Sie die Markdown-Ausgabe formatieren.

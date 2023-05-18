@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller skapa en länk, kontrollera sekvens och bryta en länk med Aspose.Words för .NET.
 type: docs
 weight: 1320
-url: /ru/words/net/working-with-textboxes/
+url: /sv/words/net/working-with-textboxes/
 ---
 Arbeta med textboxar är en omfattande resurs som tar dig steg-för-steg genom att arbeta med textrutor i Word-dokument med hjälp av Aspose.Words-biblioteket för .NET. Handledningarna lär dig hur du lägger till, ändrar och tar bort textrutor, placerar dem, definierar deras storlek, stil och egenskaper. Du kommer också att lära dig hur du hanterar innehåll i textrutor, inklusive att lägga till och redigera text, lägga till listor, tabeller och andra objekt. Denna resurs är viktig för utvecklare som vill manipulera textrutor i Word-dokument med Aspose.Words för .NET, vilket ger ökad flexibilitet och anpassning vid skapande av professionella dokument.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak bir Word belgesinde imleç konumunu nasıl alacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/cursor-position/
+url: /tr/words/net/add-content-using-documentbuilder/cursor-position/
 ---
 
 Bu adım adım örnekte, Aspose.Words for .NET kullanarak bir Word belgesinde imleç konumunu öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, imlecin belgede konumlandırıldığı geçerli düğümü ve paragrafı alabileceksiniz.

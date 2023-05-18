@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mithilfe dieses C#-Quellcodes Textanmerkungen mit Aspose.PDF für .NET hinzufügen. Passen Sie Ihre Anmerkungen mit spezifischen Details und Symbolen an.
 type: docs
 weight: 10
-url: /ru/pdf/net/annotations/addannotation/
+url: /de/pdf/net/annotations/addannotation/
 ---
 
 Das Hinzufügen von Anmerkungen zu PDF-Dokumenten ist eine leistungsstarke Funktion, die die Zusammenarbeit und Überprüfungsprozesse verbessern kann. Aspose.PDF für .NET erleichtert das programmgesteuerte Hinzufügen von Anmerkungen zu PDF-Dokumenten mit C#. In dieser Anleitung erklären wir Ihnen Schritt für Schritt, wie Sie mit Aspose.PDF für .NET Anmerkungen zu einem PDF-Dokument hinzufügen.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à copier les en-têtes et les pieds de page de la section précédente dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /fr/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment copier les en-têtes et les pieds de page de la section précédente dans un document Word à l'aide d'Aspose.Words pour .NET. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come specificare il livello di elenco in un documento di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/specify-list-level/
+url: /it/words/net/working-with-list/specify-list-level/
 ---
 
 In questo tutorial passo-passo, ti mostreremo come specificare il livello di elenco in un documento di Word utilizzando Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape sur la façon de créer une annotation de texte libre et de spécifier son contenu à l'aide d'Aspose.PDF pour .NET
 type: docs
 weight: 140
-url: /ru/pdf/net/annotations/setfreetextannotationformatting/
+url: /fr/pdf/net/annotations/setfreetextannotationformatting/
 ---
 
 Aspose.PDF pour .NET est une API de manipulation de documents PDF puissante et facile à utiliser qui vous permet de travailler avec des fichiers PDF par programmation dans vos applications .NET. L'une des fonctionnalités fournies par Aspose.PDF pour .NET est la possibilité de définir une mise en forme d'annotation de texte libre dans les documents PDF. Dans cet article, nous vous guiderons pas à pas dans le processus de définition du formatage d'annotation de texte libre à l'aide d'Aspose.PDF pour .NET.

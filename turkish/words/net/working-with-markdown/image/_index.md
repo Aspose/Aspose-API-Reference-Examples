@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile görüntü eklemeyi ve özelleştirmeyi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/image/
+url: /tr/words/net/working-with-markdown/image/
 ---
 
 Bu örnekte görüntü özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. Resimler, bir belgeye çizimler ve grafikler eklemenizi sağlar.

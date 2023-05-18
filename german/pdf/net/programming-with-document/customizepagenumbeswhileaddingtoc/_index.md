@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit dieser Schritt-für-Schritt-Anleitung und dem Codebeispiel, wie Sie Seitenzahlen anpassen und gleichzeitig ein Inhaltsverzeichnis (TOC) mit Aspose.PDF für .NET hinzufügen.
 type: docs
 weight: 100
-url: /ru/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
+url: /de/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
 ---
 
 In diesem Tutorial erfahren Sie, wie Sie mit Aspose.PDF für .NET Seitenzahlen anpassen und gleichzeitig ein Inhaltsverzeichnis (TOC) hinzufügen. Wir stellen Ihnen eine Schritt-für-Schritt-Anleitung zusammen mit einem Codebeispiel zur Verfügung, um Ihnen dabei zu helfen, dies zu erreichen.

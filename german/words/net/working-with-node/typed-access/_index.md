@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie typisierten Zugriff zum Bearbeiten von Tabellen in Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/typed-access/
+url: /de/words/net/working-with-node/typed-access/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Verwendung der Typed Access-Funktion mit Aspose.Words für .NET veranschaulicht.

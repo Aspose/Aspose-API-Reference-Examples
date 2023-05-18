@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du räknar upp underordnade noder i ett stycke med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/enumerate-child-nodes/
+url: /sv/words/net/working-with-node/enumerate-child-nodes/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur man räknar upp barnnoder med Aspose.Words för .NET.

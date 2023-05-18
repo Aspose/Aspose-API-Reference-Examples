@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a clonar un documento de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/cloning-document/
+url: /es/words/net/clone-and-combine-documents/cloning-document/
 ---
 
 En este tutorial, le diremos cómo clonar un documento de Word utilizando la función de clonación de Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y crear una copia exacta de un documento existente.

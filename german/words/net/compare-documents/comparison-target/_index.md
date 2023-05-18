@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Lernen Sie die Zielvergleichsfunktion von Aspose.Words für .NET kennen, mit der Sie Dokumente vergleichen und ein neues Dokument mit den vorgenommenen Änderungen erstellen können.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-target/
+url: /de/words/net/compare-documents/comparison-target/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Vergleichszielfunktionalität von Aspose.Words für .NET nutzt.

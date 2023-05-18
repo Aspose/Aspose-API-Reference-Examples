@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du delar upp ett Word-dokument i separata avsnitt med Aspose.Words för .NET med komplett kodexempel.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections/
+url: /sv/words/net/split-document/by-sections/
 ---
 
 I det här exemplet kommer vi att visa dig hur du delar upp ett Word-dokument i separata avsnitt med hjälp av funktionen By Sections i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och få separata dokument för varje avsnitt.

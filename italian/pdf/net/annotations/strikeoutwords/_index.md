@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo fornisce una guida dettagliata all'utilizzo di Aspose.PDF per la funzione Barra parole di .NET, incluse guide e spiegazioni dettagliate
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /it/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF per .NET è una libreria per la manipolazione e l'elaborazione di documenti PDF che fornisce varie funzionalità per creare, modificare e convertire file PDF. Una delle funzioni utili fornite da Aspose.PDF è la possibilità di barrare parole o frasi in un documento PDF utilizzando il codice sorgente C#. In questo articolo, forniremo una guida dettagliata su come cancellare le parole usando Aspose.PDF per .NET.
 

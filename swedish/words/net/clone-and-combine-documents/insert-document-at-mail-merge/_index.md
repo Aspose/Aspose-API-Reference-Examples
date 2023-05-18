@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar dokument i ett annat under sammankoppling med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
+url: /sv/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
 ---
 
 den här självstudien kommer vi att gå igenom hur du infogar ett dokument i ett annat dokument under kopplingen med hjälp av funktionen Infoga dokument under koppling av brev i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och utföra dokumentinfogningen.

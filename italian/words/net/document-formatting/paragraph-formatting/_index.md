@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare la formattazione personalizzata ai tuoi paragrafi con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/paragraph-formatting/
+url: /it/words/net/document-formatting/paragraph-formatting/
 ---
 
 In questo tutorial, ti illustreremo come utilizzare la funzionalità di formattazione dei paragrafi con Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e applicare le modifiche.

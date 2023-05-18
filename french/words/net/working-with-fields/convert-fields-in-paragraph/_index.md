@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Convertissez les champs IF en texte brut dans un paragraphe avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /fr/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 Voici un didacticiel qui montre comment utiliser la fonction Convertir les champs en paragraphe avec Aspose.Words pour .NET. Ce code convertit tous les champs de type IF rencontrés dans le dernier paragraphe d'un document en texte brut. Suivez les étapes ci-dessous pour comprendre et exécuter ce code.

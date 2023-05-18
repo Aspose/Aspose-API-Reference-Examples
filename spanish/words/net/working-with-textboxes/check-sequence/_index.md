@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a verificar la secuencia de cuadros de texto en un documento de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /es/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## Paso 1: configurar el documento y crear una forma de cuadro de texto

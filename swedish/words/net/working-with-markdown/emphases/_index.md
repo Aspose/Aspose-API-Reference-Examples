@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder betoningar (fet och kursiv stil) med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /sv/words/net/working-with-markdown/emphases/
 ---
 
 I det här exemplet kommer vi att förklara hur man använder emphases med Aspose.Words för .NET. betoningar används för att framhäva vissa delar av texten, som fetstil och kursiv stil.

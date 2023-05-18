@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Adım adım kılavuz kullanarak Aspose.Words for .NET'te Birleştirme Alanına Taşı özelliğini nasıl uygulayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-merge-field/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-merge-field/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in Birleştirme Alanına Taşı özelliğini inceleyeceğiz. Aspose.Words, geliştiricilerin Word belgelerini program aracılığıyla oluşturmasına, değiştirmesine ve dönüştürmesine olanak sağlayan güçlü bir belge işleme kitaplığıdır. Birleştirme Alanına Taşı özelliği, bir belgedeki alanları birleştirmek için gezinmemize ve bunlar üzerinde çeşitli işlemler gerçekleştirmemize olanak tanır.

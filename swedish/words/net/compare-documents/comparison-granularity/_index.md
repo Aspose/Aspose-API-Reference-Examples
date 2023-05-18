@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig Jämför granularitetsfunktionen i Aspose.Words för .NET som gör att dokument kan jämföras tecken för tecken, och rapporterar gjorda ändringar.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-granularity/
+url: /sv/words/net/compare-documents/comparison-granularity/
 ---
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan, som använder funktionen Compare Granularity i Aspose.Words för .NET.
 

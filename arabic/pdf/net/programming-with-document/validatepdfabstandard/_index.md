@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للتحقق من صحة مستندات PDF مقابل PDFABStandard من خلال دليلنا خطوة بخطوة ومثال التعليمات البرمجية.
 type: docs
 weight: 380
-url: /ru/pdf/net/programming-with-document/validatepdfabstandard/
+url: /ar/pdf/net/programming-with-document/validatepdfabstandard/
 ---
 إذا كنت تعمل باستخدام مستندات PDF في .NET ، فقد تحتاج إلى التحقق من صحة ملف PDF مقابل معيار مثل PDF / A. يوفر Aspose.PDF for .NET طريقة سهلة الاستخدام للتحقق من صحة مستند PDF مقابل معيار PDF / A-1a. في هذه المقالة ، سنقدم دليلًا تفصيليًا لشرح التعليمات البرمجية المصدر C # التالية للحصول على معيار PDF / A-1a والتحقق منه باستخدام Aspose.PDF لـ .NET.
 

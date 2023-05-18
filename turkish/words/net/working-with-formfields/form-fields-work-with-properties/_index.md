@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde form alanı özellikleriyle nasıl çalışacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-work-with-properties/
+url: /tr/words/net/working-with-formfields/form-fields-work-with-properties/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesindeki form alanı özellikleriyle nasıl çalışacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

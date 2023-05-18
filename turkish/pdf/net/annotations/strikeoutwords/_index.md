@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET'in Strike Out Words özelliğinin kullanımı için adım adım kılavuz ve açıklamalar içeren adım adım bir kılavuz sunmaktadır.
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /tr/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF for .NET, PDF dosyalarını oluşturmak, değiştirmek ve dönüştürmek için çeşitli özellikler sağlayan bir PDF belge işleme ve işleme kitaplığıdır. Aspose.PDF'nin sağladığı kullanışlı özelliklerden biri, C# kaynak kodunu kullanarak bir PDF belgesindeki sözcüklerin veya tümcelerin üstünü çizebilme yeteneğidir. Bu yazıda, Aspose.PDF for .NET kullanarak kelimelerin üstünün nasıl çizileceğine dair adım adım bir kılavuz sunacağız.
 

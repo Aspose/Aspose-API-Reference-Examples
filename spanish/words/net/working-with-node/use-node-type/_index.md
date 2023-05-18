@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar el tipo de nodo para acceder a información específica del documento con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/use-node-type/
+url: /es/words/net/working-with-node/use-node-type/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo usar la funcionalidad de tipo de nodo con Aspose.Words para .NET.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar enlaces con Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/link/
+url: /es/words/net/working-with-markdown/link/
 ---
 
 En este ejemplo, lo guiaremos a través de cómo usar la función de enlaces con Aspose.Words para .NET. Los enlaces se utilizan para crear referencias en las que se puede hacer clic a sitios web u otros documentos.

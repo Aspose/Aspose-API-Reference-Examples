@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET kullanarak lnk Açıklamanın çizgi genişliğini ayarlamak için adım adım bir kılavuz sunmaktadır.
 type: docs
 weight: 110
-url: /ru/pdf/net/annotations/lnkannotationlinewidth/
+url: /tr/pdf/net/annotations/lnkannotationlinewidth/
 ---
 Aspose.PDF, .NET uygulamalarında PDF dosyalarıyla çalışmak için güçlü ve yaygın olarak kullanılan bir araçtır. Sayfalara açıklamalar ekleme yeteneği de dahil olmak üzere PDF dosyalarını oluşturmak, düzenlemek ve değiştirmek için çeşitli özellikler sağlar. Bu öğreticide, Aspose.PDF for .NET kullanarak bir bağlantı notunun çizgi genişliğini nasıl ayarlayacağımızı açıklayacağız.
 

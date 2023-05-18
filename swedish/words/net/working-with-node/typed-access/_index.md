@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder maskinskriven åtkomst för att manipulera tabeller i Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/typed-access/
+url: /sv/words/net/working-with-node/typed-access/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur man använder funktionen Typad Access med Aspose.Words för .NET.

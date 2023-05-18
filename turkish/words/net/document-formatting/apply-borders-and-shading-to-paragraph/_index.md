@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir paragrafa kenarlık ve gölgeleme uygulamayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
+url: /tr/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
 ---
 
 Bu öğreticide, size Aspose.Words for .NET'in işlevselliğini kullanarak bir paragrafa nasıl kenarlık ve gölgeleme uygulayacağınızı göstereceğiz. Kaynak kodunu anlamak ve biçimlendirme değişikliklerini uygulamak için aşağıdaki adımları izleyin.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment définir la police par défaut d'un document PDF à l'aide d'Aspose.PDF pour .NET grâce à ce guide étape par étape.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /fr/pdf/net/programming-with-document/setdefaultfont/
 ---
 Si vous travaillez avec des documents PDF dans .NET, vous pouvez rencontrer des problèmes où la police utilisée dans le PDF n'est pas disponible sur le système sur lequel il est affiché ou imprimé. Cela peut avoir pour conséquence que le texte s'affiche de manière incorrecte ou pas du tout. Aspose.PDF pour .NET fournit une solution à ce problème en vous permettant de définir une police par défaut pour le document. Dans cet exemple, comment définir la police par défaut à l'aide de Aspose.PDF pour .NET.
 

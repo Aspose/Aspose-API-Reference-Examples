@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller doc till docx, docx till rtf, docx till pdf, docx till byte, docx till epub, docx till mhtml och skicka e-post, docx till markdown, docx till txt, txt till docx,
 type: docs
 weight: 1600
-url: /ru/words/net/basic-conversions/
+url: /sv/words/net/basic-conversions/
 ---
 
 Basic Conversions leder dig genom grundläggande dokumentkonverteringar med hjälp av Aspose.Words for .NET-biblioteket. Handledningar ger steg-för-steg förklaringar, detaljerad källkod och praktiska exempel för att konvertera Word-dokument till olika format som PDF, HTML, EPUB, bilder och mer. Du kommer också att lära dig hur du anger konverteringsalternativ, hanterar teckensnitt, bilder och layouter. Denna resurs är viktig för utvecklare som vill automatisera dokumentkonverteringar med Aspose.Words för .NET, vilket ger fullständig flexibilitet och kontroll över konverteringsprocessen.

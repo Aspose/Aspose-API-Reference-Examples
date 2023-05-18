@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile vurguları (kalın ve italik) nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /tr/words/net/working-with-markdown/emphases/
 ---
 
 Bu örnekte vurguların Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. vurgular, metnin kalın ve italik gibi belirli kısımlarını vurgulamak için kullanılır.

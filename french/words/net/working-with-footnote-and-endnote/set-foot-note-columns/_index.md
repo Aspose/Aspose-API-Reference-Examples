@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment définir le nombre de colonnes pour les notes de bas de page dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-foot-note-columns/
+url: /fr/words/net/working-with-footnote-and-endnote/set-foot-note-columns/
 ---
 
 Dans ce tutoriel étape par étape, nous vous expliquerons comment utiliser Aspose.Words pour .NET pour définir le nombre de colonnes pour les notes de bas de page dans un document Word. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

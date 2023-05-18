@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à convertir des documents PDF au format Docx en utilisant Aspose.Words pour .NET. Tutoriel étape par étape avec un exemple de code source.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/pdf-to-docx/
+url: /fr/words/net/basic-conversions/pdf-to-docx/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment utiliser Aspose.Words pour .NET pour convertir un document PDF au format Docx. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

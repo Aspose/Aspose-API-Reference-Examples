@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Callout-Eigenschaft mit Aspose.PDF für .NET festlegen. Passen Sie Anmerkungen mit Beschriftungslinien, Textfarben und Endstilen an.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /de/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek zum Erstellen, Bearbeiten und Konvertieren von PDF-Dokumenten in C#. Eine der von dieser Bibliothek bereitgestellten Funktionen ist die Möglichkeit, Callout-Eigenschaften für Freitextanmerkungen in PDF-Dokumenten festzulegen. Dies kann mit der erfolgen`FreeTextAnnotation` Klasse, mit der Sie Anmerkungen mit Callouts erstellen können.
 

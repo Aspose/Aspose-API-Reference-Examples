@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come ottenere il nodo padre di un elemento specifico con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /it/words/net/working-with-node/get-parent-node/
 ---
 
 Ecco una guida passo passo per spiegare il codice sorgente C# di seguito che illustra come ottenere il nodo padre utilizzando Aspose.Words per .NET.

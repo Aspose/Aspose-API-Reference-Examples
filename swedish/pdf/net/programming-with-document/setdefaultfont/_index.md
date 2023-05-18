@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in standardteckensnittet för ett PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /sv/pdf/net/programming-with-document/setdefaultfont/
 ---
 Om du arbetar med PDF-dokument i .NET kan du stöta på problem där teckensnittet som används i PDF:en inte är tillgängligt på systemet där det visas eller skrivs ut. Detta kan resultera i att texten visas felaktigt eller inte alls. Aspose.PDF för .NET ger en lösning på detta problem genom att du kan ställa in ett standardteckensnitt för dokumentet. I det här exemplet, hur man ställer in standardteckensnittet med Aspose.PDF för .NET.
 

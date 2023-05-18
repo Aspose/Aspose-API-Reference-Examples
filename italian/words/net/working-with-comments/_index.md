@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial mostrano come aggiungere commenti, ancorare commenti, aggiungere/rimuovere risposte ai commenti, estrarre commenti e risolvere commenti e risposte in Aspose.Words per .NET
 type: docs
 weight: 50
-url: /ru/words/net/working-with-comments/
+url: /it/words/net/working-with-comments/
 ---
 
 In questi tutorial imparerai vari aspetti del lavoro con i commenti nei documenti di Word usando Aspose.Words per .NET. Scoprirai come aggiungere commenti ai documenti, ancorare le risposte ai commenti a un testo specifico, aggiungere e rimuovere le risposte ai commenti e risolvere i commenti e le relative risposte. Ogni tutorial fornisce una guida passo-passo con il codice sorgente completo, che consente di migliorare la collaborazione e la gestione del feedback all'interno dei documenti di Word utilizzando Aspose.Words per .NET.

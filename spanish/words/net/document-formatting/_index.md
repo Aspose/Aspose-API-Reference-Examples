@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen espacios entre texto asiático y latino, grupo de salto de línea de tipografía asiática, formato de párrafo, formato de lista multinivel y aplicación de estilo de párrafo.
 type: docs
 weight: 1490
-url: /ru/words/net/document-formatting/
+url: /es/words/net/document-formatting/
 ---
 
 El tutorial cubre varios aspectos, como formatear texto, párrafos, tablas, imágenes y mucho más. Proporciona ejemplos de código claros y explicaciones paso a paso para guiarlo a través del proceso de formato de documentos usando Aspose.Words. Ya sea que sea un desarrollador principiante o experimentado, este tutorial será un recurso valioso para mejorar sus habilidades de formateo de documentos con Aspose.Words para .NET.

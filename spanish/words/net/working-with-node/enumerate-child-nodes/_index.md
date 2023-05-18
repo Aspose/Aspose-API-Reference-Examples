@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a enumerar nodos secundarios en un párrafo con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/enumerate-child-nodes/
+url: /es/words/net/working-with-node/enumerate-child-nodes/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo enumerar nodos secundarios usando Aspose.Words para .NET.

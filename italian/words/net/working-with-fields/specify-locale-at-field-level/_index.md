@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come specificare la localizzazione a livello di campo nei documenti di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/specify-locale-at-field-level/
+url: /it/words/net/working-with-fields/specify-locale-at-field-level/
 ---
 
 Ecco una guida dettagliata per spiegare il seguente codice sorgente C# che consente di specificare la localizzazione a livello di campo utilizzando la funzionalità Aspose.Words per .NET. Assicurati di aver incluso la libreria Aspose.Words nel tuo progetto prima di utilizzare questo codice.

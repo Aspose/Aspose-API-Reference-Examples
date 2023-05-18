@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller hur du infogar Ole Object med och utan Ole Package, Ole Object som ikon och läser Active XControl Properties med Aspose.Words för .NET.
 type: docs
 weight: 1080
-url: /ru/words/net/working-with-oleobjects-and-activex/
+url: /sv/words/net/working-with-oleobjects-and-activex/
 ---
 
  ## Handledningar

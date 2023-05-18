@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar campos de formulario desplegables en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/insert-form-fields/
+url: /es/words/net/working-with-formfields/insert-form-fields/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo insertar campos de formulario, específicamente un campo de formulario desplegable, en un documento de Word usando Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

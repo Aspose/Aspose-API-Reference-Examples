@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du laddar en avstavningsordbok för ett specifikt språk i Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
+url: /sv/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
 ---
 
 denna steg-för-steg handledning visar vi dig hur du laddar en avstavningsordlista för ett specifikt språk till Aspose.Words för .NET. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

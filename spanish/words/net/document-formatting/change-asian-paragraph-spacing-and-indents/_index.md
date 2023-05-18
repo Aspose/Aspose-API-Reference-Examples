@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a cambiar el espacio entre párrafos asiáticos y las sangrías con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /es/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 En este tutorial, lo guiaremos a través de cómo cambiar el espaciado y las sangrías de un párrafo asiático usando Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y aplicar los cambios.

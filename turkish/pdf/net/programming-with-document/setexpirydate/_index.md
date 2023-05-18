@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak PDF belgelerinde son kullanma tarihini nasıl belirleyeceğinizi öğrenin.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /tr/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF for .NET, PDF dosyalarıyla çalışmak için çeşitli özellikler sağlayan güçlü bir kitaplıktır. Böyle bir özellik, bir PDF belgesi için bir son kullanma tarihi belirleme yeteneğidir. Bu eğitimde, Aspose.PDF for .NET kullanarak bir PDF belgesi için son kullanma tarihi belirleme sürecinde size yol göstereceğiz. 
 

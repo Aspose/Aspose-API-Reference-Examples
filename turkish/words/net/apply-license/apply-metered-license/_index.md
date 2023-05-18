@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak ölçülü bir lisansı nasıl uygulayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /tr/words/net/apply-license/apply-metered-license/
 ---
 
 Bu kapsamlı eğitimde, Aspose.Words for .NET kullanarak tarifeli bir lisansı nasıl uygulayacağınızı öğreneceksiniz. Ayrıntılı adım adım talimatlarla süreç boyunca size rehberlik edeceğiz ve gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, ölçülü bir lisans uygulayabilecek ve belge işleme ihtiyaçlarınız için Aspose.Words'ün gelişmiş özelliklerinden yararlanabileceksiniz.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile paragraf stili ayırıcıyı nasıl alacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/get-paragraph-style-separator/
+url: /tr/words/net/document-formatting/get-paragraph-style-separator/
 ---
 
 Bu eğitimde, Aspose.Words for .NET ile Get Paragraph Style Separator özelliğini nasıl kullanacağınız konusunda size yol göstereceğiz. Kaynak kodunu anlamak ve değişiklikleri uygulamak için aşağıdaki adımları izleyin.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à optimiser la taille de fichier de vos documents PDF avec Aspose.PDF pour .NET à l'aide de ce guide étape par étape.
 type: docs
 weight: 250
-url: /ru/pdf/net/programming-with-document/optimizefilesize/
+url: /fr/pdf/net/programming-with-document/optimizefilesize/
 ---
 Aspose.PDF pour .NET est une bibliothèque qui permet aux développeurs de créer, modifier et manipuler des fichiers PDF dans leurs applications .NET. L'une des fonctionnalités les plus utiles de cette bibliothèque est la possibilité d'optimiser la taille de fichier d'un document PDF. Dans cet article, nous fournirons un guide étape par étape pour optimiser la taille de fichier d'un document PDF à l'aide d'Aspose.PDF pour .NET.
 

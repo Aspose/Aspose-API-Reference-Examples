@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer une liste à plusieurs niveaux et à appliquer une mise en forme personnalisée avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/multilevel-list-formatting/
+url: /fr/words/net/document-formatting/multilevel-list-formatting/
 ---
 
 Dans ce didacticiel, nous allons vous montrer comment utiliser la fonctionnalité de formatage de liste à plusieurs niveaux avec Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications.

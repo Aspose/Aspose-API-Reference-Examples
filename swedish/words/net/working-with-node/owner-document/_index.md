@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder ägardokumentet i Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/owner-document/
+url: /sv/words/net/working-with-node/owner-document/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur man använder proprietära dokumentfunktioner med Aspose.Words för .NET.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie Kommentare und deren Antworten in Word-Dokumenten mit Aspose.Words für .NET auflösen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/comment-resolved-and-replies/
+url: /de/words/net/working-with-comments/comment-resolved-and-replies/
 ---
 
 In diesem umfassenden Tutorial erfahren Sie, wie Sie Kommentare und deren Antworten in einem Word-Dokument mit Aspose.Words für .NET auflösen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Leitfadens werden Sie in der Lage sein, die Kommentarauflösung zu verwalten und den Status von Kommentaren und deren Antworten zu aktualisieren.

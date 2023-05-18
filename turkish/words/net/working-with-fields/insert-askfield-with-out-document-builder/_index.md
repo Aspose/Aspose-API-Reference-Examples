@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize nasıl ASK alanı ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-askfield-with-out-document-builder/
+url: /tr/words/net/working-with-fields/insert-askfield-with-out-document-builder/
 ---
 
 Aspose.Words for .NET'in "DocumentBuilder olmadan bir ASK alanı ekle" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

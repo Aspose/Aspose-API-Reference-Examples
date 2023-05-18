@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: In questo tutorial imparerai come rinominare i campi di unione in un documento utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /it/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Ecco una guida passo passo per spiegare il codice sorgente C# di seguito che utilizza la funzionalità di ridenominazione dei campi di unione di Aspose.Words per .NET. Segui attentamente ogni passaggio per ottenere i risultati desiderati.

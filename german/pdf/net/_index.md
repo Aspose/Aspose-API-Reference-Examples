@@ -3,7 +3,7 @@ title: Aspose.PDF für .NET-Tutorials
 linktitle: Aspose.PDF for .NET Tutorials
 type: docs
 weight: 10
-url: /ru/pdf/net/
+url: /de/pdf/net/
 description: „API-Tutorials und Codeausschnitte von Aspose.PDF für .NET, die das Erstellen, Bearbeiten, Konvertieren, Drucken und viele weitere Funktionen zur Verwendung der PDF-Dokumentverarbeitung umfassen“
 is_root: true
 ---

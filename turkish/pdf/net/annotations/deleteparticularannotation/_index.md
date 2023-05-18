@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir PDF belgesinden belirli bir açıklamayı nasıl sileceğinizi öğrenin.
 type: docs
 weight: 50
-url: /ru/pdf/net/annotations/deleteparticularannotation/
+url: /tr/pdf/net/annotations/deleteparticularannotation/
 ---
 Bu eğitimde, C# kullanarak bir PDF dosyasından belirli bir açıklamayı silmek için Aspose.PDF for .NET'i nasıl kullanacağınızı göstereceğiz.
 

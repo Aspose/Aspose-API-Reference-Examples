@@ -4,7 +4,7 @@ additionalTitle: Aspose API-referenser
 description: Handledningar och kodsnuttar av Aspose-produkter som Aspose.Words, Aspose.Cells, Aspose.PDF och andra produkter. Den innehåller grundläggande och förhandshandledningar för användning av Aspose-produkter.
 type: docs
 weight: 10
-url: /ru/
+url: /sv/
 ---
 
 ## Aspose.Words

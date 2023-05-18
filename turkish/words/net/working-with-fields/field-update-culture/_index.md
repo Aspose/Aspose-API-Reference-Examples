@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizdeki alan kültürünü nasıl güncelleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/field-update-culture/
+url: /tr/words/net/working-with-fields/field-update-culture/
 ---
 
 Aspose.Words for .NET'in "Field Culture Update" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

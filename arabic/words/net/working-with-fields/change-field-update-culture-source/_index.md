@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تغيير مصدر ثقافة تحديث الحقل ، دليل خطوة بخطوة لتعديل مصدر الثقافة في Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /ar/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 في هذا البرنامج التعليمي ، سنوجهك خلال عملية تغيير مصدر ثقافة التحديث الميداني في مستندات Word باستخدام Aspose.Words for .NET. من خلال تعديل مصدر الثقافة ، يمكنك التحكم في تنسيق التاريخ أثناء تحديث الحقل وعمليات دمج البريد. سنزودك بشفرة المصدر C # الضرورية والتعليمات خطوة بخطوة لتحقيق ذلك.

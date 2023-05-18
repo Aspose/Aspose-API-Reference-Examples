@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till kommentarer till Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-comments/
+url: /sv/words/net/working-with-comments/add-comments/
 ---
 
 I den här omfattande handledningen kommer du att lära dig hur du lägger till kommentarer till ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna infoga kommentarer och anpassa deras innehåll i dina dokument.

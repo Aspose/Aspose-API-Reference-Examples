@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie PDFs mithilfe von C#-Quellcode mit Aspose.PDF für .NET unsichtbar mit Anmerkungen versehen. Schritt für Schritt Anleitung.
 type: docs
 weight: 100
-url: /ru/pdf/net/annotations/invisibleannotation/
+url: /de/pdf/net/annotations/invisibleannotation/
 ---
 ## Anmerkungen in PDF-Dokumenten verstehen
 

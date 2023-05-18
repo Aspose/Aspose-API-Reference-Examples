@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare le sottolineature (grassetto e corsivo) con Aspose.Words per la guida passo-passo .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /it/words/net/working-with-markdown/emphases/
 ---
 
 In questo esempio, spiegheremo come utilizzare le sottolineature con Aspose.Words per .NET. l'enfasi viene utilizzata per enfatizzare alcune parti del testo, come il grassetto e il corsivo.

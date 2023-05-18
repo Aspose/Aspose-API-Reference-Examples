@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer une liste à puces avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /fr/words/net/working-with-markdown/bulleted-list/
 ---
 
 Dans ce didacticiel, nous allons vous expliquer comment créer une liste à puces avec Aspose.Words pour .NET. Une liste à puces est utilisée pour répertorier les éléments sans utiliser de numérotation.

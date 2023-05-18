@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du osynligt kommenterar PDF-filer med C#-källkod med Aspose.PDF för .NET. Steg-för-steg guide.
 type: docs
 weight: 100
-url: /ru/pdf/net/annotations/invisibleannotation/
+url: /sv/pdf/net/annotations/invisibleannotation/
 ---
 ## Förstå anteckningar i PDF-dokument
 

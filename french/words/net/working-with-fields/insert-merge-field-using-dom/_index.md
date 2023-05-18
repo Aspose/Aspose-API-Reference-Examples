@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de fusion de champs personnalisés dans vos documents Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-merge-field-using-dom/
+url: /fr/words/net/working-with-fields/insert-merge-field-using-dom/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui utilise la fonctionnalité "Insert Field Merge Field" de Aspose.Words pour .NET. Assurez-vous de suivre attentivement chaque étape pour obtenir les résultats souhaités.

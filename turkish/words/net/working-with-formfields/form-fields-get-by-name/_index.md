@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde form alanlarını ada göre nasıl alacağınızı ve değiştireceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-by-name/
+url: /tr/words/net/working-with-formfields/form-fields-get-by-name/
 ---
 
 Bu adım adım eğitimde, bir Word belgesinden form alanlarını ada göre almak için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

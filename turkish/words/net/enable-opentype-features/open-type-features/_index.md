@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Open Type özelliklerini nasıl etkinleştireceğinizi ve kullanacağınızı öğrenin
 type: docs
 weight: 10
-url: /ru/words/net/enable-opentype-features/open-type-features/
+url: /tr/words/net/enable-opentype-features/open-type-features/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET'te Açık Tip özelliklerini nasıl etkinleştireceğinizi ve kullanacağınızı öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, Word belgelerinizde Açık Yazım özellikleriyle çalışabileceksiniz.

@@ -4,7 +4,7 @@ additionalTitle: API Referanslarını Kabul Edin
 description: Aspose.Words ürün ailesinin öğreticileri ve kod parçacıkları. Aspose.Words'ün kullanımına ilişkin temel ve ileri düzey eğitimleri içerir.
 type: docs
 weight: 10
-url: /ru/words/
+url: /tr/words/
 is_root: true
 ---
 

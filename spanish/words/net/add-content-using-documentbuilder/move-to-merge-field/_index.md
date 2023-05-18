@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a implementar la función Mover a campo de combinación en Aspose.Words para .NET con una guía paso a paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-merge-field/
+url: /es/words/net/add-content-using-documentbuilder/move-to-merge-field/
 ---
 
 En este ejemplo, exploraremos la característica Move To Merge Field de Aspose.Words para .NET. Aspose.Words es una poderosa biblioteca de manipulación de documentos que permite a los desarrolladores crear, modificar y convertir documentos de Word mediante programación. La función Move To Merge Field nos permite navegar para combinar campos dentro de un documento y realizar varias operaciones en ellos.

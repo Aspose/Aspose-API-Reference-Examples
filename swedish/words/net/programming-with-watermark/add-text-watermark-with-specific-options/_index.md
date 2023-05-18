@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till en textvattenstämpel med specifika alternativ med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /sv/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 den här handledningen kommer vi att gå igenom hur du lägger till en textvattenstämpel med specifika alternativ med Aspose.Words för .NET. En textvattenstämpel är text som läggs ovanpå ett dokument för att indikera att det är ett utkast, konfidentiellt osv.

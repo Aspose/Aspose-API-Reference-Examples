@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiungere livelli ai file PDF utilizzando Aspose.PDF per .NET. Guida dettagliata con esercitazioni sul codice per la creazione e il salvataggio di PDF a più livelli.
 type: docs
 weight: 20
-url: /ru/pdf/net/programming-with-document/addlayers/
+url: /it/pdf/net/programming-with-document/addlayers/
 ---
 
 Per aggiungere livelli a un file PDF, utilizzeremo Aspose.PDF per .NET. Questa libreria ci consente di lavorare efficacemente con i file PDF nelle applicazioni .NET. Segui le istruzioni dettagliate di seguito per aggiungere livelli utilizzando Aspose.PDF per .NET.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att infoga formulärfält för textinmatning i Word-dokument med denna steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
+url: /sv/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
 ---
 
 denna steg-för-steg-guide kommer vi att utforska hur du använder funktionen Infoga textinmatningsformulär i Aspose.Words för .NET för att lägga till och manipulera textinmatningsformulär i dina Word-dokument med hjälp av C#-källkoden. Fält för textinmatningsformulär låter användare skriva in anpassad text i ett dokument, vilket gör dem idealiska för att skapa interaktiva formulär och frågeformulär. Genom att följa instruktionerna nedan kommer du enkelt att kunna infoga och anpassa textinmatningsformulär i dina dokument. Låt oss börja!

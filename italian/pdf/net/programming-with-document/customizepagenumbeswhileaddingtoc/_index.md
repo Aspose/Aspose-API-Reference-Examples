@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come personalizzare i numeri di pagina durante l'aggiunta di un sommario (TOC) utilizzando Aspose.PDF per .NET con questa guida dettagliata e un esempio di codice.
 type: docs
 weight: 100
-url: /ru/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
+url: /it/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
 ---
 
 In questo tutorial, esploreremo come personalizzare i numeri di pagina durante l'aggiunta di un sommario (TOC) utilizzando Aspose.PDF per .NET. Forniremo una guida dettagliata, insieme a un esempio di codice, per aiutarti a raggiungere questo obiettivo.

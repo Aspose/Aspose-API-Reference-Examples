@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie in Aspose.Words für .NET ein Silbentrennungswörterbuch für eine bestimmte Sprache laden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
+url: /de/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie ein Silbentrennungswörterbuch für eine bestimmte Sprache in Aspose.Words für .NET laden. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

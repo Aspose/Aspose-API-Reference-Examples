@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Dateiinformationen in Ihren PDF-Dokumenten festlegen.
 type: docs
 weight: 310
-url: /ru/pdf/net/programming-with-document/setfileinfo/
+url: /de/pdf/net/programming-with-document/setfileinfo/
 ---
 Wenn Sie an einem Projekt arbeiten, das die Verwaltung von PDF-Dateien mit Aspose.PDF für .NET erfordert, ist eine der Funktionen, die Sie möglicherweise nutzen möchten, die Möglichkeit, Dateiinformationen für ein PDF-Dokument festzulegen. Die Dateiinformationen umfassen verschiedene Details wie Autor, Erstellungsdatum, Schlüsselwörter, Änderungsdatum, Betreff und Titel. Dieser Leitfaden führt Sie durch den Prozess des Festlegens von Dateiinformationen für ein PDF-Dokument mithilfe von C#-Quellcode mit Aspose.PDF für .NET.
 

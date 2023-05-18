@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Zitate mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/quote/
+url: /de/words/net/working-with-markdown/quote/
 ---
 
 In diesem Beispiel erklären wir, wie Sie die Zitatfunktion mit Aspose.Words für .NET verwenden. Zitate werden verwendet, um Textabschnitte hervorzuheben, indem sie mit einem speziellen Rahmen umgeben werden.

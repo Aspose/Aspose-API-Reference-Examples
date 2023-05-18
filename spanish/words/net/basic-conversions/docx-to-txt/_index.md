@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a convertir documentos de Word de Docx a texto sin formato (Txt) usando Aspose.Words para .NET. Tutorial paso a paso con código fuente de ejemplo.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/docx-to-txt/
+url: /es/words/net/basic-conversions/docx-to-txt/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo usar Aspose.Words para .NET para convertir un documento de Word en formato Docx a texto sin formato (Txt). Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

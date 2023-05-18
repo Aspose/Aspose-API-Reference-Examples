@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية فصل الروابط في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /ar/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words for .NET مكتبة قوية تقدم ميزات متنوعة للعمل مع مستندات Microsoft Word برمجيًا. تتمثل إحدى ميزاته المفيدة في القدرة على فصل الروابط داخل المستند. في هذا البرنامج التعليمي ، سوف نستكشف الكود المصدري في C # الذي يوضح كيفية قطع الرابط باستخدام Aspose.Words for .NET.

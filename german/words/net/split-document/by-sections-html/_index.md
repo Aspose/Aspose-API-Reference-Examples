@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand eines vollständigen Codebeispiels, wie Sie ein Word-Dokument mit Aspose.Words für .NET in HTML-Abschnitte aufteilen.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections-html/
+url: /de/words/net/split-document/by-sections-html/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie ein Word-Dokument mithilfe der Funktion „Nach HTML-Abschnitten“ von Aspose.Words für .NET in separate Abschnitte im HTML-Format aufteilen. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und für jeden Abschnitt separate HTML-Dokumente zu generieren.

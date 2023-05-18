@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Reemplace hipervínculos en documentos de Word usando Aspose.Words para .NET. Instrucciones paso a paso para reemplazar hipervínculos.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/replace-hyperlinks/
+url: /es/words/net/working-with-fields/replace-hyperlinks/
 ---
 
 Aquí hay una guía paso a paso para explicar el siguiente código fuente de C# para reemplazar hipervínculos usando Aspose.Words para la funcionalidad .NET. Asegúrese de haber incluido la biblioteca Aspose.Words en su proyecto antes de usar este código.

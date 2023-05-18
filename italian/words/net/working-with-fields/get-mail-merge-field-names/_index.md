@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come ottenere i nomi dei campi di stampa unione nei documenti di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/get-mail-merge-field-names/
+url: /it/words/net/working-with-fields/get-mail-merge-field-names/
 ---
 
 Ecco una guida passo-passo per spiegare il codice sorgente C# di seguito, che utilizza la funzione "Ottieni nomi dei campi di unione" di Aspose.Words per .NET. Assicurati di seguire attentamente ogni passaggio per ottenere i risultati desiderati.

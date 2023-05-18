@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller export till markdown med justering av tabellinnehåll och bildmapp
 type: docs
 weight: 1640
-url: /ru/words/net/programming-with-markdownsaveoptions/
+url: /sv/words/net/programming-with-markdownsaveoptions/
 ---
 
 Programmering med MarkdownSaveOptions är en djupgående resurs som leder dig genom programmering med MarkdownSaveOptions med hjälp av Aspose.Words-biblioteket för .NET. Handledningarna ger dig steg-för-steg-förklaringar, fullständig källkod och praktiska exempel för att förstå och använda MarkdownSaveOptions för att exportera Word-dokument till Markdown-format. Du kommer att lära dig hur du anpassar exportalternativ, som att hantera bilder, justera tabellinnehåll, konvertera stilar och mer. Denna resurs är viktig för utvecklare som vill integrera Markdown-exportfunktionalitet i sina applikationer med Aspose.Words för .NET.

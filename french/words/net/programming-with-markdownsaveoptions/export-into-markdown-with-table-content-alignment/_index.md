@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à exporter le contenu d'un tableau avec différents alignements vers des fichiers Markdown à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
+url: /fr/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
 ---
 Voici un guide étape par étape pour expliquer le code source C # suivant qui permet d'exporter du contenu vers un fichier Markdown avec un alignement du contenu du tableau à l'aide de la bibliothèque Aspose.Words pour .NET. Assurez-vous d'avoir inclus la bibliothèque Aspose.Words dans votre projet avant d'utiliser ce code.
 

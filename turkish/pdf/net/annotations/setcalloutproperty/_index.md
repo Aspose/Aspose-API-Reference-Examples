@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak Bilgi Özelliğini nasıl ayarlayacağınızı öğrenin. Ek açıklamaları belirtme çizgileri, metin rengi ve bitiş stilleriyle özelleştirin.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /tr/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF for .NET, C# dilinde PDF belgeleri oluşturmak, işlemek ve dönüştürmek için güçlü bir kitaplıktır. Bu kitaplığın sağladığı özelliklerden biri, PDF belgelerindeki serbest metin ek açıklamaları için belirtme çizgisi özelliklerini ayarlama yeteneğidir. Bu, kullanılarak yapılabilir`FreeTextAnnotation` belirtme çizgileriyle ek açıklamalar oluşturmanıza olanak tanıyan sınıf.
 

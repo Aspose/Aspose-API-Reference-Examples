@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les tutoriels contiennent par en-têtes html, par sections html, par sections, page par page, fusionnent des documents et par plage de pages
 type: docs
 weight: 1450
-url: /ru/words/net/split-document/
+url: /fr/words/net/split-document/
 ---
 Split Document est une ressource complète qui explique comment diviser un document en parties distinctes à l'aide de la bibliothèque Aspose.Words pour .NET. Les didacticiels fournissent des explications détaillées étape par étape, des exemples complets de code source et des conseils pratiques pour diviser un document en fonction de différentes conditions, telles que le nombre de pages, de sections, de paragraphes, etc. Cette ressource est essentielle pour les développeurs qui souhaitent automatiser le processus de fractionnement de documents volumineux et de simplification de la gestion des pièces individuelles. Avec Aspose.Words pour .NET, vous pouvez facilement extraire, enregistrer et manipuler différentes parties d'un document, améliorant considérablement l'efficacité et la flexibilité de votre flux de travail de traitement de documents.
 

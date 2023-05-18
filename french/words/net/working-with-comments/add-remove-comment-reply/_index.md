@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment ajouter et supprimer des réponses aux commentaires dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-remove-comment-reply/
+url: /fr/words/net/working-with-comments/add-remove-comment-reply/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à ajouter et à supprimer des réponses aux commentaires dans un document Word à l'aide d'Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de gérer les réponses aux commentaires et de les personnaliser en fonction de vos besoins.

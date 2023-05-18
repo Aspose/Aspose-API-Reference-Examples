@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize YAZAR alanı eklemeyi öğrenin. Belgelerinizi kişiselleştirmek için yazarın adını belirtin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-author-field/
+url: /tr/words/net/working-with-fields/insert-author-field/
 ---
 
 

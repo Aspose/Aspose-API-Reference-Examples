@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لاسترداد جميع التعليقات التوضيحية من صفحة PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 70
-url: /ru/pdf/net/annotations/getallannotationsfrompage/
+url: /ar/pdf/net/annotations/getallannotationsfrompage/
 ---
 ستوجهك هذه المقالة خلال عملية استخراج جميع التعليقات التوضيحية من صفحة PDF باستخدام Aspose.PDF for .NET. Aspose.PDF for .NET هي مكتبة تتيح للمطورين إنشاء مستندات PDF وتحريرها وتحويلها. بمساعدة هذا الدليل ، ستتمكن من الحصول على جميع التعليقات التوضيحية من صفحة PDF معينة باستخدام كود المصدر C # المقدم.
 

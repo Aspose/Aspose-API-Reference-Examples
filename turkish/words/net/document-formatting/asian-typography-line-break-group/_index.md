@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Asya Tipografisi satır sonu grubunu Aspose.Words for .NET ile nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/asian-typography-line-break-group/
+url: /tr/words/net/document-formatting/asian-typography-line-break-group/
 ---
 
 Bu eğitimde, size Asya Tipografisi satır sonu grup özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını göstereceğiz. Kaynak kodunu anlamak ve biçimlendirme değişikliklerini uygulamak için aşağıdaki adımları izleyin.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in unserer Schritt-für-Schritt-Anleitung, wie Sie den Zoomfaktor für PDF-Dateien mit Aspose.PDF für .NET festlegen.
 type: docs
 weight: 340
-url: /ru/pdf/net/programming-with-document/setzoomfactor/
+url: /de/pdf/net/programming-with-document/setzoomfactor/
 ---
 Aspose.PDF für .NET ist eine leistungsstarke API, die es Entwicklern ermöglicht, mit PDF-Dokumenten in ihren .NET-Anwendungen zu arbeiten. Eine der Funktionen ist die Möglichkeit, den Zoomfaktor eines PDF-Dokuments festzulegen. In dieser Schritt-für-Schritt-Anleitung erklären wir, wie Sie mit Aspose.PDF für .NET den Zoomfaktor eines PDF-Dokuments mithilfe des bereitgestellten C#-Quellcodes festlegen.
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar campos de formulario de casilla de verificación en documentos de Word usando Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
+url: /es/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
 ---
 
 En este completo tutorial, aprenderá a insertar un campo de formulario de casilla de verificación en un documento de Word utilizando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá agregar campos de formulario de casilla de verificación con propiedades personalizables a sus documentos.

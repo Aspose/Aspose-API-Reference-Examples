@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لتعيين معلومات الملف في مستندات PDF الخاصة بك باستخدام هذا الدليل التفصيلي.
 type: docs
 weight: 310
-url: /ru/pdf/net/programming-with-document/setfileinfo/
+url: /ar/pdf/net/programming-with-document/setfileinfo/
 ---
 إذا كنت تعمل في مشروع يتطلب إدارة ملفات PDF باستخدام Aspose.PDF for .NET ، فإن إحدى الميزات التي قد ترغب في استخدامها هي القدرة على تعيين معلومات الملف لمستند PDF. تتضمن معلومات الملف تفاصيل مختلفة مثل المؤلف وتاريخ الإنشاء والكلمات الرئيسية وتاريخ التعديل والموضوع والعنوان. سيرشدك هذا الدليل خلال عملية تعيين معلومات الملف لمستند PDF باستخدام الكود المصدري C # مع Aspose.PDF for .NET.
 

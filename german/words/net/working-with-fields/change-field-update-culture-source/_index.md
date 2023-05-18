@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Kulturquelle für Feldaktualisierung ändern, Schritt-für-Schritt-Anleitung zum Ändern der Kulturquelle in Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /de/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 In diesem Tutorial führen wir Sie durch den Prozess der Änderung der Feldaktualisierungskulturquelle in Word-Dokumenten mithilfe von Aspose.Words für .NET. Durch Ändern der Kulturquelle können Sie die Datumsformatierung während Feldaktualisierungs- und Seriendruckvorgängen steuern. Wir stellen Ihnen den notwendigen C#-Quellcode und eine Schritt-für-Schritt-Anleitung zur Verfügung, um dies zu erreichen.

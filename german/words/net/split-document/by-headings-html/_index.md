@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der By Heading HTML-Funktion von Aspose.Words für .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /de/words/net/split-document/by-headings-html/
 ---
 In diesem Tutorial zeigen wir Ihnen, wie Sie ein Word-Dokument mithilfe der Funktion „Nach HTML-Überschrift“ von Aspose.Words für .NET in kleinere Teile aufteilen. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und separate HTML-Dokumente basierend auf der Überschrift zu generieren.
 

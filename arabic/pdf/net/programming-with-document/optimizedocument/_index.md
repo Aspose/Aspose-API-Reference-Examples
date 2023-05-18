@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: يعد تحسين المستند للويب أمرًا ضروريًا لتجربة المستخدم. تعرف على كيفية القيام بذلك باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 240
-url: /ru/pdf/net/programming-with-document/optimizedocument/
+url: /ar/pdf/net/programming-with-document/optimizedocument/
 ---
 يعد تحسين مستندات PDF للويب خطوة حاسمة في ضمان تجربة مستخدم سريعة وفعالة. سيعلمك هذا الدليل التفصيلي كيفية استخدام Aspose.PDF for .NET لتحسين مستندات PDF الخاصة بك للويب.
 

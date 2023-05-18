@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire collegamenti ipertestuali nei documenti di Word utilizzando Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-hyperlink/
+url: /it/words/net/add-content-using-documentbuilder/insert-hyperlink/
 ---
 
 In questo tutorial completo imparerai come inserire collegamenti ipertestuali in un documento di Word utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di aggiungere collegamenti ipertestuali cliccabili ai tuoi documenti.

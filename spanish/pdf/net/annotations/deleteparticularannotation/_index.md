@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda cómo eliminar una anotación en particular de un documento PDF usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs
 weight: 50
-url: /ru/pdf/net/annotations/deleteparticularannotation/
+url: /es/pdf/net/annotations/deleteparticularannotation/
 ---
 En este tutorial, le mostraremos cómo usar Aspose.PDF para .NET para eliminar una anotación particular de un archivo PDF usando C#.
 

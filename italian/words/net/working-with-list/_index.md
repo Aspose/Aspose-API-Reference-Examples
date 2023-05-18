@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono come riavviare l'elenco in ogni sezione, specificare il livello dell'elenco, riavviare il numero dell'elenco nel documento utilizzando Aspose.Words per .NET.
 type: docs
 weight: 780
-url: /ru/words/net/working-with-list/
+url: /it/words/net/working-with-list/
 ---
 
 Lavorare con gli elenchi è una risorsa completa che ti guida attraverso l'utilizzo degli elenchi nei documenti di Word utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate, codice sorgente completo ed esempi pratici per creare, personalizzare e gestire diversi tipi di elenchi, inclusi elenchi puntati, elenchi numerati ed elenchi multilivello. Imparerai anche come aggiungere elementi, formattare elenchi, modificare l'aspetto e il rientro e altre operazioni avanzate. Questa risorsa è essenziale per gli sviluppatori che desiderano automatizzare la creazione e la gestione degli elenchi nei propri documenti Word utilizzando Aspose.Words per .NET.

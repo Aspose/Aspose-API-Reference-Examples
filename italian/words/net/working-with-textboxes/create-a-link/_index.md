@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un collegamento tra le caselle di testo in un documento di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /it/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## Passaggio 1: impostazione del documento e creazione di forme TextBox

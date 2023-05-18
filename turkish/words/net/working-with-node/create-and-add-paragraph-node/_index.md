@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir paragraf düğümü oluşturun ve Word belgelerinize ekleyin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/create-and-add-paragraph-node/
+url: /tr/words/net/working-with-node/create-and-add-paragraph-node/
 ---
 
 Aspose.Words for .NET kullanarak bir paragraf düğümünün nasıl oluşturulacağını ve ekleneceğini gösteren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz.

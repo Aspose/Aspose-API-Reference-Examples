@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erhalten Sie Revisionsgruppen in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-groups/
+url: /de/words/net/working-with-revisions/get-revision-groups/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung erklären wir Ihnen, wie Sie mit Aspose.Words für .NET die Revisionsgruppen in ein Word-Dokument abrufen. Wir stellen Ihnen den vollständigen Quellcode zur Verfügung und zeigen Ihnen, wie Sie die Markdown-Ausgabe formatieren.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un document dans un autre pendant le publipostage à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
+url: /fr/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
 ---
 
 Dans ce didacticiel, nous allons vous expliquer comment insérer un document dans un autre document lors du publipostage à l'aide de la fonctionnalité Insérer un document lors du publipostage d'Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et effectuer l'insertion du document.

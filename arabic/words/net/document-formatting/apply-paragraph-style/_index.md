@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق نمط فقرة باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-paragraph-style/
+url: /ar/words/net/document-formatting/apply-paragraph-style/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية تطبيق نمط فقرة باستخدام Aspose.Words for .NET. اتبع الخطوات أدناه لفهم الكود المصدري وتطبيق نمط الفقرة.

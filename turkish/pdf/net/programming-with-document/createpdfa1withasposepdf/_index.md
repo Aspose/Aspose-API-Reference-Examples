@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF A1 belgesi oluşturmayı öğrenin. C# kaynak koduyla adım adım kılavuz. PDF'leri verimli bir şekilde optimize edin.
 type: docs
 weight: 90
-url: /ru/pdf/net/programming-with-document/createpdfa1withasposepdf/
+url: /tr/pdf/net/programming-with-document/createpdfa1withasposepdf/
 ---
 
 Bu adım adım kılavuzda, bir PDF A1 belgesi oluşturmak için Aspose.PDF for .NET'in nasıl kullanılacağını açıklayacağız. Bu görevi gerçekleştirmek için size gerekli C# kaynak kodunu ve talimatları sağlayacağız.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Einfaches Extrahieren nach Seitenbereich aus einem Word-Dokument mit Aspose.Words für .NET. Schritt-für-Schritt-Anleitung.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-page-range/
+url: /de/words/net/split-document/by-page-range/
 ---
 
 ## Einführung

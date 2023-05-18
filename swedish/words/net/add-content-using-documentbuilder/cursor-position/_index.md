@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du hämtar markörpositionen i ett Word-dokument med hjälp av Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/cursor-position/
+url: /sv/words/net/add-content-using-documentbuilder/cursor-position/
 ---
 
 I det här steg-för-steg-exemplet kommer du att lära dig om markörpositionen i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna hämta den aktuella noden och stycket där markören är placerad i dokumentet.

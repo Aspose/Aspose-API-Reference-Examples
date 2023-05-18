@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ve kod örneği ile Aspose.PDF for .NET kullanarak bir içindekiler tablosu (TOC) eklerken sayfa numaralarını nasıl özelleştireceğinizi öğrenin.
 type: docs
 weight: 100
-url: /ru/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
+url: /tr/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
 ---
 
 Bu eğitimde, Aspose.PDF for .NET kullanarak bir içindekiler tablosu (TOC) eklerken sayfa numaralarının nasıl özelleştirileceğini keşfedeceğiz. Bunu başarmanıza yardımcı olmak için bir kod örneğiyle birlikte adım adım rehberlik sağlayacağız.

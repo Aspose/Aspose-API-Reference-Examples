@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser les accents (gras et italique) avec Aspose.Words pour le guide étape par étape .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /fr/words/net/working-with-markdown/emphases/
 ---
 
 Dans cet exemple, nous expliquerons comment utiliser les emphases avec Aspose.Words pour .NET. emphases est utilisé pour souligner certaines parties du texte, comme le gras et l'italique.

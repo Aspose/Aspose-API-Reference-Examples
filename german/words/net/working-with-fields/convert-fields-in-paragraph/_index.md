@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Konvertieren Sie IF-Felder in einfachen Text in einem Absatz mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /de/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 Hier ist ein Tutorial, das zeigt, wie Sie die Funktion „Felder in Absatz konvertieren“ mit Aspose.Words für .NET verwenden. Dieser Code wandelt alle Felder vom Typ IF, die im letzten Absatz eines Dokuments vorkommen, in einfachen Text um. Führen Sie die folgenden Schritte aus, um diesen Code zu verstehen und auszuführen.

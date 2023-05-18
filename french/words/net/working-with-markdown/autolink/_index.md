@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un lien automatique avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/autolink/
+url: /fr/words/net/working-with-markdown/autolink/
 ---
 
 Dans cet exemple, nous expliquerons comment utiliser la fonctionnalité "Autolink" avec Aspose.Words pour .NET. Cette fonctionnalité vous permet d'insérer automatiquement des hyperliens dans votre document.

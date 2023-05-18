@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du tar bort alla kommentarer från en PDF-sida med Aspose.PDF för .NET med hjälp av denna steg-för-steg-guide.
 type: docs
 weight: 40
-url: /ru/pdf/net/annotations/deleteallannotationsfrompage/
+url: /sv/pdf/net/annotations/deleteallannotationsfrompage/
 ---
 Aspose.PDF för .NET är ett kraftfullt bibliotek som låter utvecklare skapa, manipulera och transformera PDF-filer. I den här artikeln kommer vi att utforska hur man använder Aspose.PDF för .NET för att ta bort alla kommentarer från en specifik sida i ett PDF-dokument. Vi kommer att tillhandahålla en steg-för-steg-guide som hjälper dig att förstå processen.
 

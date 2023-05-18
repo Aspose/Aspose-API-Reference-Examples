@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment ajouter la fonctionnalité d'annotation manuscrite aux documents PDF en C# à l'aide d'Aspose.PDF pour .NET avec un guide étape par étape et le code source complet.
 type: docs
 weight: 20
-url: /ru/pdf/net/annotations/addlnkannotation/
+url: /fr/pdf/net/annotations/addlnkannotation/
 ---
 Aspose.PDF pour .NET est une bibliothèque puissante qui permet aux développeurs d'effectuer diverses opérations PDF. L'une de ces opérations consiste à ajouter des annotations manuscrites aux documents PDF. Dans cet article, nous fournirons un guide étape par étape pour expliquer le code source C# permettant d'ajouter Ink Annotation à l'aide d'Aspose.PDF pour .NET. Commençons!
 

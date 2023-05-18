@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج كائن OLE كرمز باستخدام دفق باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
+url: /ar/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
 ---
 
 فيما يلي دليل خطوة بخطوة لشرح كود المصدر C # أدناه والذي يوضح كيفية إدراج كائن OLE كأيقونة باستخدام دفق مع Aspose.Words for .NET.

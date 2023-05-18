@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à masquer les numéros de page dans une table des matières en utilisant Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /fr/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 Dans cet article, nous discuterons de l'implémentation de la fonction Masquer les numéros de page dans la table des matières d'Aspose.PDF pour .NET à l'aide de C#. Nous commencerons par une brève introduction à Aspose.PDF pour .NET, puis plongerons dans le guide étape par étape pour implémenter cette fonctionnalité. 
 

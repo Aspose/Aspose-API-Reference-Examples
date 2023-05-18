@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Funktion „In Absatz verschieben“ von Aspose.Words für .NET verwenden, um programmgesteuert in Absätzen in Word-Dokumenten zu navigieren und diese zu bearbeiten.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-paragraph/
+url: /de/words/net/add-content-using-documentbuilder/move-to-paragraph/
 ---
 
 In diesem Schritt-für-Schritt-Beispiel erkunden wir die Funktion „In Absatz verschieben“ von Aspose.Words für .NET. Mit dieser Funktion können Entwickler programmgesteuert durch Absätze in einem Word-Dokument navigieren und diese bearbeiten. Wenn Sie dieser Anleitung folgen, erfahren Sie, wie Sie die Funktion „In Absatz verschieben“ effektiv implementieren und nutzen.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetWarningsForFontSubstitution الخاصة بـ Aspose.PDF for .NET لاكتشاف تحذيرات استبدال الخط عند فتح مستند PDF.
 type: docs
 weight: 190
-url: /ru/pdf/net/programming-with-document/getwarningsforfontsubstitution/
+url: /ar/pdf/net/programming-with-document/getwarningsforfontsubstitution/
 ---
 
  Aspose.PDF for .NET هي مكتبة شائعة لمعالجة ملفات PDF تتيح للمطورين إنشاء ملفات PDF وتحريرها وتحويلها في تطبيقات .NET الخاصة بهم. تتمثل إحدى الميزات التي توفرها هذه المكتبة في القدرة على اكتشاف تحذيرات استبدال الخط عند فتح مستند PDF. سيرشدك هذا البرنامج التعليمي خلال خطوات استخدام ملف`GetWarningsForFontSubstitution` ميزة Aspose.PDF for .NET لاكتشاف تحذيرات استبدال الخط عند فتح مستند PDF.

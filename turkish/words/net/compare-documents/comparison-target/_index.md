@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in belgeleri karşılaştırmanıza ve yapılan değişiklikleri içeren yeni bir belge oluşturmanıza olanak tanıyan hedef karşılaştırma özelliğini öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-target/
+url: /tr/words/net/compare-documents/comparison-target/
 ---
 
 Aşağıda, Aspose.Words for .NET'in karşılaştırma hedefi işlevini kullanan C# kaynak kodunu adım adım açıklayan bir kılavuz bulunmaktadır.

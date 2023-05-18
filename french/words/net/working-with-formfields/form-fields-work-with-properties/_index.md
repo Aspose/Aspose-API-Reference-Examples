@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser les propriétés de champ de formulaire dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-work-with-properties/
+url: /fr/words/net/working-with-formfields/form-fields-work-with-properties/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment utiliser les propriétés de champ de formulaire dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

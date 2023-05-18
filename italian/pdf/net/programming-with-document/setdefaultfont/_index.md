@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare il carattere predefinito per un documento PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /it/pdf/net/programming-with-document/setdefaultfont/
 ---
 Se stai lavorando con documenti PDF in .NET, potresti riscontrare problemi in cui il carattere utilizzato nel PDF non è disponibile sul sistema in cui viene visualizzato o stampato. Ciò può comportare che il testo appaia in modo errato o non appaia affatto. Aspose.PDF per .NET fornisce una soluzione a questo problema consentendo di impostare un carattere predefinito per il documento. In questo esempio, come impostare il carattere predefinito utilizzando Aspose.PDF per .NET.
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a crear un PDF multicapa con Aspose.PDF para .NET. Guía paso a paso con código fuente para crear PDF dinámicos con texto e imágenes.
 type: docs
 weight: 80
-url: /ru/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
+url: /es/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
 ---
 
 En este tutorial, exploraremos cómo crear un PDF multicapa utilizando el segundo enfoque en Aspose.PDF para .NET. Proporcionaremos una guía paso a paso con explicaciones detalladas e incluiremos el código fuente completo. Siguiendo este tutorial, podrá generar documentos PDF con múltiples capas utilizando la biblioteca Aspose.PDF en sus aplicaciones .NET.

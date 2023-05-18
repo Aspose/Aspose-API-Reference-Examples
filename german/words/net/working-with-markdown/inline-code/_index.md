@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Code mit Aspose.Words für .NET integrieren.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/inline-code/
+url: /de/words/net/working-with-markdown/inline-code/
 ---
 
 In diesem Beispiel führen wir Sie durch die Verwendung der Inline-Code-Funktion mit Aspose.Words für .NET. Inline-Code wird verwendet, um Codeteile innerhalb eines Absatzes visuell darzustellen.

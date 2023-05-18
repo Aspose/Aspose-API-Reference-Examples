@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du tar bort oanvända strömmar från PDF-filer med Aspose.PDF för .NET. Vår steg-för-steg guide.
 type: docs
 weight: 270
-url: /ru/pdf/net/programming-with-document/removeunusedstreams/
+url: /sv/pdf/net/programming-with-document/removeunusedstreams/
 ---
 I det här exemplet kommer vi att diskutera hur man tar bort oanvända strömmar från PDF-dokument med Aspose.PDF för .NET. Vi kommer att tillhandahålla en steg-för-steg-guide om hur du gör detta, inklusive hela källkoden med förklaringar.
 

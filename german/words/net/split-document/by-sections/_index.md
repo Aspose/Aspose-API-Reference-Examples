@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand eines vollständigen Codebeispiels, wie Sie mit Aspose.Words für .NET ein Word-Dokument in separate Abschnitte aufteilen.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections/
+url: /de/words/net/split-document/by-sections/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie ein Word-Dokument mithilfe der Funktion „Nach Abschnitten“ von Aspose.Words für .NET in separate Abschnitte unterteilen. Befolgen Sie die nachstehenden Schritte, um den Quellcode zu verstehen und separate Dokumente für jeden Abschnitt zu erhalten.

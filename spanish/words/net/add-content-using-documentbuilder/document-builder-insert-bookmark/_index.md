@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar marcadores en documentos de Word usando DocumentBuilder en Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /es/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 En este completo ejemplo, aprenderá a insertar marcadores en un documento de Word usando la clase DocumentBuilder en Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá crear y administrar marcadores dentro de sus documentos.

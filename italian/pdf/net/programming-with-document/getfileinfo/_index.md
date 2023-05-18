@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare la funzione GetFileInfo di Aspose.PDF per .NET per recuperare informazioni sui metadati su un documento PDF.
 type: docs
 weight: 180
-url: /ru/pdf/net/programming-with-document/getfileinfo/
+url: /it/pdf/net/programming-with-document/getfileinfo/
 ---
 
  Aspose.PDF per .NET è una popolare libreria di manipolazione PDF che consente agli sviluppatori di creare, modificare e convertire file PDF nelle loro applicazioni .NET. Una delle funzionalità offerte da questa libreria è la capacità di recuperare informazioni sui metadati di un documento PDF. Questo tutorial ti guiderà attraverso le fasi di utilizzo del`GetFileInfo`caratteristica di Aspose.PDF per .NET per recuperare informazioni sui metadati di un documento PDF.

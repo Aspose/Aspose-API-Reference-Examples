@@ -3,7 +3,7 @@ title: Ek Açıklamalarla Programlama
 linktitle: Programming with Annotations
 type: docs
 weight: 11
-url: /ru/pdf/net/annotations/
+url: /tr/pdf/net/annotations/
 description: "Açıklamalarla Programlama, API Öğreticilerini ve açıklama ekleme, açıklamayı silme, açıklama bilgisi alma ve çok daha fazlasını içeren Aspose.PDF for .NET'in kod parçacıklarını içerir."
 ---
 Aspose.PDF for .NET kullanarak PDF belgelerindeki açıklamalarla nasıl çalışılacağını gösteren kapsamlı bir eğitim koleksiyonu. Metin, çizgi, daire, dikdörtgen, çokgen, köprü ve çok daha fazlası gibi çeşitli ek açıklama türlerinin nasıl oluşturulacağını ve değiştirileceğini gösteren çok çeşitli kod parçacıkları sağlar. Her örnek, kodun işlevselliğinin ve beklenen çıktının ayrıntılı bir açıklamasıyla birlikte eksiksiz C# kodunu içerir. Aspose.PDF kullanarak PDF belgelerindeki ek açıklamalarla nasıl çalışılacağını öğrenmek isteyen .NET geliştiricileri için mükemmel bir kaynak.

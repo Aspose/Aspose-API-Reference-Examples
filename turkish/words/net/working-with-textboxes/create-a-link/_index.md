@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki TextBox'lar arasında nasıl bağlantı oluşturacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /tr/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## 1. Adım: Belgeyi ayarlama ve TextBox şekilleri oluşturma

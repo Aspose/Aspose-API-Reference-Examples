@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Cree y agregue un nodo de párrafo a sus documentos de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/create-and-add-paragraph-node/
+url: /es/words/net/working-with-node/create-and-add-paragraph-node/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo crear y agregar un nodo de párrafo usando Aspose.Words para .NET.

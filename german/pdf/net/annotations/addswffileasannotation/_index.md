@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie SWF-Dateien als Anmerkungen in Aspose.PDF für .NET hinzufügen.
 type: docs
 weight: 30
-url: /ru/pdf/net/annotations/addswffileasannotation/
+url: /de/pdf/net/annotations/addswffileasannotation/
 ---
 Wenn Sie ein .NET-Entwickler sind und mit Aspose.PDF für .NET eine SWF-Multimediadatei als Anmerkung zu Ihrem PDF-Dokument hinzufügen möchten, ist diese Schritt-für-Schritt-Anleitung genau das Richtige für Sie. In diesem Artikel erklären wir, wie Sie mithilfe der Programmiersprache C# SWF-Dateien als Anmerkungen zu Ihren PDF-Dokumenten hinzufügen. 
 

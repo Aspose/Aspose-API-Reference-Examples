@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar hipervínculos en documentos de Word usando Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-hyperlink/
+url: /es/words/net/add-content-using-documentbuilder/insert-hyperlink/
 ---
 
 En este completo tutorial, aprenderá a insertar hipervínculos en un documento de Word utilizando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá agregar hipervínculos en los que se puede hacer clic a sus documentos.

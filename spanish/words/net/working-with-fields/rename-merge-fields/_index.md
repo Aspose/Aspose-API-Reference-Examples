@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: En este tutorial, aprenderá a cambiar el nombre de los campos de combinación en un documento utilizando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /es/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que utiliza la función de cambio de nombre de campo de combinación de Aspose.Words para .NET. Siga cada paso cuidadosamente para obtener los resultados deseados.

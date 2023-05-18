@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile metni italik yapmayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/italic-text/
+url: /tr/words/net/working-with-markdown/italic-text/
 ---
 
 Bu örnekte, italik metin özelliğini Aspose.Words for .NET ile nasıl kullanacağınız konusunda size yol göstereceğiz. İtalik metin, bir belgenin belirli bölümlerini vurgulamak için kullanılır.

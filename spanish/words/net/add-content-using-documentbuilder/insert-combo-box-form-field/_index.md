@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar campos de formulario de cuadro combinado en documentos de Word usando Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
+url: /es/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
 ---
 
 En este ejemplo completo, aprenderá cómo insertar un campo de formulario de cuadro combinado en un documento de Word usando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá agregar campos de formulario de cuadro combinado con propiedades personalizables a sus documentos.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir ek açıklamanın kaynağını nasıl alacağınızı öğrenin.
 type: docs
 weight: 90
-url: /ru/pdf/net/annotations/getresourceofannotation/
+url: /tr/pdf/net/annotations/getresourceofannotation/
 ---
 
 Örnek, Aspose.PDF for .NET ile açıklama kaynağının nasıl alınacağını gösterir. Aspose.PDF for .NET kullanarak bir ek açıklamanın kaynağını almak için şu adımları izleyin:

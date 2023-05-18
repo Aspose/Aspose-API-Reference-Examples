@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come aggiungere una filigrana di testo con opzioni specifiche utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /it/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 In questo tutorial, ti illustreremo come aggiungere una filigrana di testo con opzioni specifiche utilizzando Aspose.Words per .NET. Una filigrana di testo è un testo sovrapposto a un documento per indicare che si tratta di una bozza, di una riservatezza, ecc.

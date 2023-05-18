@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till textkommentarer med Aspose.PDF för .NET med den här C#-källkoden. Anpassa dina kommentarer med specifika detaljer och ikoner.
 type: docs
 weight: 10
-url: /ru/pdf/net/annotations/addannotation/
+url: /sv/pdf/net/annotations/addannotation/
 ---
 
 Att lägga till kommentarer till PDF-dokument är en kraftfull funktion som kan förbättra samarbetet och granskningsprocesser. Aspose.PDF för .NET gör det enkelt att lägga till kommentarer programmatiskt till PDF-dokument med C#. I den här guiden kommer vi att förklara steg-för-steg hur man använder Aspose.PDF för .NET för att lägga till kommentarer till ett PDF-dokument.

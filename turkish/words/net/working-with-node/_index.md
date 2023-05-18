@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak Word Belgesinde düğüm tipini kullanmayı, üst düğümü almayı, sahip belgesini almayı, tüm düğümleri yinelemeyi, tüm düğümleri çaprazlamayı, alt düğümleri numaralandırmayı ve paragraf düğümleri oluşturmayı içerir.
 type: docs
 weight: 1000
-url: /ru/words/net/working-with-node/
+url: /tr/words/net/working-with-node/
 ---
 Revizyonlarla Çalışmak, Aspose.Words for .NET kütüphanesini kullanarak Word belgelerindeki revizyonlarla çalışmanızda size rehberlik eden kapsamlı bir kaynaktır. Öğreticiler, revizyonların nasıl ekleneceğini, silineceğini, kabul edileceğini ve reddedileceğini, dokümanda revizyonların nasıl görüntüleneceğini, farklı sürümlerin nasıl karşılaştırılacağını ve çok daha fazlasını adım adım gösterir. Word belgelerinizdeki işbirliği ve değişiklik yönetimi incelemeleriyle etkili bir şekilde nasıl çalışacağınızı öğreneceksiniz. Bu kaynak, Aspose.Words for .NET tabanlı uygulamalarında revizyon yönetimini otomatikleştirmek isteyen geliştiriciler için çok önemlidir.
 

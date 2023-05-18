@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri la funzionalità di confronto target di Aspose.Words per .NET che ti consente di confrontare documenti e generare un nuovo documento contenente le modifiche apportate.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-target/
+url: /it/words/net/compare-documents/comparison-target/
 ---
 
 Ecco una guida dettagliata per spiegare il codice sorgente C# di seguito, che utilizza la funzionalità di destinazione del confronto di Aspose.Words per .NET.

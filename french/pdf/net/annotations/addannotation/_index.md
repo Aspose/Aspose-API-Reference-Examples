@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à ajouter des annotations de texte avec Aspose.PDF pour .NET à l'aide de ce code source C#. Personnalisez vos annotations avec des détails et des icônes spécifiques.
 type: docs
 weight: 10
-url: /ru/pdf/net/annotations/addannotation/
+url: /fr/pdf/net/annotations/addannotation/
 ---
 
 L'ajout d'annotations aux documents PDF est une fonctionnalité puissante qui peut améliorer les processus de collaboration et de révision. Aspose.PDF pour .NET facilite l'ajout d'annotations par programme aux documents PDF à l'aide de C#. Dans ce guide, nous expliquerons étape par étape comment utiliser Aspose.PDF pour .NET pour ajouter des annotations à un document PDF.

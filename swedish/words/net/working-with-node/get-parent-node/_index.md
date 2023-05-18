@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du får föräldranoden för ett specifikt element med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /sv/words/net/working-with-node/get-parent-node/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur man skaffar föräldernoden med Aspose.Words för .NET.

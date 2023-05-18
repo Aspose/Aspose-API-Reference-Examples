@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come ottimizzare i PDF abilitando la funzione "Consenti riutilizzo del contenuto della pagina" utilizzando Aspose.PDF per .NET. Riduci le dimensioni del file e migliora le prestazioni.
 type: docs
 weight: 50
-url: /ru/pdf/net/programming-with-document/allowresusepagecontent/
+url: /it/pdf/net/programming-with-document/allowresusepagecontent/
 ---
 
 In questo tutorial, spiegheremo come abilitare la funzione "Consenti riutilizzo del contenuto della pagina" utilizzando Aspose.PDF per .NET. Questa funzione ottimizza il documento PDF riutilizzando il contenuto della pagina, riducendo le dimensioni del file e migliorando le prestazioni. Segui la guida dettagliata di seguito:

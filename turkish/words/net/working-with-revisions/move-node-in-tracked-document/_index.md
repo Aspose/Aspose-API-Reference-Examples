@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile izlenen bir belgedeki düğümleri taşıyın.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/move-node-in-tracked-document/
+url: /tr/words/net/working-with-revisions/move-node-in-tracked-document/
 ---
 
 Bu adım adım kılavuzda, Aspose.Words for .NET kullanarak izlenen bir Word belgesindeki bir düğümü nasıl taşıyacağınız konusunda size yol göstereceğiz. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

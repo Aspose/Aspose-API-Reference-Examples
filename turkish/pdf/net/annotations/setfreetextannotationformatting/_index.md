@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET kullanarak serbest metin ek açıklamasının nasıl oluşturulacağı ve içeriğinin nasıl belirleneceği konusunda adım adım bir kılavuz sunmaktadır.
 type: docs
 weight: 140
-url: /ru/pdf/net/annotations/setfreetextannotationformatting/
+url: /tr/pdf/net/annotations/setfreetextannotationformatting/
 ---
 
 Aspose.PDF for .NET, .NET uygulamalarınızda PDF dosyalarıyla programatik olarak çalışmanıza olanak tanıyan, güçlü ve kullanımı kolay bir PDF belge işleme API'sidir. Aspose.PDF for .NET tarafından sağlanan özelliklerden biri, PDF belgelerinde serbest metin açıklama biçimlendirmesi ayarlama yeteneğidir. Bu makalede, Aspose.PDF for .NET kullanarak serbest metin açıklama biçimlendirmesini ayarlama sürecini adım adım anlatacağız.

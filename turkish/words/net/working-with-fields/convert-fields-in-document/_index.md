@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak belge alanlarını metne dönüştürmek için adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-document/
+url: /tr/words/net/working-with-fields/convert-fields-in-document/
 ---
 
 Bu öğreticide, Aspose.Words for .NET yazılımının ConvertFieldsInDocument işlevini kullanarak size adım adım kılavuzluk edeceğiz. Bu özellik için gereken C# kaynak kodunu ayrıntılı olarak açıklayacağız ve örnek işaretleme çıktı biçimleri sağlayacağız.

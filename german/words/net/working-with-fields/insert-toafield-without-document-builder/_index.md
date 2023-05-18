@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Einfügen eines TOA-Felds ohne Document Builder mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-toafield-without-document-builder/
+url: /de/words/net/working-with-fields/insert-toafield-without-document-builder/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „TOA Field Insertion“ von Aspose.Words für .NET verwendet. Befolgen Sie jeden Schritt sorgfältig, um die gewünschten Ergebnisse zu erzielen.

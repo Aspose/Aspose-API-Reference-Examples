@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Löschen von Zusammenführungsfeldern in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /de/words/net/working-with-fields/delete-fields/
 ---
 
 Hier erfahren Sie, wie Sie die Funktion „Felder löschen“ in Aspose verwenden. Words für .NET haben wir unten eine Schritt-für-Schritt-Anleitung erstellt. 

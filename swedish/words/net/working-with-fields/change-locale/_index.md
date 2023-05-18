@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ändrar språk för datum- och nummerformatering i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-locale/
+url: /sv/words/net/working-with-fields/change-locale/
 ---
 
 I den här handledningen kommer vi att guida dig genom processen att ändra språket i Word-dokument med Aspose.Words för .NET. Genom att ändra språket kan du styra formateringen av datum och siffror under kopplingsoperationer. Vi kommer att förse dig med den nödvändiga C#-källkoden och steg-för-steg-instruktioner för att uppnå detta.

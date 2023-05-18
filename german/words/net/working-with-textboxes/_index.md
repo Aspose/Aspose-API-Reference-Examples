@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Die Tutorials umfassen das Erstellen eines Links, das Überprüfen der Reihenfolge und das Unterbrechen eines Links mit Aspose.Words für .NET.
 type: docs
 weight: 1320
-url: /ru/words/net/working-with-textboxes/
+url: /de/words/net/working-with-textboxes/
 ---
 „Arbeiten mit Textfeldern“ ist eine umfassende Ressource, die Sie Schritt für Schritt durch die Arbeit mit Textfeldern in Word-Dokumenten mithilfe der Aspose.Words-Bibliothek für .NET führt. In den Tutorials erfahren Sie, wie Sie Textfelder hinzufügen, ändern und löschen, sie positionieren sowie ihre Größe, ihren Stil und ihre Eigenschaften definieren. Sie erfahren außerdem, wie Sie Inhalte in Textfeldern verwalten, einschließlich des Hinzufügens und Bearbeitens von Text sowie des Hinzufügens von Listen, Tabellen und anderen Elementen. Diese Ressource ist für Entwickler, die Textfelder in Word-Dokumenten mit Aspose.Words für .NET bearbeiten möchten, unerlässlich und bietet mehr Flexibilität und Anpassungsmöglichkeiten bei der Erstellung professioneller Dokumente.
 

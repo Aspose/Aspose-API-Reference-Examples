@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para obtener el código de campo y el resultado del campo en sus documentos de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/field-code/
+url: /es/words/net/working-with-fields/field-code/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que utiliza la función "Obtener código de campo" de Aspose.Words para .NET. Asegúrese de seguir cada paso cuidadosamente para obtener los resultados deseados.

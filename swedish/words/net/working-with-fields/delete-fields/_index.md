@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att ta bort sammanslagningsfält i dina Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /sv/words/net/working-with-fields/delete-fields/
 ---
 
 För att förklara hur man använder funktionen "Ta bort fält" i Aspose. Ord för .NET vi har skapat en steg för steg guide nedan. 

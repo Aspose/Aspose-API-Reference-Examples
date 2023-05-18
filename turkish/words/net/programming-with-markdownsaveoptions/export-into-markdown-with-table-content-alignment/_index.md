@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak tablo içeriğini farklı hizalamalarla Markdown dosyalarına nasıl aktaracağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
+url: /tr/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
 ---
 Burada, .NET için Aspose.Words kitaplığını kullanarak tablo içeriği hizalamalı bir Markdown dosyasına içerik aktarmaya yardımcı olan aşağıdaki C# kaynak kodunu açıklayan adım adım bir kılavuz bulunmaktadır. Bu kodu kullanmadan önce Aspose.Words kütüphanesini projenize dahil ettiğinizden emin olun.
 

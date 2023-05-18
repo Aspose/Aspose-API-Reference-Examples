@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Dieser Artikel enthält eine Schritt-für-Schritt-Anleitung zur Verwendung von Aspose.PDF für die Funktion „Wörter durchstreichen“ in .NET, einschließlich Schritt-für-Schritt-Anleitung und Erklärungen
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /de/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF für .NET ist eine Bibliothek zur Bearbeitung und Verarbeitung von PDF-Dokumenten, die verschiedene Funktionen zum Erstellen, Ändern und Konvertieren von PDF-Dateien bietet. Eine der nützlichen Funktionen von Aspose.PDF ist die Möglichkeit, mithilfe von C#-Quellcode Wörter oder Phrasen in einem PDF-Dokument durchzustreichen. In diesem Artikel stellen wir eine Schritt-für-Schritt-Anleitung zum Durchstreichen von Wörtern mit Aspose.PDF für .NET bereit.
 

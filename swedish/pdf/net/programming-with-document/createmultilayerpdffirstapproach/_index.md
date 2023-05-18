@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du skapar PDF-dokument i flera lager med hjälp av First Approach med Aspose.PDF för .NET. Lägg till text, bilder och mer för att förbättra dina PDF-filer.
 type: docs
 weight: 70
-url: /ru/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
+url: /sv/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
 ---
 
 I den här handledningen kommer vi att guida dig genom processen att skapa en PDF med flera lager med den första metoden med Aspose.PDF för .NET. Detta tillvägagångssätt låter dig lägga till flera lager i ditt PDF-dokument. Följ steg-för-steg-guiden nedan:

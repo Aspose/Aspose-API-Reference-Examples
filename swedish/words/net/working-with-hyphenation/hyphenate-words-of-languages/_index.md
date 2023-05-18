@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du avstavar ord på olika språk i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenate-words-of-languages/
+url: /sv/words/net/working-with-hyphenation/hyphenate-words-of-languages/
 ---
 
 denna steg-för-steg handledning kommer vi att guida dig om hur du avstavar ord på olika språk i Word-dokument med Aspose.Words för .NET. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

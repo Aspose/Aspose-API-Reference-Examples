@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء جدول باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/table/
+url: /ar/words/net/working-with-markdown/table/
 ---
 
 

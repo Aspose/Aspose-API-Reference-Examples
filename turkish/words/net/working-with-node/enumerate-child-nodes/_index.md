@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir paragrafta alt düğümleri nasıl numaralandıracağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/enumerate-child-nodes/
+url: /tr/words/net/working-with-node/enumerate-child-nodes/
 ---
 
 Aspose.Words for .NET kullanarak alt düğümlerin nasıl numaralandırılacağını gösteren aşağıdaki C# kaynak kodunu açıklayan adım adım bir kılavuz.

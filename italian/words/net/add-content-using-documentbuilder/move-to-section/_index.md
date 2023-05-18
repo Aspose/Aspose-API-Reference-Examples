@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata all'utilizzo di Sposta in sezione in Aspose.Words per .NET manipolare sezioni e paragrafi nei documenti di Word.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-section/
+url: /it/words/net/add-content-using-documentbuilder/move-to-section/
 ---
 
 In questo esempio, ti illustreremo passo dopo passo come utilizzare la funzionalità Sposta in sezione di Aspose.Words per .NET utilizzando il codice sorgente C# fornito. Questa funzione consente di navigare e manipolare diverse sezioni all'interno di un documento di Word. Segui i passaggi seguenti per integrare questa funzionalità nella tua applicazione.

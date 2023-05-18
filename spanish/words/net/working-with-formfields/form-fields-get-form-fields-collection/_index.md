@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a recuperar y manipular la colección de campos de formulario en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-form-fields-collection/
+url: /es/words/net/working-with-formfields/form-fields-get-form-fields-collection/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo usar Aspose.Words para .NET para recuperar la colección de campos de formulario de un documento de Word. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

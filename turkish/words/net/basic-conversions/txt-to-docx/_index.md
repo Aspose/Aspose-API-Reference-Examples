@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak düz metin dosyalarını (Txt) Word belgelerine (Docx) nasıl dönüştüreceğinizi öğrenin. Örnek kod ile adım adım öğretici.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/txt-to-docx/
+url: /tr/words/net/basic-conversions/txt-to-docx/
 ---
 
 Bu adım adım öğreticide, bir düz metin dosyasını (Txt) Docx formatında bir Word belgesine dönüştürmek için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

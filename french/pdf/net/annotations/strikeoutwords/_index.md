@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape pour l'utilisation d'Aspose.PDF pour la fonctionnalité Strike Out Words de .NET, y compris un guide étape par étape et des explications.
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /fr/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF pour .NET est une bibliothèque de manipulation et de traitement de documents PDF qui fournit diverses fonctionnalités pour créer, modifier et convertir des fichiers PDF. L'une des fonctionnalités utiles fournies par Aspose.PDF est la possibilité de supprimer des mots ou des phrases dans un document PDF à l'aide du code source C#. Dans cet article, nous fournirons un guide étape par étape sur la façon de supprimer des mots à l'aide d'Aspose.PDF pour .NET.
 

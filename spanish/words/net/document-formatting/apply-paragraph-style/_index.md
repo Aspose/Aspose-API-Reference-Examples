@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar un estilo de párrafo con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-paragraph-style/
+url: /es/words/net/document-formatting/apply-paragraph-style/
 ---
 
 En este tutorial, lo guiaremos a través de cómo aplicar un estilo de párrafo usando Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y aplicar el estilo de párrafo.

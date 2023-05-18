@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu kılavuzda, Aspose.Words for .NET kullanarak bir belgedeki belirli bir alanı nasıl sileceğinizi öğreneceksiniz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/remove-field/
+url: /tr/words/net/working-with-fields/remove-field/
 ---
 Aşağıda, Aspose.Words for .NET'in "Alan Kaldırma" işlevini kullanan C# kaynak kodunu açıklayan adım adım bir kılavuz bulunmaktadır. İstenen sonuçları elde etmek için her adımı dikkatlice izleyin.
 

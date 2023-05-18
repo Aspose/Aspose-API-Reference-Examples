@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come estrarre il testo evidenziato utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /it/pdf/net/annotations/extracthighlightedtext/
 ---
 Per estrarre il testo evidenziato da un documento PDF, è possibile utilizzare l'API Aspose.PDF per .NET. Questa API fornisce un modo semplice per recuperare tutto il testo che è stato evidenziato in un documento.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningarna innehåller mellanrum mellan asiatisk och latinsk text, asiatisk typografi radbrytningsgrupp, styckeformatering, listformatering på flera nivåer och tillämpa styckestil.
 type: docs
 weight: 1490
-url: /ru/words/net/document-formatting/
+url: /sv/words/net/document-formatting/
 ---
 
 Handledningen täcker olika aspekter som formatering av text, stycken, tabeller, bilder och mycket mer. Den ger tydliga kodexempel och steg-för-steg-förklaringar som leder dig genom processen att formatera dokument med Aspose.Words. Oavsett om du är nybörjare eller en erfaren utvecklare kommer den här handledningen att vara en värdefull resurs för att förbättra dina färdigheter i dokumentformatering med Aspose.Words för .NET.

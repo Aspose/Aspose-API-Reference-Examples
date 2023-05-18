@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile belirli bir öğenin ana düğümünü nasıl alacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /tr/words/net/working-with-node/get-parent-node/
 ---
 
 Aspose.Words for .NET kullanarak ana düğümün nasıl alınacağını gösteren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz.

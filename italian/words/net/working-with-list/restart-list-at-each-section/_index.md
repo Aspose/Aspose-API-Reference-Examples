@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come reimpostare un elenco numerato in ogni sezione in un documento di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-at-each-section/
+url: /it/words/net/working-with-list/restart-list-at-each-section/
 ---
 
 In questo tutorial passo passo, ti mostreremo come reimpostare un elenco numerato in ogni sezione in un documento di Word utilizzando Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

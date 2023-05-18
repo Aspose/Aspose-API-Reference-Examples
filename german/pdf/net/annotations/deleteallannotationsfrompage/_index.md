@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET alle Anmerkungen von einer PDF-Seite löschen.
 type: docs
 weight: 40
-url: /ru/pdf/net/annotations/deleteallannotationsfrompage/
+url: /de/pdf/net/annotations/deleteallannotationsfrompage/
 ---
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler PDF-Dateien erstellen, bearbeiten und umwandeln können. In diesem Artikel erfahren Sie, wie Sie mit Aspose.PDF für .NET alle Anmerkungen von einer bestimmten Seite eines PDF-Dokuments löschen. Wir stellen Ihnen eine Schritt-für-Schritt-Anleitung zur Verfügung, die Ihnen hilft, den Prozess zu verstehen.
 

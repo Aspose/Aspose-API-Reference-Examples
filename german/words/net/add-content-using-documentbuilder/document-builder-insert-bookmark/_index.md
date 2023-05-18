@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit DocumentBuilder in Aspose.Words für .NET Lesezeichen in Word-Dokumente einfügen. Schritt für Schritt Anleitung.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /de/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 In diesem umfassenden Beispiel erfahren Sie, wie Sie mithilfe der DocumentBuilder-Klasse in Aspose.Words für .NET Lesezeichen in ein Word-Dokument einfügen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Leitfadens werden Sie in der Lage sein, Lesezeichen in Ihren Dokumenten zu erstellen und zu verwalten.

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono doc in docx, docx in rtf, docx in pdf, docx in byte, docx in epub, docx in mhtml e invio di e-mail, docx in markdown, docx in txt, txt in docx,
 type: docs
 weight: 1600
-url: /ru/words/net/basic-conversions/
+url: /it/words/net/basic-conversions/
 ---
 
 Conversioni di base ti guida attraverso le conversioni di documenti di base utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate, codice sorgente dettagliato ed esempi pratici per convertire documenti Word in diversi formati come PDF, HTML, EPUB, immagini e altro. Imparerai anche come specificare le opzioni di conversione, gestire caratteri, immagini e layout. Questa risorsa è essenziale per gli sviluppatori che desiderano automatizzare le conversioni di documenti utilizzando Aspose.Words per .NET, fornendo completa flessibilità e controllo sul processo di conversione.

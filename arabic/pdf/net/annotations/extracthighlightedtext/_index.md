@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخراج النص المميز باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /ar/pdf/net/annotations/extracthighlightedtext/
 ---
 لاستخراج النص المميز من مستند PDF ، يمكنك استخدام Aspose.PDF لـ .NET API. توفر واجهة برمجة التطبيقات هذه طريقة بسيطة لاسترداد كل النص الذي تم تمييزه في المستند.
 

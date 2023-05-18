@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour obtenir des polices non incorporées et optimiser les fichiers PDF. Un guide étape par étape.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /fr/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF pour .NET est une bibliothèque puissante qui fournit un large éventail de fonctionnalités pour travailler avec des documents PDF. L'une de ses fonctionnalités est d'obtenir des polices non intégrées à partir d'un document PDF. Cela peut être utile si vous devez extraire des polices d'un document PDF et les utiliser dans d'autres applications.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine yatay kuralları nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
+url: /tr/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET kullanarak bir Word belgesine nasıl yatay bir kural ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, görsel ayırma ve düzenleme için belgelerinize yatay kurallar ekleyebileceksiniz.

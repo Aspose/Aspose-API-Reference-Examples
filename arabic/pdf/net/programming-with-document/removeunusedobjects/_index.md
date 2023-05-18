@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لإزالة الكائنات غير المستخدمة من مستندات PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 260
-url: /ru/pdf/net/programming-with-document/removeunusedobjects/
+url: /ar/pdf/net/programming-with-document/removeunusedobjects/
 ---
 إذا كنت تبحث عن طريقة لإزالة الكائنات غير المستخدمة في مستندات PDF الخاصة بك باستخدام Aspose.PDF for .NET ، فأنت في المكان الصحيح. سيوضح لك هذا الدليل التفصيلي كيفية استخدام شفرة المصدر C # المتوفرة لإنجاز هذه المهمة.
 

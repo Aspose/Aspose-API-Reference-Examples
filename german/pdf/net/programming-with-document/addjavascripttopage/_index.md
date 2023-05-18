@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET JavaScript zu PDF-Dateien hinzufügen. Schritt-für-Schritt-Anleitung mit Code-Tutorials für die Skripterstellung auf Dokument- und Seitenebene.
 type: docs
 weight: 10
-url: /ru/pdf/net/programming-with-document/addjavascripttopage/
+url: /de/pdf/net/programming-with-document/addjavascripttopage/
 ---
 
 Um JavaScript zu einer PDF-Datei hinzuzufügen, verwenden wir Aspose.PDF für .NET. Diese Bibliothek bietet eine einfache und effiziente Möglichkeit, mit PDF-Dateien in .NET-Anwendungen zu arbeiten. Die folgenden Schritte führen Sie durch den Prozess des Hinzufügens von JavaScript zu einer PDF-Datei mit Aspose.PDF für .NET.

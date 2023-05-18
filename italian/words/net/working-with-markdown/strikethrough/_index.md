@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare lo stile di testo barrato con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/strikethrough/
+url: /it/words/net/working-with-markdown/strikethrough/
 ---
 
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Docx'ten Word belgelerini bayt dizisine nasıl dönüştüreceğinizi öğrenin. Örnek kaynak koduyla adım adım öğretici.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/docx-to-byte/
+url: /tr/words/net/basic-conversions/docx-to-byte/
 ---
 
 Bu adım adım öğreticide, Docx formatındaki bir Word belgesini bayt dizisine dönüştürmek için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

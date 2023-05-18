@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET das Absatzformat-Trennzeichen erhalten.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/get-paragraph-style-separator/
+url: /de/words/net/document-formatting/get-paragraph-style-separator/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie die Funktion „Absatzstiltrennzeichen abrufen“ mit Aspose.Words für .NET verwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und die Änderungen anzuwenden.

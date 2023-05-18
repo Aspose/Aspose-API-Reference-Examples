@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kombinationsfeld-Formularfelder in Word-Dokumente einfügen. Schritt für Schritt Anleitung.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
+url: /de/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
 ---
 
 In diesem umfassenden Beispiel erfahren Sie, wie Sie mit Aspose.Words für .NET ein Kombinationsfeld-Formularfeld in ein Word-Dokument einfügen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieser Anleitung werden Sie in der Lage sein, Ihren Dokumenten Kombinationsfeld-Formularfelder mit anpassbaren Eigenschaften hinzuzufügen.

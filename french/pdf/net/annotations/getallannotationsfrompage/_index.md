@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour récupérer toutes les annotations d'une page PDF avec ce guide étape par étape.
 type: docs
 weight: 70
-url: /ru/pdf/net/annotations/getallannotationsfrompage/
+url: /fr/pdf/net/annotations/getallannotationsfrompage/
 ---
 Cet article vous guidera tout au long du processus d'extraction de toutes les annotations d'une page PDF à l'aide d'Aspose.PDF pour .NET. Aspose.PDF pour .NET est une bibliothèque qui permet aux développeurs de créer, modifier et convertir des documents PDF. Avec l'aide de ce guide, vous pourrez obtenir toutes les annotations d'une page PDF spécifique en utilisant le code source C# fourni.
 

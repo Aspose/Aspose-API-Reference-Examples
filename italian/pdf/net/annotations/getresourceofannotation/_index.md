@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come recuperare la risorsa di un'annotazione utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs
 weight: 90
-url: /ru/pdf/net/annotations/getresourceofannotation/
+url: /it/pdf/net/annotations/getresourceofannotation/
 ---
 
 L'esempio mostra come ottenere risorse di annotazione con Aspose.PDF per .NET. Per ottenere la risorsa di un'annotazione utilizzando Aspose.PDF per .NET, attenersi alla seguente procedura:

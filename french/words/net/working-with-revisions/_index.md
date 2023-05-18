@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels expliquent comment accepter les révisions, obtenir les types de révision, obtenir les groupes de révision, supprimer les commentaires dans le PDF, afficher les révisions dans les bulles, obtenir les détails du groupe de révision, accéder à la version révisée, déplacer le nœud dans le document suivi et mettre en forme la révision à l'aide d'Aspose.Words pour .NET .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /fr/words/net/working-with-revisions/
 ---
 
  ## Tutoriels

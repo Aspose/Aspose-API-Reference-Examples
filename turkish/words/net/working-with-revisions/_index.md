@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak revizyonları kabul etmeyi, revizyon türlerini almayı, revizyon gruplarını almayı, PDF'de yorumları kaldırmayı, revizyonları balonlarda göstermeyi, revizyon grubu ayrıntılarını almayı, revize edilmiş sürüme erişmeyi, izlenen belgede düğümü taşımayı ve revizyonu şekillendirmeyi içerir. .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /tr/words/net/working-with-revisions/
 ---
 
  ## Öğreticiler

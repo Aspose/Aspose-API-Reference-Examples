@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come modificare le impostazioni locali per la formattazione di data e numero nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-locale/
+url: /it/words/net/working-with-fields/change-locale/
 ---
 
 In questo tutorial, ti guideremo attraverso il processo di modifica delle impostazioni locali nei documenti di Word utilizzando Aspose.Words per .NET. Modificando le impostazioni locali, è possibile controllare la formattazione di date e numeri durante le operazioni di stampa unione. Ti forniremo il codice sorgente C# necessario e le istruzioni dettagliate per raggiungere questo obiettivo.

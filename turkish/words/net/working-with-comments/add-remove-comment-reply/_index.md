@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine yorum yanıtlarını nasıl ekleyeceğinizi ve kaldıracağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-remove-comment-reply/
+url: /tr/words/net/working-with-comments/add-remove-comment-reply/
 ---
 
 Bu kapsamlı eğitimde, Aspose.Words for .NET kullanarak bir Word belgesine yorum yanıtlarını nasıl ekleyeceğinizi ve kaldıracağınızı öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, yorum yanıtlarını yönetebilecek ve gereksinimlerinize göre özelleştirebileceksiniz.

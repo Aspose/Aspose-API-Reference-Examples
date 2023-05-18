@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu öğreticide, Aspose.Words for .NET kullanarak bir belgedeki birleştirme alanlarını nasıl yeniden adlandıracağınızı öğreneceksiniz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/rename-merge-fields/
+url: /tr/words/net/working-with-fields/rename-merge-fields/
 ---
 
 Aspose.Words for .NET'in birleştirme alanı yeniden adlandırma özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice izleyin.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Unembed Fonts'u almak ve PDF dosyalarını optimize etmek için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin. Adım adım kılavuz.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /tr/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF for .NET, PDF belgeleriyle çalışmak için çok çeşitli özellikler sağlayan güçlü bir kitaplıktır. Özelliklerinden biri, gömülmemiş yazı tiplerini bir PDF belgesinden almaktır. Bu, bir PDF belgesinden yazı tiplerini çıkarmanız ve bunları diğer uygulamalarda kullanmanız gerektiğinde faydalı olabilir.
 

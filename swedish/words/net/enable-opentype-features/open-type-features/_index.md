@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du aktiverar och använder Open Type-funktioner i Aspose.Words för .NET
 type: docs
 weight: 10
-url: /ru/words/net/enable-opentype-features/open-type-features/
+url: /sv/words/net/enable-opentype-features/open-type-features/
 ---
 
 den här omfattande handledningen kommer du att lära dig hur du aktiverar och använder Open Type-funktioner i Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna arbeta med Open Type-funktioner i dina Word-dokument.

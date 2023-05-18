@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لشرح كود مصدر C # لميزة دمج المستندات في Aspose.Words for .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /ar/words/net/split-document/merge-documents/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية دمج مستندات Word متعددة باستخدام ميزة دمج المستندات في Aspose.Words for .NET. اتبع الخطوات أدناه لفهم التعليمات البرمجية المصدر والحصول على مستند مدمج يحتوي على كافة المستندات المصدر.

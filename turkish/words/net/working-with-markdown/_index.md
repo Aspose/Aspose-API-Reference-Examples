@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak metin kalın, italik metin, üstü çizili, satır içi kod, otomatik bağlantı, resim ekleme, sıralı liste, başlık, tablo ve işaretleme belgesinin nasıl okunacağını içerir.
 type: docs
 weight: 810
-url: /ru/words/net/working-with-markdown/
+url: /tr/words/net/working-with-markdown/
 ---
 
 Markdown ile çalışmak, Aspose.Words for .NET kütüphanesini kullanarak Markdown formatıyla nasıl çalışılacağını öğrenmek için kapsamlı bir kaynak sağlar. Öğreticiler, Markdown dosyalarını içe aktarma, Word belgelerini Markdown'a dönüştürme, Markdown stilini özelleştirme, PDF'ye dışa aktarma vb. diğer biçimler ve çok daha fazlası dahil olmak üzere Markdown belgelerini işlemek ve oluşturmak için ayrıntılı açıklamalar, eksiksiz kaynak kodu ve pratik örnekler sağlar. Bu kaynak, Markdown'ı Aspose.Words for .NET ile kullanmak ve metin tabanlı içerik üretimi için gelişmiş özelliklerinden tam olarak yararlanmak isteyen geliştiriciler için gereklidir.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET die Position von Fußnoten und Endnoten in Word-Dokumenten festlegen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
+url: /de/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET die Position von Fußnoten und Endnoten in einem Word-Dokument festlegen. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

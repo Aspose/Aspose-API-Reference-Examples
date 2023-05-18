@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear un vínculo entre cuadros de texto en un documento de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /es/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## Paso 1: Configurar el documento y crear formas de TextBox

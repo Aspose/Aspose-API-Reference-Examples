@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come recuperare e modificare i campi del modulo per nome nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-by-name/
+url: /it/words/net/working-with-formfields/form-fields-get-by-name/
 ---
 
 In questo tutorial passo-passo, ti guideremo su come utilizzare Aspose.Words per .NET per recuperare i campi modulo per nome da un documento Word. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

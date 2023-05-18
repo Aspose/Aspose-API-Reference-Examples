@@ -3,7 +3,7 @@ title: Programmazione con Documento
 linktitle: Programming with Document
 type: docs
 weight: 10
-url: /ru/pdf/net/programming-with-document/
+url: /it/pdf/net/programming-with-document/
 description: Questa risorsa offre Aspose.PDF per i tutorial della libreria .NET per la programmazione con i documenti. Copre argomenti come la creazione/manipolazione di PDF, l'aggiunta di immagini/tabelle/collegamenti, l'ottimizzazione di documenti e l'aggiunta di sicurezza. È una risorsa preziosa per gli sviluppatori che lavorano con documenti PDF utilizzando Aspose.PDF per .NET.
 ---
 La risorsa include tutorial su Aspose.PDF per la programmazione della libreria .NET con funzionalità di documento. È una guida dettagliata che spiega come creare e manipolare a livello di programmazione documenti PDF utilizzando la libreria Aspose.PDF per .NET. I tutorial coprono un'ampia gamma di argomenti, tra cui l'aggiunta di testo, immagini, tabelle e grafici ai documenti PDF, l'utilizzo di segnalibri, collegamenti e annotazioni, l'aggiunta di sicurezza e firme digitali ai documenti e l'ottimizzazione delle dimensioni e della qualità dei documenti PDF. I tutorial sono una risorsa inestimabile per gli sviluppatori che desiderano lavorare con i documenti PDF a livello di codice utilizzando la libreria Aspose.PDF per .NET.

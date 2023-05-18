@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET ile C# kaynak kodunu kullanarak PDF'lere nasıl görünmez bir şekilde açıklama ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 100
-url: /ru/pdf/net/annotations/invisibleannotation/
+url: /tr/pdf/net/annotations/invisibleannotation/
 ---
 ## PDF Belgelerindeki Ek Açıklamaları Anlama
 

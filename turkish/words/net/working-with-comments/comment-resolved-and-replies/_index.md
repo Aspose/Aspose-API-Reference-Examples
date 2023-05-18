@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki yorumları ve yanıtlarını nasıl çözeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/comment-resolved-and-replies/
+url: /tr/words/net/working-with-comments/comment-resolved-and-replies/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak bir Word belgesindeki yorumları ve yanıtlarını nasıl çözümleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, yorum çözümlemesini yönetebilecek ve yorumların durumunu ve yanıtlarını güncelleyebileceksiniz.

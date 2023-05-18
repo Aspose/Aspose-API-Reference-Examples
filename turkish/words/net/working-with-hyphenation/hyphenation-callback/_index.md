@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te sözcük hecelemesini işlemek için heceleme geri aramasını nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /tr/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 Bu adım adım öğreticide, size Aspose.Words for .NET'te heceleme geri arama özelliğini nasıl kullanacağınızı göstereceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve bunu kendi projelerinize nasıl uygulayacağınızı göstereceğiz.

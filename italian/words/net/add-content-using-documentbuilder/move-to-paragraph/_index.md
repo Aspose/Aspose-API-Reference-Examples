@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare Aspose.Words per la funzione Sposta in paragrafo di .NET per navigare e manipolare i paragrafi nei documenti di Word a livello di codice.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-paragraph/
+url: /it/words/net/add-content-using-documentbuilder/move-to-paragraph/
 ---
 
 In questo esempio dettagliato, esploreremo la funzionalità Sposta in paragrafo di Aspose.Words per .NET. Questa funzionalità consente agli sviluppatori di navigare e manipolare i paragrafi all'interno di un documento di Word a livello di codice. Seguendo questa guida, imparerai come implementare e utilizzare la funzione Sposta in paragrafo in modo efficace.

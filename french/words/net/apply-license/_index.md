@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Obtenez des instructions détaillées pour appliquer une licence Aspose.Words dans vos projets .NET. Suivez les étapes pour activer toutes les fonctionnalités de la bibliothèque Aspose.Words.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/
+url: /fr/words/net/apply-license/
 ---
 
 Cette page fournit un guide détaillé sur la façon d'appliquer une licence dans des projets utilisant Aspose.Words pour .NET. Ce tutoriel explique étape par étape comment utiliser une licence pour activer toutes les fonctionnalités d'Aspose.Words. Il fournit également un exemple de code pour illustrer le processus d'octroi de licence. Suivez ce guide pour appliquer la licence et tirer le meilleur parti de la puissante bibliothèque Aspose.Words dans vos applications .NET.

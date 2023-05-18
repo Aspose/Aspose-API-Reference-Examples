@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar una tabla de contenido a documentos PDF usando Aspose.PDF para .NET. Guía paso a paso con código fuente de ejemplo. ¡Mejora la navegación de documentos!
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /es/pdf/net/programming-with-document/addtoc/
 ---
 
 En este tutorial, exploraremos cómo usar la función Agregar TOC (Tabla de contenido) de Aspose.PDF para .NET para agregar una tabla de contenido a los documentos PDF. Proporcionaremos una guía paso a paso y explicaremos el código fuente de C# necesario para lograrlo. Al final de este tutorial, podrá generar un documento PDF con una tabla de contenido utilizando Aspose.PDF para .NET.

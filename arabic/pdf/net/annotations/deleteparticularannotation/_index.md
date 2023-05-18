@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية حذف تعليق توضيحي معين من مستند PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل التفصيلي خطوة بخطوة.
 type: docs
 weight: 50
-url: /ru/pdf/net/annotations/deleteparticularannotation/
+url: /ar/pdf/net/annotations/deleteparticularannotation/
 ---
 في هذا البرنامج التعليمي ، سنوضح لك كيفية استخدام Aspose.PDF for .NET لحذف تعليق توضيحي معين من ملف PDF باستخدام C #.
 

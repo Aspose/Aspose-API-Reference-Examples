@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser la fonctionnalité de code clôturé avec Aspose.Words for .NET Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/fenced-code/
+url: /fr/words/net/working-with-markdown/fenced-code/
 ---
 
 Dans cet exemple, nous vous expliquerons comment utiliser la fonctionnalité de code clôturé avec Aspose.Words pour .NET. le code clôturé est utilisé pour représenter des blocs de code avec un formatage spécifique.

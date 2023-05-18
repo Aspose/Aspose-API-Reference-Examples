@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية قبول المراجعات على مستند Word باستخدام Aspose.Words for .NET
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/accept-revisions/
+url: /ar/words/net/working-with-revisions/accept-revisions/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك خلال قبول المراجعات على مستند Word باستخدام ميزة قبول التنقيحات في Aspose.Words for .NET. اتبع الخطوات أدناه لفهم كود المصدر وقبول التغييرات على المستند.

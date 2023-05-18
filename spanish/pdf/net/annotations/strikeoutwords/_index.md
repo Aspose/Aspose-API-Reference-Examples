@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Este artículo proporciona una guía paso a paso para usar Aspose.PDF para la función Tachar palabras de .NET, que incluye una guía paso a paso y explicaciones.
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /es/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF para .NET es una biblioteca de manipulación y procesamiento de documentos PDF que proporciona varias funciones para crear, modificar y convertir archivos PDF. Una de las características útiles que proporciona Aspose.PDF es la capacidad de tachar palabras o frases en un documento PDF utilizando el código fuente de C#. En este artículo, proporcionaremos una guía paso a paso sobre cómo tachar palabras usando Aspose.PDF para .NET.
 

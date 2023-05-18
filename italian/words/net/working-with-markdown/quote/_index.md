@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare la citazione con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/quote/
+url: /it/words/net/working-with-markdown/quote/
 ---
 
 In questo esempio, spiegheremo come utilizzare la funzione quote con Aspose. Le parole per .NET Quote vengono utilizzate per evidenziare sezioni di testo circondandole con un bordo speciale.

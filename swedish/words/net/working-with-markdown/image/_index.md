@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar och anpassar en bild med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/image/
+url: /sv/words/net/working-with-markdown/image/
 ---
 
 I det här exemplet kommer vi att förklara hur man använder bildfunktionen med Aspose.Words för .NET. Med bilder kan du infoga illustrationer och grafik i ett dokument.

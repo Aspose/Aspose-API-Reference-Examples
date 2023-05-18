@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir la propriété Callout à l'aide d'Aspose.PDF pour .NET. Personnalisez les annotations avec des lignes de légende, la couleur du texte et les styles de fin.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /fr/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF pour .NET est une bibliothèque puissante pour créer, manipuler et convertir des documents PDF en C#. L'une des fonctionnalités fournies par cette bibliothèque est la possibilité de définir des propriétés de légende pour les annotations de texte libre dans les documents PDF. Ceci peut être fait en utilisant le`FreeTextAnnotation` class, qui vous permet de créer des annotations avec des légendes.
 

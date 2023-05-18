@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إخفاء أرقام الصفحات في جدول المحتويات باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /ar/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 في هذه المقالة ، سنناقش تنفيذ ميزة إخفاء أرقام الصفحات في جدول المحتويات في Aspose.PDF لـ .NET باستخدام C #. سنبدأ بمقدمة موجزة عن Aspose.PDF for .NET ثم نتعمق في الدليل خطوة بخطوة لتنفيذ هذه الميزة. 
 

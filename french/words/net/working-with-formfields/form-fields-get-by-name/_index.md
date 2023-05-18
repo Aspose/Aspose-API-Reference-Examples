@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment récupérer et modifier des champs de formulaire par leur nom dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-by-name/
+url: /fr/words/net/working-with-formfields/form-fields-get-by-name/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment utiliser Aspose.Words pour .NET pour récupérer les champs de formulaire par nom à partir d'un document Word. Nous vous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

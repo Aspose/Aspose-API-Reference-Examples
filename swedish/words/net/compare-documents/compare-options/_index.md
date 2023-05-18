@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att förklara C#-källkoden för funktionen Jämför alternativ med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-options/
+url: /sv/words/net/compare-documents/compare-options/
 ---
 
 I den här handledningen kommer vi att förklara hur du använder funktionen Jämför alternativ med Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa ändringarna.

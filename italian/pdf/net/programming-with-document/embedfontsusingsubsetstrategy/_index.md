@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come incorporare i caratteri in un file PDF con Subset Strategy utilizzando Aspose.PDF per .NET. Ottimizza le dimensioni del tuo PDF incorporando solo i caratteri necessari.
 type: docs
 weight: 130
-url: /ru/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
+url: /it/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
 ---
 
 In questo tutorial, discuteremo come incorporare i caratteri in un file PDF con una strategia di sottoinsieme utilizzando Aspose.PDF per .NET. Aspose.PDF per .NET è una potente libreria che consente agli sviluppatori di creare, modificare e manipolare documenti PDF in modo programmatico. L'incorporamento dei caratteri in un file PDF è un passaggio importante per garantire che il documento venga visualizzato correttamente su dispositivi diversi, indipendentemente dal fatto che i caratteri richiesti siano installati o meno su tali dispositivi.

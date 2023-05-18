@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Grid'e Yapış özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/snap-to-grid/
+url: /tr/words/net/document-formatting/snap-to-grid/
 ---
 
 Bu öğreticide, Aspose.Words for .NET ile Kılavuza Yapış özelliğini nasıl kullanacağınız konusunda size yol göstereceğiz. Kaynak kodunu anlamak ve değişiklikleri uygulamak için aşağıdaki adımları izleyin.

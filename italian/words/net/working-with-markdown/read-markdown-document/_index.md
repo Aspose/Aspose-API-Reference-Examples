@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come leggere il documento markdown con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/read-markdown-document/
+url: /it/words/net/working-with-markdown/read-markdown-document/
 ---
 
 In questo esempio, ti guideremo attraverso come leggere un documento Markdown usando Aspose.Words per .NET Markdown è un linguaggio di markup leggero utilizzato per formattare il testo normale.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Die Tutorials enthalten „Vergleichen auf Gleichheit“, „Vergleichsoptionen“, „Vergleichsziel“ und „Vergleichsgranularität“.
 type: docs
 weight: 1480
-url: /ru/words/net/compare-documents/
+url: /de/words/net/compare-documents/
 ---
 
 „Dokumente vergleichen“ ist ein umfassendes Tutorial zum Vergleichen von Dokumenten mit Aspose.Words für .NET. Dieses Tutorial bietet detaillierte Informationen zu den verschiedenen Methoden und Funktionen zum Vergleichen von Dokumenten, einschließlich der Festlegung von Vergleichsoptionen, der Analyse von Ergebnissen und der Behandlung erkannter Unterschiede. Es enthält viele Codebeispiele und Screenshots, um das Verständnis zu erleichtern. Unabhängig davon, ob Sie Anfänger oder erfahrener Entwickler sind, führt Sie diese Ressource Schritt für Schritt durch den Dokumentvergleichsprozess mit Aspose.Words für .NET.

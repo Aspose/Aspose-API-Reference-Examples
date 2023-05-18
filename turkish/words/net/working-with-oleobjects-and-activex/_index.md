@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Ole Paketi olan ve olmayan Ole Nesnesinin, Simge Olarak Ole Nesnesinin nasıl ekleneceğini ve Aspose.Words for .NET kullanılarak Active XControl Özelliklerinin nasıl okunacağını içerir.
 type: docs
 weight: 1080
-url: /ru/words/net/working-with-oleobjects-and-activex/
+url: /tr/words/net/working-with-oleobjects-and-activex/
 ---
 
  ## Öğreticiler

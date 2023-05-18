@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar y quitar JavaScript de documentos PDF usando Aspose.PDF para .NET. Guía paso a paso con tutoriales de código para secuencias de comandos a nivel de documento.
 type: docs
 weight: 30
-url: /ru/pdf/net/programming-with-document/addremovejavascripttodoc/
+url: /es/pdf/net/programming-with-document/addremovejavascripttodoc/
 ---
 
 Para agregar y eliminar JavaScript de los documentos PDF, utilizaremos la biblioteca Aspose.PDF para .NET. Esta poderosa biblioteca nos permite manipular archivos PDF en aplicaciones .NET. Siga las instrucciones paso a paso a continuación para agregar y quitar JavaScript usando Aspose.PDF para .NET.

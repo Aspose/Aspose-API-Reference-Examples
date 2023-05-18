@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un documento in un altro durante la stampa unione utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
+url: /it/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
 ---
 
 In questo tutorial, ti illustreremo come inserire un documento in un altro documento durante la stampa unione utilizzando la funzione Inserisci documento durante la stampa unione di Aspose.Words per .NET. Seguire i passaggi seguenti per comprendere il codice sorgente ed eseguire l'inserimento del documento.

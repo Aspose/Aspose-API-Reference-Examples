@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Lizenz aus einem Stream anwenden. Schritt für Schritt Anleitung
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-stream/
+url: /de/words/net/apply-license/apply-license-from-stream/
 ---
 
 In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie mit Aspose.Words für .NET eine Lizenz aus einem Stream anwenden. Wir begleiten Sie durch den Prozess und stellen Ihnen die notwendigen Code-Schnipsel zur Verfügung. Am Ende dieses Tutorials können Sie eine Lizenz anwenden, um die volle Funktionalität von Aspose.Words freizuschalten.

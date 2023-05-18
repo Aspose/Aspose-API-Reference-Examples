@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إنشاء مستند PDF A1 باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع شفرة المصدر C #. تحسين كفاءة ملفات PDF.
 type: docs
 weight: 90
-url: /ru/pdf/net/programming-with-document/createpdfa1withasposepdf/
+url: /ar/pdf/net/programming-with-document/createpdfa1withasposepdf/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سنشرح كيفية استخدام Aspose.PDF for .NET لإنشاء مستند PDF A1. سنزودك بكود مصدر C # والإرشادات اللازمة لإنجاز هذه المهمة.

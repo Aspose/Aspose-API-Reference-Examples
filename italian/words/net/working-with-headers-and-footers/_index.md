@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Tutorials contiene come creare il piè di pagina dell'intestazione e copiare il piè di pagina dell'intestazione dalla sezione precedente del documento di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 730
-url: /ru/words/net/working-with-headers-and-footers/
+url: /it/words/net/working-with-headers-and-footers/
 ---
 
 Lavorare con intestazioni e piè di pagina è una risorsa completa per apprendere come manipolare e personalizzare intestazioni e piè di pagina nei documenti di Word utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate, esempi di codice e istruzioni passo-passo per aggiungere, modificare e rimuovere intestazioni e piè di pagina, impostare intestazioni e piè di pagina diversi per diverse sezioni di un documento, inserire immagini, tabelle, campi dinamici e molto altro. Questa risorsa è essenziale per gli sviluppatori che desiderano creare documenti Word professionali e personalizzati con intestazioni e piè di pagina personalizzati in base alle loro esigenze specifiche.

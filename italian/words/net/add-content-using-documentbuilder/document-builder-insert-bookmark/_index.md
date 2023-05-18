@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire segnalibri nei documenti di Word utilizzando DocumentBuilder in Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /it/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 In questo esempio completo, imparerai come inserire segnalibri in un documento Word utilizzando la classe DocumentBuilder in Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di creare e gestire segnalibri all'interno dei tuoi documenti.

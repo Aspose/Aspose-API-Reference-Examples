@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: احصل على تفاصيل مجموعة المراجعة في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-group-details/
+url: /ar/words/net/working-with-revisions/get-revision-group-details/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سوف نوضح لك كيفية الحصول على تفاصيل مجموعة المراجعات في مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

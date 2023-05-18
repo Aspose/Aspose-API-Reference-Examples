@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Abrufen von Feldcode und Feldergebnis in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/field-code/
+url: /de/words/net/working-with-fields/field-code/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „Get Field Code“ von Aspose.Words für .NET verwendet. Stellen Sie sicher, dass Sie jeden Schritt sorgfältig befolgen, um die gewünschten Ergebnisse zu erzielen.

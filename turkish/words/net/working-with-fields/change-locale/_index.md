@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde tarih ve sayı biçimlendirmesi için yerel ayarı nasıl değiştireceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-locale/
+url: /tr/words/net/working-with-fields/change-locale/
 ---
 
 Bu öğreticide, Aspose.Words for .NET kullanarak Word belgelerinde yerel ayarı değiştirme sürecinde size rehberlik edeceğiz. Yerel ayarı değiştirerek, adres mektup birleştirme işlemleri sırasında tarih ve sayıların biçimlendirmesini kontrol edebilirsiniz. Bunu başarmak için size gerekli C# kaynak kodunu ve adım adım yönergeleri sağlayacağız.

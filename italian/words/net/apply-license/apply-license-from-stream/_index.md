@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare una licenza da un flusso utilizzando Aspose.Words per .NET. Guida passo dopo passo
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-stream/
+url: /it/words/net/apply-license/apply-license-from-stream/
 ---
 
 In questo tutorial passo passo imparerai come applicare una licenza da un flusso utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice necessari. Alla fine di questo tutorial, sarai in grado di applicare una licenza per sbloccare la piena funzionalità di Aspose.Words.

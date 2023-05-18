@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la función de código delimitado con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/fenced-code/
+url: /es/words/net/working-with-markdown/fenced-code/
 ---
 
 En este ejemplo, lo guiaremos a través de cómo usar la función de código delimitado con Aspose.Words para .NET. El código delimitado se utiliza para representar bloques de código con un formato específico.

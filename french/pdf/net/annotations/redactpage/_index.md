@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article explique comment rédiger une page PDF à l'aide d'Aspose.PDF pour .NET, y compris des instructions détaillées et un exemple de code source.
 type: docs
 weight: 120
-url: /ru/pdf/net/annotations/redactpage/
+url: /fr/pdf/net/annotations/redactpage/
 ---
 Si vous cherchez à expurger des informations sensibles d'un document PDF en utilisant Aspose.PDF pour .NET, vous avez de la chance ! Voici un guide étape par étape pour vous aider à démarrer :
 

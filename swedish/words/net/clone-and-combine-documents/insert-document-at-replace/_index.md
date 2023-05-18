@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett dokument vid ersättning med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-replace/
+url: /sv/words/net/clone-and-combine-documents/insert-document-at-replace/
 ---
 
 I den här handledningen går vi igenom hur du infogar ett dokument i ett annat dokument när du ersätter med hjälp av funktionen Infoga dokument vid ersättning i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och utföra dokumentinfogningen.

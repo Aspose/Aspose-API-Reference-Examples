@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder kanter och skuggning på ett stycke med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
+url: /sv/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
 ---
 
 I den här handledningen kommer vi att visa dig hur du använder kanter och skuggning på ett stycke med funktionen i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa formateringsändringar.

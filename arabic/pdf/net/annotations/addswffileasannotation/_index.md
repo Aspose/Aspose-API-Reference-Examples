@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة ملفات SWF كتعليقات توضيحية في Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 30
-url: /ru/pdf/net/annotations/addswffileasannotation/
+url: /ar/pdf/net/annotations/addswffileasannotation/
 ---
 إذا كنت مطور .NET تتطلع إلى إضافة ملف SWF للوسائط المتعددة كتعليق توضيحي إلى مستند PDF الخاص بك باستخدام Aspose.PDF for .NET ، فإن هذا الدليل التفصيلي مناسب لك. في هذه المقالة ، سنشرح كيفية إضافة ملفات SWF كتعليقات توضيحية في مستندات PDF الخاصة بك باستخدام لغة البرمجة C #. 
 

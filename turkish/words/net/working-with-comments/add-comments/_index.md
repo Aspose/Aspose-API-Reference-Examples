@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine nasıl yorum ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-comments/
+url: /tr/words/net/working-with-comments/add-comments/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak bir Word belgesine nasıl yorum ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgelerinize yorum ekleyebilecek ve içeriklerini özelleştirebileceksiniz.

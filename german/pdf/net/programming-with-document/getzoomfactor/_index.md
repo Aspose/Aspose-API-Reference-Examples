@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET den Zoomfaktor einer PDF-Datei ermitteln.
 type: docs
 weight: 210
-url: /ru/pdf/net/programming-with-document/getzoomfactor/
+url: /de/pdf/net/programming-with-document/getzoomfactor/
 ---
 Aspose.PDF für .NET ist eine PDF-Bearbeitungsbibliothek, die viele Funktionen zum Ausführen verschiedener Vorgänge an PDF-Dokumenten bietet. Eine dieser Funktionen ist die Möglichkeit, den Zoomfaktor einer PDF-Datei zu ermitteln. In diesem Tutorial erklären wir, wie Sie Aspose.PDF für .NET verwenden, um den Zoomfaktor einer PDF-Datei mithilfe von C#-Quellcode zu ermitteln.
 

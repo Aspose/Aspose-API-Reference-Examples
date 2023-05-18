@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar bokmärken i Word-dokument med DocumentBuilder i Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /sv/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 det här omfattande exemplet kommer du att lära dig hur du infogar bokmärken i ett Word-dokument med klassen DocumentBuilder i Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna skapa och hantera bokmärken i dina dokument.

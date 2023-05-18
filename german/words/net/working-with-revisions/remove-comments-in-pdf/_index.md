@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Entfernen Sie Kommentare in einer PDF-Datei mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/remove-comments-in-pdf/
+url: /de/words/net/working-with-revisions/remove-comments-in-pdf/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung erklären wir Ihnen, wie Sie Kommentare in einer PDF-Datei mit Aspose.Words für .NET entfernen. Wir stellen Ihnen den vollständigen Quellcode zur Verfügung und zeigen Ihnen, wie Sie die Markdown-Ausgabe formatieren.

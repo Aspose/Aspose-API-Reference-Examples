@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare intestazioni e piè di pagina nei tuoi documenti Word con Aspose.Words per .NET. Personalizza intestazioni e piè di pagina per ogni pagina.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/create-header-footer/
+url: /it/words/net/working-with-headers-and-footers/create-header-footer/
 ---
 
 Ecco una guida dettagliata per spiegare il seguente codice sorgente C# per creare intestazioni e piè di pagina utilizzando la funzionalità Aspose.Words per .NET. Assicurati di aver incluso la libreria Aspose.Words nel tuo progetto prima di utilizzare questo codice.

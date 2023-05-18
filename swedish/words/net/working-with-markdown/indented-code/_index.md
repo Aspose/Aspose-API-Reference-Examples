@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder indragen kod med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/indented-code/
+url: /sv/words/net/working-with-markdown/indented-code/
 ---
 
 I det här exemplet kommer vi att förklara hur man använder den indragna kodfunktionen med Aspose.Words för .NET. Indragen kod används för att visuellt representera kodblock med specifik formatering.

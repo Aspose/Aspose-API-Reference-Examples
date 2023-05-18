@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des sauts de page dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-break/
+url: /fr/words/net/add-content-using-documentbuilder/insert-break/
 ---
 
 Dans cet exemple complet, vous apprendrez à insérer des sauts de page dans un document Word à l'aide de la méthode InsertBreak dans Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de contrôler les sauts de page dans votre document.

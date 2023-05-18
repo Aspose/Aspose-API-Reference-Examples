@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF belgesindeki açıklamaları nasıl düzleştireceğinizi öğrenin. Ek açıklamaları koruyun ve yanlışlıkla değiştirilmesini önleyin.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /tr/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF for .NET, geliştiricilerin programlı olarak PDF belgeleriyle çalışmasını sağlayan güçlü bir kitaplıktır. Sağladığı özelliklerden biri, PDF belgelerindeki ek açıklamaları düzleştirme yeteneğidir. Açıklamaları bir PDF belgesinde düzleştirmek, açıklamaların belge içeriğinin bir parçası haline geldiği ve artık düzenlenemeyeceği veya silinemeyeceği anlamına gelir. Ek açıklamaların korunmasını ve yanlışlıkla değiştirilememesini sağlamak istediğinizde bu kullanışlıdır.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية التحقق من تسلسل TextBoxes في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /ar/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## الخطوة 1: إعداد المستند وإنشاء شكل مربع نص

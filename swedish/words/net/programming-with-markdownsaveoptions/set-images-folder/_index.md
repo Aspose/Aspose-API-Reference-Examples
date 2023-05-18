@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ställer in bildmappen när du exporterar till Markdown med Aspose.Words för .NET. Anpassa placeringen av bilder för bättre organisation och integration.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/set-images-folder/
+url: /sv/words/net/programming-with-markdownsaveoptions/set-images-folder/
 ---
 
 Här är en steg-för-steg-guide för att förklara följande C#-källkod som hjälper till att ställa in bildmappen för Markdown-exportalternativ med Aspose.Words-biblioteket för .NET. Se till att du har inkluderat Aspose.Words-biblioteket i ditt projekt innan du använder den här koden.

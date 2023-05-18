@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على تعليق توضيحي معين في مستند PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 80
-url: /ru/pdf/net/annotations/getparticularannotation/
+url: /ar/pdf/net/annotations/getparticularannotation/
 ---
 إذا كنت تعمل باستخدام ملفات PDF في .NET ، فقد تواجه حاجة للحصول على تعليق توضيحي معين من مستند PDF. في هذا الدليل ، سنوضح لك كيفية استخدام Aspose.PDF for .NET للحصول على تعليق توضيحي معين من مستند PDF باستخدام C #.
 

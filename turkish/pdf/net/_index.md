@@ -3,7 +3,7 @@ title: .NET Öğreticileri için Aspose.PDF
 linktitle: Aspose.PDF for .NET Tutorials
 type: docs
 weight: 10
-url: /ru/pdf/net/
+url: /tr/pdf/net/
 description: "Aspose.PDF for .NET'in API Eğitimleri ve kod parçacıkları, oluşturma, düzenleme, dönüştürme, yazdırma ve PDF belgeleri işlemenin daha birçok özelliğini içerir"
 is_root: true
 ---

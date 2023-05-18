@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تضمين الخطوط في ملف PDF باستخدام استراتيجية المجموعة الفرعية باستخدام Aspose.PDF for .NET. قم بتحسين حجم PDF الخاص بك عن طريق تضمين الأحرف الضرورية فقط.
 type: docs
 weight: 130
-url: /ru/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
+url: /ar/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
 ---
 
 في هذا البرنامج التعليمي ، سنناقش كيفية تضمين الخطوط في ملف PDF باستخدام إستراتيجية مجموعة فرعية باستخدام Aspose.PDF لـ .NET. Aspose.PDF for .NET مكتبة قوية تتيح للمطورين إنشاء مستندات PDF وتحريرها ومعالجتها برمجيًا. يعد دمج الخطوط في ملف PDF خطوة مهمة لضمان عرض المستند بشكل صحيح على أجهزة مختلفة ، بغض النظر عما إذا كانت الخطوط المطلوبة مثبتة على تلك الأجهزة أم لا.

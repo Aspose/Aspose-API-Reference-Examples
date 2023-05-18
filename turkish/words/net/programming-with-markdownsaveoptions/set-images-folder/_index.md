@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Markdown'a dışa aktarırken resimler klasörünü nasıl ayarlayacağınızı öğrenin. Daha iyi organizasyon ve entegrasyon için görüntülerin yerleşimini özelleştirin.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/set-images-folder/
+url: /tr/words/net/programming-with-markdownsaveoptions/set-images-folder/
 ---
 
 Aspose.Words library for .NET kullanarak Markdown dışa aktarma seçenekleri için görseller klasörünü ayarlamaya yardımcı olan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. Bu kodu kullanmadan önce Aspose.Words kütüphanesini projenize dahil ettiğinizden emin olun.

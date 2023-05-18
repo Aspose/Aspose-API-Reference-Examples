@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à énumérer les nœuds enfants dans un paragraphe avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/enumerate-child-nodes/
+url: /fr/words/net/working-with-node/enumerate-child-nodes/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui illustre comment énumérer les nœuds enfants à l'aide de Aspose.Words pour .NET.

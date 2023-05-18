@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile yatay bir kuralı nasıl ekleyeceğinizi adım adım öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/horizontal-rule/
+url: /tr/words/net/working-with-markdown/horizontal-rule/
 ---
 
 Bu örnekte, yatay kural özelliğini Aspose.Words for .NET ile nasıl kullanacağınızı göstereceğiz. Yatay Kural, bir belgenin bölümlerini görsel olarak ayırmak için kullanılır.

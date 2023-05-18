@@ -4,7 +4,7 @@ additionalTitle: Aspose API-referenser
 description: Handledningar och kodsnuttar av produktfamiljen Aspose.Words. Den innehåller grundläggande och förhandshandledningar för användning av Aspose.Words.
 type: docs
 weight: 10
-url: /ru/words/
+url: /sv/words/
 is_root: true
 ---
 

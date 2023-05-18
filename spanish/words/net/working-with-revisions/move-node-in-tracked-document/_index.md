@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Mueva nodos en un documento con seguimiento con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/move-node-in-tracked-document/
+url: /es/words/net/working-with-revisions/move-node-in-tracked-document/
 ---
 
 En esta guía paso a paso, lo guiaremos a través de cómo mover un nodo en un documento de Word rastreado usando Aspose.Words para .NET. Le proporcionaremos el código fuente completo y le mostraremos cómo formatear la salida de Markdown.

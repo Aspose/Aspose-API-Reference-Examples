@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Text mit Aspose.Words für .NET fett formatieren.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bold-text/
+url: /de/words/net/working-with-markdown/bold-text/
 ---
 
 In diesem Beispiel erklären wir Ihnen, wie Sie Text mit Aspose.Words für .NET fett formatieren. Durch die Fettschrift wird der Text besser sichtbar und hervorgehoben.

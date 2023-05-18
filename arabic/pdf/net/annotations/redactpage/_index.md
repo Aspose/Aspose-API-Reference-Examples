@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تشرح هذه المقالة كيفية تنقيح صفحة PDF باستخدام Aspose.PDF لـ .NET ، بما في ذلك تعليمات خطوة بخطوة ومثال على الكود المصدري.
 type: docs
 weight: 120
-url: /ru/pdf/net/annotations/redactpage/
+url: /ar/pdf/net/annotations/redactpage/
 ---
 إذا كنت تبحث عن تنقيح معلومات حساسة من مستند PDF باستخدام Aspose.PDF for .NET ، فأنت محظوظ! إليك دليل تفصيلي للبدء:
 

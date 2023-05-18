@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Ändra fältuppdatering kulturkälla, steg-för-steg-guide för att ändra kulturkälla i Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /sv/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 den här handledningen kommer vi att guida dig genom processen att ändra fältuppdateringskulturkällan i Word-dokument med Aspose.Words för .NET. Genom att ändra kulturkällan kan du styra datumformateringen under fältuppdateringar och kopplingsoperationer. Vi kommer att förse dig med den nödvändiga C#-källkoden och steg-för-steg-instruktioner för att uppnå detta.

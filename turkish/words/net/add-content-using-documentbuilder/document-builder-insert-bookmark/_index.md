@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te DocumentBuilder'ı kullanarak Word belgelerine nasıl yer imleri ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
+url: /tr/words/net/add-content-using-documentbuilder/document-builder-insert-bookmark/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET'te DocumentBuilder sınıfını kullanarak bir Word belgesine nasıl yer imleri ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgelerinizde yer imleri oluşturabilecek ve yönetebileceksiniz.

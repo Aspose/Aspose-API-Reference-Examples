@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para usar Move To Table Cell en Aspose.Words para .NET
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-table-cell/
+url: /es/words/net/add-content-using-documentbuilder/move-to-table-cell/
 ---
 
 En este ejemplo, lo guiaremos a través de cómo usar la función Mover a la celda de la tabla de Aspose.Words para .NET usando el código fuente de C# proporcionado paso a paso. Esta característica le permite navegar y manipular celdas específicas dentro de una tabla en un documento de Word. Siga los pasos a continuación para integrar esta funcionalidad en su aplicación.

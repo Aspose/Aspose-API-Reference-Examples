@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le titre avec Aspose.Words pour .NET Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /fr/words/net/working-with-markdown/heading/
 ---
 
 Dans cet exemple, nous allons vous montrer comment utiliser la fonction de titres avec Aspose.Words pour .NET. Les titres sont utilisés pour structurer et hiérarchiser le contenu d'un document.

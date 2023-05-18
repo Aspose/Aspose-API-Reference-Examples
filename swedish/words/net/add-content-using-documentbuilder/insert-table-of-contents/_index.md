@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar en innehållsförteckning i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-table-of-contents/
+url: /sv/words/net/add-content-using-documentbuilder/insert-table-of-contents/
 ---
 
 I den här omfattande handledningen kommer du att lära dig hur du infogar en innehållsförteckning i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna skapa en innehållsförteckning med lämpliga rubriker och sidnummer.

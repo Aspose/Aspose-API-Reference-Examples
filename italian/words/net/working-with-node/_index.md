@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: tutorial contengono come utilizzare il tipo di nodo, ottenere il nodo padre, il documento proprietario, tutti i nodi ricorsivi, attraversare tutti i nodi, enumerare i nodi figlio e creare nodi di paragrafo nel documento di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 1000
-url: /ru/words/net/working-with-node/
+url: /it/words/net/working-with-node/
 ---
 Lavorare con le revisioni è una risorsa completa che ti guida attraverso il lavoro con le revisioni nei documenti di Word utilizzando la libreria Aspose.Words per .NET. I tutorial ti mostrano passo dopo passo come aggiungere, eliminare, accettare e rifiutare le revisioni, come visualizzare le revisioni nel documento, come confrontare versioni diverse e molto altro. Imparerai come lavorare in modo efficace con le revisioni per la collaborazione e la gestione delle modifiche nei tuoi documenti Word. Questa risorsa è essenziale per gli sviluppatori che desiderano automatizzare la gestione delle revisioni nei propri Aspose.Words per le applicazioni basate su .NET.
 

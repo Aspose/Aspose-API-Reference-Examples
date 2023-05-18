@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare bordi e ombreggiatura a un paragrafo con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
+url: /it/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
 ---
 
 In questo tutorial, ti mostreremo come applicare bordi e ombreggiature a un paragrafo utilizzando la funzionalità di Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e applicare le modifiche alla formattazione.

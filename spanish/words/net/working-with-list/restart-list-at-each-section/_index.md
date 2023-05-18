@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a restablecer una lista numerada en cada sección de un documento de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-at-each-section/
+url: /es/words/net/working-with-list/restart-list-at-each-section/
 ---
 
 En este tutorial paso a paso, le mostraremos cómo restablecer una lista numerada en cada sección de un documento de Word utilizando Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

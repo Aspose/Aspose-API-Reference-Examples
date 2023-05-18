@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde dipnotların ve son notların konumunu nasıl ayarlayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
+url: /tr/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
 ---
 
 Bu adım adım öğreticide, bir Word belgesindeki dipnotların ve son notların konumunu ayarlamak için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

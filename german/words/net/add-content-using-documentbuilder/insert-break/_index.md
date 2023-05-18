@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Seitenumbrüche in Word-Dokumente einfügen. Schritt für Schritt Anleitung.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-break/
+url: /de/words/net/add-content-using-documentbuilder/insert-break/
 ---
 
 In diesem umfassenden Beispiel erfahren Sie, wie Sie mithilfe der InsertBreak-Methode in Aspose.Words für .NET Seitenumbrüche in ein Word-Dokument einfügen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Handbuchs werden Sie in der Lage sein, Seitenumbrüche in Ihrem Dokument zu steuern.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo fornisce una guida dettagliata per l'impostazione della larghezza della linea dell'annotazione lnk utilizzando Aspose.PDF per .NET.
 type: docs
 weight: 110
-url: /ru/pdf/net/annotations/lnkannotationlinewidth/
+url: /it/pdf/net/annotations/lnkannotationlinewidth/
 ---
 Aspose.PDF è uno strumento potente e ampiamente utilizzato per lavorare con i file PDF nelle applicazioni .NET. Fornisce una varietà di funzionalità per la creazione, la modifica e la manipolazione di file PDF, inclusa la possibilità di aggiungere annotazioni alle pagine. In questo tutorial, spiegheremo come impostare la larghezza della linea di un'annotazione di collegamento utilizzando Aspose.PDF per .NET.
 

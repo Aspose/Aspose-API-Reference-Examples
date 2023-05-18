@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile satır içi kodu nasıl yapacağınızı öğrenin Adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/inline-code/
+url: /tr/words/net/working-with-markdown/inline-code/
 ---
 
 Bu örnekte, satır içi kod özelliğini Aspose.Words for .NET ile nasıl kullanacağınız konusunda size yol göstereceğiz. Satır İçi Kod, bir paragraf içindeki kod parçalarını görsel olarak temsil etmek için kullanılır.

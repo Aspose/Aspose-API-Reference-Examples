@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer une licence à partir d'un fichier à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-file/
+url: /fr/words/net/apply-license/apply-license-from-file/
 ---
 
 ## Introduction

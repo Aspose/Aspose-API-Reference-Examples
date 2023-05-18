@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetFileInfo في Aspose.PDF for .NET لاسترداد معلومات البيانات الوصفية حول مستند PDF.
 type: docs
 weight: 180
-url: /ru/pdf/net/programming-with-document/getfileinfo/
+url: /ar/pdf/net/programming-with-document/getfileinfo/
 ---
 
  Aspose.PDF for .NET هي مكتبة شائعة لمعالجة ملفات PDF تتيح للمطورين إنشاء ملفات PDF وتحريرها وتحويلها في تطبيقات .NET الخاصة بهم. تتمثل إحدى الميزات التي توفرها هذه المكتبة في القدرة على استرداد المعلومات حول البيانات الوصفية لمستند PDF. سيرشدك هذا البرنامج التعليمي خلال خطوات استخدام ملف`GetFileInfo`ميزة Aspose.PDF for .NET لاسترداد معلومات حول البيانات الوصفية لمستند PDF.

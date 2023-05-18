@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à vérifier la séquence des zones de texte dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /fr/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## Étape 1 : Configuration du document et création d'une forme TextBox

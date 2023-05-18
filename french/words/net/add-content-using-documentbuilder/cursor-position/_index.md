@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à récupérer la position du curseur dans un document Word à l'aide du guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/cursor-position/
+url: /fr/words/net/add-content-using-documentbuilder/cursor-position/
 ---
 
 Dans cet exemple étape par étape, vous découvrirez la position du curseur dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de récupérer le nœud et le paragraphe actuels où le curseur est positionné dans le document.

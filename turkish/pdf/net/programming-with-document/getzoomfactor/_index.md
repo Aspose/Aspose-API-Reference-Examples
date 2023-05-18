@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF dosyasının yakınlaştırma faktörünü elde etmek için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 210
-url: /ru/pdf/net/programming-with-document/getzoomfactor/
+url: /tr/pdf/net/programming-with-document/getzoomfactor/
 ---
 Aspose.PDF for .NET, PDF belgeleri üzerinde çeşitli işlemleri gerçekleştirmek için birçok özellik sağlayan bir PDF işleme kitaplığıdır. Bu özelliklerden biri, bir PDF dosyasının yakınlaştırma faktörünü elde etme yeteneğidir. Bu eğitimde, C# kaynak kodunu kullanarak bir PDF dosyasının yakınlaştırma faktörünü elde etmek için Aspose.PDF for .NET'in nasıl kullanılacağını açıklayacağız.
 

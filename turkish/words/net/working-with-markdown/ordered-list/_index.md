@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile sıralı liste oluşturmayı öğrenin Adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/ordered-list/
+url: /tr/words/net/working-with-markdown/ordered-list/
 ---
 
 Bu örnekte, sıralı liste işlevinin Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. Sıralı Liste, öğeleri sıralı olarak numaralarla düzenlemenizi sağlar.

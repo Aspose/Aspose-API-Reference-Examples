@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحديث ميزة التعليق التوضيحي للنص المجاني في Aspose.PDF for .NET باستخدام الكود المصدري C #.
 type: docs
 weight: 160
-url: /ru/pdf/net/annotations/updatefreetextannotation/
+url: /ar/pdf/net/annotations/updatefreetextannotation/
 ---
 في هذه المقالة ، سنقدم دليلاً خطوة بخطوة لشرح التعليمات البرمجية المصدر C # التالية لميزة Update Free Text Annotation الخاصة بـ Aspose.PDF for .NET. سنتناول كل سطر من التعليمات البرمجية ونوضح ما يفعله ، حتى يتمكن حتى المبتدئين من فهمه.
 

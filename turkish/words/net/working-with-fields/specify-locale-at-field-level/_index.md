@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinde alan düzeyinde yerelleştirmeyi nasıl belirteceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/specify-locale-at-field-level/
+url: /tr/words/net/working-with-fields/specify-locale-at-field-level/
 ---
 
 Aspose.Words for .NET özelliğini kullanarak yerelleştirmeyi alan düzeyinde belirlemeye izin veren aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. Bu kodu kullanmadan önce Aspose.Words kütüphanesini projenize dahil ettiğinizden emin olun.

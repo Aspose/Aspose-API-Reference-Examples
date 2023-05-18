@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie die Warnquelle mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /de/words/net/working-with-markdown/use-warning-source/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie die Warnquelle mit Aspose.Words für .NET verwenden. Die Warnungsquelle gibt den Ursprung der Warnung an, wenn die Callback-Funktion verwendet wird.

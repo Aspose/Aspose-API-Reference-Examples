@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir Word belgesini nasıl kopyalayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/cloning-document/
+url: /tr/words/net/clone-and-combine-documents/cloning-document/
 ---
 
 Bu eğitimde size Aspose.Words for .NET'in klon özelliğini kullanarak bir Word belgesini nasıl klonlayacağınızı anlatacağız. Kaynak kodunu anlamak ve mevcut bir belgenin tam bir kopyasını oluşturmak için aşağıdaki adımları izleyin.

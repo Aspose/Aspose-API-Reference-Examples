@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come enumerare i nodi figlio in un paragrafo con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/enumerate-child-nodes/
+url: /it/words/net/working-with-node/enumerate-child-nodes/
 ---
 
 Ecco una guida passo passo per spiegare il codice sorgente C# di seguito che illustra come enumerare i nodi figlio utilizzando Aspose.Words per .NET.

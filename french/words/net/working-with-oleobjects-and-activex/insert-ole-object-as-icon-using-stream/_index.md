@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un objet OLE en tant qu'icône à l'aide d'un flux avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
+url: /fr/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui illustre comment insérer un objet OLE sous forme d'icône à l'aide d'un flux avec Aspose.Words pour .NET.

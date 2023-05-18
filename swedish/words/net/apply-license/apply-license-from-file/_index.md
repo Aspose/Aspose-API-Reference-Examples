@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ansöker om en licens från en fil med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-file/
+url: /sv/words/net/apply-license/apply-license-from-file/
 ---
 
 ## Introduktion

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar kod med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/inline-code/
+url: /sv/words/net/working-with-markdown/inline-code/
 ---
 
 I det här exemplet kommer vi att gå igenom hur du använder inline-kodfunktionen med Aspose.Words för .NET. Inline-kod används för att visuellt representera kodbitar inuti ett stycke.

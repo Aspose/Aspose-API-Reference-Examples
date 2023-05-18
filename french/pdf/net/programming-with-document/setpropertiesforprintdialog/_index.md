@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir les propriétés de la boîte de dialogue d'impression dans Aspose.PDF pour .NET à l'aide du guide étape par étape.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /fr/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 voici un guide étape par étape pour définir les propriétés de la boîte de dialogue d'impression à l'aide d'Aspose.PDF pour .NET :
 

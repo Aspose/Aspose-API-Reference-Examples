@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzla, Aspose.PDF for .NET'i PDF belgelerinden kullanılmayan nesneleri kaldırmak için nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 260
-url: /ru/pdf/net/programming-with-document/removeunusedobjects/
+url: /tr/pdf/net/programming-with-document/removeunusedobjects/
 ---
 Aspose.PDF for .NET kullanarak PDF belgelerinizdeki kullanılmayan nesneleri kaldırmanın bir yolunu arıyorsanız, doğru yerdesiniz. Bu adım adım kılavuz, bu görevi gerçekleştirmek için sağlanan C# kaynak kodunu nasıl kullanacağınızı gösterecektir.
 

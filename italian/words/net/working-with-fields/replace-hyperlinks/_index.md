@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Sostituisci i collegamenti ipertestuali nei documenti di Word utilizzando Aspose.Words per .NET. Istruzioni dettagliate per la sostituzione dei collegamenti ipertestuali.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/replace-hyperlinks/
+url: /it/words/net/working-with-fields/replace-hyperlinks/
 ---
 
 Ecco una guida dettagliata per spiegare il seguente codice sorgente C# per sostituire i collegamenti ipertestuali utilizzando Aspose.Words per la funzionalità .NET. Assicurati di aver incluso la libreria Aspose.Words nel tuo progetto prima di utilizzare questo codice.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile madde işaretli liste oluşturmayı öğrenin Adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /tr/words/net/working-with-markdown/bulleted-list/
 ---
 
 Bu eğitimde, size Aspose.Words for .NET ile madde işaretli liste oluşturmayı anlatacağız. Öğeleri numaralandırma kullanmadan listelemek için madde işaretli bir liste kullanılır.

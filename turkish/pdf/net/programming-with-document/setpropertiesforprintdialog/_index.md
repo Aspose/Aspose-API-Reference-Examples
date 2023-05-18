@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Adım adım kılavuz kullanarak Aspose.PDF for .NET'te yazdırma iletişim kutusunun özelliklerini nasıl ayarlayacağınızı öğrenin.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /tr/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 İşte Aspose.PDF for .NET kullanarak yazdırma iletişim kutusunun özelliklerini ayarlamak için adım adım bir kılavuz:
 

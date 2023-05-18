@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Dokument beim Ersetzen einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-replace/
+url: /de/words/net/clone-and-combine-documents/insert-document-at-replace/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie beim Ersetzen mithilfe der Funktion „Dokument beim Ersetzen einfügen“ von Aspose.Words für .NET ein Dokument in ein anderes Dokument einfügen. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und das Einfügen des Dokuments durchzuführen.

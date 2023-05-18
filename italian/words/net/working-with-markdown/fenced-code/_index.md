@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare la funzione di codice recintato con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/fenced-code/
+url: /it/words/net/working-with-markdown/fenced-code/
 ---
 
 In questo esempio, ti illustreremo come utilizzare la funzione di codice recintato con Aspose.Words per .NET. il codice recintato viene utilizzato per rappresentare blocchi di codice con una formattazione specifica.

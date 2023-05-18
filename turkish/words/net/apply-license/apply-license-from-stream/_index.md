@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir akıştan nasıl lisans uygulayacağınızı öğrenin. Adım adım rehber
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-stream/
+url: /tr/words/net/apply-license/apply-license-from-stream/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir akıştan nasıl lisans uygulayacağınızı öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli kod parçacıklarını sağlayacağız. Bu eğitimin sonunda, Aspose.Words'ün tam işlevselliğini ortaya çıkarmak için bir lisans uygulayabileceksiniz.

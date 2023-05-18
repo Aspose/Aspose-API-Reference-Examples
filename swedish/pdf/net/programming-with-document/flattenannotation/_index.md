@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du förenklar anteckningar i ett PDF-dokument med Aspose.PDF för .NET. Bevara anteckningar och förhindra oavsiktliga ändringar.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /sv/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF för .NET är ett kraftfullt bibliotek som gör det möjligt för utvecklare att arbeta med PDF-dokument programmatiskt. En av funktionerna som det ger är möjligheten att platta kommentarer i PDF-dokument. Att platta till anteckningar i ett PDF-dokument innebär att anteckningarna blir en del av dokumentets innehåll och kan inte längre redigeras eller raderas. Detta är användbart när du vill säkerställa att anteckningarna bevaras och inte kan ändras av misstag.

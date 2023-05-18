@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: .NET projelerinizde bir Aspose.Words lisansı uygulamak için adım adım talimatlar alın. Aspose.Words kitaplığının tam işlevselliğini etkinleştirmek için adımları izleyin.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/
+url: /tr/words/net/apply-license/
 ---
 
 Bu sayfa, Aspose.Words for .NET kullanan projelerde bir lisansın nasıl uygulanacağına dair ayrıntılı bir kılavuz sağlar. Bu öğretici, Aspose.Words'ün tüm özelliklerini etkinleştirmek için bir lisansın nasıl kullanılacağını adım adım açıklar. Lisanslama sürecini göstermek için örnek kod da sağlar. .NET uygulamalarınızda lisans uygulamak ve güçlü Aspose.Words kitaplığından en iyi şekilde yararlanmak için bu kılavuzu izleyin.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar kryssrutaformulär i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
+url: /sv/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
 ---
 
 I den här omfattande självstudien kommer du att lära dig hur du infogar ett formulärfält i en kryssruta i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna lägga till kryssrutaformulär med anpassningsbara egenskaper till dina dokument.

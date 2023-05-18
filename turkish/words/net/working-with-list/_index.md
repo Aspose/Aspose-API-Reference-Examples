@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak her bölümde listenin nasıl yeniden başlatılacağını, liste düzeyinin nasıl belirleneceğini, Belgede liste numarasının nasıl yeniden başlatılacağını içerir.
 type: docs
 weight: 780
-url: /ru/words/net/working-with-list/
+url: /tr/words/net/working-with-list/
 ---
 
 Listelerle Çalışmak, Aspose.Words for .NET kitaplığını kullanarak Word belgelerindeki listelerle çalışırken size rehberlik eden kapsamlı bir kaynaktır. Öğreticiler, madde işaretli listeler, numaralı listeler ve çok düzeyli listeler dahil olmak üzere farklı türde listeler oluşturmak, özelleştirmek ve yönetmek için adım adım açıklamalar, eksiksiz kaynak kodu ve pratik örnekler sağlar. Ayrıca öğe eklemeyi, listeleri biçimlendirmeyi, görünümü ve girintiyi değiştirmeyi ve diğer gelişmiş işlemleri öğreneceksiniz. Bu kaynak, Aspose.Words for .NET kullanarak Word belgelerinde liste oluşturmayı ve yönetmeyi otomatikleştirmek isteyen geliştiriciler için çok önemlidir.

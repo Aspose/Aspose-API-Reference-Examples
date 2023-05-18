@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar capas a archivos PDF usando Aspose.PDF para .NET. Guía paso a paso con tutoriales de código para crear y guardar archivos PDF en capas.
 type: docs
 weight: 20
-url: /ru/pdf/net/programming-with-document/addlayers/
+url: /es/pdf/net/programming-with-document/addlayers/
 ---
 
 Para agregar capas a un archivo PDF, utilizaremos Aspose.PDF para .NET. Esta biblioteca nos permite trabajar con archivos PDF en aplicaciones .NET de manera efectiva. Siga las instrucciones paso a paso a continuación para agregar capas usando Aspose.PDF para .NET.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a exportar contenido de tablas con diferentes alineaciones a archivos Markdown usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
+url: /es/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
 ---
 Aquí hay una guía paso a paso para explicar el siguiente código fuente de C# que ayuda a exportar contenido a un archivo Markdown con alineación de contenido de tabla usando la biblioteca Aspose.Words para .NET. Asegúrese de haber incluido la biblioteca Aspose.Words en su proyecto antes de usar este código.
 

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à extraire le texte en surbrillance à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /fr/pdf/net/annotations/extracthighlightedtext/
 ---
 Pour extraire le texte en surbrillance d'un document PDF, vous pouvez utiliser l'API Aspose.PDF pour .NET. Cette API fournit un moyen simple de récupérer tout le texte mis en surbrillance dans un document.
 

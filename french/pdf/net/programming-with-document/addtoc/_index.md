@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à ajouter une table des matières aux documents PDF à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec exemple de code source. Boostez la navigation dans les documents !
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /fr/pdf/net/programming-with-document/addtoc/
 ---
 
 Dans ce didacticiel, nous allons explorer comment utiliser la fonctionnalité Ajouter une table des matières (Add TOC) d'Aspose.PDF pour .NET pour ajouter une table des matières aux documents PDF. Nous fournirons un guide étape par étape et expliquerons le code source C # requis pour y parvenir. À la fin de ce didacticiel, vous serez en mesure de générer un document PDF avec une table des matières à l'aide d'Aspose.PDF pour .NET.

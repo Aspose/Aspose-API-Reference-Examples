@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar la propiedad de la llamada con Aspose.PDF para .NET. Personalice las anotaciones con líneas de llamada, color de texto y estilos finales.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /es/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF para .NET es una poderosa biblioteca para crear, manipular y convertir documentos PDF en C#. Una de las características proporcionadas por esta biblioteca es la capacidad de establecer propiedades de llamada para anotaciones de texto libre en documentos PDF. Esto se puede hacer usando el`FreeTextAnnotation` class, que le permite crear anotaciones con llamadas.
 

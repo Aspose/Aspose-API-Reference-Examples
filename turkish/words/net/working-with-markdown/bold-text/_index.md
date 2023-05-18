@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile metni kalın yapmayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bold-text/
+url: /tr/words/net/working-with-markdown/bold-text/
 ---
 
 Bu örnekte, size Aspose.Words for .NET ile metni nasıl kalınlaştıracağınızı anlatacağız. Kalın yazı metni daha görünür hale getirir ve daha belirgin hale getirir.

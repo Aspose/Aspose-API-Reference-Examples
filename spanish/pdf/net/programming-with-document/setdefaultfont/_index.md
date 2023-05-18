@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar la fuente predeterminada para un documento PDF usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /es/pdf/net/programming-with-document/setdefaultfont/
 ---
 Si está trabajando con documentos PDF en .NET, es posible que encuentre problemas en los que la fuente utilizada en el PDF no esté disponible en el sistema donde se está viendo o imprimiendo. Esto puede resultar en que el texto aparezca incorrectamente o no aparezca en absoluto. Aspose.PDF para .NET ofrece una solución a este problema al permitirle establecer una fuente predeterminada para el documento. En este ejemplo, cómo configurar la fuente predeterminada usando Aspose.PDF para .NET.
 

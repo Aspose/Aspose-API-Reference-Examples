@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET'in ücretsiz metin açıklaması özelliğini C# kaynak kodunu kullanarak nasıl güncelleyeceğinizi öğrenin.
 type: docs
 weight: 160
-url: /ru/pdf/net/annotations/updatefreetextannotation/
+url: /tr/pdf/net/annotations/updatefreetextannotation/
 ---
 Bu yazıda, Aspose.PDF for .NET'in Serbest Metin Ek Açıklamasını Güncelle özelliğinin aşağıdaki C# kaynak kodunu açıklamak için adım adım bir kılavuz sağlayacağız. Yeni başlayanların bile anlayabilmesi için her bir kod satırını inceleyeceğiz ve ne işe yaradığını açıklayacağız.
 

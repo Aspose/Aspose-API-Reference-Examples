@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Inhaltsverzeichnis in Word-Dokumente einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-table-of-contents/
+url: /de/words/net/add-content-using-documentbuilder/insert-table-of-contents/
 ---
 
 In diesem umfassenden Tutorial erfahren Sie, wie Sie mit Aspose.Words für .NET ein Inhaltsverzeichnis in ein Word-Dokument einfügen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Leitfadens werden Sie in der Lage sein, ein Inhaltsverzeichnis mit den entsprechenden Überschriften und Seitenzahlen zu erstellen.

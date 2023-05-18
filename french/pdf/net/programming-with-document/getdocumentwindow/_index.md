@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser la fonction GetDocumentWindow d'Aspose.PDF pour .NET pour récupérer des informations sur les propriétés de la fenêtre d'un document PDF.
 type: docs
 weight: 170
-url: /ru/pdf/net/programming-with-document/getdocumentwindow/
+url: /fr/pdf/net/programming-with-document/getdocumentwindow/
 ---
 
  Aspose.PDF pour .NET est une puissante bibliothèque de manipulation de PDF qui permet aux développeurs de créer, modifier et convertir des fichiers PDF dans leurs applications .NET. L'une des fonctionnalités offertes par cette bibliothèque est la possibilité de récupérer des informations sur les propriétés de la fenêtre d'un document. Ce didacticiel vous guidera à travers les étapes d'utilisation de`GetDocumentWindow` fonctionnalité d'Aspose.PDF pour .NET pour récupérer des informations sur les propriétés de la fenêtre d'un document PDF.

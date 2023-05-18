@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à aplatir les annotations dans un document PDF à l'aide d'Aspose.PDF pour .NET. Conservez les annotations et évitez toute modification accidentelle.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /fr/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF pour .NET est une bibliothèque puissante qui permet aux développeurs de travailler avec des documents PDF par programmation. L'une des fonctionnalités qu'il offre est la possibilité d'aplatir les annotations dans les documents PDF. L'aplatissement des annotations dans un document PDF signifie que les annotations font partie du contenu du document et ne peuvent plus être modifiées ou supprimées. Ceci est utile lorsque vous souhaitez vous assurer que les annotations sont préservées et ne peuvent pas être modifiées accidentellement.

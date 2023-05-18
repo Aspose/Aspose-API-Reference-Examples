@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du får kopplingsfältnamn i dina Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/get-mail-merge-field-names/
+url: /sv/words/net/working-with-fields/get-mail-merge-field-names/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan, som använder funktionen "Get Merge Field Names" i Aspose.Words för .NET. Se till att följa varje steg noggrant för att få önskat resultat.

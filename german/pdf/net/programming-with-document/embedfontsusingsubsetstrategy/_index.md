@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Subset Strategy mithilfe von Aspose.PDF für .NET Schriftarten in eine PDF-Datei einbetten. Optimieren Sie die Größe Ihrer PDF-Datei, indem Sie nur die erforderlichen Zeichen einbetten.
 type: docs
 weight: 130
-url: /ru/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
+url: /de/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
 ---
 
 In diesem Tutorial besprechen wir, wie man Schriftarten mit einer Teilmengenstrategie mithilfe von Aspose.PDF für .NET in eine PDF-Datei einbettet. Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler PDF-Dokumente programmgesteuert erstellen, bearbeiten und bearbeiten können. Das Einbetten von Schriftarten in eine PDF-Datei ist ein wichtiger Schritt, um sicherzustellen, dass das Dokument auf verschiedenen Geräten korrekt angezeigt wird, unabhängig davon, ob die erforderlichen Schriftarten auf diesen Geräten installiert sind oder nicht.

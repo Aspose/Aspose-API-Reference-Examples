@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie Aspose.PDF für .NET verwenden, um nicht eingebettete Schriftarten zu erhalten und PDF-Dateien zu optimieren. Eine Schritt-für-Schritt-Anleitung.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /de/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, die eine Vielzahl von Funktionen für die Arbeit mit PDF-Dokumenten bietet. Eine seiner Funktionen besteht darin, die Einbettung von Schriftarten aus einem PDF-Dokument aufzuheben. Dies kann nützlich sein, wenn Sie Schriftarten aus einem PDF-Dokument extrahieren und in anderen Anwendungen verwenden müssen.
 

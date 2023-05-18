@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Word ve Aspose.Words'ün .NET'teki belgelerine AUCUN şampiyonu eklemeyi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field-none/
+url: /tr/words/net/working-with-fields/insert-field-none/
 ---
 
 Aşağıda, Aspose.Words for .NET'in "Insert NONE Field" özelliğini kullanan C# kaynak kodunu adım adım açıklayan bir kılavuz bulunmaktadır. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

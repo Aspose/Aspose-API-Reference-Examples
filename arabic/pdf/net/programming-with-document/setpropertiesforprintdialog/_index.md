@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين خصائص مربع حوار الطباعة في Aspose.PDF for .NET باستخدام دليل خطوة بخطوة.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /ar/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 إليك دليل خطوة بخطوة لتعيين خصائص مربع حوار الطباعة باستخدام Aspose.PDF for .NET:
 

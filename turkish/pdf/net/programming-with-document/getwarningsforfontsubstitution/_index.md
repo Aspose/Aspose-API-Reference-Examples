@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET'in GetWarningsForFontSubstitution özelliğinin, bir PDF belgesini açarken yazı tipi değiştirme uyarılarını algılamak için nasıl kullanılacağını öğrenin.
 type: docs
 weight: 190
-url: /ru/pdf/net/programming-with-document/getwarningsforfontsubstitution/
+url: /tr/pdf/net/programming-with-document/getwarningsforfontsubstitution/
 ---
 
  Aspose.PDF for .NET, geliştiricilerin kendi .NET uygulamalarında PDF dosyaları oluşturmasına, düzenlemesine ve dönüştürmesine olanak tanıyan popüler bir PDF işleme kitaplığıdır. Bu kitaplığın sunduğu özelliklerden biri, bir PDF belgesi açıldığında yazı tipi değiştirme uyarılarını algılama yeteneğidir. Bu öğretici, kullanımın adımlarında size rehberlik edecektir.`GetWarningsForFontSubstitution` Aspose.PDF for .NET'in bir PDF belgesi açarken yazı tipi değiştirme uyarılarını algılama özelliği.

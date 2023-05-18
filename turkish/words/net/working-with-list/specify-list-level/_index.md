@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinde liste düzeyini nasıl belirleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/specify-list-level/
+url: /tr/words/net/working-with-list/specify-list-level/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesinde liste düzeyini nasıl belirleyeceğinizi göstereceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve bunu kendi projelerinize nasıl uygulayacağınızı göstereceğiz.

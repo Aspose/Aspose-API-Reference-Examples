@@ -4,7 +4,7 @@ additionalTitle: API Referanslarını Kabul Edin
 description: Aspose.Words, Aspose.Cells, Aspose.PDF ve diğer ürünler gibi Aspose Ürünlerinin öğreticileri ve kod parçacıkları. Aspose Ürünlerinin kullanımına ilişkin temel ve ileri düzey eğitimleri içerir.
 type: docs
 weight: 10
-url: /ru/
+url: /tr/
 ---
 
 ## Sözcükler

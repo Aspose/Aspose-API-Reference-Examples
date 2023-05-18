@@ -3,7 +3,7 @@ title: Belge ile Programlama
 linktitle: Programming with Document
 type: docs
 weight: 10
-url: /ru/pdf/net/programming-with-document/
+url: /tr/pdf/net/programming-with-document/
 description: Bu kaynak, belgelerle programlama için Aspose.PDF for .NET kitaplığı öğreticileri sunar. PDF oluşturma/düzenleme, resim/tablo/bağlantı ekleme, belgeleri optimize etme ve güvenlik ekleme gibi konuları kapsar. Aspose.PDF for .NET kullanarak PDF belgeleriyle çalışan geliştiriciler için değerli bir kaynaktır.
 ---
 Kaynak, Aspose.PDF for .NET kitaplığının belge özelliği ile programlanması hakkında eğitimler içerir. Aspose.PDF for .NET kitaplığı kullanılarak programlı olarak PDF belgelerinin nasıl oluşturulacağını ve değiştirileceğini açıklayan ayrıntılı bir kılavuzdur. Öğreticiler, PDF belgelerine metin, resim, tablo ve grafik ekleme, yer imleri, bağlantılar ve açıklamalarla çalışma, belgelere güvenlik ve dijital imzalar ekleme ve PDF belgelerinin boyutunu ve kalitesini optimize etme gibi çok çeşitli konuları kapsar. Öğreticiler, Aspose.PDF for .NET kitaplığını kullanarak programlı olarak PDF belgeleriyle çalışmak isteyen geliştiriciler için paha biçilmez bir kaynaktır.

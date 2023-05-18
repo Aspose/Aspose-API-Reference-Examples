@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire campi modulo casella combinata nei documenti di Word utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
+url: /it/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
 ---
 
 In questo esempio completo, imparerai come inserire un campo modulo casella combinata in un documento Word utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di aggiungere campi modulo casella combinata con proprietà personalizzabili ai tuoi documenti.

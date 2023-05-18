@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Seçenekleri Karşılaştır özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-options/
+url: /tr/words/net/compare-documents/compare-options/
 ---
 
 Bu eğitimde, Karşılaştırma Seçenekleri özelliğinin Aspose.Words for .NET ile nasıl kullanılacağını açıklayacağız. Kaynak kodunu anlamak ve değişiklikleri uygulamak için aşağıdaki adımları izleyin.

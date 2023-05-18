@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة التعليقات التوضيحية النصية باستخدام Aspose.PDF for .NET باستخدام كود المصدر C #. تخصيص التعليقات التوضيحية الخاصة بك مع التفاصيل والرموز المحددة.
 type: docs
 weight: 10
-url: /ru/pdf/net/annotations/addannotation/
+url: /ar/pdf/net/annotations/addannotation/
 ---
 
 تعد إضافة التعليقات التوضيحية إلى مستندات PDF ميزة قوية يمكنها تعزيز عمليات التعاون والمراجعة. يجعل Aspose.PDF for .NET من السهل إضافة التعليقات التوضيحية برمجيًا إلى مستندات PDF باستخدام C #. في هذا الدليل ، سنشرح كيفية استخدام Aspose.PDF for .NET خطوة بخطوة لإضافة التعليقات التوضيحية إلى مستند PDF.

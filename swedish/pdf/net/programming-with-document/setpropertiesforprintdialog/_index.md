@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in egenskaper för utskriftsdialog i Aspose.PDF för .NET med hjälp av en steg-för-steg-guide.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /sv/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 här är en steg-för-steg-guide för att ställa in egenskaper för utskriftsdialogrutan med Aspose.PDF för .NET:
 

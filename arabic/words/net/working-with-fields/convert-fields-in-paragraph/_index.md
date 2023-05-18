@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تحويل حقول IF إلى نص عادي في فقرة باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /ar/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 إليك برنامج تعليمي يوضح كيفية استخدام ميزة تحويل الحقول إلى فقرة مع Aspose.Words for .NET. يحول هذا الرمز جميع حقول كتابة IF التي تمت مواجهتها في الفقرة الأخيرة من المستند إلى نص عادي. اتبع الخطوات أدناه لفهم وتشغيل هذا الرمز.

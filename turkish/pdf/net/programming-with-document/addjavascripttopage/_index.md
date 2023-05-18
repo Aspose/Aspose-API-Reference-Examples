@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF dosyalarına nasıl JavaScript ekleyeceğinizi öğrenin. Belge ve sayfa düzeyinde komut dosyası oluşturmaya yönelik kod eğitimlerini içeren adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/pdf/net/programming-with-document/addjavascripttopage/
+url: /tr/pdf/net/programming-with-document/addjavascripttopage/
 ---
 
 Bir PDF dosyasına JavaScript eklemek için Aspose.PDF for .NET'i kullanacağız. Bu kitaplık, .NET uygulamalarında PDF dosyalarıyla çalışmanın basit ve etkili bir yolunu sağlar. Aşağıdaki adımlar, Aspose.PDF for .NET kullanarak bir PDF dosyasına JavaScript ekleme sürecinde size rehberlik edecektir.

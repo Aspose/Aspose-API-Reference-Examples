@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller skapa nytt dokument, dokumentbyggaren infoga bokmärke, bygg tabell, infoga horisontell regel, horisontell regelformat, infoga brytning, infoga text i
 type: docs
 weight: 1460
-url: /ru/words/net/add-content-using-documentbuilder/
+url: /sv/words/net/add-content-using-documentbuilder/
 ---
 
 Lägga till innehåll med DocumentBuilder är en omfattande resurs som leder dig genom processen att lägga till innehåll i dina Word-dokument med klassen DocumentBuilder från Aspose.Words-biblioteket för .NET. Steg-för-steg-instruktioner ger dig steg-för-steg-instruktioner, omfattande kodexempel och steg-för-steg-förklaringar om hur du skapar stycken, infogar text, formaterar text, lägger till bilder, tabeller och mer. Dessutom. Denna resurs är viktig för utvecklare som vill automatisera Word-dokumentgenerering med Aspose.Words för .NET och enkelt lägga till anpassat innehåll för att möta deras specifika behov.

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire interruzioni di pagina nei documenti di Word utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-break/
+url: /it/words/net/add-content-using-documentbuilder/insert-break/
 ---
 
 In questo esempio completo, imparerai come inserire interruzioni di pagina in un documento di Word utilizzando il metodo InsertBreak in Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di controllare le interruzioni di pagina all'interno del tuo documento.

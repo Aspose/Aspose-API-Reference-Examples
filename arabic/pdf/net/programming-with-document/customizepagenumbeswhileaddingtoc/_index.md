@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تخصيص أرقام الصفحات أثناء إضافة جدول محتويات (TOC) باستخدام Aspose.PDF for .NET باستخدام هذا الدليل التفصيلي ومثال التعليمات البرمجية هذا.
 type: docs
 weight: 100
-url: /ru/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
+url: /ar/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
 ---
 
 في هذا البرنامج التعليمي ، سوف نستكشف كيفية تخصيص أرقام الصفحات أثناء إضافة جدول محتويات (TOC) باستخدام Aspose.PDF لـ .NET. سنقدم إرشادات خطوة بخطوة ، جنبًا إلى جنب مع مثال رمز ، لمساعدتك في تحقيق ذلك.

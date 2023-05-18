@@ -4,7 +4,7 @@ additionalTitle: Références API Aspose
 description: Tutoriels et extraits de code de la famille de produits Aspose.PDF. Il comprend des didacticiels de base et avancés sur l'utilisation d'Aspose.PDF.
 type: docs
 weight: 11
-url: /ru/pdf/
+url: /fr/pdf/
 is_root: true
 ---
 

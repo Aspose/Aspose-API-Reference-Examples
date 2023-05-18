@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C# de la fonctionnalité HTML par en-tête d'Aspose.Words pour .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /fr/words/net/split-document/by-headings-html/
 ---
 Dans ce didacticiel, nous vous expliquerons comment diviser un document Word en parties plus petites à l'aide de la fonctionnalité Par en-tête HTML de Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et générer des documents HTML distincts basés sur le titre.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak belirli seçeneklerle metin filigranı eklemeyi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /tr/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 Bu öğreticide, Aspose.Words for .NET kullanarak belirli seçeneklerle nasıl metin filigranı ekleyeceğinizi size göstereceğiz. Metin filigranı, taslak, gizli vb. olduğunu belirtmek için bir belgenin üzerine eklenen metindir.

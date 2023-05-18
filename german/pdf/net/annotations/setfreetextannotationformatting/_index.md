@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Dieser Artikel enthält eine Schritt-für-Schritt-Anleitung zum Erstellen einer Freitextanmerkung und zum Festlegen ihres Inhalts mit Aspose.PDF für .NET
 type: docs
 weight: 140
-url: /ru/pdf/net/annotations/setfreetextannotationformatting/
+url: /de/pdf/net/annotations/setfreetextannotationformatting/
 ---
 
 Aspose.PDF für .NET ist eine leistungsstarke und benutzerfreundliche API zur Bearbeitung von PDF-Dokumenten, mit der Sie in Ihren .NET-Anwendungen programmgesteuert mit PDF-Dateien arbeiten können. Eine der von Aspose.PDF für .NET bereitgestellten Funktionen ist die Möglichkeit, in PDF-Dokumenten eine freie Textanmerkungsformatierung festzulegen. In diesem Artikel führen wir Sie Schritt für Schritt durch den Prozess der Festlegung der Formatierung von Freitextanmerkungen mit Aspose.PDF für .NET.

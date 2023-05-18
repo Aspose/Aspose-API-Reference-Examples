@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer du contenu HTML dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-html/
+url: /fr/words/net/add-content-using-documentbuilder/insert-html/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à insérer du contenu HTML dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure d'ajouter des éléments HTML, une mise en forme et des styles à vos documents Word.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF dosyalarına nasıl katman ekleyeceğinizi öğrenin. Katmanlı PDF'ler oluşturmak ve kaydetmek için kod eğitimlerini içeren adım adım kılavuz.
 type: docs
 weight: 20
-url: /ru/pdf/net/programming-with-document/addlayers/
+url: /tr/pdf/net/programming-with-document/addlayers/
 ---
 
 Bir PDF dosyasına katman eklemek için Aspose.PDF for .NET'i kullanacağız. Bu kitaplık, .NET uygulamalarında PDF dosyalarıyla verimli bir şekilde çalışmamızı sağlar. Aspose.PDF for .NET kullanarak katman eklemek için aşağıdaki adım adım talimatları izleyin.

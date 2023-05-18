@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: tutorial mostrano come inserire il campo, aggiornare la cultura archiviata, sostituire il collegamento ipertestuale del campo, rimuovere il campo e inserire campi nidificati nel documento di Word utilizzando in Aspose.Words per .NET
 type: docs
 weight: 140
-url: /ru/words/net/working-with-fields/
+url: /it/words/net/working-with-fields/
 ---
 Questa è una risorsa completa per imparare a lavorare con i campi nei documenti di Word utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate, codice sorgente dettagliato ed esempi pratici per manipolare e gestire in modo efficace campi come codici di campo, aggiornamenti, visualizzazioni dei risultati, condizioni IF, fusioni di posta e altro ancora. Questa risorsa è essenziale per gli sviluppatori che desiderano automatizzare la generazione e la manipolazione di documenti Word utilizzando Aspose.Words per .NET.
 

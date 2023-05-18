@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine mehrstufige Liste erstellen und benutzerdefinierte Formatierungen anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/multilevel-list-formatting/
+url: /de/words/net/document-formatting/multilevel-list-formatting/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie die Funktion zur mehrstufigen Listenformatierung mit Aspose.Words für .NET verwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und die Änderungen anzuwenden.

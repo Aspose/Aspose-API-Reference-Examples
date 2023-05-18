@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie den durchgestrichenen Textstil mit Aspose.Words für .NET anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/strikethrough/
+url: /de/words/net/working-with-markdown/strikethrough/
 ---
 
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen cómo poner texto en negrita, texto en cursiva, tachado, código en línea, enlace automático, agregar imagen, lista ordenada, encabezado, tabla y leer documentos de rebajas usando Aspose.Words para .NET.
 type: docs
 weight: 810
-url: /ru/words/net/working-with-markdown/
+url: /es/words/net/working-with-markdown/
 ---
 
 Trabajar con Markdown proporciona un recurso integral para aprender a trabajar con el formato Markdown mediante la biblioteca Aspose.Words para .NET. Los tutoriales brindan explicaciones detalladas, código fuente completo y ejemplos prácticos para manipular y generar documentos de Markdown, incluida la importación de archivos de Markdown, la conversión de documentos de Word a Markdown, la personalización del estilo de Markdown, la exportación a PDF, etc., otros formatos y mucho más. Este recurso es esencial para los desarrolladores que desean dominar el uso de Markdown con Aspose.Words para .NET y aprovechar al máximo sus funciones avanzadas para la generación de contenido basado en texto.

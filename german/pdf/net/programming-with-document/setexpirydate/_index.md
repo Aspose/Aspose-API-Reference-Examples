@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET das Ablaufdatum in PDF-Dokumenten festlegen.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /de/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, die verschiedene Funktionen für die Arbeit mit PDF-Dateien bietet. Eine dieser Funktionen ist die Möglichkeit, ein Ablaufdatum für ein PDF-Dokument festzulegen. In diesem Tutorial führen wir Sie durch den Prozess des Festlegens eines Ablaufdatums für ein PDF-Dokument mithilfe von Aspose.PDF für .NET. 
 

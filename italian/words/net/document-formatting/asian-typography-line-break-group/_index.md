@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare il gruppo di interruzioni di riga di tipografia asiatica con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/asian-typography-line-break-group/
+url: /it/words/net/document-formatting/asian-typography-line-break-group/
 ---
 
 In questo tutorial, ti mostreremo come utilizzare la funzionalità di gruppo di interruzioni di riga di tipografia asiatica con Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e applicare le modifiche alla formattazione.

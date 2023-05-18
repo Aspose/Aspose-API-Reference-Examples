@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ansöker en uppmätt licens med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /sv/words/net/apply-license/apply-metered-license/
 ---
 
 I den här omfattande handledningen kommer du att lära dig hur du tillämpar en mätlicens med Aspose.Words för .NET. Vi guidar dig genom processen med detaljerade steg-för-steg-instruktioner och tillhandahåller nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna tillämpa en uppmätt licens och utnyttja de avancerade funktionerna i Aspose.Words för dina dokumentbehandlingsbehov.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials erfahren Sie, wie Sie Revisionen akzeptieren, Revisionstypen abrufen, Revisionsgruppen abrufen, Kommentare in PDFs entfernen, Revisionen in Sprechblasen anzeigen, Revisionsgruppendetails abrufen, auf überarbeitete Versionen zugreifen, Knoten in verfolgten Dokumenten verschieben und Revisionen mit Aspose.Words für .NET formen .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /de/words/net/working-with-revisions/
 ---
 
  ## Tutorials

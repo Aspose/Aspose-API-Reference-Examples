@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare la funzione GetWarningsForFontSubstitution di Aspose.PDF per .NET per rilevare gli avvisi di sostituzione dei caratteri all'apertura di un documento PDF.
 type: docs
 weight: 190
-url: /ru/pdf/net/programming-with-document/getwarningsforfontsubstitution/
+url: /it/pdf/net/programming-with-document/getwarningsforfontsubstitution/
 ---
 
  Aspose.PDF per .NET è una popolare libreria di manipolazione PDF che consente agli sviluppatori di creare, modificare e convertire file PDF nelle loro applicazioni .NET. Una delle funzionalità offerte da questa libreria è la capacità di rilevare avvisi di sostituzione dei caratteri quando viene aperto un documento PDF. Questo tutorial ti guiderà attraverso le fasi di utilizzo del`GetWarningsForFontSubstitution` funzionalità di Aspose.PDF per .NET per rilevare gli avvisi di sostituzione dei caratteri all'apertura di un documento PDF.

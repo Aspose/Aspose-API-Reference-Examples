@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ve kod örneği ile Aspose.PDF for .NET kullanarak bir PDF belgesinin dönüştürme sürecinin ilerlemesini nasıl belirleyeceğinizi öğrenin.
 type: docs
 weight: 110
-url: /ru/pdf/net/programming-with-document/determineprogress/
+url: /tr/pdf/net/programming-with-document/determineprogress/
 ---
 
 Aspose.PDF for .NET, bir PDF belgesinin dönüştürme sürecinin ilerleyişini belirlemenizi sağlayan bir özellik sağlar. Bu öğreticide, C# ve Aspose.PDF for .NET kullanarak bu özelliğin nasıl uygulanacağına dair adım adım bir kılavuz sağlayacağız.

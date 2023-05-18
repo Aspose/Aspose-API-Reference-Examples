@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize nasıl alan ekleyeceğinizi öğrenin. Belgelerinizi dinamik alanlarla kişiselleştirin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field/
+url: /tr/words/net/working-with-fields/insert-field/
 ---
 
 Aşağıda Aspose.Words for .NET'in "Insert a Field" özelliğini kullanan C# kaynak kodunu adım adım açıklayan bir kılavuz bulunmaktadır. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

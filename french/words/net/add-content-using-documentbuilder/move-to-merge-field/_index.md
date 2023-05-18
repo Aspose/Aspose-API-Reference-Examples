@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à implémenter la fonctionnalité Déplacer vers le champ de fusion dans Aspose.Words pour .NET à l'aide d'un guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-merge-field/
+url: /fr/words/net/add-content-using-documentbuilder/move-to-merge-field/
 ---
 
 Dans cet exemple, nous allons explorer la fonctionnalité Move To Merge Field de Aspose.Words pour .NET. Aspose.Words est une puissante bibliothèque de manipulation de documents qui permet aux développeurs de créer, modifier et convertir des documents Word par programme. La fonction Déplacer vers le champ de fusion nous permet de naviguer pour fusionner des champs dans un document et d'effectuer diverses opérations dessus.

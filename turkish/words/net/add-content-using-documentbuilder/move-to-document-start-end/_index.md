@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu adım adım kılavuz ile Word belgelerinde belge başlangıcına ve bitişine gitmek için Aspose.Words for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-document-start-end/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-document-start-end/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in Belge Başlangıcına/Bitişine Taşı özelliğini inceleyeceğiz. Aspose.Words, geliştiricilerin Word belgelerini program aracılığıyla oluşturmasına, değiştirmesine ve dönüştürmesine olanak sağlayan güçlü bir belge işleme kitaplığıdır. Belge Başlangıcına/Bitişine Taşı özelliği, DocumentBuilder sınıfını kullanarak bir belgenin başına veya sonuna gitmemizi sağlar.

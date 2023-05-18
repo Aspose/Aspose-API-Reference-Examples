@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar Aspose.Words para .NET para navegar y modificar encabezados y pies de página en documentos de Word con esta guía paso a paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-headers-footers/
+url: /es/words/net/add-content-using-documentbuilder/move-to-headers-footers/
 ---
 
 En este ejemplo, exploraremos la función Mover a encabezados y pies de página de Aspose.Words para .NET. Aspose.Words es una poderosa biblioteca de manipulación de documentos que permite a los desarrolladores crear, modificar y convertir documentos de Word mediante programación. La función Mover a encabezados/pies de página nos permite navegar a diferentes encabezados y pies de página dentro de un documento y agregarles contenido.

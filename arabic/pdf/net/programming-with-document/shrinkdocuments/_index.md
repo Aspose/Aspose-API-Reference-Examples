@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لتقليص مستندات PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 350
-url: /ru/pdf/net/programming-with-document/shrinkdocuments/
+url: /ar/pdf/net/programming-with-document/shrinkdocuments/
 ---
 Aspose.PDF for .NET مكتبة قوية تمكن المطورين من إنشاء مستندات PDF ومعالجتها وتحسينها باستخدام C #. في هذا البرنامج التعليمي ، سنتعرف على مثال على كيفية استخدام Aspose.PDF لتقليص مستند PDF.
 

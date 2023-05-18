@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir paragraf stilini nasıl uygulayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-paragraph-style/
+url: /tr/words/net/document-formatting/apply-paragraph-style/
 ---
 
 Bu öğreticide, Aspose.Words for .NET kullanarak bir paragraf stilini nasıl uygulayacağınızı size göstereceğiz. Kaynak kodunu anlamak ve paragraf stilini uygulamak için aşağıdaki adımları izleyin.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent la création d'un nouveau document, le générateur de documents, l'insertion d'un signet, la création d'un tableau, l'insertion d'une règle horizontale, le format de la règle horizontale, l'insertion d'une pause, l'insertion de texte i
 type: docs
 weight: 1460
-url: /ru/words/net/add-content-using-documentbuilder/
+url: /fr/words/net/add-content-using-documentbuilder/
 ---
 
 L'ajout de contenu à l'aide de DocumentBuilder est une ressource complète qui vous guide tout au long du processus d'ajout de contenu à vos documents Word à l'aide de la classe DocumentBuilder de la bibliothèque Aspose.Words pour .NET. Les didacticiels étape par étape vous donnent des instructions étape par étape, des exemples de code complets et des explications étape par étape sur la création de paragraphes, l'insertion de texte, la mise en forme de texte, l'ajout d'images, de tableaux, etc. De plus. Cette ressource est essentielle pour les développeurs qui souhaitent automatiser la génération de documents Word à l'aide d'Aspose.Words pour .NET et ajouter facilement du contenu personnalisé pour répondre à leurs besoins spécifiques.

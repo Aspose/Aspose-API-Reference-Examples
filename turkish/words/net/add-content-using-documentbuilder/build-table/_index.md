@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir Word belgesinde tablo oluşturmayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/build-table/
+url: /tr/words/net/add-content-using-documentbuilder/build-table/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesinde tablo oluşturmayı öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, DocumentBuilder sınıfını kullanarak özel biçimlendirme ve içeriğe sahip bir tablo oluşturabileceksiniz.

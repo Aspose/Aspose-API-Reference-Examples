@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على كيفية إدراج كائن Ole مع حزمة Ole وبدونها ، وكائن Ole كرمز ، وقراءة خصائص Active XControl باستخدام Aspose.Words for .NET.
 type: docs
 weight: 1080
-url: /ru/words/net/working-with-oleobjects-and-activex/
+url: /ar/words/net/working-with-oleobjects-and-activex/
 ---
 
  ## دروس

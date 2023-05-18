@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar länkar med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/link/
+url: /sv/words/net/working-with-markdown/link/
 ---
 
 det här exemplet kommer vi att gå igenom hur du använder länkfunktionen med Aspose.Words för .NET. Länkar används för att skapa klickbara referenser till webbplatser eller andra dokument.

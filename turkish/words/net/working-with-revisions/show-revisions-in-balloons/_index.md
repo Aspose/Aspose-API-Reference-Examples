@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile revizyonları balonlarda gösterin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/show-revisions-in-balloons/
+url: /tr/words/net/working-with-revisions/show-revisions-in-balloons/
 ---
 
 Bu adım adım kılavuzda, size Aspose.Words for .NET kullanarak bir Word belgesinde balonlardaki revizyonları nasıl göstereceğinizi göstereceğiz. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

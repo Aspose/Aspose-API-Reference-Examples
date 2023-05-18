@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come scrivere in corsivo con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/italic-text/
+url: /it/words/net/working-with-markdown/italic-text/
 ---
 
 In questo esempio, ti guideremo attraverso come utilizzare la funzione di testo in corsivo con Aspose.Words per .NET. Il testo in corsivo viene utilizzato per enfatizzare determinate parti di un documento.

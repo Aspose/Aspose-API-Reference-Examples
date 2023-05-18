@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET ein PDF-A1-Dokument erstellen. Schritt-für-Schritt-Anleitung mit C#-Quellcode. PDFs effizient optimieren.
 type: docs
 weight: 90
-url: /ru/pdf/net/programming-with-document/createpdfa1withasposepdf/
+url: /de/pdf/net/programming-with-document/createpdfa1withasposepdf/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung erklären wir Ihnen, wie Sie mit Aspose.PDF für .NET ein PDF-A1-Dokument erstellen. Wir stellen Ihnen den notwendigen C#-Quellcode und Anweisungen zur Durchführung dieser Aufgabe zur Verfügung.

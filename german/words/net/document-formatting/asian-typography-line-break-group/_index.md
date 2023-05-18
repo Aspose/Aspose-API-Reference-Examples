@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Zeilenumbruchgruppe „Asiatische Typografie“ mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/asian-typography-line-break-group/
+url: /de/words/net/document-formatting/asian-typography-line-break-group/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie die Zeilenumbruchgruppenfunktion für asiatische Typografie mit Aspose.Words für .NET verwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und Formatierungsänderungen anzuwenden.

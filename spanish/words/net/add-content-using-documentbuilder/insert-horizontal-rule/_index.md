@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar reglas horizontales en documentos de Word usando Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
+url: /es/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
 ---
 
 En este completo ejemplo, aprenderá a insertar una regla horizontal en un documento de Word utilizando Aspose.Words para .NET. Lo guiaremos a través del proceso y le proporcionaremos los fragmentos de código C# necesarios. Al final de esta guía, podrá agregar reglas horizontales a sus documentos para la separación visual y la organización.

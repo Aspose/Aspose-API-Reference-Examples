@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à créer un PDF multicouche à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec code source pour créer des PDF dynamiques avec du texte et des images.
 type: docs
 weight: 80
-url: /ru/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
+url: /fr/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
 ---
 
 Dans ce didacticiel, nous allons explorer comment créer un PDF multicouche en utilisant la deuxième approche dans Aspose.PDF pour .NET. Nous fournirons un guide étape par étape avec des explications détaillées et inclurons le code source complet. En suivant ce didacticiel, vous serez en mesure de générer des documents PDF à plusieurs couches à l'aide de la bibliothèque Aspose.PDF dans vos applications .NET.

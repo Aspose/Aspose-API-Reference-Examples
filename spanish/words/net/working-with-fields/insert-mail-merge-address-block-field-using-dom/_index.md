@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un campo de bloque de dirección de combinación de correspondencia en sus documentos de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
+url: /es/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que utiliza la función "Insertar campo de bloque de dirección de combinación de correspondencia" de Aspose.Words para .NET. Asegúrese de seguir cada paso cuidadosamente para obtener los resultados deseados.

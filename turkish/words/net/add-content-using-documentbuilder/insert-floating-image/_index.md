@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine kayan görüntüleri nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-floating-image/
+url: /tr/words/net/add-content-using-documentbuilder/insert-floating-image/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET kullanarak bir Word belgesine kayan bir görüntünün nasıl ekleneceğini öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgelerinize özelleştirilebilir konumlandırma ve kaydırma seçenekleriyle resimler ekleyebileceksiniz.

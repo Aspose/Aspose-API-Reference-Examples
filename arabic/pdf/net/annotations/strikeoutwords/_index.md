@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تقدم هذه المقالة دليلاً مفصلاً خطوة بخطوة لاستخدام ميزة Aspose.PDF لـ .NET's Strike Out Words ، بما في ذلك دليل خطوة بخطوة وشروحات
 type: docs
 weight: 150
-url: /ru/pdf/net/annotations/strikeoutwords/
+url: /ar/pdf/net/annotations/strikeoutwords/
 ---
 Aspose.PDF for .NET هي مكتبة لمعالجة مستندات PDF ومعالجتها توفر ميزات متنوعة لإنشاء ملفات PDF وتعديلها وتحويلها. إحدى الميزات المفيدة التي يوفرها Aspose.PDF هي القدرة على شطب الكلمات أو العبارات في مستند PDF باستخدام الكود المصدري C #. في هذه المقالة ، سوف نقدم دليلًا تفصيليًا حول كيفية كتابة الكلمات باستخدام Aspose.PDF لـ .NET.
 

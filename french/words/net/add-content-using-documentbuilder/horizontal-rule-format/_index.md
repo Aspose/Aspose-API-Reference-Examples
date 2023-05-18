@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à formater les règles horizontales dans les documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/horizontal-rule-format/
+url: /fr/words/net/add-content-using-documentbuilder/horizontal-rule-format/
 ---
 
 Dans cet exemple complet, vous apprendrez à formater une règle horizontale dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure de personnaliser l'alignement, la largeur, la hauteur, la couleur et d'autres propriétés d'une règle horizontale.

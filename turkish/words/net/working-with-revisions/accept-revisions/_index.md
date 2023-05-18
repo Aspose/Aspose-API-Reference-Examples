@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir Word belgesine yönelik düzeltmeleri nasıl kabul edeceğinizi öğrenin
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/accept-revisions/
+url: /tr/words/net/working-with-revisions/accept-revisions/
 ---
 
 Bu eğitimde, Aspose.Words for .NET'in Revizyonları Kabul Et özelliğini kullanarak bir Word belgesine revizyonları kabul etme konusunda size yol göstereceğiz. Kaynak kodunu anlamak ve belgedeki değişiklikleri kabul etmek için aşağıdaki adımları izleyin.

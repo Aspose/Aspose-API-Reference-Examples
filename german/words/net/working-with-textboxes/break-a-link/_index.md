@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Links in einem Word-Dokument unterbrechen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /de/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words für .NET ist eine leistungsstarke Bibliothek, die verschiedene Funktionen für die programmgesteuerte Arbeit mit Microsoft Word-Dokumenten bietet. Eine seiner nützlichen Funktionen ist die Möglichkeit, Links innerhalb eines Dokuments zu unterbrechen. In diesem Tutorial untersuchen wir Quellcode in C#, der zeigt, wie man einen Link mit Aspose.Words für .NET unterbricht.

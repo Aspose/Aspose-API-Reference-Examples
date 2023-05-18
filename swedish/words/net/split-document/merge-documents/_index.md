@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att förklara C#-källkoden för Merge Documents-funktionen i Aspose.Words för .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /sv/words/net/split-document/merge-documents/
 ---
 
 den här handledningen kommer vi att gå igenom hur du slår samman flera Word-dokument med funktionen Merge Documents i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och få ett sammanslaget dokument som innehåller alla källdokument.

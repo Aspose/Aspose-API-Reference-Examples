@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder en styckestil med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-paragraph-style/
+url: /sv/words/net/document-formatting/apply-paragraph-style/
 ---
 
 I den här handledningen kommer vi att gå igenom hur du använder en styckestil med Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa styckeformatet.

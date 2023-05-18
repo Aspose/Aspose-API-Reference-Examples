@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à obtenir le nœud parent d'un élément spécifique avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /fr/words/net/working-with-node/get-parent-node/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui illustre comment obtenir le nœud parent à l'aide de Aspose.Words pour .NET.

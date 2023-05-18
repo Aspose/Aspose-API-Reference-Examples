@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET die Standardschriftart für ein PDF-Dokument festlegen.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /de/pdf/net/programming-with-document/setdefaultfont/
 ---
 Wenn Sie mit PDF-Dokumenten in .NET arbeiten, kann es zu Problemen kommen, wenn die in der PDF-Datei verwendete Schriftart auf dem System, auf dem sie angezeigt oder gedruckt wird, nicht verfügbar ist. Dies kann dazu führen, dass der Text falsch oder gar nicht angezeigt wird. Aspose.PDF für .NET bietet eine Lösung für dieses Problem, indem es Ihnen ermöglicht, eine Standardschriftart für das Dokument festzulegen. In diesem Beispiel erfahren Sie, wie Sie die Standardschriftart mithilfe von Aspose.PDF für .NET festlegen.
 

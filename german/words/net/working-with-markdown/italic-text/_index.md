@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Text mit Aspose.Words für .NET kursiv formatieren.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/italic-text/
+url: /de/words/net/working-with-markdown/italic-text/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie die Funktion für kursiven Text mit Aspose.Words für .NET verwenden. Kursiver Text wird verwendet, um bestimmte Teile eines Dokuments hervorzuheben.

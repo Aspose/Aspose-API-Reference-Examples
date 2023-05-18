@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie Aspose.Words für .NET zum Navigieren und Ändern von Kopf- und Fußzeilen in Word-Dokumenten verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-headers-footers/
+url: /de/words/net/add-content-using-documentbuilder/move-to-headers-footers/
 ---
 
 In diesem Beispiel untersuchen wir die Funktion „In Kopf- und Fußzeilen verschieben“ von Aspose.Words für .NET. Aspose.Words ist eine leistungsstarke Bibliothek zur Dokumentbearbeitung, mit der Entwickler Word-Dokumente programmgesteuert erstellen, ändern und konvertieren können. Mit der Funktion „In Kopf-/Fußzeilen verschieben“ können wir zu verschiedenen Kopf- und Fußzeilen innerhalb eines Dokuments navigieren und ihnen Inhalte hinzufügen.

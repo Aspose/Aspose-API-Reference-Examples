@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in Paragrafa Taşı özelliğinin Word belgelerindeki paragraflarda programlı olarak gezinmek ve bunları değiştirmek için nasıl kullanılacağını öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-paragraph/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-paragraph/
 ---
 
 Bu adım adım örnekte Aspose.Words for .NET'in Paragrafa Taşı özelliğini inceleyeceğiz. Bu özellik, geliştiricilerin bir Word belgesindeki paragraflarda programlı olarak gezinmesine ve bunları değiştirmesine olanak tanır. Bu kılavuzu izleyerek, Paragrafa Taşı özelliğini etkili bir şekilde nasıl uygulayacağınızı ve kullanacağınızı öğreneceksiniz.

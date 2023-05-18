@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحويل ملفات PDF من RGB إلى تدرج الرمادي باستخدام Aspose.PDF لـ .NET. تحسين جودة الطباعة وتقليل حجم الملف.
 type: docs
 weight: 60
-url: /ru/pdf/net/programming-with-document/convertfromrgbtograyscale/
+url: /ar/pdf/net/programming-with-document/convertfromrgbtograyscale/
 ---
 
 في هذا البرنامج التعليمي ، سنوجهك خلال عملية تحويل مستند PDF من مساحة ألوان RGB إلى تدرج الرمادي باستخدام Aspose.PDF لـ .NET. يمكن أن يكون هذا التحويل مفيدًا لأغراض مختلفة ، مثل تقليل حجم الملف أو إعداد المستندات للطباعة. اتبع الدليل المفصل أدناه:

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à couper des mots dans différentes langues dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenate-words-of-languages/
+url: /fr/words/net/working-with-hyphenation/hyphenate-words-of-languages/
 ---
 
 Dans ce didacticiel étape par étape, nous vous expliquerons comment couper des mots dans différentes langues dans des documents Word à l'aide d'Aspose.Words pour .NET. Nous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

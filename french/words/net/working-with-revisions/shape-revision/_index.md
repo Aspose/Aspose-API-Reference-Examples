@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Révisez les formes dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/shape-revision/
+url: /fr/words/net/working-with-revisions/shape-revision/
 ---
 
 Dans ce guide étape par étape, nous vous expliquerons comment apporter des modifications aux formes dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous fournirons le code source complet et vous montrerons comment formater la sortie Markdown.

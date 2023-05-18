@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET nicht verwendete Streams aus PDF-Dateien entfernen. Unsere Schritt-für-Schritt-Anleitung.
 type: docs
 weight: 270
-url: /ru/pdf/net/programming-with-document/removeunusedstreams/
+url: /de/pdf/net/programming-with-document/removeunusedstreams/
 ---
 In diesem Beispiel besprechen wir, wie Sie mithilfe von Aspose.PDF für .NET nicht verwendete Streams aus PDF-Dokumenten entfernen. Wir stellen Ihnen eine Schritt-für-Schritt-Anleitung zur Verfügung, einschließlich des vollständigen Quellcodes mit Erläuterungen.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'i kullanarak adres-mektup birleştirme sırasında diğerine nasıl belge ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
+url: /tr/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
 ---
 
 Bu eğitimde, Aspose.Words for .NET'in Adres Mektup Birleştirme Sırasında Belge Ekle özelliğini kullanarak adres mektup birleştirme sırasında başka bir belgeye nasıl belge ekleyeceğinizi göstereceğiz. Kaynak kodunu anlamak ve belge ekleme işlemini gerçekleştirmek için aşağıdaki adımları izleyin.

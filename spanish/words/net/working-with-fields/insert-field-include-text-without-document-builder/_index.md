@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un campo FieldIncludeText en sus documentos de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field-include-text-without-document-builder/
+url: /es/words/net/working-with-fields/insert-field-include-text-without-document-builder/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que usa la funcionalidad "Insertar un campo FieldIncludeText" de Aspose.Words para .NET. Asegúrese de seguir cada paso cuidadosamente para obtener los resultados deseados.

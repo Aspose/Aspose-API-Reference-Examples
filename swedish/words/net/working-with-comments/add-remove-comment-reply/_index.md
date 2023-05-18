@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till och tar bort kommentarsvar i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-remove-comment-reply/
+url: /sv/words/net/working-with-comments/add-remove-comment-reply/
 ---
 
 den här omfattande självstudien kommer du att lära dig hur du lägger till och tar bort kommentarsvar i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna hantera kommentarsvar och anpassa dem efter dina krav.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF sayfasından tüm açıklamaları almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 70
-url: /ru/pdf/net/annotations/getallannotationsfrompage/
+url: /tr/pdf/net/annotations/getallannotationsfrompage/
 ---
 Bu makale, Aspose.PDF for .NET kullanarak bir PDF sayfasından tüm ek açıklamaları çıkarma sürecinde size rehberlik edecektir. Aspose.PDF for .NET, geliştiricilerin PDF belgeleri oluşturmasına, düzenlemesine ve dönüştürmesine olanak tanıyan bir kitaplıktır. Bu kılavuzun yardımıyla, sağlanan C# kaynak kodunu kullanarak belirli bir PDF sayfasından tüm ek açıklamaları alabileceksiniz.
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a establecer la fecha de caducidad en documentos PDF utilizando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs
 weight: 300
-url: /ru/pdf/net/programming-with-document/setexpirydate/
+url: /es/pdf/net/programming-with-document/setexpirydate/
 ---
 Aspose.PDF para .NET es una potente biblioteca que proporciona varias funciones para trabajar con archivos PDF. Una de esas características es la capacidad de establecer una fecha de caducidad para un documento PDF. En este tutorial, lo guiaremos a través del proceso de configuración de una fecha de vencimiento para un documento PDF usando Aspose.PDF para .NET. 
 

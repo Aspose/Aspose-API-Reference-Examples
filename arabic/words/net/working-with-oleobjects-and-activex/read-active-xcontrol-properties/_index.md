@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: اقرأ خصائص عناصر تحكم ActiveX في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
+url: /ar/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
 
 في هذا الدليل التفصيلي ، سنوضح لك كيفية قراءة خصائص عناصر تحكم ActiveX في مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

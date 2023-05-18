@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki revizyon türlerini alın.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-types/
+url: /tr/words/net/working-with-revisions/get-revision-types/
 ---
 
 Bu adım adım kılavuzda, Aspose.Words for .NET kullanarak bir Word belgesindeki revizyon türlerini nasıl alacağınızı anlatacağız. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

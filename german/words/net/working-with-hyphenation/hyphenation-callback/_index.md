@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie den Silbentrennungsrückruf in Aspose.Words für .NET verwenden, um die Silbentrennung von Wörtern zu verarbeiten.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /de/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie die Silbentrennungs-Rückruffunktion in Aspose.Words für .NET verwenden. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

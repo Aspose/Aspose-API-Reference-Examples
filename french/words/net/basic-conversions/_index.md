@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent doc à docx, docx à rtf, docx à pdf, docx à octet, docx à epub, docx à mhtml et envoi d'e-mail, docx à démarquage, docx à txt, txt à docx,
 type: docs
 weight: 1600
-url: /ru/words/net/basic-conversions/
+url: /fr/words/net/basic-conversions/
 ---
 
 Conversions de base vous guide à travers les conversions de documents de base à l'aide de la bibliothèque Aspose.Words pour .NET. Les didacticiels fournissent des explications étape par étape, un code source détaillé et des exemples pratiques pour convertir des documents Word en différents formats tels que PDF, HTML, EPUB, images, etc. Vous apprendrez également à spécifier les options de conversion, à gérer les polices, les images et les mises en page. Cette ressource est essentielle pour les développeurs souhaitant automatiser les conversions de documents à l'aide d'Aspose.Words pour .NET, offrant une flexibilité et un contrôle complets sur le processus de conversion.

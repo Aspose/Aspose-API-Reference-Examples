@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar ett nytt Word-dokument och lägger till innehåll med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/create-new-document/
+url: /sv/words/net/add-content-using-documentbuilder/create-new-document/
 ---
 
 I denna steg-för-steg handledning kommer du att lära dig hur du skapar ett nytt Word-dokument från grunden med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna skapa ett nytt dokument och lägga till innehåll till det med klassen DocumentBuilder.

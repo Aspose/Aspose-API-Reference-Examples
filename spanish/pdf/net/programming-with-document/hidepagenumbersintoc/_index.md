@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a ocultar números de página en una tabla de contenido usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /es/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 En este artículo, analizaremos la implementación de la función Ocultar números de página en la TOC de Aspose.PDF para .NET usando C#. Comenzaremos con una breve introducción a Aspose.PDF para .NET y luego profundizaremos en la guía paso a paso para implementar esta función. 
 

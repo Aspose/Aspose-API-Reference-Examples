@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att ställa in filinformation i dina PDF-dokument med denna steg-för-steg-guide.
 type: docs
 weight: 310
-url: /ru/pdf/net/programming-with-document/setfileinfo/
+url: /sv/pdf/net/programming-with-document/setfileinfo/
 ---
 Om du arbetar med ett projekt som kräver hantering av PDF-filer med Aspose.PDF för .NET, är en av funktionerna du kanske vill använda möjligheten att ställa in filinformation för ett PDF-dokument. Filinformationen innehåller olika detaljer som författare, datum för skapande, nyckelord, ändringsdatum, ämne och titel. Den här guiden leder dig genom processen att ställa in filinformation för ett PDF-dokument med C#-källkod med Aspose.PDF för .NET.
 

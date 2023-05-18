@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare l'intestazione con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /it/words/net/working-with-markdown/heading/
 ---
 
 In questo esempio, ti mostreremo come utilizzare la funzionalità delle intestazioni con Aspose.Words per .NET. Le intestazioni vengono utilizzate per strutturare e dare priorità al contenuto di un documento.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Funktion „Dokumente zusammenführen“ von Aspose.Words für .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /de/words/net/split-document/merge-documents/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie mehrere Word-Dokumente mithilfe der Funktion „Dokumente zusammenführen“ von Aspose.Words für .NET zusammenführen. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und ein zusammengeführtes Dokument mit allen Quelldokumenten zu erhalten.

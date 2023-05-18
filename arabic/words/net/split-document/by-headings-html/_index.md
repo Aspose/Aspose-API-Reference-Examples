@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لشرح شفرة المصدر C # لميزة By Heading HTML في Aspose.Words for .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /ar/words/net/split-document/by-headings-html/
 ---
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية تقسيم مستند Word إلى أجزاء أصغر باستخدام ميزة By HTML Heading في Aspose.Words for .NET. اتبع الخطوات أدناه لفهم الكود المصدري وإنشاء مستندات HTML منفصلة استنادًا إلى العنوان.
 

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bir PDF belgesi hakkında meta veri bilgilerini almak için Aspose.PDF for .NET'in GetFileInfo özelliğini nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 180
-url: /ru/pdf/net/programming-with-document/getfileinfo/
+url: /tr/pdf/net/programming-with-document/getfileinfo/
 ---
 
  Aspose.PDF for .NET, geliştiricilerin kendi .NET uygulamalarında PDF dosyaları oluşturmasına, düzenlemesine ve dönüştürmesine olanak tanıyan popüler bir PDF işleme kitaplığıdır. Bu kitaplığın sunduğu özelliklerden biri, bir PDF belgesinin meta verileri hakkında bilgi alma yeteneğidir. Bu öğretici, kullanımın adımlarında size rehberlik edecektir.`GetFileInfo`Aspose.PDF for .NET'in bir PDF belgesinin meta verileri hakkında bilgi alma özelliği.

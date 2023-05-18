@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki liste numarasını nasıl sıfırlayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-number/
+url: /tr/words/net/working-with-list/restart-list-number/
 ---
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesindeki liste numarasını nasıl sıfırlayacağınızı göstereceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve bunu kendi projelerinize nasıl uygulayacağınızı göstereceğiz.
 

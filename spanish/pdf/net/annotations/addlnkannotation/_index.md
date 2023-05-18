@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar la función de anotación de tinta a documentos PDF en C# usando Aspose.PDF para .NET con una guía paso a paso y el código fuente completo.
 type: docs
 weight: 20
-url: /ru/pdf/net/annotations/addlnkannotation/
+url: /es/pdf/net/annotations/addlnkannotation/
 ---
 Aspose.PDF para .NET es una poderosa biblioteca que permite a los desarrolladores realizar varias operaciones de PDF. Una de esas operaciones es agregar anotaciones de tinta a los documentos PDF. En este artículo, proporcionaremos una guía paso a paso para explicar el código fuente de C# para agregar Ink Annotation usando Aspose.PDF para .NET. ¡Empecemos!
 

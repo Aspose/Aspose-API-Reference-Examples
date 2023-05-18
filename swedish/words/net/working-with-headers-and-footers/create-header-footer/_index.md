@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar sidhuvuden och sidfötter i dina Word-dokument med Aspose.Words för .NET. Anpassa sidhuvuden och sidfötter för varje sida.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/create-header-footer/
+url: /sv/words/net/working-with-headers-and-footers/create-header-footer/
 ---
 
 Här är en steg-för-steg-guide för att förklara följande C#-källkod för att skapa sidhuvuden och sidfötter med Aspose.Words för .NET-funktionalitet. Se till att du har inkluderat Aspose.Words-biblioteket i ditt projekt innan du använder den här koden.

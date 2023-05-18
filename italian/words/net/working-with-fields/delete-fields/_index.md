@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per l'eliminazione dei campi di unione nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /it/words/net/working-with-fields/delete-fields/
 ---
 
 Per spiegare come utilizzare la funzione "Elimina campi" in Aspose. Words for .NET abbiamo creato una guida passo passo qui sotto. 

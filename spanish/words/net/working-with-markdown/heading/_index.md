@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar el encabezado con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /es/words/net/working-with-markdown/heading/
 ---
 
 En este ejemplo, le mostraremos cómo usar la función de encabezados con Aspose.Words para .NET. Los encabezados se utilizan para estructurar y priorizar el contenido de un documento.

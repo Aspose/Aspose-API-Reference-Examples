@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak bir bağlantı oluşturmayı, sırayı kontrol etmeyi ve bir bağlantıyı kesmeyi içerir.
 type: docs
 weight: 1320
-url: /ru/words/net/working-with-textboxes/
+url: /tr/words/net/working-with-textboxes/
 ---
 Metin Kutularıyla Çalışmak, .NET için Aspose.Words kitaplığını kullanarak Word belgelerinde metin kutuları ile çalışmanıza adım adım yol gösteren kapsamlı bir kaynaktır. Öğreticiler size metin kutularını nasıl ekleyeceğinizi, değiştireceğinizi ve sileceğinizi, onları konumlandırmayı, boyutlarını, stillerini ve özelliklerini tanımlamayı öğretir. Metin ekleme ve düzenleme, listeler, tablolar ve diğer öğeleri ekleme dahil olmak üzere metin kutularındaki içeriği nasıl yöneteceğinizi de öğreneceksiniz. Bu kaynak, profesyonel belgeler oluştururken daha fazla esneklik ve özelleştirme sağlayarak Aspose.Words for .NET kullanarak Word belgelerindeki metin kutularını değiştirmek isteyen geliştiriciler için çok önemlidir.
 

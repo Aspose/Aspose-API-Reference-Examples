@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Skapa och lägg till en styckenod i dina Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/create-and-add-paragraph-node/
+url: /sv/words/net/working-with-node/create-and-add-paragraph-node/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur man skapar och lägger till en styckenod med Aspose.Words för .NET.

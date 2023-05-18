@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du extraherar markerad text med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /sv/pdf/net/annotations/extracthighlightedtext/
 ---
 För att extrahera markerad text från ett PDF-dokument kan du använda Aspose.PDF för .NET API. Detta API ger ett enkelt sätt att hämta all text som har markerats i ett dokument.
 

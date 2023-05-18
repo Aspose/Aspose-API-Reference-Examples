@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET ein Inhaltsverzeichnis zu PDF-Dokumenten hinzufügen. Schritt-für-Schritt-Anleitung mit Beispiel-Quellcode. Beschleunigen Sie die Dokumentennavigation!
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /de/pdf/net/programming-with-document/addtoc/
 ---
 
 In diesem Tutorial erfahren Sie, wie Sie mit der Funktion „Inhaltsverzeichnis hinzufügen“ von Aspose.PDF für .NET ein Inhaltsverzeichnis zu PDF-Dokumenten hinzufügen. Wir stellen Ihnen eine Schritt-für-Schritt-Anleitung zur Verfügung und erläutern den dafür erforderlichen C#-Quellcode. Am Ende dieses Tutorials werden Sie in der Lage sein, mit Aspose.PDF für .NET ein PDF-Dokument mit einem Inhaltsverzeichnis zu erstellen.

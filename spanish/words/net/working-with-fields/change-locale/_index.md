@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a cambiar la configuración regional para el formato de fecha y número en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-locale/
+url: /es/words/net/working-with-fields/change-locale/
 ---
 
 En este tutorial, lo guiaremos a través del proceso de cambio de configuración regional en documentos de Word usando Aspose.Words para .NET. Al modificar la configuración regional, puede controlar el formato de fechas y números durante las operaciones de combinación de correspondencia. Le proporcionaremos el código fuente de C# necesario y las instrucciones paso a paso para lograrlo.

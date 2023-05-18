@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة ميزة التعليقات التوضيحية بالحبر إلى مستندات PDF في C # باستخدام Aspose.PDF for .NET مع دليل خطوة بخطوة وكود المصدر الكامل.
 type: docs
 weight: 20
-url: /ru/pdf/net/annotations/addlnkannotation/
+url: /ar/pdf/net/annotations/addlnkannotation/
 ---
 Aspose.PDF for .NET مكتبة قوية تمكن المطورين من إجراء عمليات PDF متنوعة. تتمثل إحدى هذه العمليات في إضافة التعليقات التوضيحية بالحبر إلى مستندات PDF. في هذه المقالة ، سنقدم دليلاً خطوة بخطوة لشرح كود المصدر C # لإضافة تعليق توضيحي بالحبر باستخدام Aspose.PDF for .NET. هيا بنا نبدأ!
 

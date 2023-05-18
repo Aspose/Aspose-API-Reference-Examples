@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment mettre à jour la fonctionnalité d'annotation de texte libre d'Aspose.PDF pour .NET à l'aide du code source C#.
 type: docs
 weight: 160
-url: /ru/pdf/net/annotations/updatefreetextannotation/
+url: /fr/pdf/net/annotations/updatefreetextannotation/
 ---
 Dans cet article, nous fournirons un guide étape par étape pour expliquer le code source C # suivant de la fonctionnalité Mettre à jour l'annotation de texte libre d'Aspose.PDF pour .NET. Nous allons parcourir chaque ligne de code et expliquer ce qu'il fait, afin que même les débutants puissent le comprendre.
 

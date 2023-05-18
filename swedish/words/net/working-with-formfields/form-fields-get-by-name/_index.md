@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du hämtar och ändrar formulärfält efter namn i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-by-name/
+url: /sv/words/net/working-with-formfields/form-fields-get-by-name/
 ---
 
 denna steg-för-steg handledning kommer vi att guida dig om hur du använder Aspose.Words för .NET för att hämta formulärfält efter namn från ett Word-dokument. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

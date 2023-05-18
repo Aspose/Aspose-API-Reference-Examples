@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Den här artikeln ger en steg-för-steg-guide om hur du skapar en fritextkommentar och anger dess innehåll med Aspose.PDF för .NET
 type: docs
 weight: 140
-url: /ru/pdf/net/annotations/setfreetextannotationformatting/
+url: /sv/pdf/net/annotations/setfreetextannotationformatting/
 ---
 
 Aspose.PDF för .NET är ett kraftfullt och lättanvänt API för PDF-dokumentmanipulation som låter dig arbeta med PDF-filer programmatiskt i dina .NET-applikationer. En av funktionerna som tillhandahålls av Aspose.PDF för .NET är möjligheten att ställa in fritextanteckningsformatering i PDF-dokument. I den här artikeln går vi igenom steg-för-steg-processen för att ställa in fritextanteckningsformatering med Aspose.PDF för .NET.

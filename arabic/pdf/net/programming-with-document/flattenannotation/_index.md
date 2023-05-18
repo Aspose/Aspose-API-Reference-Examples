@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تسوية التعليقات التوضيحية في مستند PDF باستخدام Aspose.PDF for .NET. الحفاظ على التعليقات التوضيحية ومنع التغيير العرضي.
 type: docs
 weight: 150
-url: /ru/pdf/net/programming-with-document/flattenannotation/
+url: /ar/pdf/net/programming-with-document/flattenannotation/
 ---
 
 Aspose.PDF for .NET مكتبة قوية تمكن المطورين من العمل مع مستندات PDF برمجيًا. إحدى الميزات التي يوفرها هي القدرة على تسوية التعليقات التوضيحية في مستندات PDF. تعني تسوية التعليقات التوضيحية في مستند PDF أن التعليقات التوضيحية أصبحت جزءًا من محتوى المستند ولا يمكن تحريرها أو حذفها بعد الآن. يكون هذا مفيدًا عندما تريد التأكد من الاحتفاظ بالتعليقات التوضيحية ولا يمكن تغييرها عن طريق الخطأ.

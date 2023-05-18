@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ve örnek kod ile bir PDF belgesinde kullanılan tüm yazı tiplerini programlı olarak almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /tr/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF for .NET, geliştiricilerin programlı olarak PDF belgeleriyle çalışmasını sağlayan güçlü bir kitaplıktır. Sağladığı özelliklerden biri, bir PDF belgesinde kullanılan tüm yazı tiplerini alma yeteneğidir. Bu, bir PDF belgesindeki yazı tiplerini programlı olarak analiz etmeniz veya değiştirmeniz gerektiğinde yararlı olabilir.

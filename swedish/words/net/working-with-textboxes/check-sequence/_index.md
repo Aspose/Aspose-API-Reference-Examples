@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du kontrollerar sekvensen av textrutor i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /sv/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## Steg 1: Konfigurera dokumentet och skapa en TextBox-form

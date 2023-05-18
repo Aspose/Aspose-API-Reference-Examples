@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Converti i campi IF in testo normale in un paragrafo con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /it/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 Ecco un tutorial che illustra come utilizzare la funzione Converti campi in paragrafo con Aspose.Words per .NET. Questo codice converte in testo normale tutti i campi di tipo IF rilevati nell'ultimo paragrafo di un documento. Seguire i passaggi seguenti per comprendere ed eseguire questo codice.

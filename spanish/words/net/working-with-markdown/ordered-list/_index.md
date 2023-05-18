@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una lista ordenada con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/ordered-list/
+url: /es/words/net/working-with-markdown/ordered-list/
 ---
 
 En este ejemplo, explicaremos cómo usar la función de lista ordenada con Aspose.Words para .NET. La lista ordenada le permite organizar elementos secuencialmente con números.

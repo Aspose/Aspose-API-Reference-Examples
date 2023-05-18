@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ AUTEUR dans vos documents Word avec Aspose.Words pour .NET. Indiquez le nom de l'auteur pour personnaliser vos documents.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-author-field/
+url: /fr/words/net/working-with-fields/insert-author-field/
 ---
 
 

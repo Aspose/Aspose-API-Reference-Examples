@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Bölüme Taşı'yı kullanmak için adım adım kılavuz, Word belgelerindeki bölümleri ve paragrafları manipüle eder.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-section/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-section/
 ---
 
 Bu örnekte, sağlanan C# kaynak kodunu kullanarak Aspose.Words for .NET'in Bölüme Taşı özelliğini nasıl kullanacağınızı adım adım göstereceğiz. Bu özellik, bir Word belgesi içindeki farklı bölümlerde gezinmenizi ve bunları değiştirmenizi sağlar. Bu işlevi uygulamanıza entegre etmek için aşağıdaki adımları izleyin.

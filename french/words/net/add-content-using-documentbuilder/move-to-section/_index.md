@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour utiliser Déplacer vers la section dans Aspose.Words pour .NET manipuler des sections et des paragraphes dans des documents Word.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-section/
+url: /fr/words/net/add-content-using-documentbuilder/move-to-section/
 ---
 
 Dans cet exemple, nous vous expliquerons comment utiliser la fonction Déplacer vers la section de Aspose.Words pour .NET étape par étape en utilisant le code source C# fourni. Cette fonctionnalité vous permet de naviguer et de manipuler différentes sections à l'intérieur d'un document Word. Suivez les étapes ci-dessous pour intégrer cette fonctionnalité dans votre application.

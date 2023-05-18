@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para explicar el código fuente de C# de la función Página por página de Aspose.Words para .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/page-by-page/
+url: /es/words/net/split-document/page-by-page/
 ---
 
 En este tutorial, lo guiaremos a través de cómo dividir un documento de Word en páginas individuales utilizando la función Página por página de Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y obtener documentos separados para cada página.

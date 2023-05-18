@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour insérer un champ de formulaire de saisie de texte dans des documents Word avec ce guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
+url: /fr/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
 ---
 
 Dans ce guide étape par étape, nous allons explorer comment utiliser la fonctionnalité Insérer un champ de formulaire de saisie de texte dans Aspose.Words pour .NET pour ajouter et manipuler des champs de formulaire de saisie de texte dans vos documents Word à l'aide du code source C#. Les champs de formulaire de saisie de texte permettent aux utilisateurs de saisir du texte personnalisé dans un document, ce qui les rend idéaux pour créer des formulaires et des questionnaires interactifs. En suivant les instructions ci-dessous, vous pourrez facilement insérer et personnaliser des champs de formulaire de saisie de texte dans vos documents. Commençons!

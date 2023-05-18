@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET zum Dokumentanfang und -ende in Word-Dokumenten wechseln.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-document-start-end/
+url: /de/words/net/add-content-using-documentbuilder/move-to-document-start-end/
 ---
 
 In diesem Beispiel untersuchen wir die Funktion „An Dokumentanfang/-ende verschieben“ von Aspose.Words für .NET. Aspose.Words ist eine leistungsstarke Bibliothek zur Dokumentbearbeitung, mit der Entwickler Word-Dokumente programmgesteuert erstellen, ändern und konvertieren können. Mit der Funktion „An Anfang/Ende des Dokuments verschieben“ können wir mithilfe der DocumentBuilder-Klasse zum Anfang oder Ende eines Dokuments navigieren.

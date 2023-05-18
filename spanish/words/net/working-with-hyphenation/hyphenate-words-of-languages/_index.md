@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a separar palabras en diferentes idiomas en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenate-words-of-languages/
+url: /es/words/net/working-with-hyphenation/hyphenate-words-of-languages/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo separar palabras en diferentes idiomas en documentos de Word usando Aspose.Words para .NET. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

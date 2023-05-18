@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Asya ve Latin metinleri arasında boşluk, Asya tipografisi satır kesme grubu, paragraf biçimlendirme, çok düzeyli liste biçimlendirme ve paragraf stili uygulama içerir.
 type: docs
 weight: 1490
-url: /ru/words/net/document-formatting/
+url: /tr/words/net/document-formatting/
 ---
 
 Öğretici, metni biçimlendirme, paragraflar, tablolar, resimler ve çok daha fazlası gibi çeşitli yönleri kapsar. Aspose.Words kullanarak belgeleri biçimlendirme sürecinde size yol gösterecek anlaşılır kod örnekleri ve adım adım açıklamalar sağlar. İster yeni başlayan ister deneyimli bir geliştirici olun, bu eğitim Aspose.Words for .NET ile belge biçimlendirme becerilerinizi geliştirmek için değerli bir kaynak olacaktır.

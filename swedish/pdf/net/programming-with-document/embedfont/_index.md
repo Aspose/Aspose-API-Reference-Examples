@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du bäddar in teckensnitt i en PDF-fil med Aspose.PDF för .NET med denna steg-för-steg-guide. Se till att dina dokument visas korrekt på alla enheter.
 type: docs
 weight: 120
-url: /ru/pdf/net/programming-with-document/embedfont/
+url: /sv/pdf/net/programming-with-document/embedfont/
 ---
 
 den här handledningen kommer vi att diskutera hur man bäddar in teckensnitt i en PDF-fil med Aspose.PDF för .NET. Aspose.PDF för .NET är ett kraftfullt bibliotek som låter utvecklare skapa, redigera och manipulera PDF-dokument programmatiskt. Det här biblioteket erbjuder ett brett utbud av funktioner för att arbeta med PDF-dokument, inklusive att lägga till text, bilder, tabeller och mycket mer. Att bädda in typsnitt i en PDF-fil är ett vanligt krav för utvecklare som vill säkerställa att PDF-filen visas korrekt på olika enheter, oavsett om de nödvändiga typsnitten är installerade på dessa enheter eller inte.

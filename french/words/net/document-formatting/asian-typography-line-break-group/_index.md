@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le groupe de saut de ligne Asian Typography avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/asian-typography-line-break-group/
+url: /fr/words/net/document-formatting/asian-typography-line-break-group/
 ---
 
 Dans ce didacticiel, nous allons vous montrer comment utiliser la fonctionnalité de groupe de saut de ligne de typographie asiatique avec Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications de mise en forme.

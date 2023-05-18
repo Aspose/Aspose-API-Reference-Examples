@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki form alanları koleksiyonunu nasıl alacağınızı ve değiştireceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-get-form-fields-collection/
+url: /tr/words/net/working-with-formfields/form-fields-get-form-fields-collection/
 ---
 
 Bu adım adım öğreticide, bir Word belgesinden form alanları koleksiyonunu almak için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

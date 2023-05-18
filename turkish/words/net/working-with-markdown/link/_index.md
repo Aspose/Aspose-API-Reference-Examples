@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bağlantıları nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/link/
+url: /tr/words/net/working-with-markdown/link/
 ---
 
 Bu örnekte, bağlantılar özelliğini Aspose.Words for .NET ile nasıl kullanacağınız konusunda size yol göstereceğiz. Bağlantılar, web sitelerine veya diğer belgelere tıklanabilir referanslar oluşturmak için kullanılır.

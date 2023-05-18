@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per ottenere tutti i caratteri utilizzati in un documento PDF a livello di codice con questa guida dettagliata e il codice di esempio.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /it/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF per .NET è una potente libreria che consente agli sviluppatori di lavorare con i documenti PDF in modo programmatico. Una delle funzionalità che offre è la possibilità di ottenere tutti i caratteri utilizzati in un documento PDF. Ciò può essere utile se è necessario analizzare o manipolare a livello di codice i caratteri in un documento PDF.

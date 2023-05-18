@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att validera PDF-filer för PDFAStandard med denna steg-för-steg-guide.
 type: docs
 weight: 390
-url: /ru/pdf/net/programming-with-document/validatepdfastandard/
+url: /sv/pdf/net/programming-with-document/validatepdfastandard/
 ---
 Aspose.PDF för .NET är ett kraftfullt bibliotek som låter dig skapa, redigera och manipulera PDF-filer programmatiskt med C#-språket. En av nyckelfunktionerna i Aspose.PDF för .NET är möjligheten att validera PDF-filer mot olika PDF-standarder, inklusive PDF/A-1a. I den här artikeln kommer vi att ge en steg-för-steg-guide om hur du använder funktionen "Get Validate PDFAStandard" i Aspose.PDF för .NET. 
 

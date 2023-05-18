@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att använda Flytta till avsnitt i Aspose.Words för .NET manipulera avsnitt och stycken i Word-dokument.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-section/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-section/
 ---
 
 I det här exemplet kommer vi att gå igenom hur du använder funktionen Move To Section i Aspose.Words för .NET steg för steg med hjälp av den medföljande C#-källkoden. Den här funktionen låter dig navigera och manipulera olika avsnitt i ett Word-dokument. Följ stegen nedan för att integrera den här funktionen i din applikation.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à mettre du texte en italique avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/italic-text/
+url: /fr/words/net/working-with-markdown/italic-text/
 ---
 
 Dans cet exemple, nous vous expliquerons comment utiliser la fonctionnalité de texte en italique avec Aspose.Words pour .NET. Le texte en italique est utilisé pour souligner certaines parties d'un document.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET'te yorum eklemeyi, yorumları bağlamayı, yorum yanıtı ekleme/kaldırmayı, yorumları ayıklamayı ve yorum ve yanıtları çözümlemeyi gösterir.
 type: docs
 weight: 50
-url: /ru/words/net/working-with-comments/
+url: /tr/words/net/working-with-comments/
 ---
 
 Bu eğitimlerde, Aspose.Words for .NET kullanarak Word belgelerindeki yorumlarla çalışmanın çeşitli yönlerini öğreneceksiniz. Belgelere yorum eklemeyi, yorum yanıtlarını belirli bir metne bağlamayı, yorum yanıtlarını eklemeyi ve kaldırmayı ve yorumları ve yanıtlarını çözmeyi keşfedeceksiniz. Her eğitim, tam kaynak kodunu içeren adım adım bir kılavuz sağlayarak, Aspose.Words for .NET kullanarak Word belgelerinizde işbirliğini ve geri bildirim yönetimini geliştirmenizi sağlar.

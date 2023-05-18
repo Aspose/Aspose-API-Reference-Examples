@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare una licenza a consumo utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-metered-license/
+url: /it/words/net/apply-license/apply-metered-license/
 ---
 
 In questo tutorial completo imparerai come applicare una licenza a consumo utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo con dettagliate istruzioni dettagliate e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di applicare una licenza misurata e sfruttare le funzionalità avanzate di Aspose.Words per le tue esigenze di elaborazione dei documenti.

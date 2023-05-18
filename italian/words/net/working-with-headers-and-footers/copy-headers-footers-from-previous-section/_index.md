@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come copiare intestazioni e piè di pagina dalla sezione precedente nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /it/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 In questo tutorial passo-passo, ti guideremo su come copiare intestazioni e piè di pagina dalla sezione precedente in un documento Word utilizzando Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Lire les propriétés des contrôles ActiveX dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
+url: /fr/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
 
 Dans ce guide étape par étape, nous vous montrerons comment lire les propriétés des contrôles ActiveX dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous fournirons le code source complet et vous montrerons comment formater la sortie Markdown.

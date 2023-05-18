@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Tabelle in einem Word-Dokument erstellen.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/build-table/
+url: /de/words/net/add-content-using-documentbuilder/build-table/
 ---
 
 In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie mit Aspose.Words für .NET eine Tabelle in einem Word-Dokument erstellen. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieses Handbuchs werden Sie in der Lage sein, mithilfe der DocumentBuilder-Klasse eine Tabelle mit benutzerdefinierter Formatierung und Inhalt zu erstellen.

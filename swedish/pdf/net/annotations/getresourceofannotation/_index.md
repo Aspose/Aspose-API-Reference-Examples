@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du hämtar resursen för en anteckning med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 90
-url: /ru/pdf/net/annotations/getresourceofannotation/
+url: /sv/pdf/net/annotations/getresourceofannotation/
 ---
 
 Exemplet visar hur man skaffar anteckningsresurs med Aspose.PDF för .NET. För att få tillgång till en anteckning med Aspose.PDF för .NET, följ dessa steg:

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour supprimer des champs de fusion dans vos documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/delete-fields/
+url: /fr/words/net/working-with-fields/delete-fields/
 ---
 
 Pour expliquer comment utiliser la fonctionnalité "Supprimer les champs" dans Aspose. Words for .NET, nous avons créé un guide étape par étape ci-dessous. 

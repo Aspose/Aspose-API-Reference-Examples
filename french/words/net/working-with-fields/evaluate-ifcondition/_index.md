@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour évaluer la condition IF dans vos documents Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/evaluate-ifcondition/
+url: /fr/words/net/working-with-fields/evaluate-ifcondition/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C# ci-dessous, qui utilise la fonctionnalité "Évaluer la condition IF" d'Aspose.Words pour .NET. Assurez-vous de suivre attentivement chaque étape pour obtenir les résultats souhaités.

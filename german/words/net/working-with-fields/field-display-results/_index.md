@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Anzeigen von Feldergebnissen in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/field-display-results/
+url: /de/words/net/working-with-fields/field-display-results/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „Feldergebnisse anzeigen“ von Aspose.Words für .NET verwendet. Stellen Sie sicher, dass Sie jeden Schritt sorgfältig befolgen, um die gewünschten Ergebnisse zu erzielen.

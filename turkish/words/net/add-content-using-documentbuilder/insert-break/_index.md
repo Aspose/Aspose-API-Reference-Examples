@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine nasıl sayfa sonları ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-break/
+url: /tr/words/net/add-content-using-documentbuilder/insert-break/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET'te InsertBreak yöntemini kullanarak bir Word belgesine nasıl sayfa sonları ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgenizdeki sayfa sonlarını kontrol edebileceksiniz.

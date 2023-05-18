@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET mithilfe des Knotentyps auf dokumentspezifische Informationen zugreifen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/use-node-type/
+url: /de/words/net/working-with-node/use-node-type/
 ---
 
 Hier ist eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der veranschaulicht, wie die Knotentypfunktionalität mit Aspose.Words für .NET verwendet wird.

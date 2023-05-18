@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire collegamenti con Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/link/
+url: /it/words/net/working-with-markdown/link/
 ---
 
 In questo esempio, ti illustreremo come utilizzare la funzionalità dei collegamenti con Aspose.Words per .NET. I collegamenti vengono utilizzati per creare riferimenti cliccabili a siti Web o altri documenti.

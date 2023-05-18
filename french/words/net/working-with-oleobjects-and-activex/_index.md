@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels expliquent comment insérer un objet Ole avec et sans package Ole, un objet Ole en tant qu'icône et lire les propriétés XControl actives à l'aide de Aspose.Words pour .NET.
 type: docs
 weight: 1080
-url: /ru/words/net/working-with-oleobjects-and-activex/
+url: /fr/words/net/working-with-oleobjects-and-activex/
 ---
 
  ## Tutoriels

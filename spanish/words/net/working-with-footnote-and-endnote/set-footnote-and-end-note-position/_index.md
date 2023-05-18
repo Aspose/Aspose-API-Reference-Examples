@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a establecer la posición de las notas al pie y al final en documentos de Word usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
+url: /es/words/net/working-with-footnote-and-endnote/set-footnote-and-end-note-position/
 ---
 
 En este tutorial paso a paso, lo guiaremos sobre cómo usar Aspose.Words para .NET para establecer la posición de las notas al pie y al final en un documento de Word. Explicaremos el código fuente de C# provisto y le mostraremos cómo implementarlo en sus propios proyectos.

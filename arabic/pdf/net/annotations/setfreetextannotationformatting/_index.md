@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تقدم هذه المقالة دليلاً تفصيليًا حول كيفية إنشاء تعليق توضيحي نصي مجاني وتحديد محتوياته باستخدام Aspose.PDF for .NET
 type: docs
 weight: 140
-url: /ru/pdf/net/annotations/setfreetextannotationformatting/
+url: /ar/pdf/net/annotations/setfreetextannotationformatting/
 ---
 
 Aspose.PDF for .NET هي واجهة برمجة تطبيقات معالجة مستندات PDF قوية وسهلة الاستخدام تتيح لك العمل مع ملفات PDF برمجيًا في تطبيقات .NET الخاصة بك. تتمثل إحدى الميزات التي يوفرها Aspose.PDF for .NET في القدرة على تعيين تنسيق نص مجاني للتعليقات التوضيحية في مستندات PDF. في هذه المقالة ، سنرشدك خلال العملية خطوة بخطوة لإعداد تنسيق مجاني للتعليقات التوضيحية النصية باستخدام Aspose.PDF for .NET.

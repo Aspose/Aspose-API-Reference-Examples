@@ -4,7 +4,7 @@ additionalTitle: API Referanslarını Kabul Edin
 description: Aspose.PDF ürün ailesinin öğreticileri ve kod parçacıkları. Aspose.PDF kullanımına ilişkin temel ve ileri düzey eğitimleri içerir.
 type: docs
 weight: 11
-url: /ru/pdf/
+url: /tr/pdf/
 is_root: true
 ---
 

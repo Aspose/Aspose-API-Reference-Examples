@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar horisontella regler i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
+url: /sv/words/net/add-content-using-documentbuilder/insert-horizontal-rule/
 ---
 
 I det här omfattande exemplet kommer du att lära dig hur du infogar en horisontell regel i ett Word-dokument med Aspose.Words för .NET. Vi guidar dig genom processen och förser dig med nödvändiga C#-kodavsnitt. I slutet av den här guiden kommer du att kunna lägga till horisontella regler i dina dokument för visuell separation och organisation.

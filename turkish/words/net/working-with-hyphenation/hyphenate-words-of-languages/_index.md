@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde farklı dillerdeki sözcükleri nasıl heceleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenate-words-of-languages/
+url: /tr/words/net/working-with-hyphenation/hyphenate-words-of-languages/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak Word belgelerinde farklı dillerdeki sözcükleri nasıl heceleyeceğiniz konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve bunu kendi projelerinize nasıl uygulayacağınızı göstereceğiz.

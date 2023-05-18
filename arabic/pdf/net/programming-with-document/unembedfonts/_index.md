@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على Unembed Fonts وتحسين ملفات PDF. دليل خطوة بخطوة.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /ar/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF for .NET مكتبة قوية توفر مجموعة واسعة من الميزات للعمل مع مستندات PDF. تتمثل إحدى ميزاته في الحصول على خطوط غير مجمعة من مستند PDF. يمكن أن يكون هذا مفيدًا إذا كنت بحاجة إلى استخراج الخطوط من مستند PDF واستخدامها في تطبيقات أخرى.
 

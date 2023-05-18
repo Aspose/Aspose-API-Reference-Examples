@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a crear documentos PDF multicapa utilizando el primer enfoque con Aspose.PDF para .NET. Agregue texto, imágenes y más para mejorar sus archivos PDF.
 type: docs
 weight: 70
-url: /ru/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
+url: /es/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
 ---
 
 En este tutorial, lo guiaremos a través del proceso de creación de un PDF multicapa utilizando el primer enfoque con Aspose.PDF para .NET. Este enfoque le permite agregar múltiples capas a su documento PDF. Siga la guía paso a paso a continuación:

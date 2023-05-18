@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzla çitle çevrili kod özelliğinin nasıl kullanılacağını öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/fenced-code/
+url: /tr/words/net/working-with-markdown/fenced-code/
 ---
 
 Bu örnekte, çitle çevrili kod özelliğini Aspose.Words for .NET ile nasıl kullanacağınız konusunda size yol göstereceğiz. çitle çevrili kod, belirli biçimlendirme ile kod bloklarını temsil etmek için kullanılır.

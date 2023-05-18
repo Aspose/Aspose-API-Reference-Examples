@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till en innehållsförteckning till PDF-dokument med Aspose.PDF för .NET. Steg-för-steg guide med exempel på källkod. Öka dokumentnavigeringen!
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /sv/pdf/net/programming-with-document/addtoc/
 ---
 
 I den här handledningen kommer vi att utforska hur du använder funktionen Lägg till TOC (innehållsförteckning) i Aspose.PDF för .NET för att lägga till en innehållsförteckning till PDF-dokument. Vi kommer att tillhandahålla en steg-för-steg-guide och förklara C#-källkoden som krävs för att uppnå detta. I slutet av denna handledning kommer du att kunna generera ett PDF-dokument med en innehållsförteckning med Aspose.PDF för .NET.

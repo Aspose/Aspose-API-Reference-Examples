@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF لميزة .NET Link Duplicate Streams لتحسين مستندات PDF باستخدام هذا الدليل التفصيلي.
 type: docs
 weight: 230
-url: /ru/pdf/net/programming-with-document/linkduplicatestreams/
+url: /ar/pdf/net/programming-with-document/linkduplicatestreams/
 ---
 Aspose.PDF for .NET مكتبة شاملة وقوية توفر مجموعة متنوعة من الميزات للعمل مع ملفات PDF. تتمثل إحدى ميزاته الرئيسية في القدرة على تحسين ملفات PDF. في هذه المقالة ، سنشرح كيفية استخدام ميزة Link Duplicate Streams في Aspose.PDF لـ .NET لتحسين ملفات PDF. سنقدم إرشادات خطوة بخطوة ونضمّن مثالاً كاملاً لشفرة المصدر لتسهيل متابعة المطورين.
 

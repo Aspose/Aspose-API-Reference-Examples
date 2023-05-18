@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie eingerückten Code mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/indented-code/
+url: /de/words/net/working-with-markdown/indented-code/
 ---
 
 In diesem Beispiel erklären wir, wie Sie die Funktion für eingerückten Code mit Aspose.Words für .NET verwenden. Eingerückter Code wird verwendet, um Codeblöcke mit einer bestimmten Formatierung visuell darzustellen.

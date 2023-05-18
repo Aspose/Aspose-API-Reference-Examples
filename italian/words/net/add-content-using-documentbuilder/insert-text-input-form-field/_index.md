@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare Aspose.Words per .NET per inserire il campo del modulo di immissione del testo nei documenti di Word con questa guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
+url: /it/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
 ---
 
 In questa guida dettagliata, esploreremo come utilizzare la funzione Inserisci campo modulo di immissione testo in Aspose.Words per .NET per aggiungere e manipolare i campi modulo di immissione testo nei documenti Word utilizzando il codice sorgente C#. I campi del modulo di immissione del testo consentono agli utenti di inserire testo personalizzato all'interno di un documento, rendendoli ideali per la creazione di moduli e questionari interattivi. Seguendo le istruzioni riportate di seguito, sarai in grado di inserire e personalizzare facilmente i campi del modulo di immissione del testo nei tuoi documenti. Iniziamo!

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar Aspose.Words para .NET para insertar un campo de formulario de entrada de texto en documentos de Word con esta guía paso a paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
+url: /es/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
 ---
 
 En esta guía paso a paso, exploraremos cómo usar la función Insertar campo de formulario de entrada de texto en Aspose.Words para .NET para agregar y manipular campos de formulario de entrada de texto en sus documentos de Word usando el código fuente de C#. Los campos de formulario de ingreso de texto permiten a los usuarios ingresar texto personalizado dentro de un documento, lo que los hace ideales para crear formularios y cuestionarios interactivos. Siguiendo las instrucciones a continuación, podrá insertar y personalizar sin esfuerzo los campos de formulario de ingreso de texto en sus documentos. ¡Empecemos!

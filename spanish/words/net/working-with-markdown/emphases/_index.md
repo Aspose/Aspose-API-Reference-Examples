@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar énfasis (negrita y cursiva) con la guía paso a paso de Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/emphases/
+url: /es/words/net/working-with-markdown/emphases/
 ---
 
 En este ejemplo, explicaremos cómo usar énfasis con Aspose.Words para .NET. énfasis se utiliza para enfatizar ciertas partes del texto, como negrita y cursiva.

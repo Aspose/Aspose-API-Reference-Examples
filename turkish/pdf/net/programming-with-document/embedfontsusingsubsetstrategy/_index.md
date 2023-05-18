@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak Alt Küme Stratejisi ile bir PDF dosyasına yazı tiplerini nasıl gömeceğinizi öğrenin. Yalnızca gerekli karakterleri ekleyerek PDF boyutunuzu optimize edin.
 type: docs
 weight: 130
-url: /ru/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
+url: /tr/pdf/net/programming-with-document/embedfontsusingsubsetstrategy/
 ---
 
 Bu öğreticide, Aspose.PDF for .NET kullanarak bir altküme stratejisiyle bir PDF dosyasına yazı tiplerinin nasıl gömüleceğini tartışacağız. Aspose.PDF for .NET, geliştiricilerin PDF belgelerini program aracılığıyla oluşturmasına, düzenlemesine ve işlemesine olanak sağlayan güçlü bir kitaplıktır. Yazı tiplerini bir PDF dosyasına gömmek, gerekli yazı tiplerinin bu cihazlarda yüklü olup olmadığına bakılmaksızın, belgenin farklı cihazlarda doğru şekilde görüntülenmesini sağlamak için önemli bir adımdır.

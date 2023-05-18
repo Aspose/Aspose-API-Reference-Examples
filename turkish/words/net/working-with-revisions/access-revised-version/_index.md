@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinin gözden geçirilmiş versiyonuna erişin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/access-revised-version/
+url: /tr/words/net/working-with-revisions/access-revised-version/
 ---
 
 Bu adım adım kılavuzda, size Aspose.Words for .NET kullanarak bir Word belgesinin revize edilmiş versiyonuna nasıl erişeceğinizi göstereceğiz. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

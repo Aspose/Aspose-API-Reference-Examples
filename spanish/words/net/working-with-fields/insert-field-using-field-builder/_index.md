@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar campos personalizados en sus documentos de Word con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field-using-field-builder/
+url: /es/words/net/working-with-fields/insert-field-using-field-builder/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación, que usa la característica "Insertar un campo usando FieldBuilder" de Aspose.Words para .NET. Asegúrese de seguir cada paso cuidadosamente para obtener los resultados deseados.

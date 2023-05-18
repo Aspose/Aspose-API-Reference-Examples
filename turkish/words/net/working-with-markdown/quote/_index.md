@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile teklifin nasıl kullanılacağını öğrenin Adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/quote/
+url: /tr/words/net/working-with-markdown/quote/
 ---
 
 Bu örnekte, alıntı özelliğinin Aspose ile nasıl kullanılacağını açıklayacağız. NET için Words Alıntı, metnin bölümlerini özel bir kenarlıkla çevreleyerek vurgulamak için kullanılır.

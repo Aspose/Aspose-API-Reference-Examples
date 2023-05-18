@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: اعرض المراجعات في بالونات باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/show-revisions-in-balloons/
+url: /ar/words/net/working-with-revisions/show-revisions-in-balloons/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سوف نوضح لك كيفية إظهار المراجعات في البالونات في مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

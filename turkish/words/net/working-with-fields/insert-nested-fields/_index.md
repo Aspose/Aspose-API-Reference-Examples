@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile iç içe geçmiş alanları Word belgelerinize kolayca nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-nested-fields/
+url: /tr/words/net/working-with-fields/insert-nested-fields/
 ---
 
 Aşağıda, Aspose.Words for .NET'in "İç İçe Alanları Ekle" özelliğini kullanan C# kaynak kodunu adım adım açıklayan bir kılavuz bulunmaktadır. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

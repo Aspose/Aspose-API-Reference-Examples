@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder citat med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/quote/
+url: /sv/words/net/working-with-markdown/quote/
 ---
 
 I det här exemplet kommer vi att förklara hur man använder citatfunktionen med Aspose.Words för .NET Citat används för att markera delar av text genom att omge dem med en speciell ram.

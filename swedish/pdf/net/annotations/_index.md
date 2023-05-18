@@ -3,7 +3,7 @@ title: Programmering med anteckningar
 linktitle: Programming with Annotations
 type: docs
 weight: 11
-url: /ru/pdf/net/annotations/
+url: /sv/pdf/net/annotations/
 description: "Programmering med anteckningar inkluderar API-handledningar och kodsnuttar av Aspose.PDF för .NET som inkluderar att lägga till anteckningar, ta bort anteckningar, få anteckningsinformation och mycket mer."
 ---
 En omfattande samling självstudier som visar hur man arbetar med kommentarer i PDF-dokument med Aspose.PDF för .NET. Den tillhandahåller ett brett utbud av kodavsnitt som visar hur man skapar och manipulerar olika typer av kommentarer som text, linje, cirkel, rektangel, polygon, hyperlänk och många fler. Varje exempel inkluderar den fullständiga C#-koden tillsammans med en detaljerad förklaring av kodens funktionalitet och förväntade utdata. Det är en utmärkt resurs för .NET-utvecklare som vill lära sig hur man arbetar med anteckningar i PDF-dokument med Aspose.PDF.

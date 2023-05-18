@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Eksiksiz bir kod örneği ile Aspose.Words for .NET kullanarak bir Word belgesini Html'de bölümlere ayırmayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections-html/
+url: /tr/words/net/split-document/by-sections-html/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in HTML Bölümlerine Göre özelliğini kullanarak bir Word belgesini HTML formatında ayrı bölümlere nasıl ayıracağınızı göstereceğiz. Kaynak kodunu anlamak ve her bölüm için ayrı HTML belgeleri oluşturmak için aşağıdaki adımları izleyin.

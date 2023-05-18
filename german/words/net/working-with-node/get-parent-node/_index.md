@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET den übergeordneten Knoten eines bestimmten Elements abrufen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /de/words/net/working-with-node/get-parent-node/
 ---
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der zeigt, wie Sie mit Aspose.Words für .NET den übergeordneten Knoten abrufen.

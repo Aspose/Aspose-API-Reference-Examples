@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki bağlantıların nasıl kesileceğini öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /tr/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words for .NET, Microsoft Word belgeleriyle programlı olarak çalışmak için çeşitli özellikler sunan güçlü bir kitaplıktır. Yararlı özelliklerinden biri, bir belge içindeki bağlantıları kırma yeteneğidir. Bu öğreticide, Aspose.Words for .NET kullanarak bir bağlantının nasıl kesileceğini gösteren C# kaynak kodunu keşfedeceğiz.

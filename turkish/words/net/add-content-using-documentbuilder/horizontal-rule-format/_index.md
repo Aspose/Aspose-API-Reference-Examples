@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde yatay kuralları nasıl biçimlendireceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/horizontal-rule-format/
+url: /tr/words/net/add-content-using-documentbuilder/horizontal-rule-format/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET kullanarak bir Word belgesindeki yatay bir kuralı nasıl biçimlendireceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, bir yatay kuralın hizalama, genişlik, yükseklik, renk ve diğer özelliklerini özelleştirebileceksiniz.

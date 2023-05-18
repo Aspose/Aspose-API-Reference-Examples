@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize adres mektup birleştirme adres bloğu alanını nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
+url: /tr/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
 ---
 
 Aspose.Words for .NET'in "Adres Mektup Birleştirme Adres Bloğu Alanı Ekle" özelliğini kullanan aşağıdaki C# kaynak kodunu açıklayan adım adım bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

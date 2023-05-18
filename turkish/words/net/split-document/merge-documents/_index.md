@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in Belgeleri Birleştir özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /tr/words/net/split-document/merge-documents/
 ---
 
 Bu öğreticide, Aspose.Words for .NET'in Belgeleri Birleştir özelliğini kullanarak birden çok Word belgesini nasıl birleştireceğinizi size göstereceğiz. Kaynak kodunu anlamak ve tüm kaynak belgeleri içeren birleştirilmiş bir belge elde etmek için aşağıdaki adımları izleyin.

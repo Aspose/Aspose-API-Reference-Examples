@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين خاصية وسيلة الشرح باستخدام Aspose.PDF لـ .NET. تخصيص التعليقات التوضيحية بخطوط وسيلة الشرح ولون النص وأنماط النهاية.
 type: docs
 weight: 130
-url: /ru/pdf/net/annotations/setcalloutproperty/
+url: /ar/pdf/net/annotations/setcalloutproperty/
 ---
 Aspose.PDF for .NET مكتبة قوية لإنشاء مستندات PDF ومعالجتها وتحويلها في C #. تتمثل إحدى الميزات التي توفرها هذه المكتبة في القدرة على تعيين خصائص وسيلة الشرح للتعليقات التوضيحية النصية المجانية في مستندات PDF. يمكن القيام بذلك باستخدام ملف`FreeTextAnnotation` class ، والتي تتيح لك إنشاء تعليقات توضيحية باستخدام وسائل الشرح.
 

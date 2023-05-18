@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة طبقات إلى ملفات PDF باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع برامج تعليمية حول التعليمات البرمجية لإنشاء ملفات PDF ذات طبقات وحفظها.
 type: docs
 weight: 20
-url: /ru/pdf/net/programming-with-document/addlayers/
+url: /ar/pdf/net/programming-with-document/addlayers/
 ---
 
 لإضافة طبقات إلى ملف PDF ، سنستخدم Aspose.PDF لـ .NET. تتيح لنا هذه المكتبة العمل مع ملفات PDF في تطبيقات .NET بشكل فعال. اتبع الإرشادات خطوة بخطوة أدناه لإضافة طبقات باستخدام Aspose.PDF for .NET.

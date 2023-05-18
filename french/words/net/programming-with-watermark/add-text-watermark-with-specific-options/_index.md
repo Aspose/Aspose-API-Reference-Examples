@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ajouter un filigrane de texte avec des options spécifiques à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /fr/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment ajouter un filigrane de texte avec des options spécifiques à l'aide de Aspose.Words pour .NET. Un filigrane de texte est un texte superposé sur un document pour indiquer qu'il s'agit d'un brouillon, confidentiel, etc.

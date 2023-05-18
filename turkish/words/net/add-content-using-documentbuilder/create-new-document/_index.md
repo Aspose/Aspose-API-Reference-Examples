@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak nasıl yeni bir Word belgesi oluşturacağınızı ve içerik ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/create-new-document/
+url: /tr/words/net/add-content-using-documentbuilder/create-new-document/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak sıfırdan yeni bir Word belgesi oluşturmayı öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, DocumentBuilder sınıfını kullanarak yeni bir belge oluşturabilecek ve buna içerik ekleyebileceksiniz.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Schriftarten in eine PDF-Datei einbetten. Stellen Sie sicher, dass Ihre Dokumente auf jedem Gerät korrekt angezeigt werden.
 type: docs
 weight: 120
-url: /ru/pdf/net/programming-with-document/embedfont/
+url: /de/pdf/net/programming-with-document/embedfont/
 ---
 
 In diesem Tutorial besprechen wir, wie Sie mit Aspose.PDF für .NET Schriftarten in eine PDF-Datei einbetten. Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler PDF-Dokumente programmgesteuert erstellen, bearbeiten und bearbeiten können. Diese Bibliothek bietet zahlreiche Funktionen für die Arbeit mit PDF-Dokumenten, darunter das Hinzufügen von Text, Bildern, Tabellen und vielem mehr. Das Einbetten von Schriftarten in eine PDF-Datei ist eine häufige Anforderung für Entwickler, die sicherstellen möchten, dass die PDF-Datei auf verschiedenen Geräten korrekt angezeigt wird, unabhängig davon, ob die erforderlichen Schriftarten auf diesen Geräten installiert sind oder nicht.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzu kullanarak Aspose.PDF for .NET ile bir PDF sayfasından tüm notları nasıl sileceğinizi öğrenin.
 type: docs
 weight: 40
-url: /ru/pdf/net/annotations/deleteallannotationsfrompage/
+url: /tr/pdf/net/annotations/deleteallannotationsfrompage/
 ---
 Aspose.PDF for .NET, geliştiricilerin PDF dosyaları oluşturmasına, değiştirmesine ve dönüştürmesine olanak sağlayan güçlü bir kitaplıktır. Bu makalede, bir PDF belgesinin belirli bir sayfasından tüm notları silmek için Aspose.PDF for .NET'in nasıl kullanılacağını keşfedeceğiz. Süreci anlamanıza yardımcı olacak adım adım bir kılavuz sağlayacağız.
 

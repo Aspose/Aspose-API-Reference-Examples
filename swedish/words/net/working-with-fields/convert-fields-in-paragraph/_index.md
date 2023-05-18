@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Konvertera IF-fält till vanlig text i ett stycke med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /sv/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 Här är en handledning som visar hur du använder funktionen Konvertera fält till stycke med Aspose.Words för .NET. Denna kod konverterar alla IF-typfält som påträffas i det sista stycket i ett dokument till vanlig text. Följ stegen nedan för att förstå och köra den här koden.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET benutzerdefinierte Feldzusammenführungsfelder in Ihre Word-Dokumente einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-merge-field-using-dom/
+url: /de/words/net/working-with-fields/insert-merge-field-using-dom/
 ---
 
 Hier ist eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „Feld einfügen“ von Aspose.Words für .NET verwendet. Stellen Sie sicher, dass Sie jeden Schritt sorgfältig befolgen, um die gewünschten Ergebnisse zu erzielen.

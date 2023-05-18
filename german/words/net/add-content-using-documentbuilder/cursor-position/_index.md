@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET die Cursorposition in einem Word-Dokument abrufen.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/cursor-position/
+url: /de/words/net/add-content-using-documentbuilder/cursor-position/
 ---
 
 In diesem Schritt-für-Schritt-Beispiel erfahren Sie mehr über die Cursorposition in einem Word-Dokument mit Aspose.Words für .NET. Wir führen Sie durch den Prozess und stellen Ihnen die notwendigen C#-Code-Snippets zur Verfügung. Am Ende dieser Anleitung können Sie den aktuellen Knoten und Absatz abrufen, an dem sich der Cursor im Dokument befindet.

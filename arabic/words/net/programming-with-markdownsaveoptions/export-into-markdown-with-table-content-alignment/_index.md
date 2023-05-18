@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تصدير محتوى الجدول بمحاذاة مختلفة لملفات Markdown باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
+url: /ar/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
 ---
 فيما يلي دليل تفصيلي خطوة بخطوة لشرح التعليمات البرمجية المصدر C # التالية التي تساعد في تصدير المحتوى إلى ملف Markdown مع محاذاة محتوى الجدول باستخدام مكتبة Aspose.Words لـ .NET. تأكد من تضمين مكتبة Aspose.Words في مشروعك قبل استخدام هذا الرمز.
 

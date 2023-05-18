@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki Metin Kutularının sırasını nasıl kontrol edeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /tr/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## 1. Adım: Belgeyi ayarlama ve bir Metin Kutusu şekli oluşturma

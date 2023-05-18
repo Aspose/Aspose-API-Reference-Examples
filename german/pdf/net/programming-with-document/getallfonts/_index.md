@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit dieser Schritt-für-Schritt-Anleitung und dem Beispielcode, wie Sie Aspose.PDF für .NET verwenden, um alle in einem PDF-Dokument verwendeten Schriftarten programmgesteuert abzurufen.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /de/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, die es Entwicklern ermöglicht, programmgesteuert mit PDF-Dokumenten zu arbeiten. Eine der Funktionen, die es bietet, ist die Möglichkeit, alle in einem PDF-Dokument verwendeten Schriftarten abzurufen. Dies kann nützlich sein, wenn Sie die Schriftarten in einem PDF-Dokument programmgesteuert analysieren oder bearbeiten müssen.

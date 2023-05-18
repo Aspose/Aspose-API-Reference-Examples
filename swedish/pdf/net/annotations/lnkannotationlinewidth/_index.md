@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Den här artikeln ger en steg-för-steg-guide för att ställa in linjebredden för lnk-anteckningen med Aspose.PDF för .NET.
 type: docs
 weight: 110
-url: /ru/pdf/net/annotations/lnkannotationlinewidth/
+url: /sv/pdf/net/annotations/lnkannotationlinewidth/
 ---
 Aspose.PDF är ett kraftfullt och allmänt använt verktyg för att arbeta med PDF-filer i .NET-applikationer. Den tillhandahåller en mängd olika funktioner för att skapa, redigera och manipulera PDF-filer, inklusive möjligheten att lägga till kommentarer till sidor. I den här handledningen kommer vi att förklara hur man ställer in linjebredden för en länkkommentar med Aspose.PDF för .NET.
 

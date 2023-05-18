@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, belge kopyalama, değiştirme sırasında belge ekleme ve adres-mektup birleştirme sırasında belge ekleme içerir.
 type: docs
 weight: 1470
-url: /ru/words/net/clone-and-combine-documents/
+url: /tr/words/net/clone-and-combine-documents/
 ---
 Belgeleri Klonla ve Birleştir, Aspose.Words for .NET kullanarak belgeleri klonlama ve birleştirme konusunda eğitimler sunar. Öğreticiler, belgelerin farklı senaryolarda nasıl kopyalanacağını ve birleştirileceğini ayrıntılı olarak açıklar. Süreç boyunca size yol gösterecek örnek kod ve adım adım açıklamalar sağlarlar. Aspose.Words for .NET ile çalışanlar ve bu özellikleri kullanarak belgeleri etkin bir şekilde nasıl yöneteceklerini öğrenmek isteyenler için yararlı bir kaynaktır.
 

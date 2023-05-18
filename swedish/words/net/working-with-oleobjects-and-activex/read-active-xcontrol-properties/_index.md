@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Läs egenskaperna för ActiveX-kontroller i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
+url: /sv/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
 
 I den här steg-för-steg-guiden kommer vi att visa dig hur du läser egenskaperna för ActiveX-kontroller i ett Word-dokument med Aspose.Words för .NET. Vi kommer att förse dig med den fullständiga källkoden och visa dig hur du formaterar markdown-utdata.

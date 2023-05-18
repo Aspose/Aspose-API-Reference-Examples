@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att få alla teckensnitt som används i ett PDF-dokument programmatiskt med denna steg-för-steg-guide och exempelkod.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /sv/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF för .NET är ett kraftfullt bibliotek som gör det möjligt för utvecklare att arbeta med PDF-dokument programmatiskt. En av funktionerna som det ger är möjligheten att få alla teckensnitt som används i ett PDF-dokument. Detta kan vara användbart om du behöver programmera analysera eller manipulera teckensnitten i ett PDF-dokument.

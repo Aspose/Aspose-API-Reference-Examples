@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come mettere in grassetto il testo con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bold-text/
+url: /it/words/net/working-with-markdown/bold-text/
 ---
 
 In questo esempio, ti diremo come mettere in grassetto il testo con Aspose.Words per .NET. Il testo in grassetto lo rende più visibile e gli conferisce maggiore risalto.

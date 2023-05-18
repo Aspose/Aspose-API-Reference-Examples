@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un documento en otro durante la combinación de correspondencia usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
+url: /es/words/net/clone-and-combine-documents/insert-document-at-mail-merge/
 ---
 
 En este tutorial, lo guiaremos a través de cómo insertar un documento en otro documento durante la combinación de correspondencia utilizando la función Insertar documento durante la combinación de correspondencia de Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y realizar la inserción del documento.

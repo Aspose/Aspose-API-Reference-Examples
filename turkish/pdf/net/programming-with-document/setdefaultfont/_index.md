@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir PDF belgesi için varsayılan yazı tipini nasıl ayarlayacağınızı öğrenin.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /tr/pdf/net/programming-with-document/setdefaultfont/
 ---
 .NET'te PDF belgeleriyle çalışıyorsanız, PDF'de kullanılan yazı tipinin görüntülendiği veya yazdırıldığı sistemde bulunmadığı sorunlarla karşılaşabilirsiniz. Bu, metnin yanlış görünmesine veya hiç görünmemesine neden olabilir. Aspose.PDF for .NET, belge için varsayılan bir yazı tipi belirlemenize izin vererek bu soruna bir çözüm sunar. Bu örnekte, Aspose.PDF for .NET kullanılarak varsayılan yazı tipinin nasıl ayarlanacağı anlatılmaktadır.
 

@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata all'utilizzo di Sposta nella cella della tabella in Aspose.Words per .NET
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-table-cell/
+url: /it/words/net/add-content-using-documentbuilder/move-to-table-cell/
 ---
 
 In questo esempio, ti illustreremo come utilizzare la funzione Sposta nella cella della tabella di Aspose.Words per .NET utilizzando passo dopo passo il codice sorgente C# fornito. Questa funzione consente di navigare e manipolare celle specifiche all'interno di una tabella in un documento di Word. Segui i passaggi seguenti per integrare questa funzionalità nella tua applicazione.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un objeto OLE con un paquete OLE en un documento usando Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-with-ole-package/
+url: /es/words/net/working-with-oleobjects-and-activex/insert-ole-object-with-ole-package/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo insertar un objeto OLE con un paquete OLE usando Aspose.Words para .NET.

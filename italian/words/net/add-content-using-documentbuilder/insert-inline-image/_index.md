@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire immagini in linea nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-inline-image/
+url: /it/words/net/add-content-using-documentbuilder/insert-inline-image/
 ---
 
 In questo tutorial completo imparerai come inserire immagini in linea in un documento di Word utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di aggiungere immagini direttamente nel testo dei tuoi documenti.

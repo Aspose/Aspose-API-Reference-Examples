@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come creare un PDF multistrato utilizzando Aspose.PDF per .NET. Guida dettagliata con codice sorgente per la creazione di PDF dinamici con testo e immagini.
 type: docs
 weight: 80
-url: /ru/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
+url: /it/pdf/net/programming-with-document/createmultilayerpdfsecondapproach/
 ---
 
 In questo tutorial, esploreremo come creare un PDF multistrato utilizzando il secondo approccio in Aspose.PDF per .NET. Forniremo una guida passo passo con spiegazioni dettagliate e includeremo il codice sorgente completo. Seguendo questo tutorial, sarai in grado di generare documenti PDF con più livelli utilizzando la libreria Aspose.PDF nelle tue applicazioni .NET.

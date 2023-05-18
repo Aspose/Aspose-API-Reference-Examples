@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء رابط بين TextBoxes في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /ar/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## الخطوة 1: إعداد المستند وإنشاء أشكال TextBox

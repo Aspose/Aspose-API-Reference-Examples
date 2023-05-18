@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come nascondere i numeri di pagina in un sommario utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /it/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 In questo articolo, discuteremo l'implementazione della funzione Nascondi i numeri di pagina nel sommario di Aspose.PDF per .NET utilizzando C#. Inizieremo con una breve introduzione ad Aspose.PDF per .NET e poi ci immergeremo nella guida passo-passo per implementare questa funzione. 
 

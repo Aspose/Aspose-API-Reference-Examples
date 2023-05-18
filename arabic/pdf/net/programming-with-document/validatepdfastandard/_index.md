@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للتحقق من صحة ملفات PDF لـ PDFAStandard باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 390
-url: /ru/pdf/net/programming-with-document/validatepdfastandard/
+url: /ar/pdf/net/programming-with-document/validatepdfastandard/
 ---
 Aspose.PDF for .NET هي مكتبة قوية تسمح لك بإنشاء ملفات PDF وتحريرها ومعالجتها برمجيًا باستخدام لغة C #. تتمثل إحدى الميزات الرئيسية لبرنامج Aspose.PDF for .NET في القدرة على التحقق من صحة ملفات PDF مقابل معايير PDF المختلفة ، بما في ذلك PDF / A-1a. في هذه المقالة ، سنقدم دليلًا تفصيليًا حول كيفية استخدام ميزة "Get Validate PDFAStandard" في Aspose.PDF for .NET. 
 

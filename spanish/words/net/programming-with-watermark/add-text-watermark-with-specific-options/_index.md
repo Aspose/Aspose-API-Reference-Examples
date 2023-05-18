@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a agregar una marca de agua de texto con opciones específicas usando Aspose.Words para .NET. Guía paso por paso.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
+url: /es/words/net/programming-with-watermark/add-text-watermark-with-specific-options/
 ---
 
 En este tutorial, lo guiaremos a través de cómo agregar una marca de agua de texto con opciones específicas usando Aspose.Words para .NET. Una marca de agua de texto es texto superpuesto a un documento para indicar que es un borrador, confidencial, etc.

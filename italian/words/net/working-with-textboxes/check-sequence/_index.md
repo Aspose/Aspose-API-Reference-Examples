@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come controllare la sequenza di TextBox in un documento Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /it/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## Passaggio 1: impostazione del documento e creazione di una forma TextBox

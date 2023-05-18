@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à modifier l'espacement et les retraits des paragraphes asiatiques avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /fr/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment modifier l'espacement et les retraits d'un paragraphe asiatique à l'aide de Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications.

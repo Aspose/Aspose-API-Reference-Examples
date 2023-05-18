@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinde revizyon grupları alın.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-groups/
+url: /tr/words/net/working-with-revisions/get-revision-groups/
 ---
 
 Bu adım adım kılavuzda, size Aspose.Words for .NET kullanarak bir Word belgesindeki revizyon gruplarını nasıl alacağınızı anlatacağız. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

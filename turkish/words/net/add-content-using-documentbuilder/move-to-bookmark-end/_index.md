@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu adım adım kılavuz ile Word belgelerinde bir yer iminin sonuna gitmek için Aspose.Words for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in Yer İşareti Sonuna Taşı özelliğini inceleyeceğiz. Aspose.Words, geliştiricilerin Word belgelerini program aracılığıyla oluşturmasına, değiştirmesine ve dönüştürmesine olanak sağlayan güçlü bir belge işleme kitaplığıdır. Yer İmi Sonuna Taşı özelliği, bir belgedeki belirli bir yer iminin sonuna gitmemizi ve ondan sonra içerik eklememizi sağlar.

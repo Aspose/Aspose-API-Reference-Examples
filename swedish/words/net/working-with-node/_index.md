@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller hur du använder nodtyp, hämtar överordnad nod, ägardokument, rekursiv alla noder, korsar alla noder, räknar upp underordnade noder och skapar styckenoder i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 1000
-url: /ru/words/net/working-with-node/
+url: /sv/words/net/working-with-node/
 ---
 Arbeta med revisioner är en omfattande resurs som guidar dig genom att arbeta med revisioner i Word-dokument med hjälp av Aspose.Words för .NET-biblioteket. Handledningarna visar dig steg för steg hur du lägger till, tar bort, accepterar och avvisar versioner, hur du visar versioner i dokumentet, hur du jämför olika versioner och mycket mer. Du får lära dig hur du arbetar effektivt med granskningar för samarbete och förändringshantering i dina Word-dokument. Denna resurs är viktig för utvecklare som vill automatisera revisionshantering i sina Aspose.Words för .NET-baserade applikationer.
 

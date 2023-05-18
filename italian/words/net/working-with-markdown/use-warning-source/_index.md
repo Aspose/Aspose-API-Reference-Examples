@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare la fonte di avviso con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /it/words/net/working-with-markdown/use-warning-source/
 ---
 
 In questo esempio, ti mostreremo come utilizzare la sorgente di avviso con Aspose.Words per .NET. L'origine dell'avviso indica l'origine dell'avviso quando si utilizza la funzione di richiamata.

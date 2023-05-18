@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiornare la funzione di annotazione del testo libero di Aspose.PDF per .NET utilizzando il codice sorgente C#.
 type: docs
 weight: 160
-url: /ru/pdf/net/annotations/updatefreetextannotation/
+url: /it/pdf/net/annotations/updatefreetextannotation/
 ---
 In questo articolo, forniremo una guida dettagliata per spiegare il seguente codice sorgente C# della funzione Aggiorna annotazione testo libero di Aspose.PDF per .NET. Esamineremo ogni riga di codice e spiegheremo cosa fa, così anche i principianti possono capirlo.
 

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C # de la fonctionnalité de fusion de documents d'Aspose.Words pour .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/merge-documents/
+url: /fr/words/net/split-document/merge-documents/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment fusionner plusieurs documents Word à l'aide de la fonctionnalité de fusion de documents d'Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et obtenir un document fusionné contenant tous les documents source.

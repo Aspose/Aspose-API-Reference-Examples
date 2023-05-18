@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين الخط الافتراضي لمستند PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs
 weight: 280
-url: /ru/pdf/net/programming-with-document/setdefaultfont/
+url: /ar/pdf/net/programming-with-document/setdefaultfont/
 ---
 إذا كنت تعمل مع مستندات PDF في .NET ، فقد تواجه مشكلات حيث لا يتوفر الخط المستخدم في PDF على النظام الذي يتم عرضه أو طباعته. يمكن أن يؤدي هذا إلى ظهور النص بشكل غير صحيح أو عدم ظهوره على الإطلاق. يوفر Aspose.PDF for .NET حلاً لهذه المشكلة عن طريق السماح لك بتعيين خط افتراضي للمستند. في هذا المثال ، كيفية تعيين الخط الافتراضي باستخدام Aspose.PDF لـ .NET.
 

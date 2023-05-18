@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ändrar asiatiskt styckeavstånd och indrag med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /sv/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 I den här handledningen kommer vi att gå igenom hur du ändrar mellanrum och indrag i ett asiatiskt stycke med Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa ändringarna.

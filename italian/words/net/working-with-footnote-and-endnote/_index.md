@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial spiegano come impostare la nota a piè di pagina e la nota di chiusura nel documento di Word utilizzando Aspose.Words per .NET
 type: docs
 weight: 660
-url: /ru/words/net/working-with-footnote-and-endnote/
+url: /it/words/net/working-with-footnote-and-endnote/
 ---
 Lavorare con le note a piè di pagina e le note di chiusura è una risorsa completa che illustra come lavorare con le note a piè di pagina e le note di chiusura nei documenti di Word utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate passo dopo passo, codice sorgente completo ed esempi pratici per l'aggiunta, la modifica e la rimozione di note a piè di pagina e di chiusura. Imparerai anche come personalizzare il formato e lo stile delle note, navigare tra le note e convertirle in diversi formati, come PDF o HTML. Questa risorsa è essenziale per gli sviluppatori che desiderano gestire riferimenti e annotazioni nei propri documenti Word utilizzando Aspose.Words per .NET.
 

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un objeto OLE como un icono usando una secuencia con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
+url: /es/words/net/working-with-oleobjects-and-activex/insert-ole-object-as-icon-using-stream/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo insertar un objeto OLE como un ícono usando una secuencia con Aspose.Words para .NET.

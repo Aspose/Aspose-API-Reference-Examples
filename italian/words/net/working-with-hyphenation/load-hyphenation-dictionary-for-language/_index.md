@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come caricare un dizionario di sillabazione per una lingua specifica in Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
+url: /it/words/net/working-with-hyphenation/load-hyphenation-dictionary-for-language/
 ---
 
 In questo tutorial passo-passo, ti mostreremo come caricare un dizionario di sillabazione per una lingua specifica in Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

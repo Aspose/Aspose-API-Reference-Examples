@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder heading med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/heading/
+url: /sv/words/net/working-with-markdown/heading/
 ---
 
 I det här exemplet kommer vi att visa dig hur du använder rubrikfunktionen med Aspose.Words för .NET. Rubriker används för att strukturera och prioritera innehållet i ett dokument.

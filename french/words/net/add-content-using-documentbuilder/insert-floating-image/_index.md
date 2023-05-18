@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des images flottantes dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-floating-image/
+url: /fr/words/net/add-content-using-documentbuilder/insert-floating-image/
 ---
 
 Dans cet exemple complet, vous apprendrez à insérer une image flottante dans un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure d'ajouter des images avec des options de positionnement et d'habillage personnalisables à vos documents.

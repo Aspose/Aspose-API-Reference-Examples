@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Seitenzahlen in einem Inhaltsverzeichnis ausblenden.
 type: docs
 weight: 220
-url: /ru/pdf/net/programming-with-document/hidepagenumbersintoc/
+url: /de/pdf/net/programming-with-document/hidepagenumbersintoc/
 ---
 In diesem Artikel besprechen wir die Implementierung der Funktion „Seitenzahlen im Inhaltsverzeichnis ausblenden“ von Aspose.PDF für .NET mit C#. Wir beginnen mit einer kurzen Einführung in Aspose.PDF für .NET und tauchen dann in die Schritt-für-Schritt-Anleitung zur Implementierung dieser Funktion ein. 
 

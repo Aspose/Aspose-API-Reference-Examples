@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer un lien entre les zones de texte dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /fr/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## Étape 1 : Configurer le document et créer des formes TextBox

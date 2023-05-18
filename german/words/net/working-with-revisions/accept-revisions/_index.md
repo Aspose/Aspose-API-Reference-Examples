@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Überarbeitungen an einem Word-Dokument akzeptieren
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/accept-revisions/
+url: /de/words/net/working-with-revisions/accept-revisions/
 ---
 
 In diesem Tutorial führen wir Sie durch das Akzeptieren von Revisionen an einem Word-Dokument mithilfe der Funktion „Revisionen akzeptieren“ von Aspose.Words für .NET. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und Änderungen am Dokument zu akzeptieren.

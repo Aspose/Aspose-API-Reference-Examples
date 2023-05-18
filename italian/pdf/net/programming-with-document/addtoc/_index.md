@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiungere un sommario ai documenti PDF utilizzando Aspose.PDF per .NET. Guida dettagliata con codice sorgente di esempio. Potenzia la navigazione dei documenti!
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /it/pdf/net/programming-with-document/addtoc/
 ---
 
 In questo tutorial, esploreremo come utilizzare la funzione Aggiungi TOC (Table of Contents) di Aspose.PDF per .NET per aggiungere un sommario ai documenti PDF. Forniremo una guida dettagliata e spiegheremo il codice sorgente C# necessario per raggiungere questo obiettivo. Alla fine di questo tutorial, sarai in grado di generare un documento PDF con un sommario utilizzando Aspose.PDF per .NET.

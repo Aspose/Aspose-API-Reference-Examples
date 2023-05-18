@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: I den här guiden kommer du att lära dig hur du tar bort ett specifikt fält i ett dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/remove-field/
+url: /sv/words/net/working-with-fields/remove-field/
 ---
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan, som använder funktionen "Fältborttagning" i Aspose.Words för .NET. Följ varje steg noggrant för att få önskat resultat.
 

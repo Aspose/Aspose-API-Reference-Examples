@@ -4,7 +4,7 @@ additionalTitle: Aspose API-referenser
 description: Handledningar och kodsnuttar av produktfamiljen Aspose.PDF. Den innehåller grundläggande och förhandshandledningar för användning av Aspose.PDF.
 type: docs
 weight: 11
-url: /ru/pdf/
+url: /sv/pdf/
 is_root: true
 ---
 

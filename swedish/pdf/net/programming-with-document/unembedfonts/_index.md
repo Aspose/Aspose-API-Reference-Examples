@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att få Unembed Fonts och optimera PDF-filer. En steg-för-steg guide.
 type: docs
 weight: 370
-url: /ru/pdf/net/programming-with-document/unembedfonts/
+url: /sv/pdf/net/programming-with-document/unembedfonts/
 ---
 Aspose.PDF för .NET är ett kraftfullt bibliotek som ger ett brett utbud av funktioner för att arbeta med PDF-dokument. En av dess funktioner är att få inbäddade typsnitt från ett PDF-dokument. Detta kan vara användbart om du behöver extrahera teckensnitt från ett PDF-dokument och använda dem i andra applikationer.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لشرح كود مصدر C # لميزة مقارنة الخيارات مع Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-options/
+url: /ar/words/net/compare-documents/compare-options/
 ---
 
 في هذا البرنامج التعليمي ، سنشرح كيفية استخدام ميزة مقارنة الخيارات مع Aspose.Words for .NET. اتبع الخطوات أدناه لفهم شفرة المصدر وتطبيق التغييرات.

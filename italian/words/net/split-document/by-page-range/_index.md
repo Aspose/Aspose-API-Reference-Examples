@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Estrai facilmente per intervallo di pagine da un documento Word utilizzando Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-page-range/
+url: /it/words/net/split-document/by-page-range/
 ---
 
 ## introduzione

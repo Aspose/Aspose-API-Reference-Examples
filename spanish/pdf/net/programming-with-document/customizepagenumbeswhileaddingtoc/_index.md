@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a personalizar los números de página mientras agrega una tabla de contenido (TOC) usando Aspose.PDF para .NET con esta guía paso a paso y código de ejemplo.
 type: docs
 weight: 100
-url: /ru/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
+url: /es/pdf/net/programming-with-document/customizepagenumbeswhileaddingtoc/
 ---
 
 En este tutorial, exploraremos cómo personalizar los números de página al agregar una tabla de contenido (TOC) usando Aspose.PDF para .NET. Proporcionaremos una guía paso a paso, junto con un código de ejemplo, para ayudarlo a lograrlo.

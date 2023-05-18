@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki dipnotlar için sütun sayısını nasıl ayarlayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-foot-note-columns/
+url: /tr/words/net/working-with-footnote-and-endnote/set-foot-note-columns/
 ---
 
 Bu adım adım öğreticide, bir Word belgesindeki dipnotlar için sütun sayısını ayarlamak üzere Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

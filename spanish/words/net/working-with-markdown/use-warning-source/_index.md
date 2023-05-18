@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la fuente de advertencia con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /es/words/net/working-with-markdown/use-warning-source/
 ---
 
 En este ejemplo, le mostraremos cómo usar la fuente de advertencia con Aspose.Words para .NET. La fuente de advertencia indica el origen de la advertencia cuando se utiliza la función de devolución de llamada.

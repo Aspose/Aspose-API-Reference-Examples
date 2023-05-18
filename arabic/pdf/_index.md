@@ -4,7 +4,7 @@ additionalTitle: مراجع Aspose API
 description: البرامج التعليمية ومقتطفات التعليمات البرمجية لعائلة منتجات Aspose.PDF. يتضمن دروسًا أساسية ومتقدمة حول استخدام Aspose.PDF.
 type: docs
 weight: 11
-url: /ru/pdf/
+url: /ar/pdf/
 is_root: true
 ---
 

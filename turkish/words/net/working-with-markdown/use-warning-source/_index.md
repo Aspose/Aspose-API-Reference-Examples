@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile uyarı kaynağının nasıl kullanılacağını adım adım öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /tr/words/net/working-with-markdown/use-warning-source/
 ---
 
 Bu örnekte, uyarı kaynağının Aspose.Words for .NET ile nasıl kullanılacağını göstereceğiz. Uyarı kaynağı, geri arama işlevini kullanırken uyarının kaynağını gösterir.

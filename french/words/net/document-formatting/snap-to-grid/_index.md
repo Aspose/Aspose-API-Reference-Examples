@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C # de la fonctionnalité Snap to Grid avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/snap-to-grid/
+url: /fr/words/net/document-formatting/snap-to-grid/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment utiliser la fonction Aligner sur la grille avec Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications.

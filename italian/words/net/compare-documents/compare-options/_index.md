@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata per spiegare il codice sorgente C# della funzione Confronta opzioni con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-options/
+url: /it/words/net/compare-documents/compare-options/
 ---
 
 In questo tutorial, spiegheremo come utilizzare la funzione Confronta opzioni con Aspose.Words per .NET. Segui i passaggi seguenti per comprendere il codice sorgente e applicare le modifiche.

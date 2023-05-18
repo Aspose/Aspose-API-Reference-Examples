@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder varningskälla med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/use-warning-source/
+url: /sv/words/net/working-with-markdown/use-warning-source/
 ---
 
 I det här exemplet kommer vi att visa dig hur du använder varningskälla med Aspose.Words för .NET. Varningskällan anger varningens ursprung när du använder återuppringningsfunktionen.

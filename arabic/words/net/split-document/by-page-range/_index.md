@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: استخرج بسهولة حسب نطاق الصفحات من مستند Word باستخدام Aspose.Words for .NET دليل خطوة بخطوة.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-page-range/
+url: /ar/words/net/split-document/by-page-range/
 ---
 
 ## مقدمة

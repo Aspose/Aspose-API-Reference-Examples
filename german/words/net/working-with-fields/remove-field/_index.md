@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: In dieser Anleitung erfahren Sie, wie Sie mit Aspose.Words für .NET ein bestimmtes Feld in einem Dokument löschen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/remove-field/
+url: /de/words/net/working-with-fields/remove-field/
 ---
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Erläuterung des folgenden C#-Quellcodes, der die Funktion „Feldentfernung“ von Aspose.Words für .NET nutzt. Befolgen Sie jeden Schritt sorgfältig, um die gewünschten Ergebnisse zu erzielen.
 

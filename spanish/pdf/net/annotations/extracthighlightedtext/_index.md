@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a extraer texto resaltado usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs
 weight: 60
-url: /ru/pdf/net/annotations/extracthighlightedtext/
+url: /es/pdf/net/annotations/extracthighlightedtext/
 ---
 Para extraer texto resaltado de un documento PDF, puede usar Aspose.PDF para la API de .NET. Esta API proporciona una forma sencilla de recuperar todo el texto que se ha resaltado en un documento.
 

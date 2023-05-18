@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du kopierar sidhuvuden och sidfötter från föregående avsnitt i Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /sv/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 I denna steg-för-steg handledning kommer vi att guida dig om hur du kopierar sidhuvuden och sidfötter från föregående avsnitt i ett Word-dokument med Aspose.Words för .NET. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لشرح كود مصدر C # لميزة "المقارنة لـ Equals مع Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-for-equal/
+url: /ar/words/net/compare-documents/compare-for-equal/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية استخدام ميزة مقارنة مع Equal مع Aspose.Words for .NET. اتبع الخطوات أدناه لفهم شفرة المصدر وتطبيق التغييرات.

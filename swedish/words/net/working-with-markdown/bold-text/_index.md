@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du gör fet text med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bold-text/
+url: /sv/words/net/working-with-markdown/bold-text/
 ---
 
 I det här exemplet kommer vi att berätta för dig hur du gör fet text med Aspose.Words för .NET. Fet text gör den mer synlig och ger den mer framträdande plats.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF belgelerine içindekiler tablosunu nasıl ekleyeceğinizi öğrenin. Örnek kaynak koduyla adım adım kılavuz. Doküman gezintisini artırın!
 type: docs
 weight: 40
-url: /ru/pdf/net/programming-with-document/addtoc/
+url: /tr/pdf/net/programming-with-document/addtoc/
 ---
 
 Bu eğitimde, Aspose.PDF for .NET'in TOC (İçindekiler) özelliğinin PDF belgelerine bir içindekiler tablosu eklemek için nasıl kullanılacağını keşfedeceğiz. Adım adım bir kılavuz sunacağız ve bunu başarmak için gereken C# kaynak kodunu açıklayacağız. Bu eğitimin sonunda, Aspose.PDF for .NET kullanarak içindekiler tablosu içeren bir PDF belgesi oluşturabileceksiniz.

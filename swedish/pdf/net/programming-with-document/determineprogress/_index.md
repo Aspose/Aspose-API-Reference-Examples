@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du avgör framstegen för ett PDF-dokuments konverteringsprocess med Aspose.PDF för .NET med denna steg-för-steg-guide och kodexempel.
 type: docs
 weight: 110
-url: /ru/pdf/net/programming-with-document/determineprogress/
+url: /sv/pdf/net/programming-with-document/determineprogress/
 ---
 
 Aspose.PDF för .NET tillhandahåller en funktion som låter dig avgöra framstegen för ett PDF-dokuments konverteringsprocess. I den här handledningen kommer vi att ge en steg-för-steg-guide om hur du implementerar den här funktionen med C# och Aspose.PDF för .NET.

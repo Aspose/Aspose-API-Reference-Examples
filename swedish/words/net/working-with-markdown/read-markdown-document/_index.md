@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du läser markdown-dokument med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/read-markdown-document/
+url: /sv/words/net/working-with-markdown/read-markdown-document/
 ---
 
 I det här exemplet kommer vi att gå igenom hur du läser ett Markdown-dokument med Aspose.Words för .NET Markdown är ett lättviktigt uppmärkningsspråk som används för att formatera vanlig text.

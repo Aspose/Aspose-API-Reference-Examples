@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per impostare le informazioni sui file nei tuoi documenti PDF con questa guida dettagliata.
 type: docs
 weight: 310
-url: /ru/pdf/net/programming-with-document/setfileinfo/
+url: /it/pdf/net/programming-with-document/setfileinfo/
 ---
 Se stai lavorando a un progetto che richiede la gestione di file PDF utilizzando Aspose.PDF per .NET, una delle funzionalità che potresti voler utilizzare è la possibilità di impostare le informazioni sui file per un documento PDF. Le informazioni sul file includono vari dettagli come l'autore, la data di creazione, le parole chiave, la data di modifica, l'oggetto e il titolo. Questa guida ti guiderà attraverso il processo di impostazione delle informazioni sul file per un documento PDF utilizzando il codice sorgente C# con Aspose.PDF per .NET.
 

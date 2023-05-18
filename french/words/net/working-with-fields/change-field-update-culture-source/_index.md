@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Modifier la source de culture de mise à jour du champ, guide étape par étape pour modifier la source de culture dans Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /fr/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 Dans ce didacticiel, nous vous guiderons tout au long du processus de modification de la source de culture de mise à jour de champ dans les documents Word à l'aide d'Aspose.Words pour .NET. En modifiant la source de culture, vous pouvez contrôler la mise en forme de la date lors des opérations de mise à jour des champs et de fusion et publipostage. Nous vous fournirons le code source C# nécessaire et des instructions étape par étape pour y parvenir.

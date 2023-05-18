@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki şekilleri gözden geçirin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/shape-revision/
+url: /tr/words/net/working-with-revisions/shape-revision/
 ---
 
 Bu adım adım kılavuzda, Aspose.Words for .NET kullanarak bir Word belgesindeki şekillerde nasıl düzeltmeler yapacağınızı size göstereceğiz. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

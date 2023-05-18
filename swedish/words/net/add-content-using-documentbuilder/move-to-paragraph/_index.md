@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET:s Move To Paragraph-funktion för att navigera och manipulera stycken i Word-dokument programmatiskt.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-paragraph/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-paragraph/
 ---
 
 I det här steg-för-steg-exemplet kommer vi att utforska funktionen Flytta till stycke i Aspose.Words för .NET. Denna funktion låter utvecklare navigera och manipulera stycken i ett Word-dokument programmatiskt. Genom att följa den här guiden lär du dig hur du implementerar och använder funktionen Flytta till stycke effektivt.

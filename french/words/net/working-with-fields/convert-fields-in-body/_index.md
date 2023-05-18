@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour convertir les champs Page en texte dans le corps d'un document Word.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-body/
+url: /fr/words/net/working-with-fields/convert-fields-in-body/
 ---
 
 Dans ce didacticiel pas à pas, nous vous expliquerons comment utiliser la fonctionnalité ConvertFieldsInBody de Aspose.Words pour .NET à l'aide du code source C# fourni. Cette fonctionnalité vous permet de convertir des champs spécifiques du corps de votre document en texte brut, ce qui facilite le traitement de vos documents. Suivez les étapes ci-dessous pour utiliser efficacement cette fonctionnalité.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Handledningar visar hur man infogar fält, uppdaterar filkultur, ersätter fälthyperlänk, tar bort fält och infogar kapslade fält i Word-dokument med Aspose.Words för .NET
 type: docs
 weight: 140
-url: /ru/words/net/working-with-fields/
+url: /sv/words/net/working-with-fields/
 ---
 Det här är en omfattande resurs för att lära dig hur man arbetar med fält i Word-dokument med Aspose.Words för .NET-biblioteket. Handledningarna ger steg-för-steg-förklaringar, detaljerad källkod och praktiska exempel för att effektivt manipulera och hantera fält som fältkoder, uppdateringar, resultatvisningar, IF-villkor, sammanslagningar och mer. Denna resurs är viktig för utvecklare som vill automatisera genereringen och manipuleringen av Word-dokument med Aspose.Words för .NET.
 

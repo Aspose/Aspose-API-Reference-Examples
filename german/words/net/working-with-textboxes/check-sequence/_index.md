@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET die Reihenfolge von Textfeldern in einem Word-Dokument überprüfen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/check-sequence/
+url: /de/words/net/working-with-textboxes/check-sequence/
 ---
 
 ## Schritt 1: Einrichten des Dokuments und Erstellen einer TextBox-Form

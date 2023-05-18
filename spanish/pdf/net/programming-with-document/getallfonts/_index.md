@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener todas las fuentes utilizadas en un documento PDF mediante programación con esta guía paso a paso y código de ejemplo.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /es/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF para .NET es una potente biblioteca que permite a los desarrolladores trabajar con documentos PDF mediante programación. Una de las funciones que ofrece es la posibilidad de obtener todas las fuentes utilizadas en un documento PDF. Esto puede ser útil si necesita analizar o manipular mediante programación las fuentes en un documento PDF.

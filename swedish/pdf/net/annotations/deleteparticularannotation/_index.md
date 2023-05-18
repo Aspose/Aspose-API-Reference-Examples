@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du tar bort en viss anteckning från ett PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 50
-url: /ru/pdf/net/annotations/deleteparticularannotation/
+url: /sv/pdf/net/annotations/deleteparticularannotation/
 ---
 I den här handledningen kommer vi att visa dig hur du använder Aspose.PDF för .NET för att ta bort en viss anteckning från en PDF-fil med C#.
 

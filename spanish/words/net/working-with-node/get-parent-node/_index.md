@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a obtener el nodo principal de un elemento específico con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/get-parent-node/
+url: /es/words/net/working-with-node/get-parent-node/
 ---
 
 Aquí hay una guía paso a paso para explicar el código fuente de C# a continuación que ilustra cómo obtener el nodo principal usando Aspose.Words para .NET.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen cómo aceptar revisiones, obtener tipos de revisión, obtener grupos de revisión, eliminar comentarios en PDF, mostrar revisiones en globos, obtener detalles de grupos de revisión, acceder a la versión revisada, mover nodos en documentos rastreados y dar forma a revisiones usando Aspose.Words para .NET .
 type: docs
 weight: 1130
-url: /ru/words/net/working-with-revisions/
+url: /es/words/net/working-with-revisions/
 ---
 
  ## Tutoriales

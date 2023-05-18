@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Bilder mit Aspose.Words für .NET einfügen und anpassen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/image/
+url: /de/words/net/working-with-markdown/image/
 ---
 
 In diesem Beispiel erklären wir, wie Sie die Bildfunktion mit Aspose.Words für .NET verwenden. Mit Bildern können Sie Illustrationen und Grafiken in ein Dokument einfügen.

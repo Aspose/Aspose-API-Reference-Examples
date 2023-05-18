@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à réinitialiser le numéro d'une liste dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-list/restart-list-number/
+url: /fr/words/net/working-with-list/restart-list-number/
 ---
 Dans ce didacticiel pas à pas, nous vous montrerons comment réinitialiser le numéro d'une liste dans un document Word à l'aide de Aspose.Words pour .NET. Nous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand der Schritt-für-Schritt-Anleitung, wie Sie die Funktion „In Merge-Feld verschieben“ in Aspose.Words für .NET implementieren.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-merge-field/
+url: /de/words/net/add-content-using-documentbuilder/move-to-merge-field/
 ---
 
 In diesem Beispiel untersuchen wir die Funktion „In Merge-Feld verschieben“ von Aspose.Words für .NET. Aspose.Words ist eine leistungsstarke Dokumentbearbeitungsbibliothek, die es Entwicklern ermöglicht, Word-Dokumente programmgesteuert zu erstellen, zu ändern und zu konvertieren. Mit der Funktion „In Zusammenführungsfeld verschieben“ können wir zu Zusammenführungsfeldern innerhalb eines Dokuments navigieren und verschiedene Vorgänge daran ausführen.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till SWF-filer som kommentarer i Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs
 weight: 30
-url: /ru/pdf/net/annotations/addswffileasannotation/
+url: /sv/pdf/net/annotations/addswffileasannotation/
 ---
 Om du är en .NET-utvecklare som vill lägga till en SWF-multimediefil som en anteckning till ditt PDF-dokument med Aspose.PDF för .NET, är den här steg-för-steg-guiden för dig. I den här artikeln kommer vi att förklara hur du lägger till SWF-filer som anteckningar i dina PDF-dokument med programmeringsspråket C#. 
 

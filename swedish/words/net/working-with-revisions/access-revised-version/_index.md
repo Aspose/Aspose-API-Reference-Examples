@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Få tillgång till en reviderad version av ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/access-revised-version/
+url: /sv/words/net/working-with-revisions/access-revised-version/
 ---
 
 den här steg-för-steg-guiden kommer vi att visa dig hur du kommer åt den reviderade versionen av ett Word-dokument med Aspose.Words för .NET. Vi kommer att förse dig med den fullständiga källkoden och visa dig hur du formaterar markdown-utdata.

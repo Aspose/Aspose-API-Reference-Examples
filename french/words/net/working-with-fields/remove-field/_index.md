@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Dans ce guide, vous apprendrez à supprimer un champ spécifique dans un document à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/remove-field/
+url: /fr/words/net/working-with-fields/remove-field/
 ---
 Voici un guide étape par étape pour expliquer le code source C# ci-dessous, qui utilise la fonctionnalité "Suppression de champ" d'Aspose.Words pour .NET. Suivez attentivement chaque étape pour obtenir les résultats souhaités.
 

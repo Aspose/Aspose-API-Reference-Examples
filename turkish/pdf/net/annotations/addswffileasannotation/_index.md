@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'te SWF dosyalarını açıklama olarak nasıl ekleyeceğinizi öğrenin.
 type: docs
 weight: 30
-url: /ru/pdf/net/annotations/addswffileasannotation/
+url: /tr/pdf/net/annotations/addswffileasannotation/
 ---
 Aspose.PDF for .NET kullanarak PDF belgenize ek açıklama olarak bir SWF multimedya dosyası eklemek isteyen bir .NET geliştiricisiyseniz, bu adım adım kılavuz tam size göre. Bu yazıda, C# programlama dilini kullanarak SWF dosyalarını PDF belgelerinize açıklama olarak nasıl ekleyeceğinizi açıklayacağız. 
 

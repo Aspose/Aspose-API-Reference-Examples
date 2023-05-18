@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à rompre les liens dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /fr/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words pour .NET est une bibliothèque puissante qui offre diverses fonctionnalités pour travailler avec des documents Microsoft Word par programmation. L'une de ses fonctionnalités utiles est la possibilité de rompre les liens dans un document. Dans ce didacticiel, nous allons explorer le code source en C# qui montre comment rompre un lien à l'aide de Aspose.Words pour .NET.

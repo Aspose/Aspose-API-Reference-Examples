@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinin önceki bölümlerinden üst bilgileri ve alt bilgileri nasıl kopyalayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
+url: /tr/words/net/working-with-headers-and-footers/copy-headers-footers-from-previous-section/
 ---
 
 Bu adım adım öğreticide, Aspose.Words for .NET kullanarak bir Word belgesindeki önceki bölümdeki üst bilgileri ve alt bilgileri nasıl kopyalayacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET mit Formularfeldeigenschaften in Word-Dokumenten arbeiten.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-formfields/form-fields-work-with-properties/
+url: /de/words/net/working-with-formfields/form-fields-work-with-properties/
 ---
 
 In diesem Schritt-für-Schritt-Tutorial zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET mit Formularfeldeigenschaften in einem Word-Dokument arbeiten. Wir erklären Ihnen den bereitgestellten C#-Quellcode und zeigen Ihnen, wie Sie ihn in Ihren eigenen Projekten implementieren.

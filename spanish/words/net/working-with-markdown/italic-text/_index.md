@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a poner texto en cursiva con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/italic-text/
+url: /es/words/net/working-with-markdown/italic-text/
 ---
 
 En este ejemplo, lo guiaremos a través de cómo usar la función de texto en cursiva con Aspose.Words para .NET. El texto en cursiva se utiliza para enfatizar ciertas partes de un documento.

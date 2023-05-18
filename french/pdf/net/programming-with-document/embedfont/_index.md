@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à incorporer des polices dans un fichier PDF en utilisant Aspose.PDF pour .NET avec ce guide étape par étape. Assurez-vous que vos documents s'affichent correctement sur n'importe quel appareil.
 type: docs
 weight: 120
-url: /ru/pdf/net/programming-with-document/embedfont/
+url: /fr/pdf/net/programming-with-document/embedfont/
 ---
 
 Dans ce didacticiel, nous expliquerons comment incorporer des polices dans un fichier PDF à l'aide d'Aspose.PDF pour .NET. Aspose.PDF pour .NET est une bibliothèque puissante qui permet aux développeurs de créer, modifier et manipuler des documents PDF par programme. Cette bibliothèque fournit un large éventail de fonctionnalités pour travailler avec des documents PDF, y compris l'ajout de texte, d'images, de tableaux et bien plus encore. L'incorporation de polices dans un fichier PDF est une exigence courante pour les développeurs qui souhaitent s'assurer que le fichier PDF s'affiche correctement sur différents appareils, que les polices requises soient installées ou non sur ces appareils.

@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إنشاء مستندات PDF متعددة الطبقات باستخدام الأسلوب الأول مع Aspose.PDF for .NET. أضف نصًا وصورًا والمزيد لتحسين ملفات PDF الخاصة بك.
 type: docs
 weight: 70
-url: /ru/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
+url: /ar/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
 ---
 
 في هذا البرنامج التعليمي ، سنوجهك خلال عملية إنشاء ملف PDF متعدد الطبقات باستخدام الطريقة الأولى مع Aspose.PDF for .NET. يتيح لك هذا الأسلوب إضافة طبقات متعددة إلى مستند PDF الخاص بك. اتبع الدليل المفصل أدناه:

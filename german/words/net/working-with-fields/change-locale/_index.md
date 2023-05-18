@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET das Gebietsschema für die Datums- und Zahlenformatierung in Word-Dokumenten ändern.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-locale/
+url: /de/words/net/working-with-fields/change-locale/
 ---
 
 In diesem Tutorial führen wir Sie durch den Prozess der Änderung des Gebietsschemas in Word-Dokumenten mit Aspose.Words für .NET. Durch Ändern des Gebietsschemas können Sie die Formatierung von Datums- und Zahlenangaben bei Serienbriefvorgängen steuern. Wir stellen Ihnen den notwendigen C#-Quellcode und eine Schritt-für-Schritt-Anleitung zur Verfügung, um dies zu erreichen.

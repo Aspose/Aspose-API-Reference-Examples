@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder nodtyp för att komma åt dokumentspecifik information med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/use-node-type/
+url: /sv/words/net/working-with-node/use-node-type/
 ---
 
 Här är en steg-för-steg-guide för att förklara C#-källkoden nedan som illustrerar hur du använder nodtypens funktionalitet med Aspose.Words för .NET.

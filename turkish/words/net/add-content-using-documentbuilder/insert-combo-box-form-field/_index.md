@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine açılan kutu form alanlarını nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
+url: /tr/words/net/add-content-using-documentbuilder/insert-combo-box-form-field/
 ---
 
 Bu kapsamlı örnekte, Aspose.Words for .NET kullanarak bir Word belgesine birleşik giriş kutusu form alanını nasıl ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, belgelerinize özelleştirilebilir özelliklere sahip birleşik giriş kutusu form alanları ekleyebileceksiniz.

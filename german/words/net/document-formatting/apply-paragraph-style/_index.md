@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET einen Absatzstil anwenden.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-paragraph-style/
+url: /de/words/net/document-formatting/apply-paragraph-style/
 ---
 
 In diesem Tutorial zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET einen Absatzstil anwenden. Führen Sie die folgenden Schritte aus, um den Quellcode zu verstehen und den Absatzstil anzuwenden.

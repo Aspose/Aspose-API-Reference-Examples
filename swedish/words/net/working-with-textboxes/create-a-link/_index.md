@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar en länk mellan TextBoxes i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/create-a-link/
+url: /sv/words/net/working-with-textboxes/create-a-link/
 ---
 
 ## Steg 1: Konfigurera dokumentet och skapa TextBox-former

@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Die Optimierung von Dokumenten für das Web ist für die Benutzererfahrung von entscheidender Bedeutung. Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie dies mit Aspose.PDF für .NET tun.
 type: docs
 weight: 240
-url: /ru/pdf/net/programming-with-document/optimizedocument/
+url: /de/pdf/net/programming-with-document/optimizedocument/
 ---
 Die Optimierung von PDF-Dokumenten für das Web ist ein entscheidender Schritt zur Gewährleistung einer schnellen und effizienten Benutzererfahrung. In dieser Schritt-für-Schritt-Anleitung erfahren Sie, wie Sie mit Aspose.PDF für .NET Ihre PDF-Dokumente für das Web optimieren.
 

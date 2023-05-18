@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar y manipular TCFields en documentos de Word usando C# y Aspose.Words para .NET en esta guía paso a paso.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-tcfield/
+url: /es/words/net/add-content-using-documentbuilder/insert-tcfield/
 ---
 
 En este ejemplo, lo guiaremos a través del proceso de uso de la función Insertar TCField de Aspose.Words para .NET. El TCField representa una entrada de tabla de contenido en un documento de Word. Proporcionaremos una explicación paso a paso del código fuente de C#, junto con el resultado esperado en formato de descuento. ¡Empecemos!

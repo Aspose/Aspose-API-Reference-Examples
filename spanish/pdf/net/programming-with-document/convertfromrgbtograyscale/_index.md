@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a convertir archivos PDF de RGB a escala de grises con Aspose.PDF para .NET. Mejore la calidad de impresión y reduzca el tamaño del archivo.
 type: docs
 weight: 60
-url: /ru/pdf/net/programming-with-document/convertfromrgbtograyscale/
+url: /es/pdf/net/programming-with-document/convertfromrgbtograyscale/
 ---
 
 En este tutorial, lo guiaremos a través del proceso de conversión de un documento PDF de espacio de color RGB a escala de grises usando Aspose.PDF para .NET. Esta conversión puede ser útil para varios propósitos, como reducir el tamaño del archivo o preparar documentos para imprimir. Siga la guía paso a paso a continuación:

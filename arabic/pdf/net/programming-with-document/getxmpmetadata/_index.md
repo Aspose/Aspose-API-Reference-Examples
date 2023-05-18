@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetXmpMetadata في Aspose.PDF for .NET لاستخراج بيانات XMP الوصفية من مستند PDF باستخدام كود مصدر C #.
 type: docs
 weight: 200
-url: /ru/pdf/net/programming-with-document/getxmpmetadata/
+url: /ar/pdf/net/programming-with-document/getxmpmetadata/
 ---
 
  Aspose.PDF for .NET هي مكتبة شائعة لمعالجة ملفات PDF تتيح للمطورين إنشاء ملفات PDF وتحريرها وتحويلها في تطبيقات .NET الخاصة بهم. تتمثل إحدى الميزات التي توفرها هذه المكتبة في القدرة على استخراج بيانات تعريف XMP من مستند PDF. سيرشدك هذا البرنامج التعليمي خلال خطوات استخدام ملف`GetXmpMetadata` ميزة Aspose.PDF for .NET لاستخراج بيانات XMP الوصفية من مستند PDF.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: احصل على أنواع المراجعات في مستند Word باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-types/
+url: /ar/words/net/working-with-revisions/get-revision-types/
 ---
 
 في هذا الدليل التدريجي ، سنخبرك بكيفية الحصول على أنواع المراجعات في مستند Word باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

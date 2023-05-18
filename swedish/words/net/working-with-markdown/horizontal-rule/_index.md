@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar en horisontell regel med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/horizontal-rule/
+url: /sv/words/net/working-with-markdown/horizontal-rule/
 ---
 
 I det här exemplet kommer vi att visa dig hur du använder den horisontella regelfunktionen med Aspose.Words för .NET. Horisontella regler används för att visuellt separera delar av ett dokument.

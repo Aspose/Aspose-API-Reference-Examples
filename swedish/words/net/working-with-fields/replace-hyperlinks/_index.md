@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Ersätt hyperlänkar i Word-dokument med Aspose.Words för .NET. Steg-för-steg-instruktioner för att ersätta hyperlänkar.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/replace-hyperlinks/
+url: /sv/words/net/working-with-fields/replace-hyperlinks/
 ---
 
 Här är en steg-för-steg-guide för att förklara följande C#-källkod för att ersätta hyperlänkar med Aspose.Words för .NET-funktionalitet. Se till att du har inkluderat Aspose.Words-biblioteket i ditt projekt innan du använder den här koden.

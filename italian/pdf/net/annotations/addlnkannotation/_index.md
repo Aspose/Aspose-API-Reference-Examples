@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiungere la funzionalità di annotazione a penna ai documenti PDF in C# utilizzando Aspose.PDF per .NET con guida dettagliata e codice sorgente completo.
 type: docs
 weight: 20
-url: /ru/pdf/net/annotations/addlnkannotation/
+url: /it/pdf/net/annotations/addlnkannotation/
 ---
 Aspose.PDF per .NET è una potente libreria che consente agli sviluppatori di eseguire varie operazioni PDF. Una di queste operazioni è l'aggiunta di annotazioni a penna ai documenti PDF. In questo articolo, forniremo una guida dettagliata per spiegare il codice sorgente C# per l'aggiunta di annotazioni a penna usando Aspose.PDF per .NET. Iniziamo!
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Eksiksiz bir kod örneği ile Aspose.Words for .NET kullanarak bir Word belgesini nasıl ayrı bölümlere ayıracağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections/
+url: /tr/words/net/split-document/by-sections/
 ---
 
 Bu örnekte, Aspose.Words for .NET'in Bölümlere Göre özelliğini kullanarak bir Word belgesini nasıl ayrı bölümlere ayıracağınızı göstereceğiz. Kaynak kodunu anlamak ve her bölüm için ayrı belgeler almak için aşağıdaki adımları izleyin.

@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ dans vos documents Word avec Aspose.Words pour .NET. Personnalisez vos documents avec des champs dynamiques.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-field/
+url: /fr/words/net/working-with-fields/insert-field/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous, qui utilise la fonctionnalité "Insérer un champ" de Aspose.Words pour .NET. Assurez-vous de suivre attentivement chaque étape pour obtenir les résultats souhaités.

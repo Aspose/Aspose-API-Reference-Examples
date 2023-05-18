@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تمكين ميزات Open Type واستخدامها في Aspose.Words for .NET
 type: docs
 weight: 10
-url: /ru/words/net/enable-opentype-features/open-type-features/
+url: /ar/words/net/enable-opentype-features/open-type-features/
 ---
 
 في هذا البرنامج التعليمي الشامل ، ستتعلم كيفية تمكين ميزات Open Type واستخدامها في Aspose.Words for .NET. سنوجهك خلال العملية ونزودك بمقتطفات كود C # الضرورية. بنهاية هذا الدليل ، ستتمكن من العمل باستخدام ميزات Open Type في مستندات Word الخاصة بك.

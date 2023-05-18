@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Muestre revisiones en globos con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/show-revisions-in-balloons/
+url: /es/words/net/working-with-revisions/show-revisions-in-balloons/
 ---
 
 En esta guía paso a paso, le mostraremos cómo mostrar revisiones en globos en un documento de Word usando Aspose.Words para .NET. Le proporcionaremos el código fuente completo y le mostraremos cómo formatear la salida de Markdown.

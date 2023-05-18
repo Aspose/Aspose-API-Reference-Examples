@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare il callback della sillabazione in Aspose.Words per .NET per gestire la sillabazione delle parole.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /it/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 In questo tutorial passo-passo, ti mostreremo come utilizzare la funzione di callback della sillabazione in Aspose.Words per .NET. Spiegheremo il codice sorgente C# fornito e ti mostreremo come implementarlo nei tuoi progetti.

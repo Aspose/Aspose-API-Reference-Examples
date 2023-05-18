@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar el estilo de texto tachado con la guía paso a paso de Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/strikethrough/
+url: /es/words/net/working-with-markdown/strikethrough/
 ---
 
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لشرح شفرة المصدر C # لميزة Aspose.Words صفحة بصفحة لـ .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/page-by-page/
+url: /ar/words/net/split-document/page-by-page/
 ---
 
 في هذا البرنامج التعليمي ، سنرشدك إلى كيفية تقسيم مستند Word إلى صفحات فردية باستخدام ميزة صفحة بصفحة في Aspose.Words for .NET. اتبع الخطوات أدناه لفهم شفرة المصدر والحصول على مستندات منفصلة لكل صفحة.

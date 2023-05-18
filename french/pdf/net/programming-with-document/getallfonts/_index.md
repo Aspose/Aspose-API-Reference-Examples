@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour obtenir toutes les polices utilisées dans un document PDF par programmation avec ce guide étape par étape et un exemple de code.
 type: docs
 weight: 160
-url: /ru/pdf/net/programming-with-document/getallfonts/
+url: /fr/pdf/net/programming-with-document/getallfonts/
 ---
 
 Aspose.PDF pour .NET est une bibliothèque puissante qui permet aux développeurs de travailler avec des documents PDF par programmation. L'une des fonctionnalités qu'il offre est la possibilité d'obtenir toutes les polices utilisées dans un document PDF. Cela peut être utile si vous avez besoin d'analyser ou de manipuler par programme les polices dans un document PDF.

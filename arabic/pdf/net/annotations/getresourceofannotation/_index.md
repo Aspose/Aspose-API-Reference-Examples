@@ -5,7 +5,7 @@ second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استرداد مورد أحد التعليقات التوضيحية باستخدام Aspose.PDF for .NET باستخدام هذا الدليل التفصيلي خطوة بخطوة.
 type: docs
 weight: 90
-url: /ru/pdf/net/annotations/getresourceofannotation/
+url: /ar/pdf/net/annotations/getresourceofannotation/
 ---
 
 يوضح المثال كيفية الحصول على مورد التعليق التوضيحي باستخدام Aspose.PDF لـ .NET. للحصول على مورد أحد التعليقات التوضيحية باستخدام Aspose.PDF لـ .NET ، اتبع الخطوات التالية:

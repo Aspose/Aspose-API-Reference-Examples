@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: انقل العقد في مستند تم تعقبه باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/move-node-in-tracked-document/
+url: /ar/words/net/working-with-revisions/move-node-in-tracked-document/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سنرشدك إلى كيفية تحريك عقدة في مستند Word متعقب باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

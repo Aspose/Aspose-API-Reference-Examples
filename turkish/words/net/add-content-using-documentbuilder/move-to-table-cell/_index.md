@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Tablo Hücresine Taşı'yı kullanmak için adım adım kılavuz
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-table-cell/
+url: /tr/words/net/add-content-using-documentbuilder/move-to-table-cell/
 ---
 
 Bu örnekte, sağlanan C# kaynak kodunu kullanarak Aspose.Words for .NET'in Tablo Hücresine Taşı özelliğini adım adım nasıl kullanacağınız konusunda size yol göstereceğiz. Bu özellik, bir Word belgesindeki bir tablonun içindeki belirli hücrelerde gezinmenizi ve bu hücreleri değiştirmenizi sağlar. Bu işlevi uygulamanıza entegre etmek için aşağıdaki adımları izleyin.

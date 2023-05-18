@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'i kullanarak PDF belgelerinizdeki dosya bilgilerini nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 310
-url: /ru/pdf/net/programming-with-document/setfileinfo/
+url: /tr/pdf/net/programming-with-document/setfileinfo/
 ---
 Aspose.PDF for .NET kullanarak PDF dosyalarını yönetmeyi gerektiren bir proje üzerinde çalışıyorsanız, kullanmak isteyebileceğiniz özelliklerden biri, bir PDF belgesi için dosya bilgilerini ayarlama yeteneğidir. Dosya bilgileri, yazar, oluşturma tarihi, anahtar sözcükler, değiştirilme tarihi, konu ve başlık gibi çeşitli ayrıntıları içerir. Bu kılavuz, Aspose.PDF for .NET ile C# kaynak kodunu kullanarak bir PDF belgesi için dosya bilgilerini ayarlama sürecinde size yol gösterecektir.
 

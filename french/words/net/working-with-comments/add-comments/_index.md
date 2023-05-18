@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ajouter des commentaires aux documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-comments/add-comments/
+url: /fr/words/net/working-with-comments/add-comments/
 ---
 
 Dans ce didacticiel complet, vous apprendrez à ajouter des commentaires à un document Word à l'aide de Aspose.Words pour .NET. Nous vous guiderons tout au long du processus et vous fournirons les extraits de code C# nécessaires. À la fin de ce guide, vous serez en mesure d'insérer des commentaires et de personnaliser leur contenu dans vos documents.

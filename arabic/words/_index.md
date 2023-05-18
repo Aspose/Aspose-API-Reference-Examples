@@ -4,7 +4,7 @@ additionalTitle: مراجع Aspose API
 description: البرامج التعليمية ومقتطفات التعليمات البرمجية لعائلة منتجات Aspose.Words. يتضمن دروسًا أساسية ومتقدمة حول استخدام Aspose.Words.
 type: docs
 weight: 10
-url: /ru/words/
+url: /ar/words/
 is_root: true
 ---
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, html başlıklarına göre, html bölümlerine göre, bölümlere göre, sayfa sayfa, belgeleri birleştirme ve sayfa aralığına göre içerir
 type: docs
 weight: 1450
-url: /ru/words/net/split-document/
+url: /tr/words/net/split-document/
 ---
 Bölünmüş Belge, Aspose.Words for .NET kitaplığı kullanılarak bir belgenin nasıl ayrı parçalara bölüneceğini açıklayan kapsamlı bir kaynaktır. Öğreticiler, ayrıntılı adım adım açıklamalar, eksiksiz kaynak kodu örnekleri ve bir belgeyi sayfa, bölüm, paragraf sayısı vb. farklı koşullara göre bölmek için pratik ipuçları sağlar. Bu kaynak, otomatikleştirmek isteyen geliştiriciler için gereklidir. büyük belgeleri bölme ve tek tek parçaların yönetimini basitleştirme süreci. Aspose.Words for .NET ile, belge işleme iş akışınızın verimliliğini ve esnekliğini büyük ölçüde artırarak, bir belgenin farklı bölümlerini kolayca çıkarabilir, kaydedebilir ve değiştirebilirsiniz.
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du konverterar PDF-dokument till JPEG-bilder med Aspose.Words för .NET. Steg-för-steg handledning med exempel på källkod.
 type: docs
 weight: 10
-url: /ru/words/net/basic-conversions/pdf-to-jpeg/
+url: /sv/words/net/basic-conversions/pdf-to-jpeg/
 ---
 
 I denna steg-för-steg handledning kommer vi att guida dig om hur du använder Aspose.Words för .NET för att konvertera ett PDF-dokument till JPEG-bilder. Vi kommer att förklara den medföljande C#-källkoden och visa dig hur du implementerar den i dina egna projekt.

@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile üzeri çizili metin stilini nasıl uygulayacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/strikethrough/
+url: /tr/words/net/working-with-markdown/strikethrough/
 ---
 
 

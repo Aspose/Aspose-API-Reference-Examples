@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Verwendung von „In Tabellenzelle verschieben“ in Aspose.Words für .NET
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-table-cell/
+url: /de/words/net/add-content-using-documentbuilder/move-to-table-cell/
 ---
 
 In diesem Beispiel führen wir Sie Schritt für Schritt durch die Verwendung der Funktion „In Tabellenzelle verschieben“ von Aspose.Words für .NET mithilfe des bereitgestellten C#-Quellcodes. Mit dieser Funktion können Sie in einer Tabelle in einem Word-Dokument durch bestimmte Zellen navigieren und diese bearbeiten. Führen Sie die folgenden Schritte aus, um diese Funktionalität in Ihre Anwendung zu integrieren.

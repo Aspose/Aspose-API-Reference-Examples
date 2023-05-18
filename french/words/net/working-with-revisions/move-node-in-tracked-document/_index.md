@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Déplacez les nœuds dans un document suivi avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/move-node-in-tracked-document/
+url: /fr/words/net/working-with-revisions/move-node-in-tracked-document/
 ---
 
 Dans ce guide étape par étape, nous vous expliquerons comment déplacer un nœud dans un document Word suivi à l'aide de Aspose.Words pour .NET. Nous vous fournirons le code source complet et vous montrerons comment formater la sortie Markdown.

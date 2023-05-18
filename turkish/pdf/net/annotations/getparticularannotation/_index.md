@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF belgesinde belirli açıklamaları almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 80
-url: /ru/pdf/net/annotations/getparticularannotation/
+url: /tr/pdf/net/annotations/getparticularannotation/
 ---
 .NET'te PDF'lerle çalışıyorsanız, bir PDF belgesinden belirli bir not alma ihtiyacı duyabilirsiniz. Bu kılavuzda, C# kullanarak bir PDF belgesinden belirli bir açıklamayı almak için Aspose.PDF for .NET'i nasıl kullanacağınızı göstereceğiz.
 

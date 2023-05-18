@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak kullanılmayan akışları PDF dosyalarından nasıl kaldıracağınızı öğrenin. Adım adım kılavuzumuz.
 type: docs
 weight: 270
-url: /ru/pdf/net/programming-with-document/removeunusedstreams/
+url: /tr/pdf/net/programming-with-document/removeunusedstreams/
 ---
 Bu örnekte, Aspose.PDF for .NET kullanılarak kullanılmayan akışların PDF belgelerinden nasıl kaldırılacağını tartışacağız. Açıklamalı tam kaynak kodu da dahil olmak üzere, bunun nasıl yapılacağına dair adım adım bir kılavuz sağlayacağız.
 

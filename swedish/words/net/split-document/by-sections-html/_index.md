@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du delar upp ett Word-dokument i sektioner HTML med Aspose.Words för .NET med komplett kodexempel.
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-sections-html/
+url: /sv/words/net/split-document/by-sections-html/
 ---
 
 det här exemplet kommer vi att visa dig hur du delar upp ett Word-dokument i separata sektioner i HTML-format med hjälp av funktionen By HTML Sections i Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och generera separata HTML-dokument för varje avsnitt.

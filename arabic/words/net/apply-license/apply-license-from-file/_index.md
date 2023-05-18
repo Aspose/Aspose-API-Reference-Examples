@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق ترخيص من ملف باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/apply-license/apply-license-from-file/
+url: /ar/words/net/apply-license/apply-license-from-file/
 ---
 
 ## مقدمة

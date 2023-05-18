@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Få versionsgrupper i ett Word-dokument med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-groups/
+url: /sv/words/net/working-with-revisions/get-revision-groups/
 ---
 
 I den här steg-för-steg-guiden kommer vi att berätta hur du får versionsgrupperna i ett Word-dokument med Aspose.Words för .NET. Vi kommer att förse dig med den fullständiga källkoden och visa dig hur du formaterar markdown-utdata.

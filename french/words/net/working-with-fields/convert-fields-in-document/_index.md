@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour convertir les champs de document en texte à l'aide d'Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-document/
+url: /fr/words/net/working-with-fields/convert-fields-in-document/
 ---
 
 Dans ce didacticiel, nous vous guiderons étape par étape à l'aide de la fonction ConvertFieldsInDocument du logiciel Aspose.Words pour .NET. Nous expliquerons en détail le code source C# nécessaire pour cette fonctionnalité et fournirons des exemples de formats de sortie Markdown.

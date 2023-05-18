@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak değiştirme sırasında nasıl belge ekleyeceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-replace/
+url: /tr/words/net/clone-and-combine-documents/insert-document-at-replace/
 ---
 
 Bu öğreticide, Aspose.Words for .NET'in Insert Document When Changeing özelliğini kullanarak değiştirirken bir belgeyi başka bir belgeye nasıl ekleyeceğinizi size göstereceğiz. Kaynak kodunu anlamak ve belge ekleme işlemini gerçekleştirmek için aşağıdaki adımları izleyin.

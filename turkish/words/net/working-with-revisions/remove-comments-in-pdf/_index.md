@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir PDF dosyasındaki yorumları kaldırın.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/remove-comments-in-pdf/
+url: /tr/words/net/working-with-revisions/remove-comments-in-pdf/
 ---
 
 Bu adım adım kılavuzda, Aspose.Words for .NET kullanarak bir PDF dosyasındaki yorumları nasıl kaldıracağınızı anlatacağız. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

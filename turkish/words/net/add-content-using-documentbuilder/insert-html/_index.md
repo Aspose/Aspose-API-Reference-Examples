@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak HTML içeriğini Word belgelerine nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-html/
+url: /tr/words/net/add-content-using-documentbuilder/insert-html/
 ---
 
 Bu kapsamlı öğreticide, Aspose.Words for .NET kullanarak HTML içeriğini bir Word belgesine nasıl ekleyeceğinizi öğreneceksiniz. Süreç boyunca size rehberlik edeceğiz ve size gerekli C# kod parçacıklarını sağlayacağız. Bu kılavuzun sonunda, Word belgelerinize HTML öğeleri, biçimlendirme ve stiller ekleyebileceksiniz.

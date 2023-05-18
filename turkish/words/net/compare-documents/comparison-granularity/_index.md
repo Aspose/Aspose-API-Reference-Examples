@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in, belgelerin karakter karakter karşılaştırılmasına ve yapılan değişikliklerin raporlanmasına olanak tanıyan Karşılaştırma Tanecikliğini Öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/comparison-granularity/
+url: /tr/words/net/compare-documents/comparison-granularity/
 ---
 Aşağıda, Aspose.Words for .NET'in Granülariteyi Karşılaştır özelliğini kullanan C# kaynak kodunu adım adım açıklayan bir kılavuz bulunmaktadır.
 

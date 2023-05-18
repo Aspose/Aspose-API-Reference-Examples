@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener una anotación particular en un documento PDF con esta guía paso a paso.
 type: docs
 weight: 80
-url: /ru/pdf/net/annotations/getparticularannotation/
+url: /es/pdf/net/annotations/getparticularannotation/
 ---
 Si está trabajando con archivos PDF en .NET, es posible que necesite obtener una anotación particular de un documento PDF. En esta guía, le mostraremos cómo usar Aspose.PDF para .NET para obtener una anotación particular de un documento PDF usando C#.
 

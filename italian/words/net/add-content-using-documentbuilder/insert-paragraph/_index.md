@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire paragrafi formattati nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-paragraph/
+url: /it/words/net/add-content-using-documentbuilder/insert-paragraph/
 ---
 
 In questo tutorial completo imparerai come inserire paragrafi in un documento Word usando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di aggiungere paragrafi formattati ai tuoi documenti.

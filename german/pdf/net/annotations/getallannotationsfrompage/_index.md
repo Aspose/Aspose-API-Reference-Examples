@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET alle Anmerkungen von einer PDF-Seite abrufen.
 type: docs
 weight: 70
-url: /ru/pdf/net/annotations/getallannotationsfrompage/
+url: /de/pdf/net/annotations/getallannotationsfrompage/
 ---
 Dieser Artikel führt Sie durch den Prozess des Extrahierens aller Anmerkungen aus einer PDF-Seite mit Aspose.PDF für .NET. Aspose.PDF für .NET ist eine Bibliothek, mit der Entwickler PDF-Dokumente erstellen, bearbeiten und konvertieren können. Mithilfe dieses Handbuchs können Sie mithilfe des bereitgestellten C#-Quellcodes alle Anmerkungen einer bestimmten PDF-Seite abrufen.
 

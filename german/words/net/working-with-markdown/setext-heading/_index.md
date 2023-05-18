@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Setext-Überschriften zum Formatieren Ihrer Dokumente mit Aspose.Words für .NET verwenden.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/setext-heading/
+url: /de/words/net/working-with-markdown/setext-heading/
 ---
 
 In diesem Tutorial führen wir Sie durch die Verwendung der Setext-Überschriftenfunktion mit Aspose.Words für .NET. Setext-Überschriften sind eine alternative Methode zum Formatieren von Titeln in Markdown-Dokumenten.

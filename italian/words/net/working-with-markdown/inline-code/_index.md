@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come incorporare il codice con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/inline-code/
+url: /it/words/net/working-with-markdown/inline-code/
 ---
 
 In questo esempio, ti illustreremo come utilizzare la funzione di codice inline con Aspose.Words per .NET. Il codice in linea viene utilizzato per rappresentare visivamente parti di codice all'interno di un paragrafo.

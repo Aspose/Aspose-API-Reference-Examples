@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare le proprietà per la finestra di dialogo di stampa in Aspose.PDF per .NET utilizzando la guida dettagliata.
 type: docs
 weight: 320
-url: /ru/pdf/net/programming-with-document/setpropertiesforprintdialog/
+url: /it/pdf/net/programming-with-document/setpropertiesforprintdialog/
 ---
 ecco una guida dettagliata per l'impostazione delle proprietà per la finestra di dialogo di stampa utilizzando Aspose.PDF per .NET:
 

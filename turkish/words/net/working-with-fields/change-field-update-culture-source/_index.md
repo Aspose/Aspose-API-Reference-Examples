@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Alanı Değiştir Kültür Kaynağını Güncelle, Aspose.Words for .NET'te kültür kaynağını değiştirmek için adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/change-field-update-culture-source/
+url: /tr/words/net/working-with-fields/change-field-update-culture-source/
 ---
 
 Bu öğreticide, Aspose.Words for .NET kullanarak Word belgelerindeki alan güncelleme kültürü kaynağını değiştirme sürecinde size rehberlik edeceğiz. Kültür kaynağını değiştirerek, alan güncelleme ve adres mektup birleştirme işlemleri sırasında tarih biçimlendirmesini kontrol edebilirsiniz. Bunu başarmak için size gerekli C# kaynak kodunu ve adım adım yönergeleri sağlayacağız.

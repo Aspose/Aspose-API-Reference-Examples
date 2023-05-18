@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono l'esportazione in markdown con l'allineamento del contenuto della tabella e la cartella delle immagini impostate
 type: docs
 weight: 1640
-url: /ru/words/net/programming-with-markdownsaveoptions/
+url: /it/words/net/programming-with-markdownsaveoptions/
 ---
 
 La programmazione con MarkdownSaveOptions è una risorsa approfondita che ti guida attraverso la programmazione con MarkdownSaveOptions utilizzando la libreria Aspose.Words per .NET. I tutorial forniscono spiegazioni dettagliate, codice sorgente completo ed esempi pratici per comprendere e utilizzare MarkdownSaveOptions per esportare documenti di Word in formato Markdown. Imparerai come personalizzare le opzioni di esportazione, come la gestione delle immagini, l'allineamento del contenuto della tabella, la conversione degli stili e altro ancora. Questa risorsa è essenziale per gli sviluppatori che desiderano integrare la funzionalità di esportazione Markdown nelle loro applicazioni utilizzando Aspose.Words per .NET.

@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una lista con viñetas con Aspose.Words para la guía paso a paso de .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /es/words/net/working-with-markdown/bulleted-list/
 ---
 
 En este tutorial, le diremos cómo crear una lista con viñetas con Aspose.Words para .NET. Una lista con viñetas se usa para enumerar elementos sin usar numeración.

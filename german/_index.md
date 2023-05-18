@@ -4,7 +4,7 @@ additionalTitle: Aspose API-Referenzen
 description: Tutorials und Codeausschnitte von Aspose-Produkten wie Aspose.Words, Aspose.Cells, Aspose.PDF und anderen Produkten. Es enthält grundlegende und fortgeschrittene Tutorials zur Verwendung von Aspose-Produkten.
 type: docs
 weight: 10
-url: /ru/
+url: /de/
 ---
 
 ## Aspose.Words

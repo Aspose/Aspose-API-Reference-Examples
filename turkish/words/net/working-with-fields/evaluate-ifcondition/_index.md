@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizdeki IF koşulunu değerlendirmek için adım adım kılavuz.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/evaluate-ifcondition/
+url: /tr/words/net/working-with-fields/evaluate-ifcondition/
 ---
 
 Aspose.Words for .NET'in "IF Koşulunu Değerlendir" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.

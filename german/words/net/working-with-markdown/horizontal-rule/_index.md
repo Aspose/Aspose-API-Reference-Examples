@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET eine horizontale Regel einfügen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/horizontal-rule/
+url: /de/words/net/working-with-markdown/horizontal-rule/
 ---
 
 In diesem Beispiel zeigen wir Ihnen, wie Sie die horizontale Regelfunktion mit Aspose.Words für .NET verwenden. Horizontale Lineale werden verwendet, um Abschnitte eines Dokuments visuell zu trennen.

@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du exporterar tabellinnehåll med olika justeringar till Markdown-filer med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
+url: /sv/words/net/programming-with-markdownsaveoptions/export-into-markdown-with-table-content-alignment/
 ---
 Här är en steg-för-steg-guide för att förklara följande C#-källkod som hjälper till att exportera innehåll till en Markdown-fil med tabellinnehållsjustering med hjälp av Aspose.Words-biblioteket för .NET. Se till att du har inkluderat Aspose.Words-biblioteket i ditt projekt innan du använder den här koden.
 

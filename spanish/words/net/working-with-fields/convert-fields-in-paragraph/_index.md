@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Convierta los campos IF en texto sin formato en un párrafo con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /es/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 Aquí hay un tutorial que demuestra cómo usar la función Convertir campos en párrafo con Aspose.Words para .NET. Este código convierte todos los campos de tipo IF que se encuentran en el último párrafo de un documento en texto sin formato. Siga los pasos a continuación para comprender y ejecutar este código.

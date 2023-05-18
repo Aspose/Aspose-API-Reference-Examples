@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie PDFs optimieren, indem Sie die Funktion „Wiederverwendung von Seiteninhalten zulassen“ mit Aspose.PDF für .NET aktivieren. Reduzieren Sie die Dateigröße und verbessern Sie die Leistung.
 type: docs
 weight: 50
-url: /ru/pdf/net/programming-with-document/allowresusepagecontent/
+url: /de/pdf/net/programming-with-document/allowresusepagecontent/
 ---
 
 In diesem Tutorial erklären wir, wie Sie die Funktion „Wiederverwendung von Seiteninhalt zulassen“ mit Aspose.PDF für .NET aktivieren. Diese Funktion optimiert das PDF-Dokument durch die Wiederverwendung von Seiteninhalten, reduziert die Dateigröße und verbessert die Leistung. Befolgen Sie die nachstehende Schritt-für-Schritt-Anleitung:

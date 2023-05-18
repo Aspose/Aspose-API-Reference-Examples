@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come interrompere i collegamenti in un documento di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-textboxes/break-a-link/
+url: /it/words/net/working-with-textboxes/break-a-link/
 ---
 
 Aspose.Words per .NET è una potente libreria che offre varie funzionalità per lavorare con i documenti di Microsoft Word a livello di programmazione. Una delle sue funzioni utili è la capacità di interrompere i collegamenti all'interno di un documento. In questo tutorial, esploreremo il codice sorgente in C# che dimostra come interrompere un collegamento utilizzando Aspose.Words per .NET.

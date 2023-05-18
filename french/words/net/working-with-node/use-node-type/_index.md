@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le type de nœud pour accéder aux informations spécifiques au document avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-node/use-node-type/
+url: /fr/words/net/working-with-node/use-node-type/
 ---
 
 Voici un guide étape par étape pour expliquer le code source C # ci-dessous qui illustre comment utiliser la fonctionnalité de type de nœud avec Aspose.Words pour .NET.

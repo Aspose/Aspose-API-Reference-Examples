@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder anpassad formatering på dina stycken med Aspose.Words för .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/paragraph-formatting/
+url: /sv/words/net/document-formatting/paragraph-formatting/
 ---
 
 I den här handledningen kommer vi att gå igenom hur du använder styckeformateringsfunktionen med Aspose.Words för .NET. Följ stegen nedan för att förstå källkoden och tillämpa ändringarna.

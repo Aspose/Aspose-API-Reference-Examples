@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Asya paragraf aralığını ve girintileri nasıl değiştireceğinizi öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
+url: /tr/words/net/document-formatting/change-asian-paragraph-spacing-and-indents/
 ---
 
 Bu eğitimde, Aspose.Words for .NET'i kullanarak bir Asya paragrafındaki boşlukları ve girintileri nasıl değiştireceğiniz konusunda size yol göstereceğiz. Kaynak kodunu anlamak ve değişiklikleri uygulamak için aşağıdaki adımları izleyin.

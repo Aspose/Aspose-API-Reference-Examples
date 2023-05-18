@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET eine Aufzählungsliste erstellen.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /de/words/net/working-with-markdown/bulleted-list/
 ---
 
 In diesem Tutorial erklären wir Ihnen, wie Sie mit Aspose.Words für .NET eine Liste mit Aufzählungszeichen erstellen. Eine Liste mit Aufzählungszeichen wird verwendet, um Elemente ohne Nummerierung aufzulisten.

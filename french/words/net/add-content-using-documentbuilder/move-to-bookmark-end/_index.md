@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour passer à la fin d'un signet dans des documents Word avec ce guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
+url: /fr/words/net/add-content-using-documentbuilder/move-to-bookmark-end/
 ---
 
 Dans cet exemple, nous allons explorer la fonctionnalité Move To Bookmark End de Aspose.Words pour .NET. Aspose.Words est une puissante bibliothèque de manipulation de documents qui permet aux développeurs de créer, modifier et convertir des documents Word par programmation. La fonctionnalité Déplacer vers la fin du signet nous permet de naviguer jusqu'à la fin d'un signet spécifique dans un document et d'ajouter du contenu après celui-ci.

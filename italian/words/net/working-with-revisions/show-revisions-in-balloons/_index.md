@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Mostra le revisioni nei fumetti con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/show-revisions-in-balloons/
+url: /it/words/net/working-with-revisions/show-revisions-in-balloons/
 ---
 
 In questa guida dettagliata, ti mostreremo come mostrare le revisioni nei fumetti in un documento Word utilizzando Aspose.Words per .NET. Ti forniremo il codice sorgente completo e ti mostreremo come formattare l'output del markdown.

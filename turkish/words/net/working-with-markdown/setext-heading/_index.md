@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile belgelerinizi biçimlendirmek için Setext başlıklarını nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/setext-heading/
+url: /tr/words/net/working-with-markdown/setext-heading/
 ---
 
 Bu öğreticide, Setex Heading özelliğini Aspose.Words for .NET ile nasıl kullanacağınız konusunda size yol göstereceğiz. Setex Heading, Markdown belgelerinde başlıkları biçimlendirmenin alternatif bir yöntemidir.

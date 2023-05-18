@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para explicar el código fuente C# de la función HTML Por encabezado de Aspose.Words para .NET
 type: docs
 weight: 10
-url: /ru/words/net/split-document/by-headings-html/
+url: /es/words/net/split-document/by-headings-html/
 ---
 En este tutorial, lo guiaremos a través de cómo dividir un documento de Word en partes más pequeñas utilizando la función Por encabezado HTML de Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y generar documentos HTML separados basados en el encabezado.
 

@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du optimerar PDF-filer genom att aktivera funktionen "Tillåt återanvänd sidinnehåll" med Aspose.PDF för .NET. Minska filstorleken och förbättra prestandan.
 type: docs
 weight: 50
-url: /ru/pdf/net/programming-with-document/allowresusepagecontent/
+url: /sv/pdf/net/programming-with-document/allowresusepagecontent/
 ---
 
 I den här handledningen kommer vi att förklara hur du aktiverar funktionen "Tillåt återanvänd sidinnehåll" med Aspose.PDF för .NET. Den här funktionen optimerar PDF-dokumentet genom att återanvända sidinnehåll, minska filstorleken och förbättra prestanda. Följ steg-för-steg-guiden nedan:

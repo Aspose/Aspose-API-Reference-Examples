@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le code indenté avec le guide pas à pas Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/indented-code/
+url: /fr/words/net/working-with-markdown/indented-code/
 ---
 
 Dans cet exemple, nous expliquerons comment utiliser la fonctionnalité de code indenté avec Aspose.Words pour .NET. Le code indenté est utilisé pour représenter visuellement des blocs de code avec une mise en forme spécifique.

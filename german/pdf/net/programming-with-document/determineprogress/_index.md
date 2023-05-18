@@ -5,7 +5,7 @@ second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit dieser Schritt-für-Schritt-Anleitung und dem Codebeispiel, wie Sie den Fortschritt des Konvertierungsprozesses eines PDF-Dokuments mit Aspose.PDF für .NET ermitteln können.
 type: docs
 weight: 110
-url: /ru/pdf/net/programming-with-document/determineprogress/
+url: /de/pdf/net/programming-with-document/determineprogress/
 ---
 
 Aspose.PDF für .NET bietet eine Funktion, mit der Sie den Fortschritt des Konvertierungsprozesses eines PDF-Dokuments bestimmen können. In diesem Tutorial stellen wir eine Schritt-für-Schritt-Anleitung zur Implementierung dieser Funktion mit C# und Aspose.PDF für .NET bereit.

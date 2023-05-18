@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile IF alanlarını bir paragraftaki düz metne dönüştürün.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/convert-fields-in-paragraph/
+url: /tr/words/net/working-with-fields/convert-fields-in-paragraph/
 ---
 
 İşte, Aspose.Words for .NET ile Alanları Paragrafa Dönüştür özelliğinin nasıl kullanılacağını gösteren bir öğretici. Bu kod, bir belgenin son paragrafında karşılaşılan tüm IF tipi alanları düz metne dönüştürür. Bu kodu anlamak ve çalıştırmak için aşağıdaki adımları izleyin.

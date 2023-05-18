@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un elenco puntato con Aspose.Words per .NET Guida dettagliata.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/bulleted-list/
+url: /it/words/net/working-with-markdown/bulleted-list/
 ---
 
 In questo tutorial, ti diremo come creare un elenco puntato con Aspose.Words per .NET. Un elenco puntato viene utilizzato per elencare gli elementi senza utilizzare la numerazione.

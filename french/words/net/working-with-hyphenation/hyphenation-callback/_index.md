@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le rappel de césure dans Aspose.Words pour .NET pour gérer la césure des mots.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-hyphenation/hyphenation-callback/
+url: /fr/words/net/working-with-hyphenation/hyphenation-callback/
 ---
 
 Dans ce tutoriel étape par étape, nous allons vous montrer comment utiliser la fonction de rappel de césure dans Aspose.Words pour .NET. Nous expliquerons le code source C# fourni et vous montrerons comment l'implémenter dans vos propres projets.

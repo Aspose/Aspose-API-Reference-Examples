@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un documento in sostituzione utilizzando Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/clone-and-combine-documents/insert-document-at-replace/
+url: /it/words/net/clone-and-combine-documents/insert-document-at-replace/
 ---
 
 In questo tutorial, ti illustreremo come inserire un documento in un altro documento durante la sostituzione utilizzando la funzione Inserisci documento durante la sostituzione di Aspose.Words per .NET. Seguire i passaggi seguenti per comprendere il codice sorgente ed eseguire l'inserimento del documento.

@@ -5,7 +5,7 @@ second_title: Aspose.Words لمراجع .NET API
 description: قم بإزالة التعليقات في ملف PDF باستخدام Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/remove-comments-in-pdf/
+url: /ar/words/net/working-with-revisions/remove-comments-in-pdf/
 ---
 
 في هذا الدليل المفصل خطوة بخطوة ، سنخبرك بكيفية إزالة التعليقات في ملف PDF باستخدام Aspose.Words for .NET. سنزودك بكود المصدر الكامل ونوضح لك كيفية تنسيق إخراج تخفيض السعر.

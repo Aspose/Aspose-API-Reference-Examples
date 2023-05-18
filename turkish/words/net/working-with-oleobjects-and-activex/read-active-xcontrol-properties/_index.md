@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki ActiveX kontrollerinin özelliklerini okuyun.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
+url: /tr/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
 
 Bu adım adım kılavuzda, Aspose.Words for .NET kullanarak bir Word belgesindeki ActiveX kontrollerinin özelliklerini nasıl okuyacağınızı göstereceğiz. Size tam kaynak kodunu sağlayacağız ve işaretleme çıktısını nasıl biçimlendireceğinizi göstereceğiz.

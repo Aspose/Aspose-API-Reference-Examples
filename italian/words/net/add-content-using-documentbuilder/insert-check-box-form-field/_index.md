@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire campi modulo casella di controllo nei documenti di Word utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
+url: /it/words/net/add-content-using-documentbuilder/insert-check-box-form-field/
 ---
 
 In questo tutorial completo, imparerai come inserire un campo modulo casella di controllo in un documento Word utilizzando Aspose.Words per .NET. Ti guideremo attraverso il processo e ti forniremo i frammenti di codice C# necessari. Alla fine di questa guida, sarai in grado di aggiungere campi modulo con caselle di controllo con proprietà personalizzabili ai tuoi documenti.

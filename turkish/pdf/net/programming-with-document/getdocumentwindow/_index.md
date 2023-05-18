@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Bir PDF belgesinin pencere özellikleri hakkında bilgi almak için Aspose.PDF for .NET'in GetDocumentWindow özelliğini nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 170
-url: /ru/pdf/net/programming-with-document/getdocumentwindow/
+url: /tr/pdf/net/programming-with-document/getdocumentwindow/
 ---
 
  Aspose.PDF for .NET, geliştiricilerin kendi .NET uygulamalarında PDF dosyaları oluşturmasına, düzenlemesine ve dönüştürmesine olanak tanıyan güçlü bir PDF işleme kitaplığıdır. Bu kitaplığın sunduğu özelliklerden biri, bir belgenin pencere özellikleri hakkında bilgi alma yeteneğidir. Bu öğretici, kullanımın adımlarında size rehberlik edecektir.`GetDocumentWindow` Aspose.PDF for .NET'in bir PDF belgesinin pencere özellikleri hakkında bilgi almak için özelliği.

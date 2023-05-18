@@ -5,7 +5,7 @@ second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att flytta till dokumentets start och slut i Word-dokument med denna steg-för-steg-guide.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-document-start-end/
+url: /sv/words/net/add-content-using-documentbuilder/move-to-document-start-end/
 ---
 
 det här exemplet kommer vi att utforska funktionen Flytta till dokument start/slut i Aspose.Words för .NET. Aspose.Words är ett kraftfullt dokumentmanipuleringsbibliotek som låter utvecklare skapa, modifiera och konvertera Word-dokument programmatiskt. Funktionen Flytta till dokument start/slut gör att vi kan navigera till början eller slutet av ett dokument med klassen DocumentBuilder.

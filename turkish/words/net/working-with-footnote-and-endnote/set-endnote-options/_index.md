@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde son not seçeneklerini nasıl ayarlayacağınızı öğrenin. Örnek kaynak koduyla adım adım öğretici.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-footnote-and-endnote/set-endnote-options/
+url: /tr/words/net/working-with-footnote-and-endnote/set-endnote-options/
 ---
 
 Bu adım adım öğreticide, bir Word belgesinde son not seçeneklerini ayarlamak için Aspose.Words for .NET'i nasıl kullanacağınız konusunda size rehberlik edeceğiz. Sağlanan C# kaynak kodunu açıklayacağız ve kendi projelerinizde nasıl uygulayacağınızı göstereceğiz.

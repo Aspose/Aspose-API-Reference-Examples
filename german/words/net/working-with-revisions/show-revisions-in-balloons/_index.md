@@ -5,7 +5,7 @@ second_title: Aspose.Words für .NET API-Referenz
 description: Zeigen Sie Revisionen in Sprechblasen mit Aspose.Words für .NET an.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/show-revisions-in-balloons/
+url: /de/words/net/working-with-revisions/show-revisions-in-balloons/
 ---
 
 In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie mit Aspose.Words für .NET Revisionen in Sprechblasen in einem Word-Dokument anzeigen. Wir stellen Ihnen den vollständigen Quellcode zur Verfügung und zeigen Ihnen, wie Sie die Markdown-Ausgabe formatieren.

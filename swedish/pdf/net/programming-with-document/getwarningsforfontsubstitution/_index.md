@@ -5,7 +5,7 @@ second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder GetWarningsForFontSubstitution-funktionen i Aspose.PDF för .NET för att upptäcka varningar för teckensnittsersättning när du öppnar ett PDF-dokument.
 type: docs
 weight: 190
-url: /ru/pdf/net/programming-with-document/getwarningsforfontsubstitution/
+url: /sv/pdf/net/programming-with-document/getwarningsforfontsubstitution/
 ---
 
  Aspose.PDF för .NET är ett populärt PDF-manipuleringsbibliotek som gör det möjligt för utvecklare att skapa, redigera och konvertera PDF-filer i sina .NET-applikationer. En av funktionerna som erbjuds av detta bibliotek är möjligheten att upptäcka varningar för teckensnittsersättning när ett PDF-dokument öppnas. Denna handledning guidar dig genom stegen för att använda`GetWarningsForFontSubstitution` funktion i Aspose.PDF för .NET för att upptäcka varningar för teckensnittsbyte när du öppnar ett PDF-dokument.

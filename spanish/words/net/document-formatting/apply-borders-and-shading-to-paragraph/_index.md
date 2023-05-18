@@ -5,7 +5,7 @@ second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar bordes y sombreado a un párrafo con Aspose.Words para .NET.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
+url: /es/words/net/document-formatting/apply-borders-and-shading-to-paragraph/
 ---
 
 En este tutorial, le mostraremos cómo aplicar bordes y sombreado a un párrafo usando la funcionalidad de Aspose.Words para .NET. Siga los pasos a continuación para comprender el código fuente y aplicar los cambios de formato.

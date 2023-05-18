@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser les en-têtes Setext pour formater vos documents avec le guide étape par étape Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-markdown/setext-heading/
+url: /fr/words/net/working-with-markdown/setext-heading/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment utiliser la fonctionnalité Setext Heading avec Aspose.Words pour .NET. Setext Heading est une méthode alternative de formatage des titres dans les documents Markdown.

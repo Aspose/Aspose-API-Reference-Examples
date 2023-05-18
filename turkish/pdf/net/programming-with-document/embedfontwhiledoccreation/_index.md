@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF belgesi oluştururken bir yazı tipini nasıl gömeceğinizi öğrenin. Farklı cihazlarda doğru görüntülemeyi sağlayın.
 type: docs
 weight: 140
-url: /ru/pdf/net/programming-with-document/embedfontwhiledoccreation/
+url: /tr/pdf/net/programming-with-document/embedfontwhiledoccreation/
 ---
 
 Bu öğreticide, Aspose.PDF for .NET kullanarak bir PDF belgesi oluştururken bir yazı tipinin nasıl gömüleceğini tartışacağız. Aspose.PDF for .NET, geliştiricilerin PDF belgelerini program aracılığıyla oluşturmasına, düzenlemesine ve işlemesine olanak sağlayan güçlü bir kitaplıktır. Bu kitaplık, metin, resim, tablo ve çok daha fazlasını ekleme dahil olmak üzere PDF belgeleriyle çalışmak için çok çeşitli özellikler sağlar. Bir PDF belgesi oluştururken yazı tiplerini gömmek, gerekli yazı tiplerinin bu aygıtlarda yüklü olup olmadığına bakılmaksızın, PDF belgesinin farklı aygıtlarda doğru şekilde görüntülendiğinden emin olmak isteyen geliştiriciler için ortak bir gerekliliktir.

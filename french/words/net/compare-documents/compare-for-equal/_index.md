@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C# de la fonctionnalité Compare for Equals avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/compare-documents/compare-for-equal/
+url: /fr/words/net/compare-documents/compare-for-equal/
 ---
 
 Dans ce didacticiel, nous vous expliquerons comment utiliser la fonctionnalité Compare for Equal avec Aspose.Words pour .NET. Suivez les étapes ci-dessous pour comprendre le code source et appliquer les modifications.

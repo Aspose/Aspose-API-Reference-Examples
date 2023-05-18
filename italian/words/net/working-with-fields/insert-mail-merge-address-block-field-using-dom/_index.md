@@ -5,7 +5,7 @@ second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un campo di blocco dell'indirizzo di stampa unione nei documenti di Word con Aspose.Words per .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
+url: /it/words/net/working-with-fields/insert-mail-merge-address-block-field-using-dom/
 ---
 
 Ecco una guida passo-passo per spiegare il codice sorgente C# di seguito, che utilizza la funzione "Inserisci campo blocco indirizzi Stampa unione" di Aspose.Words per .NET. Assicurati di seguire attentamente ogni passaggio per ottenere i risultati desiderati.

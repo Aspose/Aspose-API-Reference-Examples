@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, tablo içerik hizalaması ve set görüntüleri klasörü ile markdown'a dışa aktarmayı içerir
 type: docs
 weight: 1640
-url: /ru/words/net/programming-with-markdownsaveoptions/
+url: /tr/words/net/programming-with-markdownsaveoptions/
 ---
 
 MarkdownSaveOptions ile Programlama, .NET için Aspose.Words kitaplığını kullanarak MarkdownSaveOptions ile programlamada size yol gösteren kapsamlı bir kaynaktır. Öğreticiler, Word belgelerini Markdown biçimine dışa aktarmak için MarkdownSaveOptions'ı anlamak ve kullanmak için adım adım açıklamalar, eksiksiz kaynak kodu ve pratik örnekler sağlar. Resimleri yönetme, tablo içeriğini hizalama, stilleri dönüştürme ve daha fazlası gibi dışa aktarma seçeneklerini nasıl özelleştireceğinizi öğreneceksiniz. Bu kaynak, Markdown dışa aktarma işlevini Aspose.Words for .NET kullanarak uygulamalarına entegre etmek isteyen geliştiriciler için çok önemlidir.

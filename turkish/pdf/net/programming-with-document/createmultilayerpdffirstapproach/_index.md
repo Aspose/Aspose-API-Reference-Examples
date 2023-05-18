@@ -5,7 +5,7 @@ second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET ile İlk Yaklaşımı kullanarak çok katmanlı PDF belgeleri oluşturmayı öğrenin. PDF'lerinizi geliştirmek için metin, resim ve daha fazlasını ekleyin.
 type: docs
 weight: 70
-url: /ru/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
+url: /tr/pdf/net/programming-with-document/createmultilayerpdffirstapproach/
 ---
 
 Bu eğitimde, Aspose.PDF for .NET ile ilk yaklaşımı kullanarak çok katmanlı bir PDF oluşturma sürecinde size rehberlik edeceğiz. Bu yaklaşım, PDF belgenize birden çok katman eklemenizi sağlar. Aşağıdaki adım adım kılavuzu izleyin:

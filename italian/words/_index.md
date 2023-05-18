@@ -4,7 +4,7 @@ additionalTitle: Aspose Riferimenti API
 description: Tutorial e frammenti di codice della famiglia di prodotti Aspose.Words. Include tutorial di base e avanzati sull'utilizzo di Aspose.Words.
 type: docs
 weight: 10
-url: /ru/words/
+url: /it/words/
 is_root: true
 ---
 

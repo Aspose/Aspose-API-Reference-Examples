@@ -5,7 +5,7 @@ second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come rimuovere i flussi inutilizzati dai file PDF utilizzando Aspose.PDF per .NET. La nostra guida passo dopo passo.
 type: docs
 weight: 270
-url: /ru/pdf/net/programming-with-document/removeunusedstreams/
+url: /it/pdf/net/programming-with-document/removeunusedstreams/
 ---
 In questo esempio, discuteremo come rimuovere i flussi inutilizzati dai documenti PDF utilizzando Aspose.PDF per .NET. Forniremo una guida dettagliata su come eseguire questa operazione, incluso il codice sorgente completo con le spiegazioni.
 

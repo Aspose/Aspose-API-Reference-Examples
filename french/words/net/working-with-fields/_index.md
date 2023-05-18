@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels montrent comment insérer un champ, mettre à jour la culture archivée, remplacer le lien hypertexte du champ, supprimer le champ et insérer des champs imbriqués dans un document Word à l'aide d'Aspose.Words pour .NET
 type: docs
 weight: 140
-url: /ru/words/net/working-with-fields/
+url: /fr/words/net/working-with-fields/
 ---
 Il s'agit d'une ressource complète pour apprendre à travailler avec des champs dans des documents Word à l'aide de la bibliothèque Aspose.Words pour .NET. Les didacticiels fournissent des explications étape par étape, un code source détaillé et des exemples pratiques pour manipuler et gérer efficacement les champs tels que les codes de champ, les mises à jour, les affichages de résultats, les conditions IF, les publipostages, etc. Cette ressource est essentielle pour les développeurs souhaitant automatiser la génération et la manipulation de documents Word à l'aide d'Aspose.Words pour .NET.
 

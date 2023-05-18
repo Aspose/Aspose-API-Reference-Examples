@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Bu adım adım kılavuz ile Word belgelerine metin giriş formu alanı eklemek için Aspose.Words for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
+url: /tr/words/net/add-content-using-documentbuilder/insert-text-input-form-field/
 ---
 
 Bu adım adım kılavuzda, C# kaynak kodunu kullanarak Word belgelerinize metin giriş formu alanları eklemek ve değiştirmek için Aspose.Words for .NET'teki Metin Giriş Formu Alanı Ekle özelliğinin nasıl kullanılacağını keşfedeceğiz. Metin giriş formu alanları, kullanıcıların bir belgeye özel metin girmesine izin vererek onları etkileşimli formlar ve anketler oluşturmak için ideal hale getirir. Aşağıdaki talimatları izleyerek metin giriş formu alanlarını belgelerinize zahmetsizce ekleyebilir ve özelleştirebilirsiniz. Başlayalım!

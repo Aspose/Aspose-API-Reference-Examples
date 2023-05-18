@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour passer au début et à la fin du document dans les documents Word avec ce guide étape par étape.
 type: docs
 weight: 10
-url: /ru/words/net/add-content-using-documentbuilder/move-to-document-start-end/
+url: /fr/words/net/add-content-using-documentbuilder/move-to-document-start-end/
 ---
 
 Dans cet exemple, nous allons explorer la fonctionnalité Déplacer vers le début/la fin du document d'Aspose.Words pour .NET. Aspose.Words est une puissante bibliothèque de manipulation de documents qui permet aux développeurs de créer, modifier et convertir des documents Word par programme. La fonctionnalité Déplacer vers le début/la fin du document nous permet de naviguer vers le début ou la fin d'un document à l'aide de la classe DocumentBuilder.

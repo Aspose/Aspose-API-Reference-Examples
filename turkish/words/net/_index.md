@@ -3,7 +3,7 @@ title: Aspose.Words for .NET Öğreticileri
 linktitle: Aspose.Words for .NET Tutorials
 type: docs
 weight: 10
-url: /ru/words/net/
+url: /tr/words/net/
 description: "Oluşturma, düzenleme, dönüştürme, yazdırma ve Word belgeleri işlemenin daha birçok özelliğini içeren Aspose.Words for .NET'in API Öğreticileri ve kod parçacıkları"
 is_root: true
 ---

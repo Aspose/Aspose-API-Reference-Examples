@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: .NET için Aspose.Words Sayfa Sayfa özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz
 type: docs
 weight: 10
-url: /ru/words/net/split-document/page-by-page/
+url: /tr/words/net/split-document/page-by-page/
 ---
 
 Bu öğreticide, Aspose.Words for .NET'in Sayfa Sayfa özelliğini kullanarak bir Word belgesini nasıl tek tek sayfalara böleceğinizi göstereceğiz. Kaynak kodunu anlamak ve her sayfa için ayrı belgeler almak için aşağıdaki adımları izleyin.

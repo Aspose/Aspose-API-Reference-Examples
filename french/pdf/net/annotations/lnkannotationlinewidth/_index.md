@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape pour définir la largeur de ligne de l'annotation lnk à l'aide d'Aspose.PDF pour .NET.
 type: docs
 weight: 110
-url: /ru/pdf/net/annotations/lnkannotationlinewidth/
+url: /fr/pdf/net/annotations/lnkannotationlinewidth/
 ---
 Aspose.PDF est un outil puissant et largement utilisé pour travailler avec des fichiers PDF dans des applications .NET. Il fournit une variété de fonctionnalités pour créer, éditer et manipuler des fichiers PDF, y compris la possibilité d'ajouter des annotations aux pages. Dans ce didacticiel, nous expliquerons comment définir la largeur de ligne d'une annotation de lien à l'aide d'Aspose.PDF pour .NET.
 

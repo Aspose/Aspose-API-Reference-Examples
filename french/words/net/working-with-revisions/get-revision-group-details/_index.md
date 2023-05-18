@@ -5,7 +5,7 @@ second_title: Référence de l'API Aspose.Words pour .NET
 description: Obtenez les détails du groupe de révision dans un document Word avec Aspose.Words pour .NET.
 type: docs
 weight: 10
-url: /ru/words/net/working-with-revisions/get-revision-group-details/
+url: /fr/words/net/working-with-revisions/get-revision-group-details/
 ---
 
 Dans ce guide étape par étape, nous allons vous montrer comment obtenir les détails d'un groupe de révisions dans un document Word en utilisant Aspose.Words pour .NET. Nous vous fournirons le code source complet et vous montrerons comment formater la sortie Markdown.

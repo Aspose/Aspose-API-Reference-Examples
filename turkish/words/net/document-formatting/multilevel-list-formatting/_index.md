@@ -5,7 +5,7 @@ second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile çok düzeyli bir liste oluşturmayı ve özel biçimlendirme uygulamayı öğrenin.
 type: docs
 weight: 10
-url: /ru/words/net/document-formatting/multilevel-list-formatting/
+url: /tr/words/net/document-formatting/multilevel-list-formatting/
 ---
 
 Bu eğitimde, size Aspose.Words for .NET ile çok düzeyli liste biçimlendirme özelliğini nasıl kullanacağınızı göstereceğiz. Kaynak kodunu anlamak ve değişiklikleri uygulamak için aşağıdaki adımları izleyin.

@@ -7,7 +7,7 @@ weight: 10
 url: /tr/
 ---
 
-## Sözcükler
+## Aspose.Words
 {{% alert color="primary" %}}
 Uygulamanızda Word belgeleri için oluşturma, düzenleme, dönüştürme, yazdırma ve daha birçok özellik için Aspose.Words öğreticileri ve kod parçacıkları. 
 {{% /alert %}}

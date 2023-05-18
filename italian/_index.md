@@ -7,7 +7,7 @@ weight: 10
 url: /it/
 ---
 
-## Aspose.Parole
+## Aspose.Words
 {{% alert color="primary" %}}
 Tutorial Aspose.Words e frammenti di codice per creare, modificare, convertire, stampare e molte altre funzionalità per i documenti Word nella tua applicazione. 
 {{% /alert %}}

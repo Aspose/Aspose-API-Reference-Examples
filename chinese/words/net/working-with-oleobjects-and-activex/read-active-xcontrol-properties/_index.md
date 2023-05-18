@@ -1,26 +1,26 @@
 ---
-title: Read Active XControl Properties
+title: 读取活动 XControl 属性
 linktitle: Read Active XControl Properties
-second_title: Aspose.Words for .NET API Reference
-description: Read properties of ActiveX controls in a Word document with Aspose.Words for .NET.
+second_title: Aspose.Words for .NET API 参考
+description: 使用 Aspose.Words for .NET 读取 Word 文档中 ActiveX 控件的属性。
 type: docs
 weight: 10
-url: /words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
+url: /zh/words/net/working-with-oleobjects-and-activex/read-active-xcontrol-properties/
 ---
 
-In this step-by-step guide, we will show you how to read properties of ActiveX controls in a Word document using Aspose.Words for .NET. We'll provide you with the complete source code and show you how to format the markdown output.
+在本分步指南中，我们将向您展示如何使用 Aspose.Words for .NET 读取 Word 文档中 ActiveX 控件的属性。我们将为您提供完整的源代码，并向您展示如何格式化降价输出。
 
-## Step 1: Document initialization
+## 第一步：文档初始化
 
-The first step is to initialize the `Document` object by loading the Word document containing the ActiveX controls. Be sure to replace `MyDir` with the actual path to the directory containing the document.
+第一步是初始化`Document`通过加载包含 ActiveX 控件的 Word 文档来创建对象。务必更换`MyDir`包含文档的目录的实际路径。
 
 ```csharp
 Document doc = new Document(MyDir + "ActiveX controls.docx");
 ```
 
-## Step 2: Recover ActiveX controls
+## 步骤 2：恢复 ActiveX 控件
 
-In this step, we will iterate through each `Shape` of the document to retrieve the ActiveX controls and read their properties.
+在这一步中，我们将遍历每个`Shape`检索 ActiveX 控件并读取它们的属性。
 
 ```csharp
 string properties = "";
@@ -49,9 +49,9 @@ properties = properties + "\nTotal ActiveX Controls found: " + doc.GetChildNodes
 Console.WriteLine("\n" + properties);
 ```
 
-### Example source code for Read Active XControl Properties using Aspose.Words for .NET
+### 使用 Aspose.Words for .NET 读取活动 XControl 属性的示例源代码
 
-Here is the complete source code for reading properties of ActiveX controls using Aspose.Words for .NET:
+下面是使用 Aspose.Words for .NET 读取 ActiveX 控件属性的完整源代码：
 
 ```csharp
 	Document doc = new Document(MyDir + "ActiveX controls.docx");
@@ -81,5 +81,4 @@ Here is the complete source code for reading properties of ActiveX controls usin
 	properties = properties + "\nTotal ActiveX Controls found: " + doc.GetChildNodes(NodeType.Shape, true).Count;
 	Console.WriteLine("\n" + properties);
 ```
-
 

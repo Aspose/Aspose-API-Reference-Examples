@@ -1,0 +1,73 @@
+---
+title: Yazar Alanı Ekle
+linktitle: Insert Author Field
+second_title: Aspose.Words for .NET API Referansı
+description: Aspose.Words for .NET ile Word belgelerinize YAZAR alanı eklemeyi öğrenin. Belgelerinizi kişiselleştirmek için yazarın adını belirtin.
+type: docs
+weight: 10
+url: /ru/words/net/working-with-fields/insert-author-field/
+---
+
+
+Aspose.Words for .NET'in "YAZAR alanı ekle" özelliğini kullanan aşağıdaki C# kaynak kodunu adım adım açıklayan bir kılavuz. İstenen sonuçları elde etmek için her adımı dikkatlice uyguladığınızdan emin olun.
+
+## 1. Adım: Belge Dizini Kurulumu
+
+Sağlanan kodda, belgelerinizin dizinini belirtmeniz gerekir. "BELGE DİZİNİNİZ" değerini belgeler dizininizin uygun yolu ile değiştirin.
+
+```csharp
+string dataDir = "YOUR DOCUMENTS DIRECTORY";
+```
+
+## 2. Adım: Belgeyi ve Paragrafı Oluşturma
+
+Yeni bir belge oluşturarak ve ilk paragrafı getirerek başlıyoruz.
+
+```csharp
+Document doc = new Document();
+Paragraph para = (Paragraph)doc.GetChildNodes(NodeType.Paragraph, true)[0];
+```
+
+## 3. Adım: YAZAR alanını girin
+
+ biz kullanıyoruz`AppendField()` paragrafa YAZAR alanı ekleme yöntemi.
+
+```csharp
+FieldAuthor field = (FieldAuthor)para.AppendField(FieldType.FieldAuthor, false);
+```
+
+ Daha sonra alanın konfigürasyonunu yaparız.`AuthorName`yazarın adını belirtmek için özellik.
+
+```csharp
+field. AuthorName = "Test1";
+```
+
+ Son olarak, diyoruz`Update()` alanı güncelleme yöntemi.
+
+```csharp
+field. Update();
+```
+
+### Aspose.Words for .NET ile YAZAR alanı eklemek için kaynak kodu örneği
+
+```csharp
+// Belgeler dizininin yolu.
+string dataDir = "YOUR DOCUMENTS DIRECTORY";
+
+// Belge oluşturma.
+Document doc = new Document();
+Paragraph para = (Paragraph)doc.GetChildNodes(NodeType.Paragraph, true)[0];
+
+// YAZAR alanını girin.
+FieldAuthor field = (FieldAuthor)para.AppendField(FieldType.FieldAuthor, false);
+
+field. AuthorName = "Test1";
+
+field. Update();
+
+doc.Save(dataDir + "InsertionAuthorField.docx");
+```
+
+Bu örnekte yeni bir belge oluşturduk, YAZAR alanı ekledik, yazar adını yapılandırdık ve belgeyi belirtilen dosya adıyla kaydettik.
+
+Bu, Aspose.Words for .NET ile "YAZAR Alanı Girin" özelliğinin kullanımına ilişkin kılavuzumuzu sonlandırıyor.

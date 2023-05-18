@@ -1,0 +1,70 @@
+---
+title: Поля формы Получить коллекцию полей формы
+linktitle: Form Fields Get Form Fields Collection
+second_title: Справочник по API Aspose.Words для .NET
+description: Узнайте, как извлекать и управлять коллекцией полей форм в документах Word с помощью Aspose.Words для .NET.
+type: docs
+weight: 10
+url: /ru/words/net/working-with-formfields/form-fields-get-form-fields-collection/
+---
+
+В этом пошаговом руководстве мы расскажем вам, как использовать Aspose.Words для .NET для извлечения набора полей формы из документа Word. Мы объясним предоставленный исходный код C# и покажем вам, как реализовать его в ваших собственных проектах.
+
+Для начала убедитесь, что Aspose.Words for .NET установлен и настроен в вашей среде разработки. Если вы этого не сделали, скачайте и установите библиотеку с официального сайта.
+
+## Шаг 1: Инициализация объекта документа
+
+ Сначала инициализируйте`Document` объект, указав путь к исходному документу, содержащему поля формы:
+
+```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document(dataDir + "Form fields.docx");
+```
+
+## Шаг 2. Получение коллекции полей формы
+
+ Далее войдите в`FormFields` собственность`Range` объект в документе для получения коллекции полей формы:
+
+```csharp
+FormFieldCollection formFields = doc.Range.FormFields;
+```
+
+ Теперь у вас есть коллекция полей формы из документа Word, хранящаяся в`formFields` переменная.
+
+## Шаг 3. Доступ к полям формы и управление ими
+
+Вы можете перебирать коллекцию полей формы и выполнять различные операции с каждым полем формы, например получать или задавать значения, изменять форматирование или извлекать информацию.
+
+```csharp
+foreach (FormField formField in formFields)
+{
+    // Доступ и управление каждым полем формы
+    // ...
+}
+```
+
+## Шаг 4: Сохранение документа
+
+Наконец, при необходимости сохраните измененный документ:
+
+```csharp
+doc.Save(dataDir + "ModifiedFormFields.docx");
+```
+
+Вот и все! Вы успешно получили набор полей формы из документа Word с помощью Aspose.Words для .NET.
+
+### Пример исходного кода для поля формы Получить коллекцию полей формы с помощью Aspose.Words для .NET
+
+```csharp
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document(dataDir + "Form fields.docx");
+
+FormFieldCollection formFields = doc.Range.FormFields;
+
+// Доступ и управление полями формы по мере необходимости
+// ...
+
+doc.Save(dataDir + "ModifiedFormFields.docx");
+```
+
+Не стесняйтесь использовать этот код в своих проектах и модифицировать его в соответствии с вашими конкретными требованиями.

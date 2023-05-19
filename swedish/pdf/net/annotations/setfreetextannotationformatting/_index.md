@@ -28,7 +28,7 @@ Skapa först en ny C#-konsolapplikation i Microsoft Visual Studio. För att skap
 
 Lägg sedan till en referens till Aspose.PDF för .NET i ditt projekt. För att göra detta, högerklicka på ditt projekt i rutan "Solution Explorer", välj "Lägg till" > "Referens" och bläddra sedan till platsen där du sparade Aspose.PDF för .NET DLL-filen. Välj DLL-filen och klicka på "OK" för att lägga till referensen till ditt projekt.
 
-### 3. Ställ in miljön
+## 3. Ställ in miljön
 
 Efter att ha lagt till referensen till Aspose.PDF för .NET måste du ställa in miljön. För att göra detta, skapa en ny strängvariabel som heter "dataDir" och ställ in den på sökvägen till katalogen där ditt PDF-dokument finns. Ersätt "DIN DOKUMENTKATOLOG" i koden nedan med den faktiska sökvägen till din dokumentkatalog:
 
@@ -37,7 +37,7 @@ Efter att ha lagt till referensen till Aspose.PDF för .NET måste du ställa in
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-### 4. Öppna PDF-dokumentet
+## 4. Öppna PDF-dokumentet
 
 När du har ställt in miljön kan du öppna PDF-dokumentet med följande kod:
 
@@ -48,7 +48,7 @@ Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.p
 
 Ersätt "SetFreeTextAnnotationFormatting.pdf" med det faktiska namnet på ditt PDF-dokument.
 
-### 5. Ställ in standardutseende
+## 5. Ställ in standardutseende
 
 För att ställa in standardutseendet för fritextkommentaren måste du instansiera DefaultAppearance-objektet med önskat teckensnitt, teckenstorlek och färg. I den här handledningen ställer vi in teckensnittet till "Arial", teckenstorleken till 28 och färgen till rött.
 
@@ -57,7 +57,7 @@ För att ställa in standardutseendet för fritextkommentaren måste du instansi
 DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
 ```
 
-### 6. Skapa en fritextkommentar
+## 6. Skapa en fritextkommentar
 
 Nu när du har ställt in standardutseendet kan du skapa en fritextkommentar med följande kod:
 
@@ -68,13 +68,14 @@ FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new A
 
 Ovanstående kod skapar en ny fritextkommentar på den andra sidan av PDF-dokumentet. Anteckningen kommer att placeras vid (200, 400) och kommer att ha en bredd på 400 och en höjd på 600.
 
-### 7. Ange innehållet i anteckningen
+## 7. Ange innehållet i anteckningen
 
 När du har skapat fritextkommentaren kan du ange innehållet i kommentaren med följande kod:
 
 ```csharp
 // Ange innehållet i anteckningen
 freetext.Contents = "Free Text
+```
 
 ### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
 ```csharp

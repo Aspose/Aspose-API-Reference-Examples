@@ -28,7 +28,7 @@ Aspose.PDF for .NET 是一个功能强大且易于使用的 PDF 文档操作 API
 
 接下来，在您的项目中添加对 Aspose.PDF for .NET 的引用。为此，请在“解决方案资源管理器”窗格中右键单击您的项目，选择“添加”>“引用”，然后浏览到您保存 Aspose.PDF for .NET DLL 文件的位置。选择 DLL 文件并单击“确定”以将引用添加到您的项目。
 
-### 3.搭建环境
+## 3.搭建环境
 
 添加对Aspose.PDF for .NET 的引用后，您需要设置环境。为此，创建一个名为“dataDir”的新字符串变量并将其设置为 PDF 文档所在目录的路径。将下面代码中的“YOUR DOCUMENT DIRECTORY”替换为您的文档目录的实际路径：
 
@@ -37,7 +37,7 @@ Aspose.PDF for .NET 是一个功能强大且易于使用的 PDF 文档操作 API
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-### 4.打开PDF文档
+## 4.打开PDF文档
 
 设置环境后，您可以使用以下代码打开 PDF 文档：
 
@@ -57,7 +57,7 @@ Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.p
 DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
 ```
 
-### 6.创建一个自由文本注释
+## 6.创建一个自由文本注释
 
 现在您已经设置了默认外观，您可以使用以下代码创建自由文本注释：
 
@@ -68,13 +68,14 @@ FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new A
 
 上面的代码在 PDF 文档的第二页上创建了一个新的自由文本注释。注释将位于 (200, 400)，宽度为 400，高度为 600。
 
-### 7.指定注解的内容
+## 7.指定注解的内容
 
 创建自由文本注释后，您可以使用以下代码指定注释的内容：
 
 ```csharp
 //指定注释的内容
 freetext.Contents = "Free Text
+```
 
 ### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
 ```csharp

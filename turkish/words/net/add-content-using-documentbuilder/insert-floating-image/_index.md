@@ -1,6 +1,6 @@
 ---
 title: Kayan Resim Ekle
-linktitle:Kayan Resim Ekle
+linktitle: Kayan Resim Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine kayan görüntüleri nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs

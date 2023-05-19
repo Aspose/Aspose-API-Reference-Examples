@@ -1,6 +1,6 @@
 ---
 title: Redigera sida
-linktitle:Redigera sida
+linktitle: Redigera sida
 second_title: Aspose.PDF för .NET API Referens
 description: Den här artikeln förklarar hur man redigerar en PDF-sida med Aspose.PDF för .NET, inklusive steg-för-steg-instruktioner och exempel på källkod.
 type: docs

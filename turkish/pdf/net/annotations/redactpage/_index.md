@@ -1,6 +1,6 @@
 ---
 title: Sayfayı Reddet
-linktitle:Sayfayı Reddet
+linktitle: Sayfayı Reddet
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, adım adım talimatlar ve örnek kaynak kodu dahil olmak üzere Aspose.PDF for .NET kullanarak bir PDF sayfasının nasıl yeniden düzenleneceğini açıklamaktadır.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Unembed Fonts
-linktitle:Unembed Fonts
+linktitle: Unembed Fonts
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET to get Unembed Fonts and optimize PDF files. A step-by-step guide.
 type: docs

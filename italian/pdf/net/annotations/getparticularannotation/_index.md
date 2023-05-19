@@ -1,6 +1,6 @@
 ---
 title: Ottieni un'annotazione particolare
-linktitle:Ottieni un'annotazione particolare
+linktitle: Ottieni un'annotazione particolare
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per ottenere annotazioni particolari in un documento PDF con questa guida dettagliata.
 type: docs

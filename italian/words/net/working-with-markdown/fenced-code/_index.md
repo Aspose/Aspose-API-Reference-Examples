@@ -1,6 +1,6 @@
 ---
 title: Codice recintato
-linktitle:Codice recintato
+linktitle: Codice recintato
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare la funzione di codice recintato con Aspose.Words per .NET Guida dettagliata.
 type: docs

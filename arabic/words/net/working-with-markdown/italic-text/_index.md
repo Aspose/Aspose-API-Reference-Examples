@@ -1,6 +1,6 @@
 ---
 title: نص مائل
-linktitle:نص مائل
+linktitle: نص مائل
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية كتابة نص مائل باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

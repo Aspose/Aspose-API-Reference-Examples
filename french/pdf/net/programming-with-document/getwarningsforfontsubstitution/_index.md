@@ -1,6 +1,6 @@
 ---
 title: Obtenir des avertissements pour la substitution de polices
-linktitle:Obtenir des avertissements pour la substitution de polices
+linktitle: Obtenir des avertissements pour la substitution de polices
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser la fonctionnalité GetWarningsForFontSubstitution d'Aspose.PDF pour .NET pour détecter les avertissements de substitution de polices lors de l'ouverture d'un document PDF.
 type: docs

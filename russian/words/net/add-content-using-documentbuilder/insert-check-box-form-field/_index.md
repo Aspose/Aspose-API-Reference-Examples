@@ -1,6 +1,6 @@
 ---
 title: Вставить поле формы флажка
-linktitle:Вставить поле формы флажка
+linktitle: Вставить поле формы флажка
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять поля формы флажка в документы Word с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

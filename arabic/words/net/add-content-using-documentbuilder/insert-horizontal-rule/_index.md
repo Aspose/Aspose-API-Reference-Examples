@@ -1,6 +1,6 @@
 ---
 title: أدخل مسطرة أفقية
-linktitle:أدخل مسطرة أفقية
+linktitle: أدخل مسطرة أفقية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج القواعد الأفقية في مستندات Word باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

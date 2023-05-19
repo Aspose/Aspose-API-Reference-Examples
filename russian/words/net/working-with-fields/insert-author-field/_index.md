@@ -1,6 +1,6 @@
 ---
 title: Вставить поле автора
-linktitle:Вставить поле автора
+linktitle: Вставить поле автора
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить поле AUTHOR в документы Word с помощью Aspose.Words для .NET. Укажите имя автора, чтобы персонализировать ваши документы.
 type: docs

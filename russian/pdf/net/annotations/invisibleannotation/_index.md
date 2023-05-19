@@ -1,6 +1,6 @@
 ---
 title: Невидимая аннотация
-linktitle:Невидимая аннотация
+linktitle: Невидимая аннотация
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как невидимо аннотировать PDF-файлы с помощью исходного кода C# с помощью Aspose.PDF для .NET. Пошаговое руководство.
 type: docs

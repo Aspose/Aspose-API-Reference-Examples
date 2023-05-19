@@ -1,6 +1,6 @@
 ---
 title: نقل إلى دمج الحقل
-linktitle:نقل إلى دمج الحقل
+linktitle: نقل إلى دمج الحقل
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تنفيذ ميزة Move To Merge Field في Aspose.Words for .NET باستخدام دليل خطوة بخطوة.
 type: docs

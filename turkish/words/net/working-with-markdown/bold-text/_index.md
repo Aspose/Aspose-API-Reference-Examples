@@ -1,6 +1,6 @@
 ---
 title: Kalın yazı
-linktitle:Kalın yazı
+linktitle: Kalın yazı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile metni kalın yapmayı öğrenin.
 type: docs

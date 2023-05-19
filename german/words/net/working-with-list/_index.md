@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit List
-linktitle:Arbeiten mit List
+linktitle: Arbeiten mit List
 second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials erfahren Sie, wie Sie die Liste in jedem Abschnitt neu starten, die Listenebene angeben und die Listennummer im Dokument mit Aspose.Words für .NET neu starten.
 type: docs

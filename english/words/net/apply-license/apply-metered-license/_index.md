@@ -1,6 +1,6 @@
 ---
 title: Apply Metered License
-linktitle:Apply Metered License
+linktitle: Apply Metered License
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to apply a metered license using Aspose.Words for .NET.
 type: docs

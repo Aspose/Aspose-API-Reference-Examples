@@ -1,6 +1,6 @@
 ---
 title: Dateiinformationen festlegen
-linktitle:Dateiinformationen festlegen
+linktitle: Dateiinformationen festlegen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Dateiinformationen in Ihren PDF-Dokumenten festlegen.
 type: docs

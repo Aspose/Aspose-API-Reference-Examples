@@ -1,6 +1,6 @@
 ---
 title: 确定进度
-linktitle:确定进度
+linktitle: 确定进度
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南和代码示例，了解如何使用 Aspose.PDF for .NET 确定 PDF 文档转换过程的进度。
 type: docs

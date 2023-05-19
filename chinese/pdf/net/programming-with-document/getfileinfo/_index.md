@@ -1,6 +1,6 @@
 ---
 title: 获取文件信息
-linktitle:获取文件信息
+linktitle: 获取文件信息
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 的 GetFileInfo 功能来检索有关 PDF 文档的元数据信息。
 type: docs

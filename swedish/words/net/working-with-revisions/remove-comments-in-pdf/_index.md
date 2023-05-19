@@ -1,6 +1,6 @@
 ---
 title: Ta bort kommentarer i pdf
-linktitle:Ta bort kommentarer i pdf
+linktitle: Ta bort kommentarer i pdf
 second_title: Aspose.Words för .NET API Referens
 description: Ta bort kommentarer i en PDF-fil med Aspose.Words för .NET.
 type: docs

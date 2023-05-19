@@ -1,6 +1,6 @@
 ---
 title: Добавить SWF-файл как аннотацию
-linktitle:Добавить SWF-файл как аннотацию
+linktitle: Добавить SWF-файл как аннотацию
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как добавлять SWF-файлы в качестве аннотаций в Aspose.PDF для .NET, с помощью этого пошагового руководства.
 type: docs

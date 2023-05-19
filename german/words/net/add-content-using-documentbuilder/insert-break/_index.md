@@ -1,6 +1,6 @@
 ---
 title: Pause einfügen
-linktitle:Pause einfügen
+linktitle: Pause einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Seitenumbrüche in Word-Dokumente einfügen. Schritt für Schritt Anleitung.
 type: docs

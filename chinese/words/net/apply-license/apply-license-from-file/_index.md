@@ -1,6 +1,6 @@
 ---
 title: 从文件申请许可证
-linktitle:从文件申请许可证
+linktitle: 从文件申请许可证
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 从文件应用许可证。
 type: docs

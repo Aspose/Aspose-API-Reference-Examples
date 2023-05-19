@@ -1,6 +1,6 @@
 ---
 title: تحقق من التسلسل
-linktitle:تحقق من التسلسل
+linktitle: تحقق من التسلسل
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية التحقق من تسلسل TextBoxes في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

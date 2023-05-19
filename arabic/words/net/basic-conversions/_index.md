@@ -1,6 +1,6 @@
 ---
 title: التحويلات الأساسية
-linktitle:التحويلات الأساسية
+linktitle: التحويلات الأساسية
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على doc إلى docx ، و docx إلى rtf ، و docx إلى pdf ، و docx إلى بايت ، و docx إلى epub ، و docx إلى mhtml وإرسال بريد إلكتروني ، و docx إلى markdown ، و docx إلى txt ، و txt إلى docx ،
 type: docs

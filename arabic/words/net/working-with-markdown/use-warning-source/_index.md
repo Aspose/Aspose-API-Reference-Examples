@@ -1,6 +1,6 @@
 ---
 title: استخدم مصدر التحذير
-linktitle:استخدم مصدر التحذير
+linktitle: استخدم مصدر التحذير
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام مصدر التحذير مع Aspose.Words دليل تفصيلي خطوة بخطوة لـ .NET.
 type: docs

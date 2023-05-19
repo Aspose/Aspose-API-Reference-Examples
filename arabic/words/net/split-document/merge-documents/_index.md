@@ -1,6 +1,6 @@
 ---
 title: دمج المستندات
-linktitle:دمج المستندات
+linktitle: دمج المستندات
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لشرح كود مصدر C # لميزة دمج المستندات في Aspose.Words for .NET
 type: docs

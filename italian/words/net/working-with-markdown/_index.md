@@ -1,6 +1,6 @@
 ---
 title: Lavorare con Markdown
-linktitle:Lavorare con Markdown
+linktitle: Lavorare con Markdown
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono come testo in grassetto, testo in corsivo, barrato, codice in linea, collegamento automatico, aggiunta di immagini, elenco ordinato, intestazione, tabella e lettura di documenti markdown utilizzando Aspose.Words per .NET.
 type: docs

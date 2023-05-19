@@ -1,6 +1,6 @@
 ---
 title: Pdf To Docx
-linktitle:Pdf To Docx
+linktitle: Pdf To Docx
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to convert PDF documents to Docx format using Aspose.Words for .NET. Step-by-step tutorial with example source code.
 type: docs

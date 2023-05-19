@@ -1,6 +1,6 @@
 ---
 title: Appliquer la licence à partir du flux
-linktitle:Appliquer la licence à partir du flux
+linktitle: Appliquer la licence à partir du flux
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer une licence à partir d'un flux à l'aide d'Aspose.Words pour .NET. Guide étape par étape
 type: docs

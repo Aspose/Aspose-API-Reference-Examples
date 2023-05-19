@@ -1,6 +1,6 @@
 ---
 title: Insert Ole Object As Icon Using Stream
-linktitle:Insert Ole Object As Icon Using Stream
+linktitle: Insert Ole Object As Icon Using Stream
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert an OLE object as an icon using a stream with Aspose.Words for .NET.
 type: docs

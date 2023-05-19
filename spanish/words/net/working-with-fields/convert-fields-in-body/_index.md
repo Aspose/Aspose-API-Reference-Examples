@@ -1,6 +1,6 @@
 ---
 title: Convertir campos en el cuerpo
-linktitle:Convertir campos en el cuerpo
+linktitle: Convertir campos en el cuerpo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar Aspose.Words para .NET para convertir campos de página en texto en el cuerpo de un documento de Word.
 type: docs

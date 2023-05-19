@@ -1,6 +1,6 @@
 ---
 title: Paragraf Stili Uygula
-linktitle:Paragraf Stili Uygula
+linktitle: Paragraf Stili Uygula
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir paragraf stilini nasıl uygulayacağınızı öğrenin.
 type: docs

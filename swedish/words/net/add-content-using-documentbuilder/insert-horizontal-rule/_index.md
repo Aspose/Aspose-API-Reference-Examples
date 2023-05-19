@@ -1,6 +1,6 @@
 ---
 title: Infoga horisontell regel
-linktitle:Infoga horisontell regel
+linktitle: Infoga horisontell regel
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar horisontella regler i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

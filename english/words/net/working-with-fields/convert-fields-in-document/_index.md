@@ -1,6 +1,6 @@
 ---
 title: Convert Fields In Document
-linktitle:Convert Fields In Document
+linktitle: Convert Fields In Document
 second_title: Aspose.Words for .NET API Reference
 description: Step-by-step guide to convert document fields to text using Aspose.Words for .NET.
 type: docs

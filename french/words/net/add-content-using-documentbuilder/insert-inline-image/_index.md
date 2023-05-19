@@ -1,6 +1,6 @@
 ---
 title: Insérer une image en ligne
-linktitle:Insérer une image en ligne
+linktitle: Insérer une image en ligne
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des images en ligne dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

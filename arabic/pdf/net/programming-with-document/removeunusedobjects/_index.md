@@ -1,6 +1,6 @@
 ---
 title: إزالة الكائنات غير المستخدمة
-linktitle:إزالة الكائنات غير المستخدمة
+linktitle: إزالة الكائنات غير المستخدمة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لإزالة الكائنات غير المستخدمة من مستندات PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

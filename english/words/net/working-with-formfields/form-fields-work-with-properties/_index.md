@@ -1,6 +1,6 @@
 ---
 title: Form Fields Work With Properties
-linktitle:Form Fields Work With Properties
+linktitle: Form Fields Work With Properties
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to work with form field properties in Word documents using Aspose.Words for .NET. 
 type: docs

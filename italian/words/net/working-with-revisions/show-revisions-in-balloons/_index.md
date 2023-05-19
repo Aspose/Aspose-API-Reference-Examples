@@ -1,6 +1,6 @@
 ---
 title: Mostra le revisioni nei fumetti
-linktitle:Mostra le revisioni nei fumetti
+linktitle: Mostra le revisioni nei fumetti
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Mostra le revisioni nei fumetti con Aspose.Words per .NET.
 type: docs

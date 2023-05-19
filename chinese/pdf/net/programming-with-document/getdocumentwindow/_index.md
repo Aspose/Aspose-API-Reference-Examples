@@ -1,6 +1,6 @@
 ---
 title: 获取文档窗口
-linktitle:获取文档窗口
+linktitle: 获取文档窗口
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 的 GetDocumentWindow 功能来检索有关 PDF 文档窗口属性的信息。
 type: docs

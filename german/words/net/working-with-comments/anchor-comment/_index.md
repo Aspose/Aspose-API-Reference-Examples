@@ -1,6 +1,6 @@
 ---
 title: Ankerkommentar
-linktitle:Ankerkommentar
+linktitle: Ankerkommentar
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kommentarantworten zu bestimmtem Text in Word-Dokumenten verankern.
 type: docs

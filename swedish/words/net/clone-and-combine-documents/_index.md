@@ -1,6 +1,6 @@
 ---
 title: Klona och kombinera dokument
-linktitle:Klona och kombinera dokument
+linktitle: Klona och kombinera dokument
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller kloningsdokument, infoga dokument vid ersätt och infoga dokument vid sammanfogning.
 type: docs

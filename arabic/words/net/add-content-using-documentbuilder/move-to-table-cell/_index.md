@@ -1,6 +1,6 @@
 ---
 title: الانتقال إلى خلية الجدول
-linktitle:الانتقال إلى خلية الجدول
+linktitle: الانتقال إلى خلية الجدول
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لاستخدام Move To Table Cell في Aspose.Words for .NET
 type: docs

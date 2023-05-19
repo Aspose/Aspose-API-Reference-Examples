@@ -1,6 +1,6 @@
 ---
 title: Uyarı Kaynağını Kullan
-linktitle:Uyarı Kaynağını Kullan
+linktitle: Uyarı Kaynağını Kullan
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile uyarı kaynağının nasıl kullanılacağını adım adım öğrenin.
 type: docs

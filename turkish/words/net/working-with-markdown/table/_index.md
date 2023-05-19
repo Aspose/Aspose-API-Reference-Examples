@@ -1,6 +1,6 @@
 ---
 title: Masa
-linktitle:Masa
+linktitle: Masa
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile tablo oluşturmayı öğrenin Adım adım kılavuz.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Field Display Results
-linktitle:Field Display Results
+linktitle: Field Display Results
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide for displaying field results in your Word documents with Aspose.Words for .NET. 
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Получить разделитель стиля абзаца
-linktitle:Получить разделитель стиля абзаца
+linktitle: Получить разделитель стиля абзаца
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как получить разделитель стиля абзаца с помощью Aspose.Words для .NET.
 type: docs

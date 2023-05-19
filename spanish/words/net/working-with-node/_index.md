@@ -1,6 +1,6 @@
 ---
 title: Trabajando con Nodo
-linktitle:Trabajando con Nodo
+linktitle: Trabajando con Nodo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen cómo usar el tipo de nodo, obtener el nodo principal, el documento propietario, todos los nodos recursivos, recorrer todos los nodos, enumerar los nodos secundarios y crear nodos de párrafo en un documento de Word usando Aspose.Words para .NET.
 type: docs

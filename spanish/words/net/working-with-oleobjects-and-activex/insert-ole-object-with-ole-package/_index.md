@@ -1,6 +1,6 @@
 ---
 title: Insertar objeto Ole con paquete Ole
-linktitle:Insertar objeto Ole con paquete Ole
+linktitle: Insertar objeto Ole con paquete Ole
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un objeto OLE con un paquete OLE en un documento usando Aspose.Words para .NET.
 type: docs

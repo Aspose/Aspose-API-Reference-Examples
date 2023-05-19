@@ -1,6 +1,6 @@
 ---
 title: Définir la position de la note de bas de page et de la note de fin
-linktitle:Définir la position de la note de bas de page et de la note de fin
+linktitle: Définir la position de la note de bas de page et de la note de fin
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à définir la position des notes de bas de page et des notes de fin dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

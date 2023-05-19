@@ -1,6 +1,6 @@
 ---
 title: Obtenir les détails du groupe de révision
-linktitle:Obtenir les détails du groupe de révision
+linktitle: Obtenir les détails du groupe de révision
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Obtenez les détails du groupe de révision dans un document Word avec Aspose.Words pour .NET.
 type: docs

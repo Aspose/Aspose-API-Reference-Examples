@@ -1,6 +1,6 @@
 ---
 title: Yazdırma İletişim Kutusu İçin Özellikleri Ayarla
-linktitle:Yazdırma İletişim Kutusu İçin Özellikleri Ayarla
+linktitle: Yazdırma İletişim Kutusu İçin Özellikleri Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Adım adım kılavuz kullanarak Aspose.PDF for .NET'te yazdırma iletişim kutusunun özelliklerini nasıl ayarlayacağınızı öğrenin.
 type: docs

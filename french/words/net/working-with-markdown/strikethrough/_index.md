@@ -1,6 +1,6 @@
 ---
 title: Barré
-linktitle:Barré
+linktitle: Barré
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer le style de texte barré avec le guide étape par étape Aspose.Words pour .NET.
 type: docs

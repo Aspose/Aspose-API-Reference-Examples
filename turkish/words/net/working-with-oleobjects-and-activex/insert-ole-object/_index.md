@@ -1,6 +1,6 @@
 ---
 title: Ole Nesnesi Ekle
-linktitle:Ole Nesnesi Ekle
+linktitle: Ole Nesnesi Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir OLE nesnesini bir belgeye nasıl ekleyeceğinizi öğrenin.
 type: docs

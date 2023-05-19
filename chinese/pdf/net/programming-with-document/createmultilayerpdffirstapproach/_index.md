@@ -1,6 +1,6 @@
 ---
 title: 创建多层 PDF 的第一种方法
-linktitle:创建多层 PDF 的第一种方法
+linktitle: 创建多层 PDF 的第一种方法
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 的第一种方法创建多层 PDF 文档。添加文本、图像等以增强您的 PDF。
 type: docs

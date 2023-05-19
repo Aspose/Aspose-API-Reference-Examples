@@ -1,6 +1,6 @@
 ---
 title: 转换文档中的字段
-linktitle:转换文档中的字段
+linktitle: 转换文档中的字段
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 将文档字段转换为文本的分步指南。
 type: docs

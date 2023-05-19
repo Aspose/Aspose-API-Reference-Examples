@@ -1,6 +1,6 @@
 ---
 title: Преобразование полей в теле
-linktitle:Преобразование полей в теле
+linktitle: Преобразование полей в теле
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать Aspose.Words для .NET для преобразования полей страницы в текст в основной части документа Word.
 type: docs

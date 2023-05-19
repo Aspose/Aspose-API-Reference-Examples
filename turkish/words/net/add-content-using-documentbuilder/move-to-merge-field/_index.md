@@ -1,6 +1,6 @@
 ---
 title: Alanı Birleştirmek İçin Taşı
-linktitle:Alanı Birleştirmek İçin Taşı
+linktitle: Alanı Birleştirmek İçin Taşı
 second_title: Aspose.Words for .NET API Referansı
 description: Adım adım kılavuz kullanarak Aspose.Words for .NET'te Birleştirme Alanına Taşı özelliğini nasıl uygulayacağınızı öğrenin.
 type: docs

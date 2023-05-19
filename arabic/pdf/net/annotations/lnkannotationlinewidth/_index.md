@@ -1,6 +1,6 @@
 ---
 title: عرض خط التعليق التوضيحي lnk
-linktitle:عرض خط التعليق التوضيحي lnk
+linktitle: عرض خط التعليق التوضيحي lnk
 second_title: Aspose.PDF لمرجع .NET API
 description: توفر هذه المقالة دليلاً خطوة بخطوة لتعيين عرض خط التعليق التوضيحي lnk باستخدام Aspose.PDF لـ .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Create Multilayer PDF Second Approach
-linktitle:Create Multilayer PDF Second Approach
+linktitle: Create Multilayer PDF Second Approach
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to create a multilayer PDF using Aspose.PDF for .NET. Step-by-step guide with source code for creating dynamic PDFs with text and images.
 type: docs

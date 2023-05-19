@@ -1,6 +1,6 @@
 ---
 title: Cargar diccionario de partición de palabras para el idioma
-linktitle:Cargar diccionario de partición de palabras para el idioma
+linktitle: Cargar diccionario de partición de palabras para el idioma
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a cargar un diccionario de división de palabras para un idioma específico en Aspose.Words para .NET.
 type: docs

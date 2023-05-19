@@ -1,6 +1,6 @@
 ---
 title: Insérer un champ
-linktitle:Insérer un champ
+linktitle: Insérer un champ
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ dans vos documents Word avec Aspose.Words pour .NET. Personnalisez vos documents avec des champs dynamiques.
 type: docs

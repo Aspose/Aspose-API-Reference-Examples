@@ -1,6 +1,6 @@
 ---
 title: Evaluar condición IF
-linktitle:Evaluar condición IF
+linktitle: Evaluar condición IF
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para evaluar la condición SI en sus documentos de Word con Aspose.Words para .NET.
 type: docs

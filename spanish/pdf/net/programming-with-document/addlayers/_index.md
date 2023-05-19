@@ -1,6 +1,6 @@
 ---
 title: Agregar capas
-linktitle:Agregar capas
+linktitle: Agregar capas
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar capas a archivos PDF usando Aspose.PDF para .NET. Guía paso a paso con tutoriales de código para crear y guardar archivos PDF en capas.
 type: docs

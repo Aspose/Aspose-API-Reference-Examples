@@ -1,6 +1,6 @@
 ---
 title: Изменение формы
-linktitle:Изменение формы
+linktitle: Изменение формы
 second_title: Справочник по API Aspose.Words для .NET
 description: Редактируйте фигуры в документе Word с помощью Aspose.Words для .NET.
 type: docs

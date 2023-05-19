@@ -1,6 +1,6 @@
 ---
 title: Überschrift
-linktitle:Überschrift
+linktitle: Überschrift
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Überschriften mit Aspose.Words für .NET verwenden.
 type: docs

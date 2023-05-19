@@ -1,6 +1,6 @@
 ---
 title: Confronta le opzioni
-linktitle:Confronta le opzioni
+linktitle: Confronta le opzioni
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata per spiegare il codice sorgente C# della funzione Confronta opzioni con Aspose.Words per .NET.
 type: docs

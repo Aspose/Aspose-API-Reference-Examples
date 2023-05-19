@@ -1,6 +1,6 @@
 ---
 title: Legen Sie die Callout-Eigenschaft fest
-linktitle:Legen Sie die Callout-Eigenschaft fest
+linktitle: Legen Sie die Callout-Eigenschaft fest
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Callout-Eigenschaft mit Aspose.PDF für .NET festlegen. Passen Sie Anmerkungen mit Beschriftungslinien, Textfarben und Endstilen an.
 type: docs

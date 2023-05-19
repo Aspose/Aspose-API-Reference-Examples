@@ -1,6 +1,6 @@
 ---
 title: 插入浮动图像
-linktitle:插入浮动图像
+linktitle: 插入浮动图像
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将浮动图像插入到 Word 文档中。分步指南。
 type: docs

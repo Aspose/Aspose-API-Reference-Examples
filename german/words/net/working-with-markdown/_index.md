@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Markdown
-linktitle:Arbeiten mit Markdown
+linktitle: Arbeiten mit Markdown
 second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials erfahren Sie, wie Sie mit Aspose.Words für .NET Text fett, kursiv, durchgestrichen, Inline-Code, Autolink, Bilder, geordnete Listen, Überschriften und Tabellen hinzufügen und Markdown-Dokumente lesen.
 type: docs

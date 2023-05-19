@@ -1,6 +1,6 @@
 ---
 title: Champs de formulaire Obtenir la collection de champs de formulaire
-linktitle:Champs de formulaire Obtenir la collection de champs de formulaire
+linktitle: Champs de formulaire Obtenir la collection de champs de formulaire
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à récupérer et à manipuler la collection de champs de formulaire dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: tachar palabras
-linktitle:tachar palabras
+linktitle: tachar palabras
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Este artículo proporciona una guía paso a paso para usar Aspose.PDF para la función Tachar palabras de .NET, que incluye una guía paso a paso y explicaciones.
 type: docs

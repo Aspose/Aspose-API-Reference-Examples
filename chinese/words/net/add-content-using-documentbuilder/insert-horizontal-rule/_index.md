@@ -1,6 +1,6 @@
 ---
 title: 插入水平标尺
-linktitle:插入水平标尺
+linktitle: 插入水平标尺
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中插入水平线。分步指南。
 type: docs

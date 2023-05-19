@@ -1,6 +1,6 @@
 ---
 title: Culture de mise à jour sur le terrain
-linktitle:Culture de mise à jour sur le terrain
+linktitle: Culture de mise à jour sur le terrain
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à mettre à jour la culture de champ dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

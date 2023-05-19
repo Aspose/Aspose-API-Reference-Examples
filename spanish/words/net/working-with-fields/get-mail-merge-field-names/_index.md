@@ -1,6 +1,6 @@
 ---
 title: Obtener nombres de campos de combinación de correspondencia
-linktitle:Obtener nombres de campos de combinación de correspondencia
+linktitle: Obtener nombres de campos de combinación de correspondencia
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a obtener nombres de campos de combinación de correspondencia en sus documentos de Word con Aspose.Words para .NET.
 type: docs

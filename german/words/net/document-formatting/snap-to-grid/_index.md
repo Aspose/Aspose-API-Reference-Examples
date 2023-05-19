@@ -1,6 +1,6 @@
 ---
 title: Am Raster ausrichten
-linktitle:Am Raster ausrichten
+linktitle: Am Raster ausrichten
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Snap to Grid-Funktion mit Aspose.Words für .NET.
 type: docs

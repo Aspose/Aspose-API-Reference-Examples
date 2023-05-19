@@ -1,6 +1,6 @@
 ---
 title: Belge Biçimlendirme
-linktitle:Belge Biçimlendirme
+linktitle: Belge Biçimlendirme
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Asya ve Latin metinleri arasında boşluk, Asya tipografisi satır kesme grubu, paragraf biçimlendirme, çok düzeyli liste biçimlendirme ve paragraf stili uygulama içerir.
 type: docs

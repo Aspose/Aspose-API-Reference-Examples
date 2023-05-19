@@ -1,6 +1,6 @@
 ---
 title: DOM Kullanarak Adres Mektup Birleştirme Adres Bloğu Alanı Ekleme
-linktitle:DOM Kullanarak Adres Mektup Birleştirme Adres Bloğu Alanı Ekleme
+linktitle: DOM Kullanarak Adres Mektup Birleştirme Adres Bloğu Alanı Ekleme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize adres mektup birleştirme adres bloğu alanını nasıl ekleyeceğinizi öğrenin.
 type: docs

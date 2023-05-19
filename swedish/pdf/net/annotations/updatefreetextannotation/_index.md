@@ -1,6 +1,6 @@
 ---
 title: Uppdatera fritextkommentar
-linktitle:Uppdatera fritextkommentar
+linktitle: Uppdatera fritextkommentar
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du uppdaterar fritextanteckningsfunktionen i Aspose.PDF för .NET med C#-källkod.
 type: docs

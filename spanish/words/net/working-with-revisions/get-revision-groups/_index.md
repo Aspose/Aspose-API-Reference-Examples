@@ -1,6 +1,6 @@
 ---
 title: Obtener grupos de revisión
-linktitle:Obtener grupos de revisión
+linktitle: Obtener grupos de revisión
 second_title: Referencia de API de Aspose.Words para .NET
 description: Obtenga grupos de revisión en un documento de Word con Aspose.Words para .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Move To Table Cell
-linktitle:Move To Table Cell
+linktitle: Move To Table Cell
 second_title: Aspose.Words for .NET API Reference
 description: Step-by-step guide to using Move To Table Cell in Aspose.Words for .NET
 type: docs

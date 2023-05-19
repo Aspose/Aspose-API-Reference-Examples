@@ -1,6 +1,6 @@
 ---
 title: Formattazione elenco multilivello
-linktitle:Formattazione elenco multilivello
+linktitle: Formattazione elenco multilivello
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un elenco multilivello e applicare la formattazione personalizzata con Aspose.Words per .NET.
 type: docs

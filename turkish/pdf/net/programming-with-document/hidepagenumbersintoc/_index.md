@@ -1,6 +1,6 @@
 ---
 title: İçindekiler'de Sayfa Numaralarını Gizle
-linktitle:İçindekiler'de Sayfa Numaralarını Gizle
+linktitle: İçindekiler'de Sayfa Numaralarını Gizle
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir içindekiler tablosunda sayfa numaralarını nasıl gizleyeceğinizi öğrenin.
 type: docs

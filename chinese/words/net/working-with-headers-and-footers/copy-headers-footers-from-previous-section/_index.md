@@ -1,6 +1,6 @@
 ---
 title: 从上一节复制页眉页脚
-linktitle:从上一节复制页眉页脚
+linktitle: 从上一节复制页眉页脚
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 复制 Word 文档上一节中的页眉和页脚。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: تعيين أعمدة الملاحظات القدم
-linktitle:تعيين أعمدة الملاحظات القدم
+linktitle: تعيين أعمدة الملاحظات القدم
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تعيين عدد الأعمدة للحواشي السفلية في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

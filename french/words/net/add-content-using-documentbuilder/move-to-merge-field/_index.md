@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers le champ de fusion
-linktitle:Déplacer vers le champ de fusion
+linktitle: Déplacer vers le champ de fusion
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à implémenter la fonctionnalité Déplacer vers le champ de fusion dans Aspose.Words pour .NET à l'aide d'un guide étape par étape.
 type: docs

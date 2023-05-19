@@ -1,6 +1,6 @@
 ---
 title: 标题
-linktitle:标题
+linktitle: 标题
 second_title: Aspose.Words for .NET API 参考
 description: 通过 Aspose.Words for .NET 分步指南了解如何使用标题。
 type: docs

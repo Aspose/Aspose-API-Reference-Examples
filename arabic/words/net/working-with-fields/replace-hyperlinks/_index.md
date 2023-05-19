@@ -1,6 +1,6 @@
 ---
 title: استبدل الارتباطات التشعبية
-linktitle:استبدل الارتباطات التشعبية
+linktitle: استبدل الارتباطات التشعبية
 second_title: Aspose.Words لمراجع .NET API
 description: استبدل الارتباطات التشعبية في مستندات Word باستخدام Aspose.Words for .NET. إرشادات خطوة بخطوة لاستبدال الارتباطات التشعبية.
 type: docs

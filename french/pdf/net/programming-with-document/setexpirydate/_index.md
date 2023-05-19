@@ -1,6 +1,6 @@
 ---
 title: Définir la date d'expiration
-linktitle:Définir la date d'expiration
+linktitle: Définir la date d'expiration
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir la date d'expiration dans les documents PDF à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs

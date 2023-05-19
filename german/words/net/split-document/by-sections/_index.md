@@ -1,6 +1,6 @@
 ---
 title: Nach Abschnitten
-linktitle:Nach Abschnitten
+linktitle: Nach Abschnitten
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand eines vollständigen Codebeispiels, wie Sie mit Aspose.Words für .NET ein Word-Dokument in separate Abschnitte aufteilen.
 type: docs

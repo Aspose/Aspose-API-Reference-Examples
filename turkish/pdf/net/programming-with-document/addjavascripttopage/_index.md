@@ -1,6 +1,6 @@
 ---
 title: Sayfaya Java Script Ekle
-linktitle:Sayfaya Java Script Ekle
+linktitle: Sayfaya Java Script Ekle
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF dosyalarına nasıl JavaScript ekleyeceğinizi öğrenin. Belge ve sayfa düzeyinde komut dosyası oluşturmaya yönelik kod eğitimlerini içeren adım adım kılavuz.
 type: docs

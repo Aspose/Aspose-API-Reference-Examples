@@ -1,6 +1,6 @@
 ---
 title: 优化文件大小
-linktitle:优化文件大小
+linktitle: 优化文件大小
 second_title: Aspose.PDF for .NET API 参考
 description: 使用此分步指南了解如何使用 Aspose.PDF for .NET 优化 PDF 文档的文件大小。
 type: docs

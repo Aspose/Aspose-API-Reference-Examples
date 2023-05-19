@@ -1,6 +1,6 @@
 ---
 title: Link
-linktitle:Link
+linktitle: Link
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert links with Aspose.Words for .NET. Step-by-step guide.
 type: docs

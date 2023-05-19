@@ -1,6 +1,6 @@
 ---
 title: Horisontellt regelformat
-linktitle:Horisontellt regelformat
+linktitle: Horisontellt regelformat
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du formaterar horisontella regler i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

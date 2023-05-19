@@ -1,6 +1,6 @@
 ---
 title: Redémarrer le numéro de la liste
-linktitle:Redémarrer le numéro de la liste
+linktitle: Redémarrer le numéro de la liste
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à réinitialiser le numéro d'une liste dans un document Word avec Aspose.Words pour .NET.
 type: docs

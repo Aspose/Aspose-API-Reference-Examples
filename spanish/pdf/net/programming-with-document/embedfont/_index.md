@@ -1,6 +1,6 @@
 ---
 title: Fuente incrustada
-linktitle:Fuente incrustada
+linktitle: Fuente incrustada
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a incrustar fuentes en un archivo PDF usando Aspose.PDF para .NET con esta guía paso a paso. Asegúrese de que sus documentos se muestren correctamente en cualquier dispositivo.
 type: docs

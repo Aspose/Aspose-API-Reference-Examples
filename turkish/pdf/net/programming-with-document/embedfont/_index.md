@@ -1,6 +1,6 @@
 ---
 title: Yazı Tipi Göm
-linktitle:Yazı Tipi Göm
+linktitle: Yazı Tipi Göm
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir PDF dosyasına yazı tiplerini nasıl gömeceğinizi öğrenin. Belgelerinizin herhangi bir cihazda doğru şekilde görüntülendiğinden emin olun.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 应用计量许可证
-linktitle:应用计量许可证
+linktitle: 应用计量许可证
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 应用计量许可证。
 type: docs

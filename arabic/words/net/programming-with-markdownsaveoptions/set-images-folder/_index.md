@@ -1,6 +1,6 @@
 ---
 title: تعيين مجلد الصور
-linktitle:تعيين مجلد الصور
+linktitle: تعيين مجلد الصور
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تعيين مجلد الصور عند التصدير إلى Markdown باستخدام Aspose.Words for .NET. تخصيص موضع الصور من أجل تنظيم وتكامل أفضل.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: حسب العناوين Html
-linktitle:حسب العناوين Html
+linktitle: حسب العناوين Html
 second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لشرح شفرة المصدر C # لميزة By Heading HTML في Aspose.Words for .NET
 type: docs

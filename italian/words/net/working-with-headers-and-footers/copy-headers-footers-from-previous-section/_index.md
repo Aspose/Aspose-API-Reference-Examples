@@ -1,6 +1,6 @@
 ---
 title: Copia i piè di pagina delle intestazioni dalla sezione precedente
-linktitle:Copia i piè di pagina delle intestazioni dalla sezione precedente
+linktitle: Copia i piè di pagina delle intestazioni dalla sezione precedente
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come copiare intestazioni e piè di pagina dalla sezione precedente nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

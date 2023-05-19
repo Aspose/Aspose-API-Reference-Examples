@@ -1,6 +1,6 @@
 ---
 title: Holen Sie sich den Zoomfaktor
-linktitle:Holen Sie sich den Zoomfaktor
+linktitle: Holen Sie sich den Zoomfaktor
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET den Zoomfaktor einer PDF-Datei ermitteln.
 type: docs

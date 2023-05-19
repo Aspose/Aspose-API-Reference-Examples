@@ -1,6 +1,6 @@
 ---
 title: 获取注解资源
-linktitle:获取注解资源
+linktitle: 获取注解资源
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 检索注释资源。
 type: docs

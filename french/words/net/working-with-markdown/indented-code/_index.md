@@ -1,6 +1,6 @@
 ---
 title: Code en retrait
-linktitle:Code en retrait
+linktitle: Code en retrait
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le code indenté avec le guide pas à pas Aspose.Words pour .NET.
 type: docs

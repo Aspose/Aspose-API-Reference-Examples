@@ -1,6 +1,6 @@
 ---
 title: Créer un tableau
-linktitle:Créer un tableau
+linktitle: Créer un tableau
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer un tableau dans un document Word à l'aide d'Aspose.Words pour .NET.
 type: docs

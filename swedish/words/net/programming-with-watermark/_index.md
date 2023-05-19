@@ -1,6 +1,6 @@
 ---
 title: Programmering med vattenstämpel
-linktitle:Programmering med vattenstämpel
+linktitle: Programmering med vattenstämpel
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller lägga till text vattenstämpel med specifika alternativ
 type: docs

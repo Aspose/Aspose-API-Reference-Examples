@@ -1,6 +1,6 @@
 ---
 title: По диапазону страниц
-linktitle:По диапазону страниц
+linktitle: По диапазону страниц
 second_title: Справочник по API Aspose.Words для .NET
 description: Простое извлечение по диапазону страниц из документа Word с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

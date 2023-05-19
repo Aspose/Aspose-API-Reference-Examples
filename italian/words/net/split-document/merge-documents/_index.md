@@ -1,6 +1,6 @@
 ---
 title: Unisci documenti
-linktitle:Unisci documenti
+linktitle: Unisci documenti
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per spiegare il codice sorgente C# della funzionalità Unisci documenti di Aspose.Words per .NET
 type: docs

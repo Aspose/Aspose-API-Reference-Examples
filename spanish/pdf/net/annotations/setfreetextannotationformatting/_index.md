@@ -1,6 +1,6 @@
 ---
 title: Establecer formato de anotación de texto libre
-linktitle:Establecer formato de anotación de texto libre
+linktitle: Establecer formato de anotación de texto libre
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Este artículo proporciona una guía paso a paso sobre cómo crear una anotación de texto libre y especificar su contenido usando Aspose.PDF para .NET
 type: docs

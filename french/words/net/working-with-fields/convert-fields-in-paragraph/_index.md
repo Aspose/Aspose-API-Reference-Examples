@@ -1,6 +1,6 @@
 ---
 title: Convertir les champs en paragraphe
-linktitle:Convertir les champs en paragraphe
+linktitle: Convertir les champs en paragraphe
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Convertissez les champs IF en texte brut dans un paragraphe avec Aspose.Words pour .NET.
 type: docs

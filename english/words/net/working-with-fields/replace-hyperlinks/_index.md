@@ -1,6 +1,6 @@
 ---
 title: Replace Hyperlinks
-linktitle:Replace Hyperlinks
+linktitle: Replace Hyperlinks
 second_title: Aspose.Words for .NET API Reference
 description: Replace hyperlinks in Word documents using Aspose.Words for .NET. Step-by-step instructions for replacing hyperlinks.
 type: docs

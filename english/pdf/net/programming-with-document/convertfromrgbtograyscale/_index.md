@@ -1,6 +1,6 @@
 ---
 title: Convert From RGB To Grayscale
-linktitle:Convert From RGB To Grayscale
+linktitle: Convert From RGB To Grayscale
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to convert PDFs from RGB to Grayscale using Aspose.PDF for .NET. Enhance printing quality and reduce file size.
 type: docs

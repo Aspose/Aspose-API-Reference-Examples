@@ -1,6 +1,6 @@
 ---
 title: Bölümlere göre
-linktitle:Bölümlere göre
+linktitle: Bölümlere göre
 second_title: Aspose.Words for .NET API Referansı
 description: Eksiksiz bir kod örneği ile Aspose.Words for .NET kullanarak bir Word belgesini nasıl ayrı bölümlere ayıracağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Establecer opciones de notas al final
-linktitle:Establecer opciones de notas al final
+linktitle: Establecer opciones de notas al final
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a configurar las opciones de notas al final en documentos de Word usando Aspose.Words para .NET. Tutorial paso a paso con código fuente de ejemplo.
 type: docs

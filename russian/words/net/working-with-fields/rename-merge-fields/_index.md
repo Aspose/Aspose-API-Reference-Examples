@@ -1,6 +1,6 @@
 ---
 title: Переименовать поля слияния
-linktitle:Переименовать поля слияния
+linktitle: Переименовать поля слияния
 second_title: Справочник по API Aspose.Words для .NET
 description: В этом руководстве вы узнаете, как переименовать поля слияния в документе с помощью Aspose.Words для .NET.
 type: docs

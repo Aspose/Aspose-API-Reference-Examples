@@ -1,6 +1,6 @@
 ---
 title: Lägg till lager
-linktitle:Lägg till lager
+linktitle: Lägg till lager
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till lager i PDF-filer med Aspose.PDF för .NET. Steg-för-steg-guide med kodhandledning för att skapa och spara skiktade PDF-filer.
 type: docs

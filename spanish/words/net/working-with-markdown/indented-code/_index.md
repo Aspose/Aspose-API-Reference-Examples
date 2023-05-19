@@ -1,6 +1,6 @@
 ---
 title: Código sangrado
-linktitle:Código sangrado
+linktitle: Código sangrado
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar código sangrado con Aspose.Words para la guía paso a paso de .NET.
 type: docs

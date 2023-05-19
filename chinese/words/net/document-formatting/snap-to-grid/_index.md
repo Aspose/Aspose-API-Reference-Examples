@@ -1,6 +1,6 @@
 ---
 title: 对齐网格
-linktitle:对齐网格
+linktitle: 对齐网格
 second_title: Aspose.Words for .NET API 参考
 description: 分步指南解释使用 Aspose.Words for .NET 对齐网格功能的 C# 源代码。
 type: docs

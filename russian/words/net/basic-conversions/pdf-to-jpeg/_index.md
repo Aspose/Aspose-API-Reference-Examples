@@ -1,6 +1,6 @@
 ---
 title: PDF в Jpeg
-linktitle:PDF в Jpeg
+linktitle: PDF в Jpeg
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать документы PDF в изображения JPEG с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

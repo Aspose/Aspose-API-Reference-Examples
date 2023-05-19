@@ -1,6 +1,6 @@
 ---
 title: Valutare la condizione SE
-linktitle:Valutare la condizione SE
+linktitle: Valutare la condizione SE
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per valutare la condizione IF nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs

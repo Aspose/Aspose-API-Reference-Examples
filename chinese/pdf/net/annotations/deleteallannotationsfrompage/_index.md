@@ -1,6 +1,6 @@
 ---
 title: 从页面中删除所有注释
-linktitle:从页面中删除所有注释
+linktitle: 从页面中删除所有注释
 second_title: Aspose.PDF for .NET API 参考
 description: 使用此分步指南了解如何使用 Aspose.PDF for .NET 从 PDF 页面删除所有注释。
 type: docs

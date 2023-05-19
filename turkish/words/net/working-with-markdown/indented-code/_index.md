@@ -1,6 +1,6 @@
 ---
 title: Girintili Kod
-linktitle:Girintili Kod
+linktitle: Girintili Kod
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile girintili kodu nasıl kullanacağınızı adım adım öğrenin.
 type: docs

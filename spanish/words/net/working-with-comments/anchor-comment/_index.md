@@ -1,6 +1,6 @@
 ---
 title: Comentario ancla
-linktitle:Comentario ancla
+linktitle: Comentario ancla
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a anclar respuestas de comentarios a texto específico en documentos de Word usando Aspose.Words para .NET.
 type: docs

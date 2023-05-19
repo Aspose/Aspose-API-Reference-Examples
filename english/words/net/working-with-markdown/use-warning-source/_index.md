@@ -1,6 +1,6 @@
 ---
 title: Use Warning Source
-linktitle:Use Warning Source
+linktitle: Use Warning Source
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use warning source with Aspose.Words for .NET Step-by-step guide.
 type: docs

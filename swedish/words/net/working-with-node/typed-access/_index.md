@@ -1,6 +1,6 @@
 ---
 title: Skrivet åtkomst
-linktitle:Skrivet åtkomst
+linktitle: Skrivet åtkomst
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder maskinskriven åtkomst för att manipulera tabeller i Aspose.Words för .NET.
 type: docs

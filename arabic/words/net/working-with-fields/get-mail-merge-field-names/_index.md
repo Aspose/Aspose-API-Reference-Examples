@@ -1,6 +1,6 @@
 ---
 title: احصل على أسماء حقول دمج المراسلات
-linktitle:احصل على أسماء حقول دمج المراسلات
+linktitle: احصل على أسماء حقول دمج المراسلات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية الحصول على أسماء حقول دمج البريد في مستندات Word الخاصة بك باستخدام Aspose.Words for .NET.
 type: docs

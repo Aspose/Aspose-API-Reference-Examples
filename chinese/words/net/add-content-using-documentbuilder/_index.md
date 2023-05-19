@@ -1,6 +1,6 @@
 ---
 title: 使用 DocumentBuilder 添加内容
-linktitle:使用 DocumentBuilder 添加内容
+linktitle: 使用 DocumentBuilder 添加内容
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含创建新文档、文档生成器插入书签、构建表格、插入水平规则、水平规则格式、插入分隔符、插入文本 i
 type: docs

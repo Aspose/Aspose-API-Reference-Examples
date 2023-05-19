@@ -1,6 +1,6 @@
 ---
 title: Ta bort fält
-linktitle:Ta bort fält
+linktitle: Ta bort fält
 second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att ta bort sammanslagningsfält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

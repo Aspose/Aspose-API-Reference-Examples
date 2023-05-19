@@ -1,6 +1,6 @@
 ---
 title: Créer une deuxième approche PDF multicouche
-linktitle:Créer une deuxième approche PDF multicouche
+linktitle: Créer une deuxième approche PDF multicouche
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à créer un PDF multicouche à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec code source pour créer des PDF dynamiques avec du texte et des images.
 type: docs

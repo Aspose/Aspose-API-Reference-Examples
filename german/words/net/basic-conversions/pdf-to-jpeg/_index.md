@@ -1,6 +1,6 @@
 ---
 title: PDF in JPEG
-linktitle:PDF in JPEG
+linktitle: PDF in JPEG
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET PDF-Dokumente in JPEG-Bilder konvertieren. Schritt-für-Schritt-Anleitung mit Beispielquellcode.
 type: docs

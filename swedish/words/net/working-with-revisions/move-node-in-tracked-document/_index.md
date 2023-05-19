@@ -1,6 +1,6 @@
 ---
 title: Flytta nod i spårat dokument
-linktitle:Flytta nod i spårat dokument
+linktitle: Flytta nod i spårat dokument
 second_title: Aspose.Words för .NET API Referens
 description: Flytta noder i ett spårat dokument med Aspose.Words för .NET.
 type: docs

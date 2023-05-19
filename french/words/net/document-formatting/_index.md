@@ -1,6 +1,6 @@
 ---
 title: Formatage des documents
-linktitle:Formatage des documents
+linktitle: Formatage des documents
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent un espace entre le texte asiatique et latin, le groupe de sauts de ligne de typographie asiatique, la mise en forme des paragraphes, la mise en forme des listes à plusieurs niveaux et appliquent un style de paragraphe.
 type: docs

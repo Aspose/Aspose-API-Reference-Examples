@@ -1,6 +1,6 @@
 ---
 title: Anmerkung reduzieren
-linktitle:Anmerkung reduzieren
+linktitle: Anmerkung reduzieren
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie Anmerkungen in einem PDF-Dokument mit Aspose.PDF für .NET reduzieren. Behalten Sie Anmerkungen bei und verhindern Sie versehentliche Änderungen.
 type: docs

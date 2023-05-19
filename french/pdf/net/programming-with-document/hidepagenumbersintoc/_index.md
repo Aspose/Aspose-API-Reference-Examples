@@ -1,6 +1,6 @@
 ---
 title: Masquer les numéros de page dans la table des matières
-linktitle:Masquer les numéros de page dans la table des matières
+linktitle: Masquer les numéros de page dans la table des matières
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à masquer les numéros de page dans une table des matières en utilisant Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Comprobar secuencia
-linktitle:Comprobar secuencia
+linktitle: Comprobar secuencia
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a verificar la secuencia de cuadros de texto en un documento de Word con Aspose.Words para .NET.
 type: docs

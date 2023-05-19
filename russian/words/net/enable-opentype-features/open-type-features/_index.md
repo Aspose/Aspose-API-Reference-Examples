@@ -1,6 +1,6 @@
 ---
 title: Особенности открытого типа
-linktitle:Особенности открытого типа
+linktitle: Особенности открытого типа
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как включить и использовать функции Open Type в Aspose.Words для .NET.
 type: docs

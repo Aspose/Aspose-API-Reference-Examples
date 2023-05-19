@@ -1,6 +1,6 @@
 ---
 title: 连字语言词
-linktitle:连字语言词
+linktitle: 连字语言词
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 为 Word 文档中不同语言的单词连字符。
 type: docs

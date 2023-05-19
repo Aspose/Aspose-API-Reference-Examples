@@ -1,6 +1,6 @@
 ---
 title: Insérer un champ de fusion à l'aide de DOM
-linktitle:Insérer un champ de fusion à l'aide de DOM
+linktitle: Insérer un champ de fusion à l'aide de DOM
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de fusion de champs personnalisés dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

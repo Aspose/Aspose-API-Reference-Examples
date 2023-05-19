@@ -1,6 +1,6 @@
 ---
 title: Accéder à la version révisée
-linktitle:Accéder à la version révisée
+linktitle: Accéder à la version révisée
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Accédez à une version révisée d'un document Word avec Aspose.Words pour .NET.
 type: docs

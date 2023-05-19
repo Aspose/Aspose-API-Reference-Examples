@@ -1,6 +1,6 @@
 ---
 title: إنشاء نهج PDF متعدد الطبقات أولاً
-linktitle:إنشاء نهج PDF متعدد الطبقات أولاً
+linktitle: إنشاء نهج PDF متعدد الطبقات أولاً
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إنشاء مستندات PDF متعددة الطبقات باستخدام الأسلوب الأول مع Aspose.PDF for .NET. أضف نصًا وصورًا والمزيد لتحسين ملفات PDF الخاصة بك.
 type: docs

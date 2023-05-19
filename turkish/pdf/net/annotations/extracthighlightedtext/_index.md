@@ -1,6 +1,6 @@
 ---
 title: Vurgulanan Metni Çıkar
-linktitle:Vurgulanan Metni Çıkar
+linktitle: Vurgulanan Metni Çıkar
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak vurgulanan metni nasıl çıkaracağınızı öğrenin.
 type: docs

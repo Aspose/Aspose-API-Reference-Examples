@@ -1,6 +1,6 @@
 ---
 title: تعداد العقد الفرعية
-linktitle:تعداد العقد الفرعية
+linktitle: تعداد العقد الفرعية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تعداد العقد الفرعية في فقرة باستخدام Aspose.Words for .NET.
 type: docs

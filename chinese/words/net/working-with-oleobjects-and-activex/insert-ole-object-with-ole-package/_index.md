@@ -1,6 +1,6 @@
 ---
 title: 使用 Ole 包插入 Ole 对象
-linktitle:使用 Ole 包插入 Ole 对象
+linktitle: 使用 Ole 包插入 Ole 对象
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将带有 OLE 包的 OLE 对象插入到文档中。
 type: docs

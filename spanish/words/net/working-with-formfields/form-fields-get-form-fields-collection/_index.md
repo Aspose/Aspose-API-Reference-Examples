@@ -1,6 +1,6 @@
 ---
 title: Campos de formulario Obtener colección de campos de formulario
-linktitle:Campos de formulario Obtener colección de campos de formulario
+linktitle: Campos de formulario Obtener colección de campos de formulario
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a recuperar y manipular la colección de campos de formulario en documentos de Word usando Aspose.Words para .NET.
 type: docs

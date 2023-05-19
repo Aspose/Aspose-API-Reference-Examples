@@ -1,6 +1,6 @@
 ---
 title: Привязки к сетке
-linktitle:Привязки к сетке
+linktitle: Привязки к сетке
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по объяснению исходного кода C# функции Snap to Grid с помощью Aspose.Words для .NET.
 type: docs

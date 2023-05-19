@@ -1,6 +1,6 @@
 ---
 title: تحقق من صحة PDFABStandard
-linktitle:تحقق من صحة PDFABStandard
+linktitle: تحقق من صحة PDFABStandard
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للتحقق من صحة مستندات PDF مقابل PDFABStandard من خلال دليلنا خطوة بخطوة ومثال التعليمات البرمجية.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Especificar configuración regional a nivel de campo
-linktitle:Especificar configuración regional a nivel de campo
+linktitle: Especificar configuración regional a nivel de campo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a especificar la localización a nivel de campo en documentos de Word con Aspose.Words para .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Använd licens från Stream
-linktitle:Använd licens från Stream
+linktitle: Använd licens från Stream
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ansöker om en licens från en stream med Aspose.Words för .NET. Steg-för-steg guide
 type: docs

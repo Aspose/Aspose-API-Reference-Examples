@@ -1,6 +1,6 @@
 ---
 title: Ange listnivå
-linktitle:Ange listnivå
+linktitle: Ange listnivå
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du anger listnivån i ett Word-dokument med Aspose.Words för .NET.
 type: docs

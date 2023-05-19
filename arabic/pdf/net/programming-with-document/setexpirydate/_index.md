@@ -1,6 +1,6 @@
 ---
 title: حدد تاريخ انتهاء الصلاحية
-linktitle:حدد تاريخ انتهاء الصلاحية
+linktitle: حدد تاريخ انتهاء الصلاحية
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين تاريخ انتهاء الصلاحية في مستندات PDF باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs

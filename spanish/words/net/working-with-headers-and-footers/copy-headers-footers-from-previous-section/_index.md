@@ -1,6 +1,6 @@
 ---
 title: Copiar encabezados y pies de página de la sección anterior
-linktitle:Copiar encabezados y pies de página de la sección anterior
+linktitle: Copiar encabezados y pies de página de la sección anterior
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a copiar encabezados y pies de página de la sección anterior en documentos de Word usando Aspose.Words para .NET.
 type: docs

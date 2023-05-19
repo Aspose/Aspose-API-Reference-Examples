@@ -1,6 +1,6 @@
 ---
 title: Delete Fields
-linktitle:Delete Fields
+linktitle: Delete Fields
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide for deleting merge fields in your Word documents using Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Efter avsnitt Html
-linktitle:Efter avsnitt Html
+linktitle: Efter avsnitt Html
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du delar upp ett Word-dokument i sektioner HTML med Aspose.Words för .NET med komplett kodexempel.
 type: docs

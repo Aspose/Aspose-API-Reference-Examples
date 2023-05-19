@@ -1,6 +1,6 @@
 ---
 title: تحديد التقدم
-linktitle:تحديد التقدم
+linktitle: تحديد التقدم
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحديد تقدم عملية تحويل مستند PDF باستخدام Aspose.PDF for .NET مع هذا الدليل خطوة بخطوة ومثال التعليمات البرمجية.
 type: docs

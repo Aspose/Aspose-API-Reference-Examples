@@ -1,6 +1,6 @@
 ---
 title: حقول النموذج تحصل على مجموعة حقول النموذج
-linktitle:حقول النموذج تحصل على مجموعة حقول النموذج
+linktitle: حقول النموذج تحصل على مجموعة حقول النموذج
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استرداد مجموعة حقول النموذج ومعالجتها في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

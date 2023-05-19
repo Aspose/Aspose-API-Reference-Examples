@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers les en-têtes
-linktitle:Déplacer vers les en-têtes
+linktitle: Déplacer vers les en-têtes
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour naviguer et modifier les en-têtes et les pieds de page dans les documents Word avec ce guide étape par étape.
 type: docs

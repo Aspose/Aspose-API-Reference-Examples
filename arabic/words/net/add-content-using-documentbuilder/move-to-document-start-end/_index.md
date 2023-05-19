@@ -1,6 +1,6 @@
 ---
 title: الانتقال إلى المستند بداية النهاية
-linktitle:الانتقال إلى المستند بداية النهاية
+linktitle: الانتقال إلى المستند بداية النهاية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام Aspose.Words for .NET للانتقال إلى بداية المستند ونهايته في مستندات Word باستخدام هذا الدليل التفصيلي.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: تضمين الخط أثناء إنشاء المستند
-linktitle:تضمين الخط أثناء إنشاء المستند
+linktitle: تضمين الخط أثناء إنشاء المستند
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تضمين خط أثناء إنشاء مستند PDF باستخدام Aspose.PDF for .NET. تأكد من العرض الصحيح على أجهزة مختلفة.
 type: docs

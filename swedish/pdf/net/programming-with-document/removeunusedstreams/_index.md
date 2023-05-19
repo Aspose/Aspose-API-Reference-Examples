@@ -1,6 +1,6 @@
 ---
 title: Ta bort oanvända strömmar
-linktitle:Ta bort oanvända strömmar
+linktitle: Ta bort oanvända strömmar
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du tar bort oanvända strömmar från PDF-filer med Aspose.PDF för .NET. Vår steg-för-steg guide.
 type: docs

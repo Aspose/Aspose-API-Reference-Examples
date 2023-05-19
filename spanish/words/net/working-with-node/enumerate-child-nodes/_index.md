@@ -1,6 +1,6 @@
 ---
 title: Enumerar nodos secundarios
-linktitle:Enumerar nodos secundarios
+linktitle: Enumerar nodos secundarios
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a enumerar nodos secundarios en un párrafo con Aspose.Words para .NET.
 type: docs

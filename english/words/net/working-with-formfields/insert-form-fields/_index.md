@@ -1,6 +1,6 @@
 ---
 title: Insert Form Fields
-linktitle:Insert Form Fields
+linktitle: Insert Form Fields
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert dropdown form fields into Word documents using Aspose.Words for .NET. 
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 阅读 Markdown 文档
-linktitle:阅读 Markdown 文档
+linktitle: 阅读 Markdown 文档
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南阅读 markdown 文档。
 type: docs

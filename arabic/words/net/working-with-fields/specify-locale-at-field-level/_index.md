@@ -1,6 +1,6 @@
 ---
 title: حدد الإعدادات المحلية على مستوى الحقل
-linktitle:حدد الإعدادات المحلية على مستوى الحقل
+linktitle: حدد الإعدادات المحلية على مستوى الحقل
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تحديد الترجمة على مستوى الحقل في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

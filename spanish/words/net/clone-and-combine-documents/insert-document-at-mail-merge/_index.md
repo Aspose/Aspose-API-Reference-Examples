@@ -1,6 +1,6 @@
 ---
 title: Insertar documento en la combinación de correspondencia
-linktitle:Insertar documento en la combinación de correspondencia
+linktitle: Insertar documento en la combinación de correspondencia
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un documento en otro durante la combinación de correspondencia usando Aspose.Words para .NET.
 type: docs

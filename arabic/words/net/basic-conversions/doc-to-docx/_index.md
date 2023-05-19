@@ -1,6 +1,6 @@
 ---
 title: Doc إلى Docx
-linktitle:Doc إلى Docx
+linktitle: Doc إلى Docx
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تحويل مستندات Word من تنسيق doc. إلى تنسيق Docx باستخدام Aspose.Words for .NET. برنامج تعليمي خطوة بخطوة مع مثال على الكود المصدري.
 type: docs

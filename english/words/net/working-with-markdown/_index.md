@@ -1,6 +1,6 @@
 ---
 title: Working with Markdown
-linktitle:Working with Markdown
+linktitle: Working with Markdown
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain how to bold text, italic text, strickethrough, inline code, autolink, add image, ordered list, heading, table and read markdown document using Aspose.Words for .NET.
 type: docs

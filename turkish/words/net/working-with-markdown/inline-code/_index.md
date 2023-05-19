@@ -1,6 +1,6 @@
 ---
 title: Satır İçi Kod
-linktitle:Satır İçi Kod
+linktitle: Satır İçi Kod
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile satır içi kodu nasıl yapacağınızı öğrenin Adım adım kılavuz.
 type: docs

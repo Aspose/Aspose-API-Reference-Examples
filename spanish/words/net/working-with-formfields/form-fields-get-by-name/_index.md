@@ -1,6 +1,6 @@
 ---
 title: Campos de formulario Obtener por nombre
-linktitle:Campos de formulario Obtener por nombre
+linktitle: Campos de formulario Obtener por nombre
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a recuperar y modificar campos de formulario por nombre en documentos de Word usando Aspose.Words para .NET.
 type: docs

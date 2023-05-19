@@ -1,6 +1,6 @@
 ---
 title: Üstbilgiler ve Altbilgilerle Çalışma
-linktitle:Üstbilgiler ve Altbilgilerle Çalışma
+linktitle: Üstbilgiler ve Altbilgilerle Çalışma
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanılarak Word Belgesinin önceki bölümünden üstbilgi altbilgisi oluşturmayı ve üstbilgi altbilgisini kopyalamayı içerir.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Fusionner des documents
-linktitle:Fusionner des documents
+linktitle: Fusionner des documents
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C # de la fonctionnalité de fusion de documents d'Aspose.Words pour .NET
 type: docs

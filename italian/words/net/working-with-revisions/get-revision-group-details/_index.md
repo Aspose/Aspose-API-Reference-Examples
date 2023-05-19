@@ -1,6 +1,6 @@
 ---
 title: Ottieni i dettagli del gruppo di revisione
-linktitle:Ottieni i dettagli del gruppo di revisione
+linktitle: Ottieni i dettagli del gruppo di revisione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Ottieni i dettagli del gruppo di revisione in un documento di Word con Aspose.Words per .NET.
 type: docs

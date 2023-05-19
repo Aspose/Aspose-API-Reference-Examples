@@ -1,6 +1,6 @@
 ---
 title: Переместить в ячейку таблицы
-linktitle:Переместить в ячейку таблицы
+linktitle: Переместить в ячейку таблицы
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по использованию функции «Переместить в ячейку таблицы» в Aspose.Words для .NET
 type: docs

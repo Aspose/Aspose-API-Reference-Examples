@@ -1,6 +1,6 @@
 ---
 title: Sostituisci collegamenti ipertestuali
-linktitle:Sostituisci collegamenti ipertestuali
+linktitle: Sostituisci collegamenti ipertestuali
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Sostituisci i collegamenti ipertestuali nei documenti di Word utilizzando Aspose.Words per .NET. Istruzioni dettagliate per la sostituzione dei collegamenti ipertestuali.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Révision de la forme
-linktitle:Révision de la forme
+linktitle: Révision de la forme
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Révisez les formes dans un document Word avec Aspose.Words pour .NET.
 type: docs

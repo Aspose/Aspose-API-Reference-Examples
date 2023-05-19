@@ -1,6 +1,6 @@
 ---
 title: Çok Katmanlı PDF İkinci Yaklaşımı Oluşturun
-linktitle:Çok Katmanlı PDF İkinci Yaklaşımı Oluşturun
+linktitle: Çok Katmanlı PDF İkinci Yaklaşımı Oluşturun
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak çok katmanlı bir PDF oluşturmayı öğrenin. Metin ve resimlerle dinamik PDF'ler oluşturmak için kaynak kodlu adım adım kılavuz.
 type: docs

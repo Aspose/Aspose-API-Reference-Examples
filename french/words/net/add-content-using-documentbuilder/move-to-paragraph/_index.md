@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers le paragraphe
-linktitle:Déplacer vers le paragraphe
+linktitle: Déplacer vers le paragraphe
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour la fonctionnalité Déplacer vers le paragraphe de .NET pour parcourir et manipuler les paragraphes dans les documents Word par programmation.
 type: docs

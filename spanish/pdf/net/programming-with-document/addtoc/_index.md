@@ -1,6 +1,6 @@
 ---
 title: Añadir tabla de contenido
-linktitle:Añadir tabla de contenido
+linktitle: Añadir tabla de contenido
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar una tabla de contenido a documentos PDF usando Aspose.PDF para .NET. Guía paso a paso con código fuente de ejemplo. ¡Mejora la navegación de documentos!
 type: docs

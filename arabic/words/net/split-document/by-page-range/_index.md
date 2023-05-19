@@ -1,6 +1,6 @@
 ---
 title: حسب نطاق الصفحة
-linktitle:حسب نطاق الصفحة
+linktitle: حسب نطاق الصفحة
 second_title: Aspose.Words لمراجع .NET API
 description: استخرج بسهولة حسب نطاق الصفحات من مستند Word باستخدام Aspose.Words for .NET دليل خطوة بخطوة.
 type: docs

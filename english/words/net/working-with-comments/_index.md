@@ -1,6 +1,6 @@
 ---
 title: Working with Comments
-linktitle:Working with Comments
+linktitle: Working with Comments
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials show how to add comments, anchor comments, add/remove comment reply, extract comments, and resolve comments and replies in Aspose.Words for .NET
 type: docs

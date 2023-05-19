@@ -1,6 +1,6 @@
 ---
 title: Embed Font
-linktitle:Embed Font
+linktitle: Embed Font
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to embed fonts in a PDF file using Aspose.PDF for .NET with this step-by-step guide. Ensure your documents are displayed correctly on any device.
 type: docs

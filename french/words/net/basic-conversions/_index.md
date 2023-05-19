@@ -1,6 +1,6 @@
 ---
 title: Conversions de base
-linktitle:Conversions de base
+linktitle: Conversions de base
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent doc à docx, docx à rtf, docx à pdf, docx à octet, docx à epub, docx à mhtml et envoi d'e-mail, docx à démarquage, docx à txt, txt à docx,
 type: docs

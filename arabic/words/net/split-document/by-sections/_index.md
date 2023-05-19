@@ -1,6 +1,6 @@
 ---
 title: حسب الأقسام
-linktitle:حسب الأقسام
+linktitle: حسب الأقسام
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تقسيم مستند Word إلى أقسام منفصلة باستخدام Aspose.Words for .NET مع مثال رمز كامل.
 type: docs

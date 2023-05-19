@@ -1,6 +1,6 @@
 ---
 title: Вычеркнуть слова
-linktitle:Вычеркнуть слова
+linktitle: Вычеркнуть слова
 second_title: Aspose.PDF для справочника API .NET
 description: В этой статье представлено пошаговое руководство по использованию Aspose.PDF для функции .NET Strike Out Words, включая пошаговое руководство и пояснения.
 type: docs

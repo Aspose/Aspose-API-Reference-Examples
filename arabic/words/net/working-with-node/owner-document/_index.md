@@ -1,6 +1,6 @@
 ---
 title: وثيقة المالك
-linktitle:وثيقة المالك
+linktitle: وثيقة المالك
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام مستند المالك في Aspose.Words for .NET.
 type: docs

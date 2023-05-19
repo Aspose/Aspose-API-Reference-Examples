@@ -1,6 +1,6 @@
 ---
 title: Läs Active XControl-egenskaper
-linktitle:Läs Active XControl-egenskaper
+linktitle: Läs Active XControl-egenskaper
 second_title: Aspose.Words för .NET API Referens
 description: Läs egenskaperna för ActiveX-kontroller i ett Word-dokument med Aspose.Words för .NET.
 type: docs

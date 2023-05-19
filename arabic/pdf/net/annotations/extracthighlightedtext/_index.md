@@ -1,6 +1,6 @@
 ---
 title: استخراج النص المميز
-linktitle:استخراج النص المميز
+linktitle: استخراج النص المميز
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخراج النص المميز باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

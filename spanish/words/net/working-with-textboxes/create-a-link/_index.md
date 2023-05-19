@@ -1,6 +1,6 @@
 ---
 title: Crear un enlace
-linktitle:Crear un enlace
+linktitle: Crear un enlace
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear un vínculo entre cuadros de texto en un documento de Word con Aspose.Words para .NET.
 type: docs

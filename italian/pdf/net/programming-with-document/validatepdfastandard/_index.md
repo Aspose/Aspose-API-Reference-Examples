@@ -1,6 +1,6 @@
 ---
 title: Convalida PDFAStandard
-linktitle:Convalida PDFAStandard
+linktitle: Convalida PDFAStandard
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per convalidare i file PDF per PDFAStandard con questa guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: تغيير اللغة
-linktitle:تغيير اللغة
+linktitle: تغيير اللغة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تغيير الإعدادات المحلية لتنسيق التاريخ والأرقام في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

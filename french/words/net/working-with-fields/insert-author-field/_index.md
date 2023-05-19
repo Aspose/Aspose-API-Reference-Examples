@@ -1,6 +1,6 @@
 ---
 title: Insérer le champ Auteur
-linktitle:Insérer le champ Auteur
+linktitle: Insérer le champ Auteur
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ AUTEUR dans vos documents Word avec Aspose.Words pour .NET. Indiquez le nom de l'auteur pour personnaliser vos documents.
 type: docs

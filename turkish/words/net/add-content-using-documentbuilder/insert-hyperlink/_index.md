@@ -1,6 +1,6 @@
 ---
 title: Köprü Ekle
-linktitle:Köprü Ekle
+linktitle: Köprü Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak Word belgelerine köprüleri nasıl ekleyeceğinizi öğrenin.
 type: docs

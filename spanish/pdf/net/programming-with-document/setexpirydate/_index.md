@@ -1,6 +1,6 @@
 ---
 title: Establecer fecha de caducidad
-linktitle:Establecer fecha de caducidad
+linktitle: Establecer fecha de caducidad
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a establecer la fecha de caducidad en documentos PDF utilizando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

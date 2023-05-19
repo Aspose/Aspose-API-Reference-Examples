@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers le document Début Fin
-linktitle:Déplacer vers le document Début Fin
+linktitle: Déplacer vers le document Début Fin
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour passer au début et à la fin du document dans les documents Word avec ce guide étape par étape.
 type: docs

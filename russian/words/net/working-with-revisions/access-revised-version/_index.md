@@ -1,6 +1,6 @@
 ---
 title: Доступ к исправленной версии
-linktitle:Доступ к исправленной версии
+linktitle: Доступ к исправленной версии
 second_title: Справочник по API Aspose.Words для .NET
 description: Получите доступ к исправленной версии документа Word с помощью Aspose.Words для .NET.
 type: docs

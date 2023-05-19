@@ -1,6 +1,6 @@
 ---
 title: PDFUA standardını doğrulayın
-linktitle:PDFUA standardını doğrulayın
+linktitle: PDFUA standardını doğrulayın
 second_title: Aspose.PDF for .NET API Referansı
 description: C# kodunu kullanarak PDF/UA standardını doğrulamak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin. Adım adım rehber.
 type: docs

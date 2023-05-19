@@ -1,6 +1,6 @@
 ---
 title: Legen Sie die Eigenschaften für den Druckdialog fest
-linktitle:Legen Sie die Eigenschaften für den Druckdialog fest
+linktitle: Legen Sie die Eigenschaften für den Druckdialog fest
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie anhand der Schritt-für-Schritt-Anleitung, wie Sie Eigenschaften für den Druckdialog in Aspose.PDF für .NET festlegen.
 type: docs

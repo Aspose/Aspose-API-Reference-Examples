@@ -1,6 +1,6 @@
 ---
 title: Код с отступом
-linktitle:Код с отступом
+linktitle: Код с отступом
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать код с отступом в Aspose.Words для .NET. Пошаговое руководство.
 type: docs

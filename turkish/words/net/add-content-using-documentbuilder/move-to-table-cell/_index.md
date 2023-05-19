@@ -1,6 +1,6 @@
 ---
 title: Tablo Hücresine Taşı
-linktitle:Tablo Hücresine Taşı
+linktitle: Tablo Hücresine Taşı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Tablo Hücresine Taşı'yı kullanmak için adım adım kılavuz
 type: docs

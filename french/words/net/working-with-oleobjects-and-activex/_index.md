@@ -1,6 +1,6 @@
 ---
 title: Travailler avec OleObjects et ActiveX
-linktitle:Travailler avec OleObjects et ActiveX
+linktitle: Travailler avec OleObjects et ActiveX
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels expliquent comment insérer un objet Ole avec et sans package Ole, un objet Ole en tant qu'icône et lire les propriétés XControl actives à l'aide de Aspose.Words pour .NET.
 type: docs

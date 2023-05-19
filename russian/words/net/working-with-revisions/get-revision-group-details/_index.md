@@ -1,6 +1,6 @@
 ---
 title: Получить сведения о группе изменений
-linktitle:Получить сведения о группе изменений
+linktitle: Получить сведения о группе изменений
 second_title: Справочник по API Aspose.Words для .NET
 description: Получите сведения о группе ревизий в документе Word с помощью Aspose.Words для .NET.
 type: docs

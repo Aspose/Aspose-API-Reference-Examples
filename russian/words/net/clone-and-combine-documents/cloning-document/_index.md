@@ -1,6 +1,6 @@
 ---
 title: Клонирование документа
-linktitle:Клонирование документа
+linktitle: Клонирование документа
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как клонировать документ Word с помощью Aspose.Words для .NET.
 type: docs

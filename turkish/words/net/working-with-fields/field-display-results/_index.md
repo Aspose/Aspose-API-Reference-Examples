@@ -1,6 +1,6 @@
 ---
 title: Alan Görüntüleme Sonuçları
-linktitle:Alan Görüntüleme Sonuçları
+linktitle: Alan Görüntüleme Sonuçları
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizde alan sonuçlarını görüntülemek için adım adım kılavuz.
 type: docs

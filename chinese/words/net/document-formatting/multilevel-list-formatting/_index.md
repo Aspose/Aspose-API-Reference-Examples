@@ -1,6 +1,6 @@
 ---
 title: 多级列表格式
-linktitle:多级列表格式
+linktitle: 多级列表格式
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 创建多级列表和应用自定义格式。
 type: docs

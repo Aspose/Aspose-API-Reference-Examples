@@ -1,6 +1,6 @@
 ---
 title: Bağlantı Ek Açıklama Ekle
-linktitle:Bağlantı Ek Açıklama Ekle
+linktitle: Bağlantı Ek Açıklama Ekle
 second_title: Aspose.PDF for .NET API Referansı
 description: Adım adım kılavuz ve tam kaynak kodu ile Aspose.PDF for .NET kullanarak C# dilinde Ink Annotation özelliğinin PDF belgelerine nasıl ekleneceğini öğrenin.
 type: docs

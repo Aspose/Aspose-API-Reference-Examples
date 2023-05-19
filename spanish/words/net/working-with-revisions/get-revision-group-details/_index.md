@@ -1,6 +1,6 @@
 ---
 title: Obtener detalles del grupo de revisión
-linktitle:Obtener detalles del grupo de revisión
+linktitle: Obtener detalles del grupo de revisión
 second_title: Referencia de API de Aspose.Words para .NET
 description: Obtenga detalles del grupo de revisión en un documento de Word con Aspose.Words para .NET.
 type: docs

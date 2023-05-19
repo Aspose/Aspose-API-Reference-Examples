@@ -1,6 +1,6 @@
 ---
 title: 设置脚注和尾注位置
-linktitle:设置脚注和尾注位置
+linktitle: 设置脚注和尾注位置
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中设置脚注和尾注的位置。
 type: docs

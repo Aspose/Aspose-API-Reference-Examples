@@ -1,6 +1,6 @@
 ---
 title: Paragraftaki Alanları Dönüştür
-linktitle:Paragraftaki Alanları Dönüştür
+linktitle: Paragraftaki Alanları Dönüştür
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile IF alanlarını bir paragraftaki düz metne dönüştürün.
 type: docs

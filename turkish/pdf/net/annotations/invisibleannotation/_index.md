@@ -1,6 +1,6 @@
 ---
 title: Görünmez Açıklama
-linktitle:Görünmez Açıklama
+linktitle: Görünmez Açıklama
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET ile C# kaynak kodunu kullanarak PDF'lere nasıl görünmez bir şekilde açıklama ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs

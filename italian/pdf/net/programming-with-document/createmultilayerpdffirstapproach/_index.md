@@ -1,6 +1,6 @@
 ---
 title: Crea PDF multistrato Primo approccio
-linktitle:Crea PDF multistrato Primo approccio
+linktitle: Crea PDF multistrato Primo approccio
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come creare documenti PDF multistrato utilizzando il primo approccio con Aspose.PDF per .NET. Aggiungi testo, immagini e altro per migliorare i tuoi PDF.
 type: docs

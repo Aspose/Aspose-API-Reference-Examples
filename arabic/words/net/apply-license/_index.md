@@ -1,6 +1,6 @@
 ---
 title: تطبيق الترخيص
-linktitle:تطبيق الترخيص
+linktitle: تطبيق الترخيص
 second_title: Aspose.Words لمراجع .NET API
 description: احصل على إرشادات خطوة بخطوة لتطبيق ترخيص Aspose.Words في مشاريع .NET الخاصة بك. اتبع الخطوات لتمكين الوظائف الكاملة لمكتبة Aspose.Words.
 type: docs

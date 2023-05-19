@@ -1,6 +1,6 @@
 ---
 title: Ersetzen Sie Hyperlinks
-linktitle:Ersetzen Sie Hyperlinks
+linktitle: Ersetzen Sie Hyperlinks
 second_title: Aspose.Words für .NET API-Referenz
 description: Ersetzen Sie Hyperlinks in Word-Dokumenten mit Aspose.Words für .NET. Schritt-für-Schritt-Anleitung zum Ersetzen von Hyperlinks.
 type: docs

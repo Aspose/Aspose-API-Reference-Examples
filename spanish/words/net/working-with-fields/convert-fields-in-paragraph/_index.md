@@ -1,6 +1,6 @@
 ---
 title: Convertir campos en párrafo
-linktitle:Convertir campos en párrafo
+linktitle: Convertir campos en párrafo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Convierta los campos IF en texto sin formato en un párrafo con Aspose.Words para .NET.
 type: docs

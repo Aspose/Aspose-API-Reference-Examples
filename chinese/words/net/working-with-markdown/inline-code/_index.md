@@ -1,6 +1,6 @@
 ---
 title: 行内代码
-linktitle:行内代码
+linktitle: 行内代码
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南内联代码。
 type: docs

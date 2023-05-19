@@ -1,6 +1,6 @@
 ---
 title: Inline-Bild einfügen
-linktitle:Inline-Bild einfügen
+linktitle: Inline-Bild einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Inline-Bilder in Word-Dokumente einfügen.
 type: docs

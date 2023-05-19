@@ -1,6 +1,6 @@
 ---
 title: Bulleted List
-linktitle:Bulleted List
+linktitle: Bulleted List
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to create a bulleted list with Aspose.Words for .NET Step-by-step guide.
 type: docs

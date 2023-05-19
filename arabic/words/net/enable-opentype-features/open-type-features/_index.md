@@ -1,6 +1,6 @@
 ---
 title: فتح ميزات النوع
-linktitle:فتح ميزات النوع
+linktitle: فتح ميزات النوع
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تمكين ميزات Open Type واستخدامها في Aspose.Words for .NET
 type: docs

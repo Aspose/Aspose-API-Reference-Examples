@@ -1,6 +1,6 @@
 ---
 title: الصفحة المنقحة
-linktitle:الصفحة المنقحة
+linktitle: الصفحة المنقحة
 second_title: Aspose.PDF لمرجع .NET API
 description: تشرح هذه المقالة كيفية تنقيح صفحة PDF باستخدام Aspose.PDF لـ .NET ، بما في ذلك تعليمات خطوة بخطوة ومثال على الكود المصدري.
 type: docs

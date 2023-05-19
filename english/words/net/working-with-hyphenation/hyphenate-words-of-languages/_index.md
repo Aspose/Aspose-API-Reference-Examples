@@ -1,6 +1,6 @@
 ---
 title: Hyphenate Words Of Languages
-linktitle:Hyphenate Words Of Languages
+linktitle: Hyphenate Words Of Languages
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to hyphenate words in different languages in Word documents using Aspose.Words for .NET.
 type: docs

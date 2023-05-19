@@ -1,6 +1,6 @@
 ---
 title: قاعدة افقية
-linktitle:قاعدة افقية
+linktitle: قاعدة افقية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج قاعدة أفقية باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

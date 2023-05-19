@@ -1,6 +1,6 @@
 ---
 title: Définir les options de note de fin
-linktitle:Définir les options de note de fin
+linktitle: Définir les options de note de fin
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment définir les options de note de fin dans les documents Word à l'aide d'Aspose.Words pour .NET. Tutoriel étape par étape avec un exemple de code source.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Курсив
-linktitle:Курсив
+linktitle: Курсив
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как выделить текст курсивом с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

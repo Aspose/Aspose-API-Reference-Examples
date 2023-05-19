@@ -1,6 +1,6 @@
 ---
 title: Get Document Window
-linktitle:Get Document Window
+linktitle: Get Document Window
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use the GetDocumentWindow feature of Aspose.PDF for .NET to retrieve information about a PDF document's window properties.
 type: docs

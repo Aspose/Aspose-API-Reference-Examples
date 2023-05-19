@@ -1,6 +1,6 @@
 ---
 title: Ebenen hinzufügen
-linktitle:Ebenen hinzufügen
+linktitle: Ebenen hinzufügen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET Ebenen zu PDF-Dateien hinzufügen. Schritt-für-Schritt-Anleitung mit Code-Tutorials zum Erstellen und Speichern von PDFs mit Ebenen.
 type: docs

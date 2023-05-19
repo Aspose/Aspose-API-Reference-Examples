@@ -1,6 +1,6 @@
 ---
 title: Arbeta med Fields
-linktitle:Arbeta med Fields
+linktitle: Arbeta med Fields
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar visar hur man infogar fält, uppdaterar filkultur, ersätter fälthyperlänk, tar bort fält och infogar kapslade fält i Word-dokument med Aspose.Words för .NET
 type: docs

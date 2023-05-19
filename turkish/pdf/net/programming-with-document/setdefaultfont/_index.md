@@ -1,6 +1,6 @@
 ---
 title: Varsayılan Yazı Tipini Ayarla
-linktitle:Varsayılan Yazı Tipini Ayarla
+linktitle: Varsayılan Yazı Tipini Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir PDF belgesi için varsayılan yazı tipini nasıl ayarlayacağınızı öğrenin.
 type: docs

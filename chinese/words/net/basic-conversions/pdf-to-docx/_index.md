@@ -1,6 +1,6 @@
 ---
 title: PDF 转 Docx
-linktitle:PDF 转 Docx
+linktitle: PDF 转 Docx
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将 PDF 文档转换为 Docx 格式。带示例源代码的分步教程。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: الحصول على تحذيرات لاستبدال الخط
-linktitle:الحصول على تحذيرات لاستبدال الخط
+linktitle: الحصول على تحذيرات لاستبدال الخط
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetWarningsForFontSubstitution الخاصة بـ Aspose.PDF for .NET لاكتشاف تحذيرات استبدال الخط عند فتح مستند PDF.
 type: docs

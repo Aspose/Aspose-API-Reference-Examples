@@ -1,6 +1,6 @@
 ---
 title: Accesso digitato
-linktitle:Accesso digitato
+linktitle: Accesso digitato
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare l'accesso digitato per manipolare le tabelle in Aspose.Words per .NET.
 type: docs

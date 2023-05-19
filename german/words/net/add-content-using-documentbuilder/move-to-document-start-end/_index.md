@@ -1,6 +1,6 @@
 ---
 title: Zum Anfangs-Ende des Dokuments verschieben
-linktitle:Zum Anfangs-Ende des Dokuments verschieben
+linktitle: Zum Anfangs-Ende des Dokuments verschieben
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET zum Dokumentanfang und -ende in Word-Dokumenten wechseln.
 type: docs

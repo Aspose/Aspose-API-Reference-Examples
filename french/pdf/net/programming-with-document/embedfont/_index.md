@@ -1,6 +1,6 @@
 ---
 title: Incorporer la police
-linktitle:Incorporer la police
+linktitle: Incorporer la police
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à incorporer des polices dans un fichier PDF en utilisant Aspose.PDF pour .NET avec ce guide étape par étape. Assurez-vous que vos documents s'affichent correctement sur n'importe quel appareil.
 type: docs

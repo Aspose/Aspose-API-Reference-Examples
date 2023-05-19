@@ -1,6 +1,6 @@
 ---
 title: يقتبس
-linktitle:يقتبس
+linktitle: يقتبس
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام الاقتباس مع Aspose.Words دليل تفصيلي خطوة بخطوة لـ .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Применить лицензию из потока
-linktitle:Применить лицензию из потока
+linktitle: Применить лицензию из потока
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить лицензию из потока с помощью Aspose.Words для .NET. Пошаговое руководство
 type: docs

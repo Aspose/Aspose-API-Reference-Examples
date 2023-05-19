@@ -1,6 +1,6 @@
 ---
 title: Remove Unused Objects
-linktitle:Remove Unused Objects
+linktitle: Remove Unused Objects
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET to remove unused objects from PDF documents with this step-by-step guide.
 type: docs

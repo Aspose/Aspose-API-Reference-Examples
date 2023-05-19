@@ -1,6 +1,6 @@
 ---
 title: Få information om revisionsgruppen
-linktitle:Få information om revisionsgruppen
+linktitle: Få information om revisionsgruppen
 second_title: Aspose.Words för .NET API Referens
 description: Få detaljer om revisionsgrupp i ett Word-dokument med Aspose.Words för .NET.
 type: docs

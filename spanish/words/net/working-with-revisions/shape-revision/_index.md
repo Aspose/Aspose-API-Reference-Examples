@@ -1,6 +1,6 @@
 ---
 title: Revisión de forma
-linktitle:Revisión de forma
+linktitle: Revisión de forma
 second_title: Referencia de API de Aspose.Words para .NET
 description: Revise formas en un documento de Word con Aspose.Words para .NET.
 type: docs

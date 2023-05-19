@@ -1,6 +1,6 @@
 ---
 title: إزالة التعليقات في ملف PDF
-linktitle:إزالة التعليقات في ملف PDF
+linktitle: إزالة التعليقات في ملف PDF
 second_title: Aspose.Words لمراجع .NET API
 description: قم بإزالة التعليقات في ملف PDF باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Osynlig anteckning
-linktitle:Osynlig anteckning
+linktitle: Osynlig anteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du osynligt kommenterar PDF-filer med C#-källkod med Aspose.PDF för .NET. Steg-för-steg guide.
 type: docs

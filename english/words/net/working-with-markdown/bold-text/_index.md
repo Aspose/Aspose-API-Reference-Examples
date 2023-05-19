@@ -1,6 +1,6 @@
 ---
 title: Bold Text
-linktitle:Bold Text
+linktitle: Bold Text
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to bold text with Aspose.Words for .NET Step-by-step guide.
 type: docs

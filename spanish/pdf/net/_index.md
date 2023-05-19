@@ -1,6 +1,6 @@
 ---
 title: Tutoriales de Aspose.PDF para .NET
-linktitle:Tutoriales de Aspose.PDF para .NET
+linktitle: Tutoriales de Aspose.PDF para .NET
 type: docs
 weight: 10
 url: /es/pdf/net/

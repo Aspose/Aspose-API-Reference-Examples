@@ -1,6 +1,6 @@
 ---
 title: Nach Überschriften HTML
-linktitle:Nach Überschriften HTML
+linktitle: Nach Überschriften HTML
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der By Heading HTML-Funktion von Aspose.Words für .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Infoga avancerat fält utan dokumentbyggare
-linktitle:Infoga avancerat fält utan dokumentbyggare
+linktitle: Infoga avancerat fält utan dokumentbyggare
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett avancerat fält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 横线格式
-linktitle:横线格式
+linktitle: 横线格式
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中设置水平线的格式。分步指南。
 type: docs

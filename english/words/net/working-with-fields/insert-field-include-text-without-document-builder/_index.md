@@ -1,6 +1,6 @@
 ---
 title: Insert FieldIncludeText Without Document Builder
-linktitle:Insert FieldIncludeText Without Document Builder
+linktitle: Insert FieldIncludeText Without Document Builder
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert a FieldIncludeText field in your Word documents with Aspose.Words for .NET.
 type: docs

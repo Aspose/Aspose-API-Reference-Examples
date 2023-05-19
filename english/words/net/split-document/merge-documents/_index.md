@@ -1,6 +1,6 @@
 ---
 title: Merge Documents
-linktitle:Merge Documents
+linktitle: Merge Documents
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide to explain C# source code of Merge Documents feature of Aspose.Words for .NET
 type: docs

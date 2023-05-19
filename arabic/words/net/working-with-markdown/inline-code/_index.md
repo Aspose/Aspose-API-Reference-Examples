@@ -1,6 +1,6 @@
 ---
 title: رمز مضمّن
-linktitle:رمز مضمّن
+linktitle: رمز مضمّن
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تضمين التعليمات البرمجية باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

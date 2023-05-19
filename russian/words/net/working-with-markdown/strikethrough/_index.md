@@ -1,6 +1,6 @@
 ---
 title: Зачеркнутый
-linktitle:Зачеркнутый
+linktitle: Зачеркнутый
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить стиль перечеркнутого текста с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

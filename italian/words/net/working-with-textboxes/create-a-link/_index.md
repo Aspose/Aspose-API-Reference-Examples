@@ -1,6 +1,6 @@
 ---
 title: Crea un collegamento
-linktitle:Crea un collegamento
+linktitle: Crea un collegamento
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un collegamento tra le caselle di testo in un documento di Word con Aspose.Words per .NET.
 type: docs

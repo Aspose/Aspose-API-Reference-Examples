@@ -1,6 +1,6 @@
 ---
 title: Déplacer le nœud dans le document suivi
-linktitle:Déplacer le nœud dans le document suivi
+linktitle: Déplacer le nœud dans le document suivi
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Déplacez les nœuds dans un document suivi avec Aspose.Words pour .NET.
 type: docs

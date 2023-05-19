@@ -1,6 +1,6 @@
 ---
 title: Usar tipo de nodo
-linktitle:Usar tipo de nodo
+linktitle: Usar tipo de nodo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar el tipo de nodo para acceder a información específica del documento con Aspose.Words para .NET.
 type: docs

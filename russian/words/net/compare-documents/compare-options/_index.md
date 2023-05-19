@@ -1,6 +1,6 @@
 ---
 title: Сравнить варианты
-linktitle:Сравнить варианты
+linktitle: Сравнить варианты
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по объяснению исходного кода C# функции сравнения параметров с Aspose.Words для .NET.
 type: docs

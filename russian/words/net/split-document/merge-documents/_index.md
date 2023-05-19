@@ -1,6 +1,6 @@
 ---
 title: Объединить документы
-linktitle:Объединить документы
+linktitle: Объединить документы
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по объяснению исходного кода C# функции слияния документов в Aspose.Words для .NET
 type: docs

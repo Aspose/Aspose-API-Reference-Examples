@@ -1,6 +1,6 @@
 ---
 title: Form Fields Get Form Fields Collection
-linktitle:Form Fields Get Form Fields Collection
+linktitle: Form Fields Get Form Fields Collection
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to retrieve and manipulate form fields collection in Word documents using Aspose.Words for .NET. 
 type: docs

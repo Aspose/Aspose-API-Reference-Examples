@@ -1,6 +1,6 @@
 ---
 title: أعد تشغيل رقم القائمة
-linktitle:أعد تشغيل رقم القائمة
+linktitle: أعد تشغيل رقم القائمة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إعادة تعيين رقم قائمة في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

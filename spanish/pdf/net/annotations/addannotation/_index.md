@@ -1,6 +1,6 @@
 ---
 title: Agregar anotación
-linktitle:Agregar anotación
+linktitle: Agregar anotación
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar anotaciones de texto con Aspose.PDF para .NET usando este código fuente de C#. Personaliza tus anotaciones con detalles e íconos específicos.
 type: docs

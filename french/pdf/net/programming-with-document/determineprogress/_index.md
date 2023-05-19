@@ -1,6 +1,6 @@
 ---
 title: Déterminer les progrès
-linktitle:Déterminer les progrès
+linktitle: Déterminer les progrès
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à déterminer la progression du processus de conversion d'un document PDF à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape et cet exemple de code.
 type: docs

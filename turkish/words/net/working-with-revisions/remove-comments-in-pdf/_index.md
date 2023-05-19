@@ -1,6 +1,6 @@
 ---
 title: Pdf'deki Yorumları Kaldır
-linktitle:Pdf'deki Yorumları Kaldır
+linktitle: Pdf'deki Yorumları Kaldır
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir PDF dosyasındaki yorumları kaldırın.
 type: docs

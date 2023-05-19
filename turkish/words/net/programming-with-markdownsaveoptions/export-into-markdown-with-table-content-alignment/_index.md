@@ -1,6 +1,6 @@
 ---
 title: Tablo İçeriği Hizalama ile Markdown'a Dışa Aktar
-linktitle:Tablo İçeriği Hizalama ile Markdown'a Dışa Aktar
+linktitle: Tablo İçeriği Hizalama ile Markdown'a Dışa Aktar
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak tablo içeriğini farklı hizalamalarla Markdown dosyalarına nasıl aktaracağınızı öğrenin.
 type: docs

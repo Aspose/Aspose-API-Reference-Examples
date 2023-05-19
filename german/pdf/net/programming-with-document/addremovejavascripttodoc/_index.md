@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen und Entfernen von Javascript zum Dokument
-linktitle:Hinzufügen und Entfernen von Javascript zum Dokument
+linktitle: Hinzufügen und Entfernen von Javascript zum Dokument
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET JavaScript zu PDF-Dokumenten hinzufügen und entfernen. Schritt-für-Schritt-Anleitung mit Code-Tutorials für die Skripterstellung auf Dokumentebene.
 type: docs

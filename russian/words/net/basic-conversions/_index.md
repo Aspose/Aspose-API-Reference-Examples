@@ -1,6 +1,6 @@
 ---
 title: Основные преобразования
-linktitle:Основные преобразования
+linktitle: Основные преобразования
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат doc в docx, docx в rtf, docx в pdf, docx в byte, docx в epub, docx в mhtml и отправку электронной почты, docx в markdown, docx в txt, txt в docx,
 type: docs

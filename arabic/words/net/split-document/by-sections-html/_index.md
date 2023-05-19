@@ -1,6 +1,6 @@
 ---
 title: حسب أقسام Html
-linktitle:حسب أقسام Html
+linktitle: حسب أقسام Html
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تقسيم مستند Word إلى أقسام Html باستخدام Aspose.Words for .NET مع مثال رمز كامل.
 type: docs

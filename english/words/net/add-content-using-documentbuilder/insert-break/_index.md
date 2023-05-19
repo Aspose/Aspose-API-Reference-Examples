@@ -1,6 +1,6 @@
 ---
 title: Insert Break
-linktitle:Insert Break
+linktitle: Insert Break
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert page breaks in Word documents using Aspose.Words for .NET. Step-by-step guide.
 type: docs

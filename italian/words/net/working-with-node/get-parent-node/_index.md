@@ -1,6 +1,6 @@
 ---
 title: Ottieni nodo padre
-linktitle:Ottieni nodo padre
+linktitle: Ottieni nodo padre
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come ottenere il nodo padre di un elemento specifico con Aspose.Words per .NET.
 type: docs

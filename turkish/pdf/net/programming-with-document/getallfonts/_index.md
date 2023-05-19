@@ -1,6 +1,6 @@
 ---
 title: Tüm Yazı Tiplerini Alın
-linktitle:Tüm Yazı Tiplerini Alın
+linktitle: Tüm Yazı Tiplerini Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ve örnek kod ile bir PDF belgesinde kullanılan tüm yazı tiplerini programlı olarak almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

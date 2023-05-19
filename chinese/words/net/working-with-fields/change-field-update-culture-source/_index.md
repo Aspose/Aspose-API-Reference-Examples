@@ -1,6 +1,6 @@
 ---
 title: 更改字段更新文化来源
-linktitle:更改字段更新文化来源
+linktitle: 更改字段更新文化来源
 second_title: Aspose.Words for .NET API 参考
 description: Change Field Update Culture Source，在 Aspose.Words for .NET 中修改文化源的分步指南。
 type: docs

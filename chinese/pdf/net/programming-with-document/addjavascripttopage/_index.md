@@ -1,6 +1,6 @@
 ---
 title: 将 Java 脚本添加到页面
-linktitle:将 Java 脚本添加到页面
+linktitle: 将 Java 脚本添加到页面
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 将 JavaScript 添加到 PDF 文件。带有文档和页面级脚本编写代码教程的分步指南。
 type: docs

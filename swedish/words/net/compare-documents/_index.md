@@ -1,6 +1,6 @@
 ---
 title: Jämför dokument
-linktitle:Jämför dokument
+linktitle: Jämför dokument
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller jämför för lika, jämför alternativ, jämförelsemål och jämförelsegranularitet.
 type: docs

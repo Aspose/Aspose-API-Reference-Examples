@@ -1,6 +1,6 @@
 ---
 title: Inline-Code
-linktitle:Inline-Code
+linktitle: Inline-Code
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Code mit Aspose.Words für .NET integrieren.
 type: docs

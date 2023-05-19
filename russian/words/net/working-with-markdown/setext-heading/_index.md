@@ -1,6 +1,6 @@
 ---
 title: Заголовок сетекста
-linktitle:Заголовок сетекста
+linktitle: Заголовок сетекста
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать заголовки Setext для форматирования документов с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

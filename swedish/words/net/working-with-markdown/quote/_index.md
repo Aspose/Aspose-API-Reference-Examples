@@ -1,6 +1,6 @@
 ---
 title: Citat
-linktitle:Citat
+linktitle: Citat
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder citat med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Belge Al Penceresi
-linktitle:Belge Al Penceresi
+linktitle: Belge Al Penceresi
 second_title: Aspose.PDF for .NET API Referansı
 description: Bir PDF belgesinin pencere özellikleri hakkında bilgi almak için Aspose.PDF for .NET'in GetDocumentWindow özelliğini nasıl kullanacağınızı öğrenin.
 type: docs

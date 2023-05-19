@@ -1,6 +1,6 @@
 ---
 title: Incrustar fuentes usando la estrategia de subconjunto
-linktitle:Incrustar fuentes usando la estrategia de subconjunto
+linktitle: Incrustar fuentes usando la estrategia de subconjunto
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a incrustar fuentes en un archivo PDF con Subset Strategy usando Aspose.PDF para .NET. Optimice el tamaño de su PDF incrustando solo los caracteres necesarios.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 现场显示结果
-linktitle:现场显示结果
+linktitle: 现场显示结果
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 在 Word 文档中显示字段结果的分步指南。
 type: docs

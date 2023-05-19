@@ -1,6 +1,6 @@
 ---
 title: Создать ссылку
-linktitle:Создать ссылку
+linktitle: Создать ссылку
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как создать связь между текстовыми полями в документе Word с помощью Aspose.Words для .NET.
 type: docs

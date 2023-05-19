@@ -1,6 +1,6 @@
 ---
 title: Utvärdera IF tillstånd
-linktitle:Utvärdera IF tillstånd
+linktitle: Utvärdera IF tillstånd
 second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att utvärdera IF-villkoret i dina Word-dokument med Aspose.Words för .NET.
 type: docs

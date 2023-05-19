@@ -1,6 +1,6 @@
 ---
 title: Travailler avec la liste
-linktitle:Travailler avec la liste
+linktitle: Travailler avec la liste
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels expliquent comment redémarrer la liste à chaque section, spécifier le niveau de la liste, redémarrer le numéro de la liste dans le document à l'aide de Aspose.Words pour .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Kullanılmayan Nesneleri Kaldır
-linktitle:Kullanılmayan Nesneleri Kaldır
+linktitle: Kullanılmayan Nesneleri Kaldır
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzla, Aspose.PDF for .NET'i PDF belgelerinden kullanılmayan nesneleri kaldırmak için nasıl kullanacağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: الحصول على معلومات الملف
-linktitle:الحصول على معلومات الملف
+linktitle: الحصول على معلومات الملف
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetFileInfo في Aspose.PDF for .NET لاسترداد معلومات البيانات الوصفية حول مستند PDF.
 type: docs

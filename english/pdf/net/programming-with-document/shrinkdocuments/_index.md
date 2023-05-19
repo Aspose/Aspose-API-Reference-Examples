@@ -1,6 +1,6 @@
 ---
 title: Shrink Documents
-linktitle:Shrink Documents
+linktitle: Shrink Documents
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET to shrink PDF documents with this step-by-step guide. 
 type: docs

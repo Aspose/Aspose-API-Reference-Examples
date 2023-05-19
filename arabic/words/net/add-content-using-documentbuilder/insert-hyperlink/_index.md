@@ -1,6 +1,6 @@
 ---
 title: أدخل ارتباط تشعبي
-linktitle:أدخل ارتباط تشعبي
+linktitle: أدخل ارتباط تشعبي
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج الارتباطات التشعبية في مستندات Word باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

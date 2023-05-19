@@ -1,6 +1,6 @@
 ---
 title: Получить родительский узел
-linktitle:Получить родительский узел
+linktitle: Получить родительский узел
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как получить родительский узел определенного элемента с помощью Aspose.Words для .NET.
 type: docs

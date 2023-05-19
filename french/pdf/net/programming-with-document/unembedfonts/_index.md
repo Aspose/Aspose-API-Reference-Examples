@@ -1,6 +1,6 @@
 ---
 title: Polices désincorporées
-linktitle:Polices désincorporées
+linktitle: Polices désincorporées
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour obtenir des polices non incorporées et optimiser les fichiers PDF. Un guide étape par étape.
 type: docs

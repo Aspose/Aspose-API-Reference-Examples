@@ -1,6 +1,6 @@
 ---
 title: Rimuovi oggetti inutilizzati
-linktitle:Rimuovi oggetti inutilizzati
+linktitle: Rimuovi oggetti inutilizzati
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per rimuovere oggetti inutilizzati dai documenti PDF con questa guida dettagliata.
 type: docs

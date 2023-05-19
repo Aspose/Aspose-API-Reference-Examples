@@ -1,6 +1,6 @@
 ---
 title: Hämta Resource Of Annotation
-linktitle:Hämta Resource Of Annotation
+linktitle: Hämta Resource Of Annotation
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du hämtar resursen för en anteckning med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs

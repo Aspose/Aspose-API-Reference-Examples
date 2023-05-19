@@ -1,6 +1,6 @@
 ---
 title: Get File Info
-linktitle:Get File Info
+linktitle: Get File Info
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use the GetFileInfo feature of Aspose.PDF for .NET to retrieve metadata information about a PDF document.
 type: docs

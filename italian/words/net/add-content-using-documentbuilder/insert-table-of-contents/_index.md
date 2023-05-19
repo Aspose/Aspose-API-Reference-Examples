@@ -1,6 +1,6 @@
 ---
 title: Inserisci sommario
-linktitle:Inserisci sommario
+linktitle: Inserisci sommario
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un sommario nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 验证 PDFUA 标准
-linktitle:验证 PDFUA 标准
+linktitle: 验证 PDFUA 标准
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 通过 C# 代码验证 PDF/UA 标准。分步指南。
 type: docs

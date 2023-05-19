@@ -1,6 +1,6 @@
 ---
 title: عنوان
-linktitle:عنوان
+linktitle: عنوان
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام العنوان مع Aspose.Words دليل تفصيلي خطوة بخطوة لـ .NET.
 type: docs

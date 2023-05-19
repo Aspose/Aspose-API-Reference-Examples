@@ -1,6 +1,6 @@
 ---
 title: Working with Footnote and Endnote
-linktitle:Working with Footnote and Endnote
+linktitle: Working with Footnote and Endnote
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials explain how to set Footnote and endnote in Word Document using Aspose.Words for .NET
 type: docs

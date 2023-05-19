@@ -1,6 +1,6 @@
 ---
 title: Sposta nel campo di unione
-linktitle:Sposta nel campo di unione
+linktitle: Sposta nel campo di unione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come implementare la funzione Sposta per unire il campo in Aspose.Words per .NET utilizzando la guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: أدخل حقل الدمج باستخدام DOM
-linktitle:أدخل حقل الدمج باستخدام DOM
+linktitle: أدخل حقل الدمج باستخدام DOM
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقول دمج الحقول المخصصة في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

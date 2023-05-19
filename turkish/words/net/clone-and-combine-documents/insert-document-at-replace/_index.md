@@ -1,6 +1,6 @@
 ---
 title: Değiştirme Sırasında Belge Ekle
-linktitle:Değiştirme Sırasında Belge Ekle
+linktitle: Değiştirme Sırasında Belge Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak değiştirme sırasında nasıl belge ekleyeceğinizi öğrenin.
 type: docs

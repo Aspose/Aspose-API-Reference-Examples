@@ -1,6 +1,6 @@
 ---
 title: Imposta le opzioni della nota di chiusura
-linktitle:Imposta le opzioni della nota di chiusura
+linktitle: Imposta le opzioni della nota di chiusura
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come impostare le opzioni delle note di chiusura nei documenti di Word utilizzando Aspose.Words per .NET. Tutorial passo passo con codice sorgente di esempio.
 type: docs

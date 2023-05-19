@@ -1,6 +1,6 @@
 ---
 title: lnk Largeur de ligne d'annotation
-linktitle:lnk Largeur de ligne d'annotation
+linktitle: lnk Largeur de ligne d'annotation
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape pour définir la largeur de ligne de l'annotation lnk à l'aide d'Aspose.PDF pour .NET.
 type: docs

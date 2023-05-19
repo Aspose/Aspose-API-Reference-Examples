@@ -1,6 +1,6 @@
 ---
 title: TXT إلى Docx
-linktitle:TXT إلى Docx
+linktitle: TXT إلى Docx
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تحويل ملفات النص العادي (Txt) إلى مستندات Word (Docx) باستخدام Aspose.Words for .NET. البرنامج التعليمي خطوة بخطوة مع رمز المثال.
 type: docs

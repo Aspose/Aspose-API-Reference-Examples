@@ -1,6 +1,6 @@
 ---
 title: إدراج مستند في دمج المراسلات
-linktitle:إدراج مستند في دمج المراسلات
+linktitle: إدراج مستند في دمج المراسلات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج مستند في مستند آخر أثناء دمج البريد باستخدام Aspose.Words for .NET.
 type: docs

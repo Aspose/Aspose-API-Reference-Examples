@@ -1,6 +1,6 @@
 ---
 title: Formatage des paragraphes
-linktitle:Formatage des paragraphes
+linktitle: Formatage des paragraphes
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer une mise en forme personnalisée à vos paragraphes avec Aspose.Words pour .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Styckeformatering
-linktitle:Styckeformatering
+linktitle: Styckeformatering
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder anpassad formatering på dina stycken med Aspose.Words för .NET.
 type: docs

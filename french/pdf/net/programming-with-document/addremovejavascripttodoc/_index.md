@@ -1,6 +1,6 @@
 ---
 title: Ajouter Supprimer Javascript au document
-linktitle:Ajouter Supprimer Javascript au document
+linktitle: Ajouter Supprimer Javascript au document
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment ajouter et supprimer JavaScript des documents PDF à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec des didacticiels de code pour la création de scripts au niveau du document.
 type: docs

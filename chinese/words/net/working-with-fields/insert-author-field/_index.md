@@ -1,6 +1,6 @@
 ---
 title: 插入作者字段
-linktitle:插入作者字段
+linktitle: 插入作者字段
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在您的 Word 文档中插入作者字段。指定作者姓名以个性化您的文档。
 type: docs

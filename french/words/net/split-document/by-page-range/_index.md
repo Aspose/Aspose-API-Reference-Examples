@@ -1,6 +1,6 @@
 ---
 title: Par plage de pages
-linktitle:Par plage de pages
+linktitle: Par plage de pages
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Extrayez facilement par plage de pages d'un document Word à l'aide du guide étape par étape Aspose.Words pour .NET.
 type: docs

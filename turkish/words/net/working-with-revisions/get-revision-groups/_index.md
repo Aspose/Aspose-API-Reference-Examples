@@ -1,6 +1,6 @@
 ---
 title: Revizyon Gruplarını Alın
-linktitle:Revizyon Gruplarını Alın
+linktitle: Revizyon Gruplarını Alın
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinde revizyon grupları alın.
 type: docs

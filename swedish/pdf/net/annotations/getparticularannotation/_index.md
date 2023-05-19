@@ -1,6 +1,6 @@
 ---
 title: Få särskild anteckning
-linktitle:Få särskild anteckning
+linktitle: Få särskild anteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att få speciell anteckning i ett PDF-dokument med denna steg-för-steg-guide.
 type: docs

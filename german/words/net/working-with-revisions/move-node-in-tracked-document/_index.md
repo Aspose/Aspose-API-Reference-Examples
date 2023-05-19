@@ -1,6 +1,6 @@
 ---
 title: Knoten im verfolgten Dokument verschieben
-linktitle:Knoten im verfolgten Dokument verschieben
+linktitle: Knoten im verfolgten Dokument verschieben
 second_title: Aspose.Words für .NET API-Referenz
 description: Verschieben Sie Knoten in einem verfolgten Dokument mit Aspose.Words für .NET.
 type: docs

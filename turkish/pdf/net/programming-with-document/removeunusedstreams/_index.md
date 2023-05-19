@@ -1,6 +1,6 @@
 ---
 title: Kullanılmayan Akışları Kaldır
-linktitle:Kullanılmayan Akışları Kaldır
+linktitle: Kullanılmayan Akışları Kaldır
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak kullanılmayan akışları PDF dosyalarından nasıl kaldıracağınızı öğrenin. Adım adım kılavuzumuz.
 type: docs

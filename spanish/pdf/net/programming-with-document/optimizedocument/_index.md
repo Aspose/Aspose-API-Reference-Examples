@@ -1,6 +1,6 @@
 ---
 title: Optimizar documento
-linktitle:Optimizar documento
+linktitle: Optimizar documento
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Optimize Document for the web es esencial para la experiencia del usuario. Aprenda cómo hacerlo usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

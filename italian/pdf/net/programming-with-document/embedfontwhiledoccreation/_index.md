@@ -1,6 +1,6 @@
 ---
 title: Incorpora carattere durante la creazione del documento
-linktitle:Incorpora carattere durante la creazione del documento
+linktitle: Incorpora carattere durante la creazione del documento
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come incorporare un font durante la creazione di un documento PDF utilizzando Aspose.PDF per .NET. Garantire la visualizzazione corretta su diversi dispositivi.
 type: docs

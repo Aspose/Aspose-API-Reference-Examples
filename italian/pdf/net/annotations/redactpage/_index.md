@@ -1,6 +1,6 @@
 ---
 title: Pagina Redigere
-linktitle:Pagina Redigere
+linktitle: Pagina Redigere
 second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo spiega come redigere una pagina PDF utilizzando Aspose.PDF per .NET, incluse istruzioni dettagliate e codice sorgente di esempio.
 type: docs

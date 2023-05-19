@@ -1,6 +1,6 @@
 ---
 title: Accès typé
-linktitle:Accès typé
+linktitle: Accès typé
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser l'accès typé pour manipuler des tables dans Aspose.Words pour .NET.
 type: docs

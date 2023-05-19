@@ -1,6 +1,6 @@
 ---
 title: Autolink
-linktitle:Autolink
+linktitle: Autolink
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert autolink with Aspose.Words for .NET Step-by-step guide.
 type: docs

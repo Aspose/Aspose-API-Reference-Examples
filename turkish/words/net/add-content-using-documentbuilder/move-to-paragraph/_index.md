@@ -1,6 +1,6 @@
 ---
 title: Paragrafa Taşı
-linktitle:Paragrafa Taşı
+linktitle: Paragrafa Taşı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in Paragrafa Taşı özelliğinin Word belgelerindeki paragraflarda programlı olarak gezinmek ve bunları değiştirmek için nasıl kullanılacağını öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Lägg till anteckning
-linktitle:Lägg till anteckning
+linktitle: Lägg till anteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till textkommentarer med Aspose.PDF för .NET med den här C#-källkoden. Anpassa dina kommentarer med specifika detaljer och ikoner.
 type: docs

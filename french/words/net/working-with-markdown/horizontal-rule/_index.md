@@ -1,6 +1,6 @@
 ---
 title: La règle horizontale
-linktitle:La règle horizontale
+linktitle: La règle horizontale
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer une règle horizontale avec le guide pas à pas Aspose.Words pour .NET.
 type: docs

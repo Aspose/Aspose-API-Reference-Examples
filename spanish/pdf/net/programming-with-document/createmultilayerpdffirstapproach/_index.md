@@ -1,6 +1,6 @@
 ---
 title: Crear primer enfoque de PDF multicapa
-linktitle:Crear primer enfoque de PDF multicapa
+linktitle: Crear primer enfoque de PDF multicapa
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a crear documentos PDF multicapa utilizando el primer enfoque con Aspose.PDF para .NET. Agregue texto, imágenes y más para mejorar sus archivos PDF.
 type: docs

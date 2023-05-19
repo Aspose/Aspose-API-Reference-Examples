@@ -1,6 +1,6 @@
 ---
 title: Infoga Ole-objekt med Ole-paket
-linktitle:Infoga Ole-objekt med Ole-paket
+linktitle: Infoga Ole-objekt med Ole-paket
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett OLE-objekt med ett OLE-paket i ett dokument med Aspose.Words för .NET.
 type: docs

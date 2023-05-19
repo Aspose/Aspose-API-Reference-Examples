@@ -1,6 +1,6 @@
 ---
 title: Obtener recurso de anotación
-linktitle:Obtener recurso de anotación
+linktitle: Obtener recurso de anotación
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a recuperar el recurso de una anotación usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

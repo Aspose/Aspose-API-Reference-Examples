@@ -1,6 +1,6 @@
 ---
 title: Insérer un paragraphe
-linktitle:Insérer un paragraphe
+linktitle: Insérer un paragraphe
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des paragraphes formatés dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

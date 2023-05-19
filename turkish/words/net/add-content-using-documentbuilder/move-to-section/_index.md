@@ -1,6 +1,6 @@
 ---
 title: Bölüme Taşı
-linktitle:Bölüme Taşı
+linktitle: Bölüme Taşı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Bölüme Taşı'yı kullanmak için adım adım kılavuz, Word belgelerindeki bölümleri ve paragrafları manipüle eder.
 type: docs

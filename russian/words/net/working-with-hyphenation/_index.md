@@ -1,6 +1,6 @@
 ---
 title: Работа с переносами
-linktitle:Работа с переносами
+linktitle: Работа с переносами
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат расстановку переносов Words of Languages, загрузку словаря расстановки переносов для языка и обратный вызов расстановки переносов с использованием Aspose.Words для .NET.
 type: docs

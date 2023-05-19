@@ -1,6 +1,6 @@
 ---
 title: OpenType özelliklerini etkinleştir
-linktitle:OpenType özelliklerini etkinleştir
+linktitle: OpenType özelliklerini etkinleştir
 second_title: Aspose.Words for .NET API Referansı
 description: Word belgelerinizin tipografisini ve görünümünü iyileştirmek için openType özelliklerini nasıl etkinleştireceğinizi öğrenin.
 type: docs

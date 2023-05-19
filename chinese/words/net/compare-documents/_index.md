@@ -1,6 +1,6 @@
 ---
 title: 比较文件
-linktitle:比较文件
+linktitle: 比较文件
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含相等比较、比较选项、比较目标和比较粒度。
 type: docs

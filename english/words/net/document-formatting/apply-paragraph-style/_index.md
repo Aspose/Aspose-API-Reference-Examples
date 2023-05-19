@@ -1,6 +1,6 @@
 ---
 title: Apply Paragraph Style
-linktitle:Apply Paragraph Style
+linktitle: Apply Paragraph Style
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to apply a paragraph style using Aspose.Words for .NET.
 type: docs

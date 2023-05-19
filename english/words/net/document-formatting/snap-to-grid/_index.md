@@ -1,6 +1,6 @@
 ---
 title: Snap To Grid
-linktitle:Snap To Grid
+linktitle: Snap To Grid
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide to explain C# source code of Snap to Grid feature with Aspose.Words for .NET.
 type: docs

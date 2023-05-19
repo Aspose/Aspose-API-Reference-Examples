@@ -1,6 +1,6 @@
 ---
 title: Dosyadan Lisansı Uygula
-linktitle:Dosyadan Lisansı Uygula
+linktitle: Dosyadan Lisansı Uygula
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir dosyadan nasıl lisans uygulayacağınızı öğrenin.
 type: docs

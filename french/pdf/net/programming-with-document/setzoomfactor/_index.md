@@ -1,6 +1,6 @@
 ---
 title: Définir le facteur de zoom
-linktitle:Définir le facteur de zoom
+linktitle: Définir le facteur de zoom
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment définir le facteur de zoom pour les fichiers PDF à l'aide d'Aspose.PDF pour .NET grâce à notre guide étape par étape.
 type: docs

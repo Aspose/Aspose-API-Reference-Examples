@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Silbentrennung
-linktitle:Arbeiten mit Silbentrennung
+linktitle: Arbeiten mit Silbentrennung
 second_title: Aspose.Words für .NET API-Referenz
 description: Die Tutorials enthalten die Silbentrennung von Wörtern in Sprachen, das Laden des Silbentrennungswörterbuchs für Sprachen und einen Silbentrennungsrückruf mit Aspose.Words für .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Filigran ile Programlama
-linktitle:Filigran ile Programlama
+linktitle: Filigran ile Programlama
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, belirli seçeneklerle birlikte metin filigranı eklemeyi içerir
 type: docs

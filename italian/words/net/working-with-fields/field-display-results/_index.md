@@ -1,6 +1,6 @@
 ---
 title: Risultati di visualizzazione del campo
-linktitle:Risultati di visualizzazione del campo
+linktitle: Risultati di visualizzazione del campo
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per la visualizzazione dei risultati del campo nei documenti di Word con Aspose.Words per .NET.
 type: docs

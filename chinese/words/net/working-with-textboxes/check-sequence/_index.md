@@ -1,6 +1,6 @@
 ---
 title: 检查顺序
-linktitle:检查顺序
+linktitle: 检查顺序
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 检查 Word 文档中文本框的顺序。
 type: docs

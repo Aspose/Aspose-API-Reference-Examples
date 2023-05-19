@@ -1,6 +1,6 @@
 ---
 title: Validera PDFAS-standard
-linktitle:Validera PDFAS-standard
+linktitle: Validera PDFAS-standard
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att validera PDF-filer för PDFAStandard med denna steg-för-steg-guide.
 type: docs

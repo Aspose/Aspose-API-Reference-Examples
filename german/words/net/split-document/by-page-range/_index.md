@@ -1,6 +1,6 @@
 ---
 title: Nach Seitenbereich
-linktitle:Nach Seitenbereich
+linktitle: Nach Seitenbereich
 second_title: Aspose.Words für .NET API-Referenz
 description: Einfaches Extrahieren nach Seitenbereich aus einem Word-Dokument mit Aspose.Words für .NET. Schritt-für-Schritt-Anleitung.
 type: docs

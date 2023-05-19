@@ -1,6 +1,6 @@
 ---
 title: Personalice los números de página al agregar TOC
-linktitle:Personalice los números de página al agregar TOC
+linktitle: Personalice los números de página al agregar TOC
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a personalizar los números de página mientras agrega una tabla de contenido (TOC) usando Aspose.PDF para .NET con esta guía paso a paso y código de ejemplo.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Set Foot Note Columns
-linktitle:Set Foot Note Columns
+linktitle: Set Foot Note Columns
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to set the number of columns for footnotes in Word documents using Aspose.Words for .NET.
 type: docs

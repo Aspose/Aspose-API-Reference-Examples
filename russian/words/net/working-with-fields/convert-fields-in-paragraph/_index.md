@@ -1,6 +1,6 @@
 ---
 title: Преобразование полей в абзаце
-linktitle:Преобразование полей в абзаце
+linktitle: Преобразование полей в абзаце
 second_title: Справочник по API Aspose.Words для .NET
 description: Преобразуйте поля ЕСЛИ в обычный текст в абзаце с помощью Aspose.Words для .NET.
 type: docs

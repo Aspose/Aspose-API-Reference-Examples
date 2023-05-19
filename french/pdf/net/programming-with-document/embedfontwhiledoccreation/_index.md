@@ -1,6 +1,6 @@
 ---
 title: Incorporer la police lors de la création de documents
-linktitle:Incorporer la police lors de la création de documents
+linktitle: Incorporer la police lors de la création de documents
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à incorporer une police lors de la création d'un document PDF à l'aide d'Aspose.PDF pour .NET. Assurez un affichage correct sur différents appareils.
 type: docs

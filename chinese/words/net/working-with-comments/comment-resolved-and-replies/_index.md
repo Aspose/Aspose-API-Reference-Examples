@@ -1,6 +1,6 @@
 ---
 title: 如何解决和回复
-linktitle:如何解决和回复
+linktitle: 如何解决和回复
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 解决 Word 文档中的评论和回复。
 type: docs

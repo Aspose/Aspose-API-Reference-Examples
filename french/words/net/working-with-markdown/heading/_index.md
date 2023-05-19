@@ -1,6 +1,6 @@
 ---
 title: Titre
-linktitle:Titre
+linktitle: Titre
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le titre avec Aspose.Words pour .NET Guide étape par étape.
 type: docs

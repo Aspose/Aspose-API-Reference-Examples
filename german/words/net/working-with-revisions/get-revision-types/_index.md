@@ -1,6 +1,6 @@
 ---
 title: Revisionstypen abrufen
-linktitle:Revisionstypen abrufen
+linktitle: Revisionstypen abrufen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erhalten Sie Revisionstypen in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs

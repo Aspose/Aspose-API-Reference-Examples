@@ -1,6 +1,6 @@
 ---
 title: Untergeordnete Knoten aufzählen
-linktitle:Untergeordnete Knoten aufzählen
+linktitle: Untergeordnete Knoten aufzählen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET untergeordnete Knoten in einem Absatz aufzählen.
 type: docs

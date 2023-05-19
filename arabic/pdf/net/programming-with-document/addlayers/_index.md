@@ -1,6 +1,6 @@
 ---
 title: أضف طبقات
-linktitle:أضف طبقات
+linktitle: أضف طبقات
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة طبقات إلى ملفات PDF باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع برامج تعليمية حول التعليمات البرمجية لإنشاء ملفات PDF ذات طبقات وحفظها.
 type: docs

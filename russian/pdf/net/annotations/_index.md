@@ -1,6 +1,6 @@
 ---
 title: Программирование с аннотациями
-linktitle:Программирование с аннотациями
+linktitle: Программирование с аннотациями
 type: docs
 weight: 11
 url: /ru/pdf/net/annotations/

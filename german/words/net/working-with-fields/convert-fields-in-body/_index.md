@@ -1,6 +1,6 @@
 ---
 title: Felder im Textkörper konvertieren
-linktitle:Felder im Textkörper konvertieren
+linktitle: Felder im Textkörper konvertieren
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Seitenfelder in Text im Hauptteil eines Word-Dokuments konvertieren.
 type: docs

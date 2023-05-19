@@ -1,6 +1,6 @@
 ---
 title: طاولة
-linktitle:طاولة
+linktitle: طاولة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء جدول باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

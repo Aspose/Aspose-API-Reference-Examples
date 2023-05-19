@@ -1,6 +1,6 @@
 ---
 title: Ajouter du contenu à l'aide de Documentbuilder
-linktitle:Ajouter du contenu à l'aide de Documentbuilder
+linktitle: Ajouter du contenu à l'aide de Documentbuilder
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent la création d'un nouveau document, le générateur de documents, l'insertion d'un signet, la création d'un tableau, l'insertion d'une règle horizontale, le format de la règle horizontale, l'insertion d'une pause, l'insertion de texte i
 type: docs

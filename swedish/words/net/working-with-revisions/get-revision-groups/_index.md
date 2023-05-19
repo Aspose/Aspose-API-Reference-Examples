@@ -1,6 +1,6 @@
 ---
 title: Skaffa revisionsgrupper
-linktitle:Skaffa revisionsgrupper
+linktitle: Skaffa revisionsgrupper
 second_title: Aspose.Words för .NET API Referens
 description: Få versionsgrupper i ett Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Obtenga advertencias para la sustitución de fuentes
-linktitle:Obtenga advertencias para la sustitución de fuentes
+linktitle: Obtenga advertencias para la sustitución de fuentes
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar la función GetWarningsForFontSubstitution de Aspose.PDF para .NET para detectar advertencias de sustitución de fuentes al abrir un documento PDF.
 type: docs

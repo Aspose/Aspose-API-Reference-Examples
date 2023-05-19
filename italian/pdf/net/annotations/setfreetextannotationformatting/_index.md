@@ -1,6 +1,6 @@
 ---
 title: Impostare la formattazione dell'annotazione del testo libero
-linktitle:Impostare la formattazione dell'annotazione del testo libero
+linktitle: Impostare la formattazione dell'annotazione del testo libero
 second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo fornisce una guida dettagliata su come creare un'annotazione di testo libero e specificarne il contenuto utilizzando Aspose.PDF per .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Add Layers
-linktitle:Add Layers
+linktitle: Add Layers
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to add layers to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for creating and saving layered PDFs.
 type: docs

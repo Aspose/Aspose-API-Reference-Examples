@@ -1,6 +1,6 @@
 ---
 title: Подтвердить стандарт PDFUA
-linktitle:Подтвердить стандарт PDFUA
+linktitle: Подтвердить стандарт PDFUA
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как использовать Aspose.PDF для .NET для проверки стандарта PDF/UA с использованием кода C#. Пошаговое руководство.
 type: docs

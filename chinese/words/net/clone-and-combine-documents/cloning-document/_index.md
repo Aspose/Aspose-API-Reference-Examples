@@ -1,6 +1,6 @@
 ---
 title: 克隆文件
-linktitle:克隆文件
+linktitle: 克隆文件
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 克隆 Word 文档。
 type: docs

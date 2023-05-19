@@ -1,6 +1,6 @@
 ---
 title: Restart List At Each Section
-linktitle:Restart List At Each Section
+linktitle: Restart List At Each Section
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to reset a numbered list to each section in a Word document with Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: lnk Ek Açıklama Satır Genişliği
-linktitle:lnk Ek Açıklama Satır Genişliği
+linktitle: lnk Ek Açıklama Satır Genişliği
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET kullanarak lnk Açıklamanın çizgi genişliğini ayarlamak için adım adım bir kılavuz sunmaktadır.
 type: docs

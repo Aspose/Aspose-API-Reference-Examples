@@ -1,6 +1,6 @@
 ---
 title: içindekiler ekle
-linktitle:içindekiler ekle
+linktitle: içindekiler ekle
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF belgelerine içindekiler tablosunu nasıl ekleyeceğinizi öğrenin. Örnek kaynak koduyla adım adım kılavuz. Doküman gezintisini artırın!
 type: docs

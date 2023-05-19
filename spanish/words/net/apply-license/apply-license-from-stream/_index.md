@@ -1,6 +1,6 @@
 ---
 title: Aplicar licencia desde flujo
-linktitle:Aplicar licencia desde flujo
+linktitle: Aplicar licencia desde flujo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar una licencia desde una transmisión usando Aspose.Words para .NET. Guía paso por paso
 type: docs

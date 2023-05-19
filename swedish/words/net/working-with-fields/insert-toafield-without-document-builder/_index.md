@@ -1,6 +1,6 @@
 ---
 title: Infoga TOA-fält utan dokumentbyggare
-linktitle:Infoga TOA-fält utan dokumentbyggare
+linktitle: Infoga TOA-fält utan dokumentbyggare
 second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att infoga TOA-fält utan Document Builder med Aspose.Words för .NET.
 type: docs

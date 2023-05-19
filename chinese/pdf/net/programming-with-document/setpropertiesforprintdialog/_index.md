@@ -1,6 +1,6 @@
 ---
 title: 设置打印对话框的属性
-linktitle:设置打印对话框的属性
+linktitle: 设置打印对话框的属性
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用分步指南在 Aspose.PDF for .NET 中设置打印对话框的属性。
 type: docs

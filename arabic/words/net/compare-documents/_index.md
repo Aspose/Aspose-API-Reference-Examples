@@ -1,6 +1,6 @@
 ---
 title: قارن المستندات
-linktitle:قارن المستندات
+linktitle: قارن المستندات
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على مقارنة للخيارات المتساوية والمقارنة وهدف المقارنة ودقة المقارنة.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Inserisci riga orizzontale
-linktitle:Inserisci riga orizzontale
+linktitle: Inserisci riga orizzontale
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire regole orizzontali nei documenti di Word utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs

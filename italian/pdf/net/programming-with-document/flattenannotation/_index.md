@@ -1,6 +1,6 @@
 ---
 title: Appiattisci annotazione
-linktitle:Appiattisci annotazione
+linktitle: Appiattisci annotazione
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come appiattire le annotazioni in un documento PDF utilizzando Aspose.PDF per .NET. Conserva le annotazioni e previeni l'alterazione accidentale.
 type: docs

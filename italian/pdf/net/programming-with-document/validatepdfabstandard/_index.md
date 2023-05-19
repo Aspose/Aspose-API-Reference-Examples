@@ -1,6 +1,6 @@
 ---
 title: Convalida PDFABStandard
-linktitle:Convalida PDFABStandard
+linktitle: Convalida PDFABStandard
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per convalidare i documenti PDF rispetto allo standard PDFABS con la nostra guida dettagliata e l'esempio di codice.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Yakınlaştırma Faktörünü Ayarla
-linktitle:Yakınlaştırma Faktörünü Ayarla
+linktitle: Yakınlaştırma Faktörünü Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Adım adım kılavuzumuzla Aspose.PDF for .NET kullanarak PDF dosyaları için yakınlaştırma faktörünü nasıl ayarlayacağınızı öğrenin.
 type: docs

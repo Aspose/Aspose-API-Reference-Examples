@@ -1,6 +1,6 @@
 ---
 title: Betoningar
-linktitle:Betoningar
+linktitle: Betoningar
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder betoningar (fet och kursiv stil) med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

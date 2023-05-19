@@ -1,6 +1,6 @@
 ---
 title: Añadir anotación lnk
-linktitle:Añadir anotación lnk
+linktitle: Añadir anotación lnk
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar la función de anotación de tinta a documentos PDF en C# usando Aspose.PDF para .NET con una guía paso a paso y el código fuente completo.
 type: docs

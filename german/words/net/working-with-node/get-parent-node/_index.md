@@ -1,6 +1,6 @@
 ---
 title: Übergeordneten Knoten abrufen
-linktitle:Übergeordneten Knoten abrufen
+linktitle: Übergeordneten Knoten abrufen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET den übergeordneten Knoten eines bestimmten Elements abrufen.
 type: docs

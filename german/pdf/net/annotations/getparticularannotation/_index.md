@@ -1,6 +1,6 @@
 ---
 title: Erhalten Sie eine bestimmte Anmerkung
-linktitle:Erhalten Sie eine bestimmte Anmerkung
+linktitle: Erhalten Sie eine bestimmte Anmerkung
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie Aspose.PDF für .NET verwenden, um bestimmte Anmerkungen in ein PDF-Dokument einzufügen.
 type: docs

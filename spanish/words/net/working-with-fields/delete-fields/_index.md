@@ -1,6 +1,6 @@
 ---
 title: Eliminar campos
-linktitle:Eliminar campos
+linktitle: Eliminar campos
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para eliminar campos de combinación en sus documentos de Word utilizando Aspose.Words para .NET.
 type: docs

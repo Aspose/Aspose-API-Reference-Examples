@@ -1,6 +1,6 @@
 ---
 title: По заголовкам HTML
-linktitle:По заголовкам HTML
+linktitle: По заголовкам HTML
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по объяснению исходного кода C# функции By Heading HTML в Aspose.Words для .NET
 type: docs

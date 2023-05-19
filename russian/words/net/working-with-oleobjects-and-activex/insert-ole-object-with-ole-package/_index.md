@@ -1,6 +1,6 @@
 ---
 title: Вставить объект Ole с пакетом Ole
-linktitle:Вставить объект Ole с пакетом Ole
+linktitle: Вставить объект Ole с пакетом Ole
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить объект OLE с пакетом OLE в документ с помощью Aspose.Words для .NET.
 type: docs

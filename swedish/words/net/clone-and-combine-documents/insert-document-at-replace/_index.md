@@ -1,6 +1,6 @@
 ---
 title: Infoga dokument vid ersätt
-linktitle:Infoga dokument vid ersätt
+linktitle: Infoga dokument vid ersätt
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett dokument vid ersättning med Aspose.Words för .NET.
 type: docs

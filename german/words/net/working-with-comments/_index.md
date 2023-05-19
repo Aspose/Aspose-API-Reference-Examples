@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Kommentaren
-linktitle:Arbeiten mit Kommentaren
+linktitle: Arbeiten mit Kommentaren
 second_title: Aspose.Words für .NET API-Referenz
 description: In den Tutorials erfahren Sie, wie Sie in Aspose.Words für .NET Kommentare hinzufügen, Kommentare verankern, Kommentarantworten hinzufügen/entfernen, Kommentare extrahieren und Kommentare und Antworten auflösen
 type: docs

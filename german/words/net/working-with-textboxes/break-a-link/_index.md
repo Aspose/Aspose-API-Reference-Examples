@@ -1,6 +1,6 @@
 ---
 title: Brechen Sie eine Verbindung
-linktitle:Brechen Sie eine Verbindung
+linktitle: Brechen Sie eine Verbindung
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Links in einem Word-Dokument unterbrechen.
 type: docs

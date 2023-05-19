@@ -1,6 +1,6 @@
 ---
 title: Inserisci oggetto vecchio come icona utilizzando lo stream
-linktitle:Inserisci oggetto vecchio come icona utilizzando lo stream
+linktitle: Inserisci oggetto vecchio come icona utilizzando lo stream
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un oggetto OLE come icona utilizzando un flusso con Aspose.Words per .NET.
 type: docs

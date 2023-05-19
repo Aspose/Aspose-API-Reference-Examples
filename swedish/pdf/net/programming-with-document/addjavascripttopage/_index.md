@@ -1,6 +1,6 @@
 ---
 title: Lägg till Java-skript på sidan
-linktitle:Lägg till Java-skript på sidan
+linktitle: Lägg till Java-skript på sidan
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till JavaScript i PDF-filer med Aspose.PDF för .NET. Steg-för-steg-guide med kodhandledning för dokument- och sidnivåskript.
 type: docs

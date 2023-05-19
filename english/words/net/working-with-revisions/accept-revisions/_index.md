@@ -1,6 +1,6 @@
 ---
 title: Accept Revisions
-linktitle:Accept Revisions
+linktitle: Accept Revisions
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to accept revisions to a Word document using Aspose.Words for .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Ställ in slutnotsalternativ
-linktitle:Ställ in slutnotsalternativ
+linktitle: Ställ in slutnotsalternativ
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ställer in slutnotalternativ i Word-dokument med Aspose.Words för .NET. Steg-för-steg handledning med exempel på källkod.
 type: docs

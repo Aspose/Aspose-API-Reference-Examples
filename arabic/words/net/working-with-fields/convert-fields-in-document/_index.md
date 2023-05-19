@@ -1,6 +1,6 @@
 ---
 title: تحويل الحقول في المستند
-linktitle:تحويل الحقول في المستند
+linktitle: تحويل الحقول في المستند
 second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لتحويل حقول المستند إلى نص باستخدام Aspose.Words for .NET.
 type: docs

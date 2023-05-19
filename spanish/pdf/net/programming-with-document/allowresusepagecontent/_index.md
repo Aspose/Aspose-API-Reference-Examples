@@ -1,6 +1,6 @@
 ---
 title: Permitir reutilizar el contenido de la página
-linktitle:Permitir reutilizar el contenido de la página
+linktitle: Permitir reutilizar el contenido de la página
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a optimizar archivos PDF habilitando la función "Permitir reutilizar el contenido de la página" usando Aspose.PDF para .NET. Reduzca el tamaño del archivo y mejore el rendimiento.
 type: docs

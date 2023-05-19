@@ -1,6 +1,6 @@
 ---
 title: Yatay Kural Ekle
-linktitle:Yatay Kural Ekle
+linktitle: Yatay Kural Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine yatay kuralları nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs

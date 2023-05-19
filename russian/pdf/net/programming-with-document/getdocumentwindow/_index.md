@@ -1,6 +1,6 @@
 ---
 title: Получить окно документа
-linktitle:Получить окно документа
+linktitle: Получить окно документа
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как использовать функцию GetDocumentWindow в Aspose.PDF для .NET для получения информации о свойствах окна PDF-документа.
 type: docs

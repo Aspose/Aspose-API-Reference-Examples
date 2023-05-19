@@ -1,6 +1,6 @@
 ---
 title: Постранично
-linktitle:Постранично
+linktitle: Постранично
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по объяснению исходного кода C# функции Aspose.Words Page by Page для .NET
 type: docs

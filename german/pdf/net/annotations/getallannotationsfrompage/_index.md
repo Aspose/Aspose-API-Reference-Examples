@@ -1,6 +1,6 @@
 ---
 title: Alle Anmerkungen von der Seite abrufen
-linktitle:Alle Anmerkungen von der Seite abrufen
+linktitle: Alle Anmerkungen von der Seite abrufen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET alle Anmerkungen von einer PDF-Seite abrufen.
 type: docs

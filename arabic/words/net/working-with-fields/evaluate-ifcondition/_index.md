@@ -1,6 +1,6 @@
 ---
 title: تقييم حالة IF
-linktitle:تقييم حالة IF
+linktitle: تقييم حالة IF
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لتقييم حالة IF في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

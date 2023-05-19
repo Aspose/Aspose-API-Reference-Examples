@@ -1,6 +1,6 @@
 ---
 title: 断字回调
-linktitle:断字回调
+linktitle: 断字回调
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何在 Aspose.Words for .NET 中使用断字回调来处理单词断字。
 type: docs

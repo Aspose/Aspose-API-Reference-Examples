@@ -1,6 +1,6 @@
 ---
 title: By Page Range
-linktitle:By Page Range
+linktitle: By Page Range
 second_title: Aspose.Words for .NET API Reference
 description: Easily extract by page range from a Word document using Aspose.Words for .NET Step-by-step guide.
 type: docs

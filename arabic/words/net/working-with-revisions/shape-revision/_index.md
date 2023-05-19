@@ -1,6 +1,6 @@
 ---
 title: مراجعة الشكل
-linktitle:مراجعة الشكل
+linktitle: مراجعة الشكل
 second_title: Aspose.Words لمراجع .NET API
 description: راجع الأشكال في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

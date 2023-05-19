@@ -1,6 +1,6 @@
 ---
 title: Вставить HTML
-linktitle:Вставить HTML
+linktitle: Вставить HTML
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять содержимое HTML в документы Word с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Programmering med Markdownsave-alternativ
-linktitle:Programmering med Markdownsave-alternativ
+linktitle: Programmering med Markdownsave-alternativ
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller export till markdown med justering av tabellinnehåll och bildmapp
 type: docs

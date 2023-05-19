@@ -1,6 +1,6 @@
 ---
 title: 自动链接
-linktitle:自动链接
+linktitle: 自动链接
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南插入自动链接。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Greifen Sie auf die überarbeitete Version zu
-linktitle:Greifen Sie auf die überarbeitete Version zu
+linktitle: Greifen Sie auf die überarbeitete Version zu
 second_title: Aspose.Words für .NET API-Referenz
 description: Greifen Sie mit Aspose.Words für .NET auf eine überarbeitete Version eines Word-Dokuments zu.
 type: docs

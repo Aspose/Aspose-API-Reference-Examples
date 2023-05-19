@@ -1,6 +1,6 @@
 ---
 title: Bewerten Sie die IF-Bedingung
-linktitle:Bewerten Sie die IF-Bedingung
+linktitle: Bewerten Sie die IF-Bedingung
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Auswertung der IF-Bedingung in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs

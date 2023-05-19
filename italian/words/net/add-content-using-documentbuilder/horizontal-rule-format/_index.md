@@ -1,6 +1,6 @@
 ---
 title: Formato riga orizzontale
-linktitle:Formato riga orizzontale
+linktitle: Formato riga orizzontale
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come formattare le regole orizzontali nei documenti di Word utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs

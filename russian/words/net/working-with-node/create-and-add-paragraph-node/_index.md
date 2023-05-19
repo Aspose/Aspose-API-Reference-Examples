@@ -1,6 +1,6 @@
 ---
 title: Создать и добавить узел абзаца
-linktitle:Создать и добавить узел абзаца
+linktitle: Создать и добавить узел абзаца
 second_title: Справочник по API Aspose.Words для .NET
 description: Создайте и добавьте узел абзаца в документы Word с помощью Aspose.Words для .NET.
 type: docs

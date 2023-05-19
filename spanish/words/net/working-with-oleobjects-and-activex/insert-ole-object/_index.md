@@ -1,6 +1,6 @@
 ---
 title: Insertar objeto viejo
-linktitle:Insertar objeto viejo
+linktitle: Insertar objeto viejo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un objeto OLE en un documento usando Aspose.Words para .NET.
 type: docs

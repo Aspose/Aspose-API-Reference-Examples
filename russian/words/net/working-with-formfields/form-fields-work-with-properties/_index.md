@@ -1,6 +1,6 @@
 ---
 title: Поля формы работают со свойствами
-linktitle:Поля формы работают со свойствами
+linktitle: Поля формы работают со свойствами
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как работать со свойствами поля формы в документах Word, используя Aspose.Words для .NET.
 type: docs

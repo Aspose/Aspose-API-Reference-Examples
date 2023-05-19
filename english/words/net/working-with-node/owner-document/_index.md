@@ -1,6 +1,6 @@
 ---
 title: Owner Document
-linktitle:Owner Document
+linktitle: Owner Document
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use the owner document in Aspose.Words for .NET.
 type: docs

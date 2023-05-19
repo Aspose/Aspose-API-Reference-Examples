@@ -1,6 +1,6 @@
 ---
 title: Ajouter des calques
-linktitle:Ajouter des calques
+linktitle: Ajouter des calques
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à ajouter des calques aux fichiers PDF à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec des didacticiels de code pour créer et enregistrer des PDF multicouches.
 type: docs

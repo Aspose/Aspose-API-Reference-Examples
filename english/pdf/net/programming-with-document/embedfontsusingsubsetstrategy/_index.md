@@ -1,6 +1,6 @@
 ---
 title: Embed Fonts Using Subset Strategy
-linktitle:Embed Fonts Using Subset Strategy
+linktitle: Embed Fonts Using Subset Strategy
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to embed fonts in a PDF file with Subset Strategy using Aspose.PDF for .NET. Optimize your PDF size by embedding only necessary characters.
 type: docs

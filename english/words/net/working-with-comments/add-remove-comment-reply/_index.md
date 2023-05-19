@@ -1,6 +1,6 @@
 ---
 title: Add Remove Comment Reply
-linktitle:Add Remove Comment Reply
+linktitle: Add Remove Comment Reply
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to add and remove comment replies in Word documents using Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Mover a la celda de la tabla
-linktitle:Mover a la celda de la tabla
+linktitle: Mover a la celda de la tabla
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para usar Move To Table Cell en Aspose.Words para .NET
 type: docs

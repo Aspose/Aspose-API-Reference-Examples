@@ -1,6 +1,6 @@
 ---
 title: تحويل الحقول في الفقرة
-linktitle:تحويل الحقول في الفقرة
+linktitle: تحويل الحقول في الفقرة
 second_title: Aspose.Words لمراجع .NET API
 description: تحويل حقول IF إلى نص عادي في فقرة باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Por Secciones Html
-linktitle:Por Secciones Html
+linktitle: Por Secciones Html
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a dividir un documento de Word en secciones Html usando Aspose.Words para .NET con un ejemplo de código completo.
 type: docs

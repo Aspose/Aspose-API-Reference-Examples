@@ -1,6 +1,6 @@
 ---
 title: Ottieni la finestra del documento
-linktitle:Ottieni la finestra del documento
+linktitle: Ottieni la finestra del documento
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare la funzione GetDocumentWindow di Aspose.PDF per .NET per recuperare informazioni sulle proprietà della finestra di un documento PDF.
 type: docs

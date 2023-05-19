@@ -1,6 +1,6 @@
 ---
 title: Insérer le document lors du publipostage
-linktitle:Insérer le document lors du publipostage
+linktitle: Insérer le document lors du publipostage
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un document dans un autre pendant le publipostage à l'aide d'Aspose.Words pour .NET.
 type: docs

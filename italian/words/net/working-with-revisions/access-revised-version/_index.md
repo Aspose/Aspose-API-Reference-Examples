@@ -1,6 +1,6 @@
 ---
 title: Accedi alla versione rivista
-linktitle:Accedi alla versione rivista
+linktitle: Accedi alla versione rivista
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Accedi a una versione rivista di un documento Word con Aspose.Words per .NET.
 type: docs

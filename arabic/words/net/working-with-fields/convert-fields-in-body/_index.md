@@ -1,6 +1,6 @@
 ---
 title: تحويل الحقول في الجسم
-linktitle:تحويل الحقول في الجسم
+linktitle: تحويل الحقول في الجسم
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام Aspose.Words for .NET لتحويل حقول الصفحة إلى نص في نص مستند Word.
 type: docs

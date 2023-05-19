@@ -1,6 +1,6 @@
 ---
 title: Ändra språk
-linktitle:Ändra språk
+linktitle: Ändra språk
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ändrar språk för datum- och nummerformatering i Word-dokument med Aspose.Words för .NET.
 type: docs

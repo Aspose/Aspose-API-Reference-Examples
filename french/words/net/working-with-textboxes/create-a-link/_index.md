@@ -1,6 +1,6 @@
 ---
 title: Créer un lien
-linktitle:Créer un lien
+linktitle: Créer un lien
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer un lien entre les zones de texte dans un document Word avec Aspose.Words pour .NET.
 type: docs

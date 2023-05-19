@@ -1,6 +1,6 @@
 ---
 title: Serbest Metin Açıklama Biçimlendirmesini Ayarla
-linktitle:Serbest Metin Açıklama Biçimlendirmesini Ayarla
+linktitle: Serbest Metin Açıklama Biçimlendirmesini Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET kullanarak serbest metin ek açıklamasının nasıl oluşturulacağı ve içeriğinin nasıl belirleneceği konusunda adım adım bir kılavuz sunmaktadır.
 type: docs

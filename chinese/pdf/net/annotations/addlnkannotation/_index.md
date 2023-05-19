@@ -1,6 +1,6 @@
 ---
 title: 添加链接注释
-linktitle:添加链接注释
+linktitle: 添加链接注释
 second_title: Aspose.PDF for .NET API 参考
 description: 通过分步指南和完整源代码，了解如何使用 Aspose.PDF for .NET 在 C# 中向 PDF 文档添加墨迹注释功能。
 type: docs

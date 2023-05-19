@@ -1,6 +1,6 @@
 ---
 title: إعادة تسمية حقول الدمج
-linktitle:إعادة تسمية حقول الدمج
+linktitle: إعادة تسمية حقول الدمج
 second_title: Aspose.Words لمراجع .NET API
 description: في هذا البرنامج التعليمي ، ستتعلم كيفية إعادة تسمية حقول الدمج في مستند باستخدام Aspose.Words for .NET.
 type: docs

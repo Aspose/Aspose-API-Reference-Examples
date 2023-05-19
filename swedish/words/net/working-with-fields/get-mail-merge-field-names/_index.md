@@ -1,6 +1,6 @@
 ---
 title: Hämta fältnamn för sammankoppling av brev
-linktitle:Hämta fältnamn för sammankoppling av brev
+linktitle: Hämta fältnamn för sammankoppling av brev
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du får kopplingsfältnamn i dina Word-dokument med Aspose.Words för .NET.
 type: docs

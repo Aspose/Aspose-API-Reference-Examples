@@ -1,6 +1,6 @@
 ---
 title: Yazı Tiplerini Kaldır
-linktitle:Yazı Tiplerini Kaldır
+linktitle: Yazı Tiplerini Kaldır
 second_title: Aspose.PDF for .NET API Referansı
 description: Unembed Fonts'u almak ve PDF dosyalarını optimize etmek için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin. Adım adım kılavuz.
 type: docs

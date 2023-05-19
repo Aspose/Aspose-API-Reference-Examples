@@ -1,6 +1,6 @@
 ---
 title: 一页一页
-linktitle:一页一页
+linktitle: 一页一页
 second_title: Aspose.Words for .NET API 参考
 description: 分步指南解释 Aspose.Words .NET 逐页功能的 C# 源代码
 type: docs

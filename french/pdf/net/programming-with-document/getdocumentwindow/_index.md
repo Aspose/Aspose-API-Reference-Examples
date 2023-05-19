@@ -1,6 +1,6 @@
 ---
 title: Fenêtre Obtenir le document
-linktitle:Fenêtre Obtenir le document
+linktitle: Fenêtre Obtenir le document
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser la fonction GetDocumentWindow d'Aspose.PDF pour .NET pour récupérer des informations sur les propriétés de la fenêtre d'un document PDF.
 type: docs

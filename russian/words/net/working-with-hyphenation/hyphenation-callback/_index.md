@@ -1,6 +1,6 @@
 ---
 title: Обратный вызов с переносом
-linktitle:Обратный вызов с переносом
+linktitle: Обратный вызов с переносом
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать обратный вызов переноса в Aspose.Words для .NET для обработки переноса слов.
 type: docs

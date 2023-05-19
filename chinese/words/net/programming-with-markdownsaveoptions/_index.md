@@ -1,6 +1,6 @@
 ---
 title: 使用 Markdownsaveoptions 编程
-linktitle:使用 Markdownsaveoptions 编程
+linktitle: 使用 Markdownsaveoptions 编程
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含导出到降价表内容对齐和设置图像文件夹
 type: docs

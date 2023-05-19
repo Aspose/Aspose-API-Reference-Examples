@@ -1,6 +1,6 @@
 ---
 title: Вставить объект Ole
-linktitle:Вставить объект Ole
+linktitle: Вставить объект Ole
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить объект OLE в документ с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Working with List
-linktitle:Working with List
+linktitle: Working with List
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain how to restart list at each section, specify list level, restart list number in Document using Aspose.Words for .NET.
 type: docs

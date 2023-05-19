@@ -1,6 +1,6 @@
 ---
 title: Ole Nesnesini Simge Olarak Ekle
-linktitle:Ole Nesnesini Simge Olarak Ekle
+linktitle: Ole Nesnesini Simge Olarak Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir OLE nesnesini simge olarak nasıl ekleyeceğinizi öğrenin.
 type: docs

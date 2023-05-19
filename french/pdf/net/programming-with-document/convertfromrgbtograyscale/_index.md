@@ -1,6 +1,6 @@
 ---
 title: Convertir de RVB en niveaux de gris
-linktitle:Convertir de RVB en niveaux de gris
+linktitle: Convertir de RVB en niveaux de gris
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à convertir des PDF de RVB en niveaux de gris à l'aide d'Aspose.PDF pour .NET. Améliorez la qualité d'impression et réduisez la taille du fichier.
 type: docs

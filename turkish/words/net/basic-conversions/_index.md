@@ -1,6 +1,6 @@
 ---
 title: Temel Dönüşümler
-linktitle:Temel Dönüşümler
+linktitle: Temel Dönüşümler
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler doc'tan docx'e, docx'ten rtf'ye, docx'ten pdf'ye, docx'ten byte'a, docx'ten epub'a, docx'ten mhtml'ye ve e-posta göndermeyi, docx'ten markdown'a, docx'ten txt'ye, txt'den docx'e,
 type: docs

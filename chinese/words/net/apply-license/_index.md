@@ -1,6 +1,6 @@
 ---
 title: 申请执照
-linktitle:申请执照
+linktitle: 申请执照
 second_title: Aspose.Words for .NET API 参考
 description: 获取在您的 .NET 项目中应用 Aspose.Words 许可证的分步说明。按照以下步骤启用 Aspose.Words 库的全部功能。
 type: docs

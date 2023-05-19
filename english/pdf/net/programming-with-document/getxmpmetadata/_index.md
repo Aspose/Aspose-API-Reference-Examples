@@ -1,6 +1,6 @@
 ---
 title: Get XMP Metadata
-linktitle:Get XMP Metadata
+linktitle: Get XMP Metadata
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use the GetXmpMetadata feature of Aspose.PDF for .NET to extract XMP metadata from a PDF document using C# source code.
 type: docs

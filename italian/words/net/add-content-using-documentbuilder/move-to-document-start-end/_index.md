@@ -1,6 +1,6 @@
 ---
 title: Sposta nel documento Inizio Fine
-linktitle:Sposta nel documento Inizio Fine
+linktitle: Sposta nel documento Inizio Fine
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare Aspose.Words per .NET per passare all'inizio e alla fine del documento nei documenti di Word con questa guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Yorumlarla Çalışmak
-linktitle:Yorumlarla Çalışmak
+linktitle: Yorumlarla Çalışmak
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET'te yorum eklemeyi, yorumları bağlamayı, yorum yanıtı ekleme/kaldırmayı, yorumları ayıklamayı ve yorum ve yanıtları çözümlemeyi gösterir.
 type: docs

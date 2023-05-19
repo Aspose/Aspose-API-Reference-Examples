@@ -1,6 +1,6 @@
 ---
 title: Get Revision Groups
-linktitle:Get Revision Groups
+linktitle: Get Revision Groups
 second_title: Aspose.Words for .NET API Reference
 description: Get revision groups in a Word document with Aspose.Words for .NET.
 type: docs

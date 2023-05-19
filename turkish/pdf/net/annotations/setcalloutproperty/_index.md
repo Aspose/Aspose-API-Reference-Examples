@@ -1,6 +1,6 @@
 ---
 title: Açıklama Özelliğini Ayarla
-linktitle:Açıklama Özelliğini Ayarla
+linktitle: Açıklama Özelliğini Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak Bilgi Özelliğini nasıl ayarlayacağınızı öğrenin. Ek açıklamaları belirtme çizgileri, metin rengi ve bitiş stilleriyle özelleştirin.
 type: docs

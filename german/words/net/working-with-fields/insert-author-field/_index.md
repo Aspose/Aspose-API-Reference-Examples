@@ -1,6 +1,6 @@
 ---
 title: Autorenfeld einfügen
-linktitle:Autorenfeld einfügen
+linktitle: Autorenfeld einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein AUTHOR-Feld in Ihre Word-Dokumente einfügen. Geben Sie den Namen des Autors an, um Ihre Dokumente zu personalisieren.
 type: docs

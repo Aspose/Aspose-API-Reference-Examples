@@ -1,6 +1,6 @@
 ---
 title: Lesen Sie die Eigenschaften von Active XControl
-linktitle:Lesen Sie die Eigenschaften von Active XControl
+linktitle: Lesen Sie die Eigenschaften von Active XControl
 second_title: Aspose.Words für .NET API-Referenz
 description: Lesen Sie Eigenschaften von ActiveX-Steuerelementen in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs

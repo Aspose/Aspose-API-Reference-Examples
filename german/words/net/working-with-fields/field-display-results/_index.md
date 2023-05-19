@@ -1,6 +1,6 @@
 ---
 title: Ergebnisse der Feldanzeige
-linktitle:Ergebnisse der Feldanzeige
+linktitle: Ergebnisse der Feldanzeige
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Anzeigen von Feldergebnissen in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs

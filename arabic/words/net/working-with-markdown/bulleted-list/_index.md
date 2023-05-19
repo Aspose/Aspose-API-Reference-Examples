@@ -1,6 +1,6 @@
 ---
 title: قائمة نقطية
-linktitle:قائمة نقطية
+linktitle: قائمة نقطية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء قائمة نقطية باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

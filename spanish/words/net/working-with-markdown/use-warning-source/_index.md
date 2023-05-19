@@ -1,6 +1,6 @@
 ---
 title: Usar fuente de advertencia
-linktitle:Usar fuente de advertencia
+linktitle: Usar fuente de advertencia
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la fuente de advertencia con Aspose.Words para la guía paso a paso de .NET.
 type: docs

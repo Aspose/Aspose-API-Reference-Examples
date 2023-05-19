@@ -1,6 +1,6 @@
 ---
 title: Mostrar revisiones en globos
-linktitle:Mostrar revisiones en globos
+linktitle: Mostrar revisiones en globos
 second_title: Referencia de API de Aspose.Words para .NET
 description: Muestre revisiones en globos con Aspose.Words para .NET.
 type: docs

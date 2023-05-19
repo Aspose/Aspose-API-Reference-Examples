@@ -1,6 +1,6 @@
 ---
 title: Вставить вложенные поля
-linktitle:Вставить вложенные поля
+linktitle: Вставить вложенные поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как легко вставлять вложенные поля в документы Word с помощью Aspose.Words для .NET.
 type: docs

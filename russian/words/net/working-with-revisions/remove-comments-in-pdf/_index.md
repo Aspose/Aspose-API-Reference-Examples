@@ -1,6 +1,6 @@
 ---
 title: Удалить комментарии в PDF
-linktitle:Удалить комментарии в PDF
+linktitle: Удалить комментарии в PDF
 second_title: Справочник по API Aspose.Words для .NET
 description: Удалите комментарии в файле PDF с помощью Aspose.Words для .NET.
 type: docs

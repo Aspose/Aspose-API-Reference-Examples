@@ -1,6 +1,6 @@
 ---
 title: Конструктор документов Вставить закладку
-linktitle:Конструктор документов Вставить закладку
+linktitle: Конструктор документов Вставить закладку
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять закладки в документы Word с помощью DocumentBuilder в Aspose.Words для .NET. Пошаговое руководство.
 type: docs

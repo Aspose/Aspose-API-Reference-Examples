@@ -1,6 +1,6 @@
 ---
 title: Infoga FieldIncludeText utan dokumentbyggare
-linktitle:Infoga FieldIncludeText utan dokumentbyggare
+linktitle: Infoga FieldIncludeText utan dokumentbyggare
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett FieldIncludeText-fält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

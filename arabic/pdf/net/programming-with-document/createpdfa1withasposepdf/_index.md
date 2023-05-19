@@ -1,6 +1,6 @@
 ---
 title: إنشاء ملف PDF A1 باستخدام Aspose Pdf
-linktitle:إنشاء ملف PDF A1 باستخدام Aspose Pdf
+linktitle: إنشاء ملف PDF A1 باستخدام Aspose Pdf
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إنشاء مستند PDF A1 باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع شفرة المصدر C #. تحسين كفاءة ملفات PDF.
 type: docs

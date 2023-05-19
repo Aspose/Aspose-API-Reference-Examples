@@ -1,6 +1,6 @@
 ---
 title: Nascondi i numeri di pagina nel TOC
-linktitle:Nascondi i numeri di pagina nel TOC
+linktitle: Nascondi i numeri di pagina nel TOC
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come nascondere i numeri di pagina in un sommario utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

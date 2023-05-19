@@ -1,6 +1,6 @@
 ---
 title: Felder im Absatz konvertieren
-linktitle:Felder im Absatz konvertieren
+linktitle: Felder im Absatz konvertieren
 second_title: Aspose.Words für .NET API-Referenz
 description: Konvertieren Sie IF-Felder in einfachen Text in einem Absatz mit Aspose.Words für .NET.
 type: docs

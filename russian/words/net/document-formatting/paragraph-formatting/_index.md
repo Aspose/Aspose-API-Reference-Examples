@@ -1,6 +1,6 @@
 ---
 title: Форматирование абзаца
-linktitle:Форматирование абзаца
+linktitle: Форматирование абзаца
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить пользовательское форматирование к абзацам с помощью Aspose.Words для .NET.
 type: docs

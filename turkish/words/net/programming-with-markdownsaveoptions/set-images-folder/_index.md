@@ -1,6 +1,6 @@
 ---
 title: Görüntüler Klasörünü Ayarla
-linktitle:Görüntüler Klasörünü Ayarla
+linktitle: Görüntüler Klasörünü Ayarla
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Markdown'a dışa aktarırken resimler klasörünü nasıl ayarlayacağınızı öğrenin. Daha iyi organizasyon ve entegrasyon için görüntülerin yerleşimini özelleştirin.
 type: docs

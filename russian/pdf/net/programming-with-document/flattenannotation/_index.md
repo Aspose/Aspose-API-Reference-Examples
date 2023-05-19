@@ -1,6 +1,6 @@
 ---
 title: Свести аннотацию
-linktitle:Свести аннотацию
+linktitle: Свести аннотацию
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как свести аннотации в документе PDF с помощью Aspose.PDF для .NET. Сохраняйте аннотации и предотвращайте случайное изменение.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Travailler avec Markdown
-linktitle:Travailler avec Markdown
+linktitle: Travailler avec Markdown
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels expliquent comment mettre du texte en gras, du texte en italique, barré, du code en ligne, des liens automatiques, ajouter une image, une liste ordonnée, un en-tête, un tableau et lire un document de démarquage à l'aide d'Aspose.Words pour .NET.
 type: docs

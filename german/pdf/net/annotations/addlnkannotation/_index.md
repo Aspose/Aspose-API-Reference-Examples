@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie eine lnk-Anmerkung hinzu
-linktitle:Fügen Sie eine lnk-Anmerkung hinzu
+linktitle: Fügen Sie eine lnk-Anmerkung hinzu
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit einer Schritt-für-Schritt-Anleitung und vollständigem Quellcode, wie Sie mit Aspose.PDF für .NET die Funktion „Ink Annotation“ zu PDF-Dokumenten in C# hinzufügen.
 type: docs

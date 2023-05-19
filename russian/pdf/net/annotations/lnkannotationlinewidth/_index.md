@@ -1,6 +1,6 @@
 ---
 title: lnk Ширина линии аннотации
-linktitle:lnk Ширина линии аннотации
+linktitle: lnk Ширина линии аннотации
 second_title: Aspose.PDF для справочника API .NET
 description: В этой статье представлено пошаговое руководство по настройке ширины линии аннотации lnk с использованием Aspose.PDF для .NET.
 type: docs

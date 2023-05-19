@@ -1,6 +1,6 @@
 ---
 title: Üstü çizili
-linktitle:Üstü çizili
+linktitle: Üstü çizili
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile üzeri çizili metin stilini nasıl uygulayacağınızı öğrenin.
 type: docs

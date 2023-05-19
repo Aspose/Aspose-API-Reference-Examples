@@ -1,6 +1,6 @@
 ---
 title: Formato de párrafo
-linktitle:Formato de párrafo
+linktitle: Formato de párrafo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar formato personalizado a sus párrafos con Aspose.Words para .NET.
 type: docs

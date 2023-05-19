@@ -1,6 +1,6 @@
 ---
 title: Nach Abschnitten HTML
-linktitle:Nach Abschnitten HTML
+linktitle: Nach Abschnitten HTML
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand eines vollständigen Codebeispiels, wie Sie ein Word-Dokument mit Aspose.Words für .NET in HTML-Abschnitte aufteilen.
 type: docs

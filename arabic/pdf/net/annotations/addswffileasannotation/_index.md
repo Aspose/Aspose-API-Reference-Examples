@@ -1,6 +1,6 @@
 ---
 title: إضافة ملف Swf كتعليق توضيحي
-linktitle:إضافة ملف Swf كتعليق توضيحي
+linktitle: إضافة ملف Swf كتعليق توضيحي
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة ملفات SWF كتعليقات توضيحية في Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

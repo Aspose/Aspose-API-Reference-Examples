@@ -1,6 +1,6 @@
 ---
 title: Campos de formulario Trabajar con propiedades
-linktitle:Campos de formulario Trabajar con propiedades
+linktitle: Campos de formulario Trabajar con propiedades
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a trabajar con propiedades de campo de formulario en documentos de Word usando Aspose.Words para .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Grundläggande omvandlingar
-linktitle:Grundläggande omvandlingar
+linktitle: Grundläggande omvandlingar
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller doc till docx, docx till rtf, docx till pdf, docx till byte, docx till epub, docx till mhtml och skicka e-post, docx till markdown, docx till txt, txt till docx,
 type: docs

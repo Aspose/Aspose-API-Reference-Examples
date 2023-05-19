@@ -1,6 +1,6 @@
 ---
 title: Insérer des champs imbriqués
-linktitle:Insérer des champs imbriqués
+linktitle: Insérer des champs imbriqués
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer facilement des champs imbriqués dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

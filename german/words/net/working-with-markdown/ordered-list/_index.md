@@ -1,6 +1,6 @@
 ---
 title: Bestellliste
-linktitle:Bestellliste
+linktitle: Bestellliste
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET eine geordnete Liste erstellen.
 type: docs

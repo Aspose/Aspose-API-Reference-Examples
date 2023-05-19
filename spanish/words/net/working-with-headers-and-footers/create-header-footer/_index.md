@@ -1,6 +1,6 @@
 ---
 title: Crear encabezado de pie de página
-linktitle:Crear encabezado de pie de página
+linktitle: Crear encabezado de pie de página
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear encabezados y pies de página en sus documentos de Word con Aspose.Words para .NET. Personalice encabezados y pies de página para cada página.
 type: docs

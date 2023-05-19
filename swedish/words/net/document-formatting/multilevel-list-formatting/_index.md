@@ -1,6 +1,6 @@
 ---
 title: Listformatering på flera nivåer
-linktitle:Listformatering på flera nivåer
+linktitle: Listformatering på flera nivåer
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar en flernivålista och använder anpassad formatering med Aspose.Words för .NET.
 type: docs

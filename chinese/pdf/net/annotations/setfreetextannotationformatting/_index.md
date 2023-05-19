@@ -1,6 +1,6 @@
 ---
 title: 设置自由文本注释格式
-linktitle:设置自由文本注释格式
+linktitle: 设置自由文本注释格式
 second_title: Aspose.PDF for .NET API 参考
 description: 本文提供了有关如何使用 Aspose.PDF for .NET 创建自由文本注释并指定其内容的分步指南
 type: docs

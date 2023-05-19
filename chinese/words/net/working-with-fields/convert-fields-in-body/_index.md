@@ -1,6 +1,6 @@
 ---
 title: 将字段转换为正文
-linktitle:将字段转换为正文
+linktitle: 将字段转换为正文
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将页面字段转换为 Word 文档正文中的文本。
 type: docs

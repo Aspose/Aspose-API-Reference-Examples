@@ -1,6 +1,6 @@
 ---
 title: Clonare e combinare documenti
-linktitle:Clonare e combinare documenti
+linktitle: Clonare e combinare documenti
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Le esercitazioni contengono la clonazione del documento, l'inserimento del documento alla sostituzione e l'inserimento del documento alla stampa unione.
 type: docs

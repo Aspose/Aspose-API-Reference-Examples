@@ -1,6 +1,6 @@
 ---
 title: Imposta il fattore di ingrandimento
-linktitle:Imposta il fattore di ingrandimento
+linktitle: Imposta il fattore di ingrandimento
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare il fattore di zoom per i file PDF utilizzando Aspose.PDF per .NET con la nostra guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Dokumente vergleichen
-linktitle:Dokumente vergleichen
+linktitle: Dokumente vergleichen
 second_title: Aspose.Words für .NET API-Referenz
 description: Die Tutorials enthalten „Vergleichen auf Gleichheit“, „Vergleichsoptionen“, „Vergleichsziel“ und „Vergleichsgranularität“.
 type: docs

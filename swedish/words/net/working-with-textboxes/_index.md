@@ -1,6 +1,6 @@
 ---
 title: Arbeta med textboxar
-linktitle:Arbeta med textboxar
+linktitle: Arbeta med textboxar
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller skapa en länk, kontrollera sekvens och bryta en länk med Aspose.Words för .NET.
 type: docs

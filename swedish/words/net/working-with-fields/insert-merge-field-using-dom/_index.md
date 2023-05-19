@@ -1,6 +1,6 @@
 ---
 title: Infoga sammanslagningsfält med DOM
-linktitle:Infoga sammanslagningsfält med DOM
+linktitle: Infoga sammanslagningsfält med DOM
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar anpassade sammanslagningsfält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

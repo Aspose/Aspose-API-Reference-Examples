@@ -1,6 +1,6 @@
 ---
 title: 斜体文字
-linktitle:斜体文字
+linktitle: 斜体文字
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南将文本设置为斜体。
 type: docs

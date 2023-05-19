@@ -1,6 +1,6 @@
 ---
 title: Metin Kutularıyla Çalışmak
-linktitle:Metin Kutularıyla Çalışmak
+linktitle: Metin Kutularıyla Çalışmak
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak bir bağlantı oluşturmayı, sırayı kontrol etmeyi ve bir bağlantıyı kesmeyi içerir.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Ole-Objekt mit Ole-Paket einfügen
-linktitle:Ole-Objekt mit Ole-Paket einfügen
+linktitle: Ole-Objekt mit Ole-Paket einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein OLE-Objekt mit einem OLE-Paket in ein Dokument einfügen.
 type: docs

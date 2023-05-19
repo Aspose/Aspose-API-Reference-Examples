@@ -1,6 +1,6 @@
 ---
 title: Indragen kod
-linktitle:Indragen kod
+linktitle: Indragen kod
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder indragen kod med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

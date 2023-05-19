@@ -1,6 +1,6 @@
 ---
 title: Restart List Number
-linktitle:Restart List Number
+linktitle: Restart List Number
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to reset the number of a list in a Word document with Aspose.Words for .NET.
 type: docs

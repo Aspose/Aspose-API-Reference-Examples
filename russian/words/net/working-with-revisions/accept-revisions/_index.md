@@ -1,6 +1,6 @@
 ---
 title: Принять изменения
-linktitle:Принять изменения
+linktitle: Принять изменения
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как принимать изменения в документе Word с помощью Aspose.Words для .NET.
 type: docs

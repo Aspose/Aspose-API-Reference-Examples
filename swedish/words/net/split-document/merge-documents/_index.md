@@ -1,6 +1,6 @@
 ---
 title: Slå samman dokument
-linktitle:Slå samman dokument
+linktitle: Slå samman dokument
 second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att förklara C#-källkoden för Merge Documents-funktionen i Aspose.Words för .NET
 type: docs

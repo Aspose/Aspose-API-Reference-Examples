@@ -1,6 +1,6 @@
 ---
 title: Active XControl Özelliklerini Oku
-linktitle:Active XControl Özelliklerini Oku
+linktitle: Active XControl Özelliklerini Oku
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki ActiveX kontrollerinin özelliklerini okuyun.
 type: docs

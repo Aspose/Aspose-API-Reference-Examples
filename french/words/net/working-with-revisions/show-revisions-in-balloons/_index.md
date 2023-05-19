@@ -1,6 +1,6 @@
 ---
 title: Afficher les révisions dans des ballons
-linktitle:Afficher les révisions dans des ballons
+linktitle: Afficher les révisions dans des ballons
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Affichez les révisions dans des ballons avec Aspose.Words pour .NET.
 type: docs

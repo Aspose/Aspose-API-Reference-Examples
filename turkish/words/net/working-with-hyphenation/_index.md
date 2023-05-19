@@ -1,6 +1,6 @@
 ---
 title: Tireleme ile Çalışma
-linktitle:Tireleme ile Çalışma
+linktitle: Tireleme ile Çalışma
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Tireli Dil Sözcükleri, dil için tireleme sözlüğü ve Aspose.Words for .NET kullanılarak tireleme geri araması içerir.
 type: docs

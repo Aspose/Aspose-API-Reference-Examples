@@ -1,6 +1,6 @@
 ---
 title: Formulärfält får efter namn
-linktitle:Formulärfält får efter namn
+linktitle: Formulärfält får efter namn
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du hämtar och ändrar formulärfält efter namn i Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Read Markdown Document
-linktitle:Read Markdown Document
+linktitle: Read Markdown Document
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to read markdown document with Aspose.Words for .NET Step-by-step guide.
 type: docs

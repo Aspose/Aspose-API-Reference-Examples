@@ -1,6 +1,6 @@
 ---
 title: Lien
-linktitle:Lien
+linktitle: Lien
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des liens avec Aspose.Words pour .NET. Guide étape par étape.
 type: docs

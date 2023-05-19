@@ -1,6 +1,6 @@
 ---
 title: 在每个部分重新启动列表
-linktitle:在每个部分重新启动列表
+linktitle: 在每个部分重新启动列表
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 为 Word 文档中的每个部分重置编号列表。
 type: docs

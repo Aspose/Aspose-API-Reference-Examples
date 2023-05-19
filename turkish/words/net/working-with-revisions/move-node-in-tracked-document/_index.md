@@ -1,6 +1,6 @@
 ---
 title: Düğümü İzlenen Belgede Taşı
-linktitle:Düğümü İzlenen Belgede Taşı
+linktitle: Düğümü İzlenen Belgede Taşı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile izlenen bir belgedeki düğümleri taşıyın.
 type: docs

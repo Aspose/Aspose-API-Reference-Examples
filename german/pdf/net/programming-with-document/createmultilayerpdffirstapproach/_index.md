@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie zunächst ein mehrschichtiges PDF
-linktitle:Erstellen Sie zunächst ein mehrschichtiges PDF
+linktitle: Erstellen Sie zunächst ein mehrschichtiges PDF
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mehrschichtige PDF-Dokumente mit dem ersten Ansatz mit Aspose.PDF für .NET erstellen. Fügen Sie Text, Bilder und mehr hinzu, um Ihre PDFs zu verbessern.
 type: docs

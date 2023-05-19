@@ -1,6 +1,6 @@
 ---
 title: Sahip Belgesi
-linktitle:Sahip Belgesi
+linktitle: Sahip Belgesi
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te sahip belgesini nasıl kullanacağınızı öğrenin.
 type: docs

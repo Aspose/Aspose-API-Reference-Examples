@@ -1,6 +1,6 @@
 ---
 title: Eliminar flujos no utilizados
-linktitle:Eliminar flujos no utilizados
+linktitle: Eliminar flujos no utilizados
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a eliminar secuencias no utilizadas de archivos PDF con Aspose.PDF para .NET. Nuestra guía paso a paso.
 type: docs

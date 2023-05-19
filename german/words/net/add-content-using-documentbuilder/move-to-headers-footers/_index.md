@@ -1,6 +1,6 @@
 ---
 title: Zu Kopfzeilen und Fußzeilen wechseln
-linktitle:Zu Kopfzeilen und Fußzeilen wechseln
+linktitle: Zu Kopfzeilen und Fußzeilen wechseln
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie Aspose.Words für .NET zum Navigieren und Ändern von Kopf- und Fußzeilen in Word-Dokumenten verwenden.
 type: docs

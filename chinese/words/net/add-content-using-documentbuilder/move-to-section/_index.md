@@ -1,6 +1,6 @@
 ---
 title: 移动到部分
-linktitle:移动到部分
+linktitle: 移动到部分
 second_title: Aspose.Words for .NET API 参考
 description: 在 Aspose.Words for .NET 中使用移动到部分的分步指南操作 Word 文档中的部分和段落。
 type: docs

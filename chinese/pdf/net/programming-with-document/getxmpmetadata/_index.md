@@ -1,6 +1,6 @@
 ---
 title: 获取 XMP 元数据
-linktitle:获取 XMP 元数据
+linktitle: 获取 XMP 元数据
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 的 GetXmpMetadata 功能使用 C# 源代码从 PDF 文档中提取 XMP 元数据。
 type: docs

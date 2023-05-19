@@ -1,6 +1,6 @@
 ---
 title: Número de lista de reinicio
-linktitle:Número de lista de reinicio
+linktitle: Número de lista de reinicio
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a restablecer el número de una lista en un documento de Word con Aspose.Words para .NET.
 type: docs

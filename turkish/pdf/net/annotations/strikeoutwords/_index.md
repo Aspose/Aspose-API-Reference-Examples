@@ -1,6 +1,6 @@
 ---
 title: Kelimeleri Çiz
-linktitle:Kelimeleri Çiz
+linktitle: Kelimeleri Çiz
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu makale, Aspose.PDF for .NET'in Strike Out Words özelliğinin kullanımı için adım adım kılavuz ve açıklamalar içeren adım adım bir kılavuz sunmaktadır.
 type: docs

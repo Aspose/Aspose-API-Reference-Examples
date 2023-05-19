@@ -1,6 +1,6 @@
 ---
 title: 使用文本框
-linktitle:使用文本框
+linktitle: 使用文本框
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含使用 Aspose.Words for .NET 创建链接、检查序列和断开链接。
 type: docs

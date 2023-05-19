@@ -1,6 +1,6 @@
 ---
 title: lnk 注释行宽
-linktitle:lnk 注释行宽
+linktitle: lnk 注释行宽
 second_title: Aspose.PDF for .NET API 参考
 description: 本文提供了使用 Aspose.PDF for .NET 设置 lnk 注释线宽的分步指南。
 type: docs

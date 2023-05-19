@@ -1,6 +1,6 @@
 ---
 title: Details zur Revisionsgruppe abrufen
-linktitle:Details zur Revisionsgruppe abrufen
+linktitle: Details zur Revisionsgruppe abrufen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erhalten Sie Revisionsgruppendetails in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs

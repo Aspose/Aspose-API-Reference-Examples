@@ -1,6 +1,6 @@
 ---
 title: موضع المؤشر
-linktitle:موضع المؤشر
+linktitle: موضع المؤشر
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استرداد موضع المؤشر في مستند Word باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

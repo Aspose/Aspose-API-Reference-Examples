@@ -1,6 +1,6 @@
 ---
 title: Bryt en länk
-linktitle:Bryt en länk
+linktitle: Bryt en länk
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du bryter länkar i ett Word-dokument med Aspose.Words för .NET.
 type: docs

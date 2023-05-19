@@ -1,6 +1,6 @@
 ---
 title: Get Zoom Factor
-linktitle:Get Zoom Factor
+linktitle: Get Zoom Factor
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET to get the zoom factor of a PDF file with this step-by-step guide.
 type: docs

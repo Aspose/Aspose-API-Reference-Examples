@@ -1,6 +1,6 @@
 ---
 title: Actualizar anotación de texto libre
-linktitle:Actualizar anotación de texto libre
+linktitle: Actualizar anotación de texto libre
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a actualizar la función de anotación de texto libre de Aspose.PDF para .NET usando el código fuente de C#.
 type: docs

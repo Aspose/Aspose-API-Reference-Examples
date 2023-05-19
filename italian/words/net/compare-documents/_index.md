@@ -1,6 +1,6 @@
 ---
 title: Confronta documenti
-linktitle:Confronta documenti
+linktitle: Confronta documenti
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono il confronto per uguale, le opzioni di confronto, l'obiettivo di confronto e la granularità del confronto.
 type: docs

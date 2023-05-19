@@ -1,6 +1,6 @@
 ---
 title: Infoga innehållsförteckning
-linktitle:Infoga innehållsförteckning
+linktitle: Infoga innehållsförteckning
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar en innehållsförteckning i Word-dokument med Aspose.Words för .NET.
 type: docs

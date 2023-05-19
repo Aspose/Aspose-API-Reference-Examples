@@ -1,6 +1,6 @@
 ---
 title: Вставить объект Ole как значок
-linktitle:Вставить объект Ole как значок
+linktitle: Вставить объект Ole как значок
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить объект OLE в виде значка с помощью Aspose.Words для .NET.
 type: docs

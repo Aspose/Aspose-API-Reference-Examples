@@ -1,6 +1,6 @@
 ---
 title: Código cercado
-linktitle:Código cercado
+linktitle: Código cercado
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la función de código delimitado con Aspose.Words para la guía paso a paso de .NET.
 type: docs

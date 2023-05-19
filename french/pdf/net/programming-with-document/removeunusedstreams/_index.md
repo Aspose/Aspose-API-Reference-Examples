@@ -1,6 +1,6 @@
 ---
 title: Supprimer les flux inutilisés
-linktitle:Supprimer les flux inutilisés
+linktitle: Supprimer les flux inutilisés
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à supprimer les flux inutilisés des fichiers PDF à l'aide d'Aspose.PDF pour .NET. Notre guide étape par étape.
 type: docs

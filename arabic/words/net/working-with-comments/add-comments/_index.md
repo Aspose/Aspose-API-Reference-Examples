@@ -1,6 +1,6 @@
 ---
 title: أضف التعليقات
-linktitle:أضف التعليقات
+linktitle: أضف التعليقات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إضافة تعليقات إلى مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

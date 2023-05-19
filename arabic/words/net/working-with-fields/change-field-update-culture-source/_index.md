@@ -1,6 +1,6 @@
 ---
 title: تغيير مصدر ثقافة تحديث الحقل
-linktitle:تغيير مصدر ثقافة تحديث الحقل
+linktitle: تغيير مصدر ثقافة تحديث الحقل
 second_title: Aspose.Words لمراجع .NET API
 description: تغيير مصدر ثقافة تحديث الحقل ، دليل خطوة بخطوة لتعديل مصدر الثقافة في Aspose.Words for .NET.
 type: docs

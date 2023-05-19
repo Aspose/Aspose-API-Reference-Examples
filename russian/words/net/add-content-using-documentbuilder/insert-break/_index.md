@@ -1,6 +1,6 @@
 ---
 title: Вставить разрыв
-linktitle:Вставить разрыв
+linktitle: Вставить разрыв
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять разрывы страниц в документы Word с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

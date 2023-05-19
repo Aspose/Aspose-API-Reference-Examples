@@ -1,6 +1,6 @@
 ---
 title: Revisionen in Sprechblasen anzeigen
-linktitle:Revisionen in Sprechblasen anzeigen
+linktitle: Revisionen in Sprechblasen anzeigen
 second_title: Aspose.Words für .NET API-Referenz
 description: Zeigen Sie Revisionen in Sprechblasen mit Aspose.Words für .NET an.
 type: docs

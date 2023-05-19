@@ -1,6 +1,6 @@
 ---
 title: Par rubriques
-linktitle:Par rubriques
+linktitle: Par rubriques
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à diviser un document Word en sections distinctes à l'aide d'Aspose.Words pour .NET avec un exemple de code complet.
 type: docs

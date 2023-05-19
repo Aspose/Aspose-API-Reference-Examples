@@ -1,6 +1,6 @@
 ---
 title: Экспорт в Markdown с выравниванием содержимого таблицы
-linktitle:Экспорт в Markdown с выравниванием содержимого таблицы
+linktitle: Экспорт в Markdown с выравниванием содержимого таблицы
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как экспортировать содержимое таблицы с различным выравниванием в файлы Markdown с помощью Aspose.Words для .NET.
 type: docs

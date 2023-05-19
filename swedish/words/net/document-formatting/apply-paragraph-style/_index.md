@@ -1,6 +1,6 @@
 ---
 title: Använd styckeformat
-linktitle:Använd styckeformat
+linktitle: Använd styckeformat
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder en styckestil med Aspose.Words för .NET.
 type: docs

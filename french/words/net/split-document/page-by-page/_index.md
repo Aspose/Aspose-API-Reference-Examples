@@ -1,6 +1,6 @@
 ---
 title: Page par page
-linktitle:Page par page
+linktitle: Page par page
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C # de la fonctionnalité Aspose.Words page par page pour .NET
 type: docs

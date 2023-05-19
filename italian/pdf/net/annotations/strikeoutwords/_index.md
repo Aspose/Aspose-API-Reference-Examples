@@ -1,6 +1,6 @@
 ---
 title: Cancellare le parole
-linktitle:Cancellare le parole
+linktitle: Cancellare le parole
 second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo fornisce una guida dettagliata all'utilizzo di Aspose.PDF per la funzione Barra parole di .NET, incluse guide e spiegazioni dettagliate
 type: docs

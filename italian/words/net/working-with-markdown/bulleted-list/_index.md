@@ -1,6 +1,6 @@
 ---
 title: Elenco puntato
-linktitle:Elenco puntato
+linktitle: Elenco puntato
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un elenco puntato con Aspose.Words per .NET Guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Agregar archivo SWF como anotación
-linktitle:Agregar archivo SWF como anotación
+linktitle: Agregar archivo SWF como anotación
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a agregar archivos SWF como anotaciones en Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

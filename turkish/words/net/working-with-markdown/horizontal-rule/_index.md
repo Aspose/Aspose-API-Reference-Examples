@@ -1,6 +1,6 @@
 ---
 title: Yatay kural
-linktitle:Yatay kural
+linktitle: Yatay kural
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile yatay bir kuralı nasıl ekleyeceğinizi adım adım öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Infoga ASKField Without Document Builder
-linktitle:Infoga ASKField Without Document Builder
+linktitle: Infoga ASKField Without Document Builder
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett ASK-fält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

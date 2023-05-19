@@ -1,6 +1,6 @@
 ---
 title: Insérer des champs de formulaire
-linktitle:Insérer des champs de formulaire
+linktitle: Insérer des champs de formulaire
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de formulaire déroulants dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

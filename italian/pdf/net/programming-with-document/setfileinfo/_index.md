@@ -1,6 +1,6 @@
 ---
 title: Imposta informazioni file
-linktitle:Imposta informazioni file
+linktitle: Imposta informazioni file
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per impostare le informazioni sui file nei tuoi documenti PDF con questa guida dettagliata.
 type: docs

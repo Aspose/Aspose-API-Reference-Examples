@@ -1,6 +1,6 @@
 ---
 title: Form Fields Get By Name
-linktitle:Form Fields Get By Name
+linktitle: Form Fields Get By Name
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to retrieve and modify form fields by name in Word documents using Aspose.Words for .NET.
 type: docs

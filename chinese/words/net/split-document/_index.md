@@ -1,6 +1,6 @@
 ---
 title: 拆分文档
-linktitle:拆分文档
+linktitle: 拆分文档
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含按标题 html、按部分 html、按部分、逐页、合并文档和按页面范围
 type: docs

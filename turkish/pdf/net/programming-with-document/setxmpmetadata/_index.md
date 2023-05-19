@@ -1,6 +1,6 @@
 ---
 title: XMPMetadata'yı ayarla
-linktitle:XMPMetadata'yı ayarla
+linktitle: XMPMetadata'yı ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF dosyalarında XMPMetadata'yı nasıl ayarlayacağınızı öğrenin. Bu adım adım kılavuzu izleyin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: نتائج العرض الميداني
-linktitle:نتائج العرض الميداني
+linktitle: نتائج العرض الميداني
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لعرض النتائج الميدانية في مستندات Word الخاصة بك باستخدام Aspose.Words for .NET.
 type: docs

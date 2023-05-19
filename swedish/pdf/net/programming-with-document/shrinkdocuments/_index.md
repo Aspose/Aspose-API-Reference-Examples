@@ -1,6 +1,6 @@
 ---
 title: Krympa dokument
-linktitle:Krympa dokument
+linktitle: Krympa dokument
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att krympa PDF-dokument med denna steg-för-steg-guide.
 type: docs

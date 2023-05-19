@@ -1,6 +1,6 @@
 ---
 title: Programmieren mit Dokument
-linktitle:Programmieren mit Dokument
+linktitle: Programmieren mit Dokument
 type: docs
 weight: 10
 url: /de/pdf/net/programming-with-document/

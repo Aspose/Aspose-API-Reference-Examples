@@ -1,6 +1,6 @@
 ---
 title: Move To Headers Footers
-linktitle:Move To Headers Footers
+linktitle: Move To Headers Footers
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use Aspose.Words for .NET to navigate and modify headers and footers in Word documents with this step-by-step guide.
 type: docs

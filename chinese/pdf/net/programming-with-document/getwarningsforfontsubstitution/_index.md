@@ -1,6 +1,6 @@
 ---
 title: 获取字体替换警告
-linktitle:获取字体替换警告
+linktitle: 获取字体替换警告
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 的 GetWarningsForFontSubstitution 功能在打开 PDF 文档时检测字体替换警告。
 type: docs

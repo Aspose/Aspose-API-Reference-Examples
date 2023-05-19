@@ -1,6 +1,6 @@
 ---
 title: Bild
-linktitle:Bild
+linktitle: Bild
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar och anpassar en bild med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

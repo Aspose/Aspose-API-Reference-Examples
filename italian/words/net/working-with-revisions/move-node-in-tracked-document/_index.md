@@ -1,6 +1,6 @@
 ---
 title: Sposta nodo nel documento tracciato
-linktitle:Sposta nodo nel documento tracciato
+linktitle: Sposta nodo nel documento tracciato
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Sposta i nodi in un documento tracciato con Aspose.Words per .NET.
 type: docs

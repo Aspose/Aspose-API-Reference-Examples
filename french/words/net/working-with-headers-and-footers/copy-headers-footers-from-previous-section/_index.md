@@ -1,6 +1,6 @@
 ---
 title: Copier les en-têtes et les pieds de page de la section précédente
-linktitle:Copier les en-têtes et les pieds de page de la section précédente
+linktitle: Copier les en-têtes et les pieds de page de la section précédente
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à copier les en-têtes et les pieds de page de la section précédente dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

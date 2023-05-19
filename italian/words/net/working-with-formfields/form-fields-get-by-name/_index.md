@@ -1,6 +1,6 @@
 ---
 title: Campi modulo Ottieni per nome
-linktitle:Campi modulo Ottieni per nome
+linktitle: Campi modulo Ottieni per nome
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come recuperare e modificare i campi del modulo per nome nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

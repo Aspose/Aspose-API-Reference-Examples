@@ -1,6 +1,6 @@
 ---
 title: احصل على مجموعات المراجعة
-linktitle:احصل على مجموعات المراجعة
+linktitle: احصل على مجموعات المراجعة
 second_title: Aspose.Words لمراجع .NET API
 description: احصل على مجموعات المراجعة في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

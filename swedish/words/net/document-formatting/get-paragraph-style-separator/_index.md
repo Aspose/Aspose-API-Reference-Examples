@@ -1,6 +1,6 @@
 ---
 title: Skaffa Paragraph Style Separator
-linktitle:Skaffa Paragraph Style Separator
+linktitle: Skaffa Paragraph Style Separator
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du får styckestilseparatorn med Aspose.Words för .NET.
 type: docs

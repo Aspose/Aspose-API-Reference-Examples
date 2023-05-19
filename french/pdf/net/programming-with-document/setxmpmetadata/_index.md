@@ -1,6 +1,6 @@
 ---
 title: Définir les métadonnées XMP
-linktitle:Définir les métadonnées XMP
+linktitle: Définir les métadonnées XMP
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir XMPMetadata dans des fichiers PDF à l'aide d'Aspose.PDF pour .NET. Suivez ce guide étape par étape.
 type: docs

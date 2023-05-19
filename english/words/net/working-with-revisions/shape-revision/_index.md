@@ -1,6 +1,6 @@
 ---
 title: Shape Revision
-linktitle:Shape Revision
+linktitle: Shape Revision
 second_title: Aspose.Words for .NET API Reference
 description: Revise shapes in a Word document with Aspose.Words for .NET.
 type: docs

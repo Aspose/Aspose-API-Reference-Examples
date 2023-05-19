@@ -1,6 +1,6 @@
 ---
 title: Set Callout Property
-linktitle:Set Callout Property
+linktitle: Set Callout Property
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to set Callout Property using Aspose.PDF for .NET. Customize annotations with callout lines, text color, and ending styles.
 type: docs

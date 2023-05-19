@@ -1,6 +1,6 @@
 ---
 title: Lavorare con i commenti
-linktitle:Lavorare con i commenti
+linktitle: Lavorare con i commenti
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial mostrano come aggiungere commenti, ancorare commenti, aggiungere/rimuovere risposte ai commenti, estrarre commenti e risolvere commenti e risposte in Aspose.Words per .NET
 type: docs

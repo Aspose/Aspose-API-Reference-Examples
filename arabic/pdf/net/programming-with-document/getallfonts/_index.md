@@ -1,6 +1,6 @@
 ---
 title: احصل على كافة الخطوط
-linktitle:احصل على كافة الخطوط
+linktitle: احصل على كافة الخطوط
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على جميع الخطوط المستخدمة في مستند PDF برمجيًا باستخدام هذا الدليل التفصيلي وكود المثال.
 type: docs

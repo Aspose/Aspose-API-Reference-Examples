@@ -1,6 +1,6 @@
 ---
 title: Wenden Sie Ränder und Schattierungen auf den Absatz an
-linktitle:Wenden Sie Ränder und Schattierungen auf den Absatz an
+linktitle: Wenden Sie Ränder und Schattierungen auf den Absatz an
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Rahmen und Schattierungen auf einen Absatz anwenden.
 type: docs

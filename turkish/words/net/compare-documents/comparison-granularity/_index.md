@@ -1,6 +1,6 @@
 ---
 title: Karşılaştırma Ayrıntı Düzeyi
-linktitle:Karşılaştırma Ayrıntı Düzeyi
+linktitle: Karşılaştırma Ayrıntı Düzeyi
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in, belgelerin karakter karakter karşılaştırılmasına ve yapılan değişikliklerin raporlanmasına olanak tanıyan Karşılaştırma Tanecikliğini Öğrenin.
 type: docs

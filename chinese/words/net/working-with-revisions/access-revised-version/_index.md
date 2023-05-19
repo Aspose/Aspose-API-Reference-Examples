@@ -1,6 +1,6 @@
 ---
 title: 访问修订版
-linktitle:访问修订版
+linktitle: 访问修订版
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 访问 Word 文档的修订版本。
 type: docs

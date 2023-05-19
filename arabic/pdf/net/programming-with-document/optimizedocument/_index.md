@@ -1,6 +1,6 @@
 ---
 title: تحسين المستند
-linktitle:تحسين المستند
+linktitle: تحسين المستند
 second_title: Aspose.PDF لمرجع .NET API
 description: يعد تحسين المستند للويب أمرًا ضروريًا لتجربة المستخدم. تعرف على كيفية القيام بذلك باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs

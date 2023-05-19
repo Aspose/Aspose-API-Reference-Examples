@@ -1,6 +1,6 @@
 ---
 title: Extraer texto resaltado
-linktitle:Extraer texto resaltado
+linktitle: Extraer texto resaltado
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a extraer texto resaltado usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

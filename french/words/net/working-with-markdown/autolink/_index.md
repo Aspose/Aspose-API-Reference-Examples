@@ -1,6 +1,6 @@
 ---
 title: Lien automatique
-linktitle:Lien automatique
+linktitle: Lien automatique
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un lien automatique avec le guide étape par étape Aspose.Words pour .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Add Text Watermark With Specific Options
-linktitle:Add Text Watermark With Specific Options
+linktitle: Add Text Watermark With Specific Options
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to add a text watermark with specific options using Aspose.Words for .NET. Step-by-step guide.
 type: docs

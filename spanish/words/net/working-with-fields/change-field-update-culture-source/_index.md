@@ -1,6 +1,6 @@
 ---
 title: Cambiar fuente de cultura de actualización de campo
-linktitle:Cambiar fuente de cultura de actualización de campo
+linktitle: Cambiar fuente de cultura de actualización de campo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Cambiar la fuente de cultura de actualización de campo, guía paso a paso para modificar la fuente de cultura en Aspose.Words para .NET.
 type: docs

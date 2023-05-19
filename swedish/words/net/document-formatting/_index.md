@@ -1,6 +1,6 @@
 ---
 title: Dokumentformatering
-linktitle:Dokumentformatering
+linktitle: Dokumentformatering
 second_title: Aspose.Words för .NET API Referens
 description: Handledningarna innehåller mellanrum mellan asiatisk och latinsk text, asiatisk typografi radbrytningsgrupp, styckeformatering, listformatering på flera nivåer och tillämpa styckestil.
 type: docs

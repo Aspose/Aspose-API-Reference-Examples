@@ -1,6 +1,6 @@
 ---
 title: Применить стиль абзаца
-linktitle:Применить стиль абзаца
+linktitle: Применить стиль абзаца
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить стиль абзаца с помощью Aspose.Words для .NET.
 type: docs

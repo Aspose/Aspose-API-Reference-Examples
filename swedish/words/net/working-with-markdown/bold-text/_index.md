@@ -1,6 +1,6 @@
 ---
 title: Fettext
-linktitle:Fettext
+linktitle: Fettext
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du gör fet text med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

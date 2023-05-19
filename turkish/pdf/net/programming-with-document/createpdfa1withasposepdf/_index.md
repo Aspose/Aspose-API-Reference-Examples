@@ -1,6 +1,6 @@
 ---
 title: Aspose Pdf ile PDF A1 Oluşturun
-linktitle:Aspose Pdf ile PDF A1 Oluşturun
+linktitle: Aspose Pdf ile PDF A1 Oluşturun
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF A1 belgesi oluşturmayı öğrenin. C# kaynak koduyla adım adım kılavuz. PDF'leri verimli bir şekilde optimize edin.
 type: docs

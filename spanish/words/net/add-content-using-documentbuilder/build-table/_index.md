@@ -1,6 +1,6 @@
 ---
 title: Construir tabla
-linktitle:Construir tabla
+linktitle: Construir tabla
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una tabla en un documento de Word usando Aspose.Words para .NET.
 type: docs

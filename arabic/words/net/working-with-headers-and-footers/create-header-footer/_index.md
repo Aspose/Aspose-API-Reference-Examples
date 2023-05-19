@@ -1,6 +1,6 @@
 ---
 title: إنشاء تذييل الرأس
-linktitle:إنشاء تذييل الرأس
+linktitle: إنشاء تذييل الرأس
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء رؤوس الصفحات وتذييلاتها في مستندات Word باستخدام Aspose.Words for .NET. تخصيص الرؤوس والتذييلات لكل صفحة.
 type: docs

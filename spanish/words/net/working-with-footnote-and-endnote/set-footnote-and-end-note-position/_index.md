@@ -1,6 +1,6 @@
 ---
 title: Establecer la posición de la nota al pie y la nota final
-linktitle:Establecer la posición de la nota al pie y la nota final
+linktitle: Establecer la posición de la nota al pie y la nota final
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a establecer la posición de las notas al pie y al final en documentos de Word usando Aspose.Words para .NET.
 type: docs

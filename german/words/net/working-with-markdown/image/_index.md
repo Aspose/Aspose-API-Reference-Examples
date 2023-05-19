@@ -1,6 +1,6 @@
 ---
 title: Bild
-linktitle:Bild
+linktitle: Bild
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Bilder mit Aspose.Words für .NET einfügen und anpassen.
 type: docs

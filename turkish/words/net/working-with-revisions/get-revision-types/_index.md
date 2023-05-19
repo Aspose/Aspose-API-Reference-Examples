@@ -1,6 +1,6 @@
 ---
 title: Revizyon Türlerini Alın
-linktitle:Revizyon Türlerini Alın
+linktitle: Revizyon Türlerini Alın
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki revizyon türlerini alın.
 type: docs

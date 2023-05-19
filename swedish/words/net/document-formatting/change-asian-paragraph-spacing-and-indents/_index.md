@@ -1,6 +1,6 @@
 ---
 title: Ändra asiatiskt styckeavstånd och indrag
-linktitle:Ändra asiatiskt styckeavstånd och indrag
+linktitle: Ändra asiatiskt styckeavstånd och indrag
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ändrar asiatiskt styckeavstånd och indrag med Aspose.Words för .NET.
 type: docs

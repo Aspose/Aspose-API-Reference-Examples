@@ -1,6 +1,6 @@
 ---
 title: Docx в уценку
-linktitle:Docx в уценку
+linktitle: Docx в уценку
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать документы Word из формата Docx в формат Markdown с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

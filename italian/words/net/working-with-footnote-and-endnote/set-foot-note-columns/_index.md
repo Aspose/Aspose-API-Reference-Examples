@@ -1,6 +1,6 @@
 ---
 title: Imposta le colonne delle note a piè di pagina
-linktitle:Imposta le colonne delle note a piè di pagina
+linktitle: Imposta le colonne delle note a piè di pagina
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come impostare il numero di colonne per le note a piè di pagina nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

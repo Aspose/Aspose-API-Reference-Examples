@@ -1,6 +1,6 @@
 ---
 title: 设置 XMP 元数据
-linktitle:设置 XMP 元数据
+linktitle: 设置 XMP 元数据
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 在 PDF 文件中设置 XMPMetadata。请遵循此分步指南。
 type: docs

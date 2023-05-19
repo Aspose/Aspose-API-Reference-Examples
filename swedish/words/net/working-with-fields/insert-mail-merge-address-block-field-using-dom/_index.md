@@ -1,6 +1,6 @@
 ---
 title: Infoga Mail Merge Address Block Field med DOM
-linktitle:Infoga Mail Merge Address Block Field med DOM
+linktitle: Infoga Mail Merge Address Block Field med DOM
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett blockeringsfält för e-postsammanslagning i dina Word-dokument med Aspose.Words för .NET.
 type: docs

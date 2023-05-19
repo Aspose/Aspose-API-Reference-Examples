@@ -1,6 +1,6 @@
 ---
 title: Flytta till avsnitt
-linktitle:Flytta till avsnitt
+linktitle: Flytta till avsnitt
 second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att använda Flytta till avsnitt i Aspose.Words för .NET manipulera avsnitt och stycken i Word-dokument.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Insertar objeto antiguo como icono
-linktitle:Insertar objeto antiguo como icono
+linktitle: Insertar objeto antiguo como icono
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un objeto OLE como un icono con Aspose.Words para .NET.
 type: docs

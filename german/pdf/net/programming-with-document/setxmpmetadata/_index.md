@@ -1,6 +1,6 @@
 ---
 title: Legen Sie XMPMetadata fest
-linktitle:Legen Sie XMPMetadata fest
+linktitle: Legen Sie XMPMetadata fest
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET XMPMetadaten in PDF-Dateien festlegen. Befolgen Sie diese Schritt-für-Schritt-Anleitung.
 type: docs

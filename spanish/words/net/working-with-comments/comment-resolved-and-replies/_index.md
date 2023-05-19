@@ -1,6 +1,6 @@
 ---
 title: Comentario resuelto y respuestas
-linktitle:Comentario resuelto y respuestas
+linktitle: Comentario resuelto y respuestas
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a resolver comentarios y sus respuestas en documentos de Word utilizando Aspose.Words para .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Définir le dossier des images
-linktitle:Définir le dossier des images
+linktitle: Définir le dossier des images
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à définir le dossier des images lors de l'exportation vers Markdown avec Aspose.Words pour .NET. Personnalisez le placement des images pour une meilleure organisation et intégration.
 type: docs

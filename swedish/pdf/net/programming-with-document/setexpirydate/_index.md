@@ -1,6 +1,6 @@
 ---
 title: Ställ in utgångsdatum
-linktitle:Ställ in utgångsdatum
+linktitle: Ställ in utgångsdatum
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in utgångsdatum i PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs

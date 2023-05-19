@@ -1,6 +1,6 @@
 ---
 title: Aggiungi filigrana di testo con opzioni specifiche
-linktitle:Aggiungi filigrana di testo con opzioni specifiche
+linktitle: Aggiungi filigrana di testo con opzioni specifiche
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come aggiungere una filigrana di testo con opzioni specifiche utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs

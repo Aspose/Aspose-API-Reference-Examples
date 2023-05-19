@@ -1,6 +1,6 @@
 ---
 title: صفحة بالصفحة
-linktitle:صفحة بالصفحة
+linktitle: صفحة بالصفحة
 second_title: Aspose.Words لمراجع .NET API
 description: دليل تفصيلي خطوة بخطوة لشرح شفرة المصدر C # لميزة Aspose.Words صفحة بصفحة لـ .NET
 type: docs

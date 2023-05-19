@@ -1,6 +1,6 @@
 ---
 title: Verknüpfen Sie doppelte Streams
-linktitle:Verknüpfen Sie doppelte Streams
+linktitle: Verknüpfen Sie doppelte Streams
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie die Funktion „Aspose.PDF for .NET Link Duplicate Streams“ verwenden, um Ihre PDF-Dokumente zu optimieren.
 type: docs

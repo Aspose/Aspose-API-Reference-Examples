@@ -1,6 +1,6 @@
 ---
 title: تحقق من صحة PDFUAstandard
-linktitle:تحقق من صحة PDFUAstandard
+linktitle: تحقق من صحة PDFUAstandard
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للتحقق من صحة معيار PDF / UA باستخدام كود C #. دليل خطوة بخطوة.
 type: docs

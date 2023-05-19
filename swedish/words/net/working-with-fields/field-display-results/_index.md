@@ -1,6 +1,6 @@
 ---
 title: Fältvisningsresultat
-linktitle:Fältvisningsresultat
+linktitle: Fältvisningsresultat
 second_title: Aspose.Words för .NET API Referens
 description: Steg för steg guide för att visa fältresultat i dina Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Insert Document At Mail Merge
-linktitle:Insert Document At Mail Merge
+linktitle: Insert Document At Mail Merge
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert document into another during mail merge using Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Open Type Features
-linktitle:Open Type Features
+linktitle: Open Type Features
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to enable and use Open Type features in Aspose.Words for .NET
 type: docs

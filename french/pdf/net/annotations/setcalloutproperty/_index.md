@@ -1,6 +1,6 @@
 ---
 title: Définir la propriété de la légende
-linktitle:Définir la propriété de la légende
+linktitle: Définir la propriété de la légende
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir la propriété Callout à l'aide d'Aspose.PDF pour .NET. Personnalisez les annotations avec des lignes de légende, la couleur du texte et les styles de fin.
 type: docs

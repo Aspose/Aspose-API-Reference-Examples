@@ -1,6 +1,6 @@
 ---
 title: Учебники Aspose.PDF для .NET
-linktitle:Учебники Aspose.PDF для .NET
+linktitle: Учебники Aspose.PDF для .NET
 type: docs
 weight: 10
 url: /ru/pdf/net/

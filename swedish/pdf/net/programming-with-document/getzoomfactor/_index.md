@@ -1,6 +1,6 @@
 ---
 title: Skaffa Zoom Factor
-linktitle:Skaffa Zoom Factor
+linktitle: Skaffa Zoom Factor
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att få zoomfaktorn för en PDF-fil med denna steg-för-steg-guide.
 type: docs

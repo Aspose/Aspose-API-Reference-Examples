@@ -1,6 +1,6 @@
 ---
 title: Skaffa föräldernod
-linktitle:Skaffa föräldernod
+linktitle: Skaffa föräldernod
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du får föräldranoden för ett specifikt element med Aspose.Words för .NET.
 type: docs

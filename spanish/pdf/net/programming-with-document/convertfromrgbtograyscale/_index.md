@@ -1,6 +1,6 @@
 ---
 title: Convertir de RGB a escala de grises
-linktitle:Convertir de RGB a escala de grises
+linktitle: Convertir de RGB a escala de grises
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a convertir archivos PDF de RGB a escala de grises con Aspose.PDF para .NET. Mejore la calidad de impresión y reduzca el tamaño del archivo.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Insérer un objet Ole en tant qu'icône à l'aide de Stream
-linktitle:Insérer un objet Ole en tant qu'icône à l'aide de Stream
+linktitle: Insérer un objet Ole en tant qu'icône à l'aide de Stream
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un objet OLE en tant qu'icône à l'aide d'un flux avec Aspose.Words pour .NET.
 type: docs

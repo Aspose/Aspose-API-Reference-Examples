@@ -1,6 +1,6 @@
 ---
 title: Связать повторяющиеся потоки
-linktitle:Связать повторяющиеся потоки
+linktitle: Связать повторяющиеся потоки
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как использовать Aspose.PDF для функции .NET Link Duplicate Streams для оптимизации ваших PDF-документов.
 type: docs

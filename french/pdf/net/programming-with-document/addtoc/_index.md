@@ -1,6 +1,6 @@
 ---
 title: Ajouter une table des matières
-linktitle:Ajouter une table des matières
+linktitle: Ajouter une table des matières
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à ajouter une table des matières aux documents PDF à l'aide d'Aspose.PDF pour .NET. Guide étape par étape avec exemple de code source. Boostez la navigation dans les documents !
 type: docs

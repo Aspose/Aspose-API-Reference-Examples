@@ -1,6 +1,6 @@
 ---
 title: Feldcode
-linktitle:Feldcode
+linktitle: Feldcode
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zum Abrufen von Feldcode und Feldergebnis in Ihren Word-Dokumenten mit Aspose.Words für .NET.
 type: docs

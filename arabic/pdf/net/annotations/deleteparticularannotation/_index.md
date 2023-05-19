@@ -1,6 +1,6 @@
 ---
 title: حذف تعليق توضيحي معين
-linktitle:حذف تعليق توضيحي معين
+linktitle: حذف تعليق توضيحي معين
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية حذف تعليق توضيحي معين من مستند PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل التفصيلي خطوة بخطوة.
 type: docs

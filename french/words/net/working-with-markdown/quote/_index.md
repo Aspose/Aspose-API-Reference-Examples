@@ -1,6 +1,6 @@
 ---
 title: Citation
-linktitle:Citation
+linktitle: Citation
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser la citation avec Aspose.Words pour .NET Guide étape par étape.
 type: docs

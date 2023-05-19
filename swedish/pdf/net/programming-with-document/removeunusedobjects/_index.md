@@ -1,6 +1,6 @@
 ---
 title: Ta bort oanvända objekt
-linktitle:Ta bort oanvända objekt
+linktitle: Ta bort oanvända objekt
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att ta bort oanvända objekt från PDF-dokument med denna steg-för-steg-guide.
 type: docs

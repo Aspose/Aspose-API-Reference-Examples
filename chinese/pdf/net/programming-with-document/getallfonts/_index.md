@@ -1,6 +1,6 @@
 ---
 title: 获取所有字体
-linktitle:获取所有字体
+linktitle: 获取所有字体
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南和示例代码，了解如何使用 Aspose.PDF for .NET 以编程方式获取 PDF 文档中使用的所有字体。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Dateiinformationen abrufen
-linktitle:Dateiinformationen abrufen
+linktitle: Dateiinformationen abrufen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die GetFileInfo-Funktion von Aspose.PDF für .NET verwenden, um Metadateninformationen zu einem PDF-Dokument abzurufen.
 type: docs

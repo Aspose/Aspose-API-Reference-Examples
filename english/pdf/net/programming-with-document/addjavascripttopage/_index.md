@@ -1,6 +1,6 @@
 ---
 title: Add Java Script To Page
-linktitle:Add Java Script To Page
+linktitle: Add Java Script To Page
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to add JavaScript to PDF files using Aspose.PDF for .NET. Step-by-step guide with code tutorials for document and page level scripting.
 type: docs

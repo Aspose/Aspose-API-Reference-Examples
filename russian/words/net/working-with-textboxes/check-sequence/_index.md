@@ -1,6 +1,6 @@
 ---
 title: Проверить последовательность
-linktitle:Проверить последовательность
+linktitle: Проверить последовательность
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как проверить последовательность текстовых полей в документе Word с помощью Aspose.Words для .NET.
 type: docs

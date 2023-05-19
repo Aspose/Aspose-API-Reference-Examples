@@ -1,6 +1,6 @@
 ---
 title: Énfasis
-linktitle:Énfasis
+linktitle: Énfasis
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar énfasis (negrita y cursiva) con la guía paso a paso de Aspose.Words para .NET.
 type: docs

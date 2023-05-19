@@ -1,6 +1,6 @@
 ---
 title: Byt namn på sammanslagningsfält
-linktitle:Byt namn på sammanslagningsfält
+linktitle: Byt namn på sammanslagningsfält
 second_title: Aspose.Words för .NET API Referens
 description: I den här handledningen kommer du att lära dig hur du byter namn på sammanslagningsfält i ett dokument med Aspose.Words för .NET.
 type: docs

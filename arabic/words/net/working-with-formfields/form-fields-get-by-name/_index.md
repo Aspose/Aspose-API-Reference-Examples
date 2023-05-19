@@ -1,6 +1,6 @@
 ---
 title: الحصول على حقول النموذج بالاسم
-linktitle:الحصول على حقول النموذج بالاسم
+linktitle: الحصول على حقول النموذج بالاسم
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استرداد وتعديل حقول النموذج بالاسم في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

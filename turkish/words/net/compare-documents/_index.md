@@ -1,6 +1,6 @@
 ---
 title: Belgeleri Karşılaştır
-linktitle:Belgeleri Karşılaştır
+linktitle: Belgeleri Karşılaştır
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, eşit karşılaştırma, karşılaştırma seçenekleri, karşılaştırma hedefi ve karşılaştırma ayrıntı düzeyini içerir.
 type: docs

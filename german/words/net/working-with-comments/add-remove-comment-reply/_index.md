@@ -1,6 +1,6 @@
 ---
 title: Kommentarantwort hinzufügen und entfernen
-linktitle:Kommentarantwort hinzufügen und entfernen
+linktitle: Kommentarantwort hinzufügen und entfernen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kommentarantworten in Word-Dokumenten hinzufügen und entfernen.
 type: docs

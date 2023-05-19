@@ -1,6 +1,6 @@
 ---
 title: Применить лицензию из файла
-linktitle:Применить лицензию из файла
+linktitle: Применить лицензию из файла
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить лицензию из файла с помощью Aspose.Words для .NET.
 type: docs

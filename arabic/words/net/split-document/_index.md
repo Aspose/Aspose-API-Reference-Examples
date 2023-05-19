@@ -1,6 +1,6 @@
 ---
 title: انقسام المستند
-linktitle:انقسام المستند
+linktitle: انقسام المستند
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على العناوين html ، والأقسام html ، والأقسام ، والصفحة بصفحة ، ودمج المستندات ، وبحسب نطاق الصفحات
 type: docs

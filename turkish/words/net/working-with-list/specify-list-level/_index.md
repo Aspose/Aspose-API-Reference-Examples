@@ -1,6 +1,6 @@
 ---
 title: Liste Düzeyini Belirtin
-linktitle:Liste Düzeyini Belirtin
+linktitle: Liste Düzeyini Belirtin
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinde liste düzeyini nasıl belirleyeceğinizi öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Klonlama Belgesi
-linktitle:Klonlama Belgesi
+linktitle: Klonlama Belgesi
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir Word belgesini nasıl kopyalayacağınızı öğrenin.
 type: docs

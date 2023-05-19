@@ -1,6 +1,6 @@
 ---
 title: Converti campi nel paragrafo
-linktitle:Converti campi nel paragrafo
+linktitle: Converti campi nel paragrafo
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Converti i campi IF in testo normale in un paragrafo con Aspose.Words per .NET.
 type: docs

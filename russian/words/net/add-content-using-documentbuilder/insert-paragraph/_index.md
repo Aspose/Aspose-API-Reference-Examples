@@ -1,6 +1,6 @@
 ---
 title: Вставить абзац
-linktitle:Вставить абзац
+linktitle: Вставить абзац
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять форматированные абзацы в документы Word с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: تطبيق الحدود والتظليل على الفقرة
-linktitle:تطبيق الحدود والتظليل على الفقرة
+linktitle: تطبيق الحدود والتظليل على الفقرة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق الحدود والتظليل على فقرة باستخدام Aspose.Words for .NET.
 type: docs

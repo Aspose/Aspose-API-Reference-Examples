@@ -1,6 +1,6 @@
 ---
 title: Add lnk Annotation
-linktitle:Add lnk Annotation
+linktitle: Add lnk Annotation
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to add Ink Annotation feature to PDF documents in C# using Aspose.PDF for .NET with step-by-step guide and full source code.
 type: docs

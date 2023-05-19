@@ -1,6 +1,6 @@
 ---
 title: Enlace automático
-linktitle:Enlace automático
+linktitle: Enlace automático
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar enlaces automáticos con Aspose.Words para la guía paso a paso de .NET.
 type: docs

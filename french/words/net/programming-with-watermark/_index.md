@@ -1,6 +1,6 @@
 ---
 title: Programmation avec filigrane
-linktitle:Programmation avec filigrane
+linktitle: Programmation avec filigrane
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent ajouter un filigrane de texte avec des options spécifiques
 type: docs

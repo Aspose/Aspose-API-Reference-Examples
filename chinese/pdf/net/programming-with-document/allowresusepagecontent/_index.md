@@ -1,6 +1,6 @@
 ---
 title: 允许重新使用页面内容
-linktitle:允许重新使用页面内容
+linktitle: 允许重新使用页面内容
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 启用“允许重新使用页面内容”功能来优化 PDF。减小文件大小并提高性能。
 type: docs

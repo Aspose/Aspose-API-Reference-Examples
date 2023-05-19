@@ -1,6 +1,6 @@
 ---
 title: Link Duplicate Streams
-linktitle:Link Duplicate Streams
+linktitle: Link Duplicate Streams
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET Link Duplicate Streams feature to optimize your PDF documents with this step-by-step guide.
 type: docs

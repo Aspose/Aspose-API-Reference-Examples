@@ -1,6 +1,6 @@
 ---
 title: عنوان Setext
-linktitle:عنوان Setext
+linktitle: عنوان Setext
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام عناوين Setext لتنسيق مستنداتك باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Supprimer les commentaires dans le pdf
-linktitle:Supprimer les commentaires dans le pdf
+linktitle: Supprimer les commentaires dans le pdf
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Supprimez les commentaires dans un fichier PDF avec Aspose.Words pour .NET.
 type: docs

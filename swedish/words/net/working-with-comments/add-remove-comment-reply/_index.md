@@ -1,6 +1,6 @@
 ---
 title: Lägg till Ta bort kommentar Svara
-linktitle:Lägg till Ta bort kommentar Svara
+linktitle: Lägg till Ta bort kommentar Svara
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till och tar bort kommentarsvar i Word-dokument med Aspose.Words för .NET.
 type: docs

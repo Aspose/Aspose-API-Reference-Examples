@@ -1,6 +1,6 @@
 ---
 title: Son Not Seçeneklerini Ayarla
-linktitle:Son Not Seçeneklerini Ayarla
+linktitle: Son Not Seçeneklerini Ayarla
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde son not seçeneklerini nasıl ayarlayacağınızı öğrenin. Örnek kaynak koduyla adım adım öğretici.
 type: docs

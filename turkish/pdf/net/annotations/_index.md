@@ -1,6 +1,6 @@
 ---
 title: Ek Açıklamalarla Programlama
-linktitle:Ek Açıklamalarla Programlama
+linktitle: Ek Açıklamalarla Programlama
 type: docs
 weight: 11
 url: /tr/pdf/net/annotations/

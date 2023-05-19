@@ -1,6 +1,6 @@
 ---
 title: 加粗字体
-linktitle:加粗字体
+linktitle: 加粗字体
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南将文本加粗。
 type: docs

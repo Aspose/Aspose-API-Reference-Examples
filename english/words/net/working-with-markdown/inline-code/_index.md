@@ -1,6 +1,6 @@
 ---
 title: Inline Code
-linktitle:Inline Code
+linktitle: Inline Code
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to inline code with Aspose.Words for .NET Step-by-step guide.
 type: docs

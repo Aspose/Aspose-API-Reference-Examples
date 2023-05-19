@@ -1,6 +1,6 @@
 ---
 title: Supprimer les champs
-linktitle:Supprimer les champs
+linktitle: Supprimer les champs
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour supprimer des champs de fusion dans vos documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

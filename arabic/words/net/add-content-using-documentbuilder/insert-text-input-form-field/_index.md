@@ -1,6 +1,6 @@
 ---
 title: أدخل حقل نموذج إدخال النص
-linktitle:أدخل حقل نموذج إدخال النص
+linktitle: أدخل حقل نموذج إدخال النص
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام Aspose.Words for .NET لإدراج حقل نموذج إدخال النص في مستندات Word باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

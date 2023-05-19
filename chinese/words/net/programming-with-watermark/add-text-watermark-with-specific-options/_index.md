@@ -1,6 +1,6 @@
 ---
 title: 使用特定选项添加文本水印
-linktitle:使用特定选项添加文本水印
+linktitle: 使用特定选项添加文本水印
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 添加具有特定选项的文本水印。分步指南。
 type: docs

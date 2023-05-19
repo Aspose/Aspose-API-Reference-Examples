@@ -1,6 +1,6 @@
 ---
 title: Überarbeitungen akzeptieren
-linktitle:Überarbeitungen akzeptieren
+linktitle: Überarbeitungen akzeptieren
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Überarbeitungen an einem Word-Dokument akzeptieren
 type: docs

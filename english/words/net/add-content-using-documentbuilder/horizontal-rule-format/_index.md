@@ -1,6 +1,6 @@
 ---
 title: Horizontal Rule Format
-linktitle:Horizontal Rule Format
+linktitle: Horizontal Rule Format
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to format horizontal rules in Word documents using Aspose.Words for .NET. Step-by-step guide.
 type: docs

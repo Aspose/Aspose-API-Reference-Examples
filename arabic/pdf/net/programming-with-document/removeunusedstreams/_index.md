@@ -1,6 +1,6 @@
 ---
 title: إزالة التدفقات غير المستخدمة
-linktitle:إزالة التدفقات غير المستخدمة
+linktitle: إزالة التدفقات غير المستخدمة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إزالة التدفقات غير المستخدمة من ملفات PDF باستخدام Aspose.PDF for .NET. دليلنا خطوة بخطوة.
 type: docs

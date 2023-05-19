@@ -1,6 +1,6 @@
 ---
 title: Geben Sie das Gebietsschema auf Feldebene an
-linktitle:Geben Sie das Gebietsschema auf Feldebene an
+linktitle: Geben Sie das Gebietsschema auf Feldebene an
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET die Lokalisierung auf Feldebene in Word-Dokumenten festlegen.
 type: docs

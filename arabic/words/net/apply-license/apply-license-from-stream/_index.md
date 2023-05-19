@@ -1,6 +1,6 @@
 ---
 title: تطبيق الترخيص من الدفق
-linktitle:تطبيق الترخيص من الدفق
+linktitle: تطبيق الترخيص من الدفق
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق ترخيص من تدفق باستخدام Aspose.Words for .NET. دليل خطوة بخطوة
 type: docs

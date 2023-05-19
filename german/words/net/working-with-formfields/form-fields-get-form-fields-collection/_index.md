@@ -1,6 +1,6 @@
 ---
 title: Formularfelder Holen Sie sich eine Sammlung von Formularfeldern
-linktitle:Formularfelder Holen Sie sich eine Sammlung von Formularfeldern
+linktitle: Formularfelder Holen Sie sich eine Sammlung von Formularfeldern
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Formularfeldsammlungen in Word-Dokumenten abrufen und bearbeiten.
 type: docs

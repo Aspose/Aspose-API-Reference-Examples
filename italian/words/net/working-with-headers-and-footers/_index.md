@@ -1,6 +1,6 @@
 ---
 title: Lavorare con intestazioni e piè di pagina
-linktitle:Lavorare con intestazioni e piè di pagina
+linktitle: Lavorare con intestazioni e piè di pagina
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Tutorials contiene come creare il piè di pagina dell'intestazione e copiare il piè di pagina dell'intestazione dalla sezione precedente del documento di Word utilizzando Aspose.Words per .NET.
 type: docs

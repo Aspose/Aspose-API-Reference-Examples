@@ -1,6 +1,6 @@
 ---
 title: أدخل TCField
-linktitle:أدخل TCField
+linktitle: أدخل TCField
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقول TCFields ومعالجتها في مستندات Word باستخدام C # و Aspose.Words for .NET في هذا الدليل التفصيلي.
 type: docs

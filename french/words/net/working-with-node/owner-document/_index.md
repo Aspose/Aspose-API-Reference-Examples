@@ -1,6 +1,6 @@
 ---
 title: Document du propriétaire
-linktitle:Document du propriétaire
+linktitle: Document du propriétaire
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le document propriétaire dans Aspose.Words pour .NET.
 type: docs

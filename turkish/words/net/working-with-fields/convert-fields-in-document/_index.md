@@ -1,6 +1,6 @@
 ---
 title: Belgedeki Alanları Dönüştür
-linktitle:Belgedeki Alanları Dönüştür
+linktitle: Belgedeki Alanları Dönüştür
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak belge alanlarını metne dönüştürmek için adım adım kılavuz.
 type: docs

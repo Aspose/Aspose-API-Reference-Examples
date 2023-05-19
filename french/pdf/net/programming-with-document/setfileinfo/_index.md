@@ -1,6 +1,6 @@
 ---
 title: Définir les informations sur le fichier
-linktitle:Définir les informations sur le fichier
+linktitle: Définir les informations sur le fichier
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour définir les informations de fichier dans vos documents PDF avec ce guide étape par étape.
 type: docs

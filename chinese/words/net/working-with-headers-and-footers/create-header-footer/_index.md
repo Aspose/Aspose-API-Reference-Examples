@@ -1,6 +1,6 @@
 ---
 title: 创建页眉页脚
-linktitle:创建页眉页脚
+linktitle: 创建页眉页脚
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在您的 Word 文档中创建页眉和页脚。为每个页面自定义页眉和页脚。
 type: docs

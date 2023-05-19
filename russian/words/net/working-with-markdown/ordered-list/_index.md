@@ -1,6 +1,6 @@
 ---
 title: Упорядоченный список
-linktitle:Упорядоченный список
+linktitle: Упорядоченный список
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как создать упорядоченный список с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

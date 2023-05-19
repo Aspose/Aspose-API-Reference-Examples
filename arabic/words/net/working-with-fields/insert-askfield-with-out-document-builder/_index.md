@@ -1,6 +1,6 @@
 ---
 title: أدخل ASKField بدون Document Builder
-linktitle:أدخل ASKField بدون Document Builder
+linktitle: أدخل ASKField بدون Document Builder
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقل ASK في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

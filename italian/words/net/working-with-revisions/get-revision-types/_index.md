@@ -1,6 +1,6 @@
 ---
 title: Ottieni tipi di revisione
-linktitle:Ottieni tipi di revisione
+linktitle: Ottieni tipi di revisione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Ottieni i tipi di revisione in un documento Word con Aspose.Words per .NET.
 type: docs

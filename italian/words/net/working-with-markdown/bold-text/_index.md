@@ -1,6 +1,6 @@
 ---
 title: Testo grassetto
-linktitle:Testo grassetto
+linktitle: Testo grassetto
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come mettere in grassetto il testo con Aspose.Words per .NET Guida dettagliata.
 type: docs

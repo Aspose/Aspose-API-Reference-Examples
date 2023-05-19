@@ -1,6 +1,6 @@
 ---
 title: تنسيق القاعدة الأفقية
-linktitle:تنسيق القاعدة الأفقية
+linktitle: تنسيق القاعدة الأفقية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تنسيق القواعد الأفقية في مستندات Word باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

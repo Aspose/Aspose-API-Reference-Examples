@@ -1,6 +1,6 @@
 ---
 title: نقل العقدة في المستند المتعقب
-linktitle:نقل العقدة في المستند المتعقب
+linktitle: نقل العقدة في المستند المتعقب
 second_title: Aspose.Words لمراجع .NET API
 description: انقل العقد في مستند تم تعقبه باستخدام Aspose.Words for .NET.
 type: docs

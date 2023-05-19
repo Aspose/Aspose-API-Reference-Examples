@@ -1,6 +1,6 @@
 ---
 title: تأكيدات
-linktitle:تأكيدات
+linktitle: تأكيدات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام التأكيدات (بالخط العريض والمائل) باستخدام دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

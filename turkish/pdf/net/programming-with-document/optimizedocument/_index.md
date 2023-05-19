@@ -1,6 +1,6 @@
 ---
 title: Belgeyi Optimize Et
-linktitle:Belgeyi Optimize Et
+linktitle: Belgeyi Optimize Et
 second_title: Aspose.PDF for .NET API Referansı
 description: Web için Optimize Belgesi, kullanıcı deneyimi için çok önemlidir. Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bunu nasıl yapacağınızı öğrenin.
 type: docs

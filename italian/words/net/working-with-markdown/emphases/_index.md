@@ -1,6 +1,6 @@
 ---
 title: Enfasi
-linktitle:Enfasi
+linktitle: Enfasi
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare le sottolineature (grassetto e corsivo) con Aspose.Words per la guida passo-passo .NET.
 type: docs

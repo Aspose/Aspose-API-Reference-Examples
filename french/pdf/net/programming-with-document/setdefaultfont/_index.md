@@ -1,6 +1,6 @@
 ---
 title: Définir la police par défaut
-linktitle:Définir la police par défaut
+linktitle: Définir la police par défaut
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment définir la police par défaut d'un document PDF à l'aide d'Aspose.PDF pour .NET grâce à ce guide étape par étape.
 type: docs

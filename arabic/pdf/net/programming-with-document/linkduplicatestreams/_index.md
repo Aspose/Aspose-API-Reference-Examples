@@ -1,6 +1,6 @@
 ---
 title: ربط تيارات مكررة
-linktitle:ربط تيارات مكررة
+linktitle: ربط تيارات مكررة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF لميزة .NET Link Duplicate Streams لتحسين مستندات PDF باستخدام هذا الدليل التفصيلي.
 type: docs

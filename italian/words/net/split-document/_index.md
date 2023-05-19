@@ -1,6 +1,6 @@
 ---
 title: Dividi documento
-linktitle:Dividi documento
+linktitle: Dividi documento
 second_title: Riferimento all'API Aspose.Words per .NET
 description: tutorial contengono per intestazioni html, per sezioni html, per sezioni, pagina per pagina, unisci documenti e per intervallo di pagine
 type: docs

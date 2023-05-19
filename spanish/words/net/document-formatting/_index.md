@@ -1,6 +1,6 @@
 ---
 title: Formato de documento
-linktitle:Formato de documento
+linktitle: Formato de documento
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen espacios entre texto asiático y latino, grupo de salto de línea de tipografía asiática, formato de párrafo, formato de lista multinivel y aplicación de estilo de párrafo.
 type: docs

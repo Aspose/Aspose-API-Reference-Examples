@@ -1,6 +1,6 @@
 ---
 title: Por rango de página
-linktitle:Por rango de página
+linktitle: Por rango de página
 second_title: Referencia de API de Aspose.Words para .NET
 description: Extraiga fácilmente por rango de páginas de un documento de Word utilizando Aspose.Words para la guía paso a paso de .NET.
 type: docs

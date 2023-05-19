@@ -1,6 +1,6 @@
 ---
 title: 形状修正
-linktitle:形状修正
+linktitle: 形状修正
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 修改 Word 文档中的形状。
 type: docs

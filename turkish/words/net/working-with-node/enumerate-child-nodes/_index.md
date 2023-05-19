@@ -1,6 +1,6 @@
 ---
 title: Alt Düğümleri Numaralandır
-linktitle:Alt Düğümleri Numaralandır
+linktitle: Alt Düğümleri Numaralandır
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir paragrafta alt düğümleri nasıl numaralandıracağınızı öğrenin.
 type: docs

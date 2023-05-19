@@ -1,6 +1,6 @@
 ---
 title: Типизированный доступ
-linktitle:Типизированный доступ
+linktitle: Типизированный доступ
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать типизированный доступ для управления таблицами в Aspose.Words для .NET.
 type: docs

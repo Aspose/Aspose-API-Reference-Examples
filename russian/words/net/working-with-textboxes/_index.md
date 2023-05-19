@@ -1,6 +1,6 @@
 ---
 title: Работа с текстовыми полями
-linktitle:Работа с текстовыми полями
+linktitle: Работа с текстовыми полями
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат создание ссылки, проверку последовательности и разрыв связи с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Formato de lista multinivel
-linktitle:Formato de lista multinivel
+linktitle: Formato de lista multinivel
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una lista de varios niveles y aplicar formato personalizado con Aspose.Words para .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Belirli Seçeneklerle Metin Filigranı Ekleyin
-linktitle:Belirli Seçeneklerle Metin Filigranı Ekleyin
+linktitle: Belirli Seçeneklerle Metin Filigranı Ekleyin
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak belirli seçeneklerle metin filigranı eklemeyi öğrenin. Adım adım rehber.
 type: docs

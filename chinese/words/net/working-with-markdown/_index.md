@@ -1,6 +1,6 @@
 ---
 title: 使用降价
-linktitle:使用降价
+linktitle: 使用降价
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含如何使用 Aspose.Words for .NET 加粗文本、斜体文本、删除线、内联代码、自动链接、添加图像、有序列表、标题、表格和阅读降价文档。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 类型访问
-linktitle:类型访问
+linktitle: 类型访问
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用类型化访问来操作 Aspose.Words for .NET 中的表格。
 type: docs

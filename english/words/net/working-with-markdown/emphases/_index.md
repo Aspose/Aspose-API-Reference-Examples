@@ -1,6 +1,6 @@
 ---
 title: Emphases
-linktitle:Emphases
+linktitle: Emphases
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use emphases (bold and italics) with Aspose.Words for .NET Step-by-step guide.
 type: docs

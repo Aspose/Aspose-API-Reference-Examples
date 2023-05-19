@@ -1,6 +1,6 @@
 ---
 title: Copy Headers Footers From Previous Section
-linktitle:Copy Headers Footers From Previous Section
+linktitle: Copy Headers Footers From Previous Section
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to copy headers and footers from the previous section in Word documents using Aspose.Words for .NET. 
 type: docs

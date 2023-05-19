@@ -1,6 +1,6 @@
 ---
 title: Fetter Text
-linktitle:Fetter Text
+linktitle: Fetter Text
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Text mit Aspose.Words für .NET fett formatieren.
 type: docs

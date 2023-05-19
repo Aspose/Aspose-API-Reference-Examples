@@ -1,6 +1,6 @@
 ---
 title: Parole sillabate delle lingue
-linktitle:Parole sillabate delle lingue
+linktitle: Parole sillabate delle lingue
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come sillabare le parole in diverse lingue nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Inserisci documento al momento della sostituzione
-linktitle:Inserisci documento al momento della sostituzione
+linktitle: Inserisci documento al momento della sostituzione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un documento in sostituzione utilizzando Aspose.Words per .NET.
 type: docs

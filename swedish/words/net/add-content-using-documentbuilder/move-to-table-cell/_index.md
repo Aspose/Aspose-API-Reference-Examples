@@ -1,6 +1,6 @@
 ---
 title: Flytta till tabellcell
-linktitle:Flytta till tabellcell
+linktitle: Flytta till tabellcell
 second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att använda Flytta till tabellcell i Aspose.Words för .NET
 type: docs

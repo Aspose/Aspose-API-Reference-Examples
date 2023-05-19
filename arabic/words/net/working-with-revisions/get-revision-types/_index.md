@@ -1,6 +1,6 @@
 ---
 title: احصل على أنواع المراجعة
-linktitle:احصل على أنواع المراجعة
+linktitle: احصل على أنواع المراجعة
 second_title: Aspose.Words لمراجع .NET API
 description: احصل على أنواع المراجعات في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

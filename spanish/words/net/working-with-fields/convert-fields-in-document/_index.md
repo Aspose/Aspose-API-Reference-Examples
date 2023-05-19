@@ -1,6 +1,6 @@
 ---
 title: Convertir campos en documento
-linktitle:Convertir campos en documento
+linktitle: Convertir campos en documento
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para convertir campos de documentos a texto usando Aspose.Words para .NET.
 type: docs

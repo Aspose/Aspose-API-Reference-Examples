@@ -1,6 +1,6 @@
 ---
 title: 在替换处插入文档
-linktitle:在替换处插入文档
+linktitle: 在替换处插入文档
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在替换时插入文档。
 type: docs

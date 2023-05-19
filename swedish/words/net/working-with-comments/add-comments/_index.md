@@ -1,6 +1,6 @@
 ---
 title: Lägg till kommentarer
-linktitle:Lägg till kommentarer
+linktitle: Lägg till kommentarer
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till kommentarer till Word-dokument med Aspose.Words för .NET.
 type: docs

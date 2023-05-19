@@ -1,6 +1,6 @@
 ---
 title: By Headings Html
-linktitle:By Headings Html
+linktitle: By Headings Html
 second_title: Aspose.Words for .NET API Reference
 description: Step-by-step guide to explain the C# source code of the By Heading HTML feature of Aspose.Words for .NET
 type: docs

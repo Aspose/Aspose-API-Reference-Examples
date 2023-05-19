@@ -1,6 +1,6 @@
 ---
 title: Aplicar licencia medida
-linktitle:Aplicar licencia medida
+linktitle: Aplicar licencia medida
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar una licencia medida usando Aspose.Words para .NET.
 type: docs

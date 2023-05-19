@@ -1,6 +1,6 @@
 ---
 title: XMP Meta Verilerini Alın
-linktitle:XMP Meta Verilerini Alın
+linktitle: XMP Meta Verilerini Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET'in GetXmpMetadata özelliğinin, C# kaynak kodunu kullanarak bir PDF belgesinden XMP meta verilerini ayıklamak için nasıl kullanılacağını öğrenin.
 type: docs

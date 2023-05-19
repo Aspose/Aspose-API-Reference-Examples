@@ -1,6 +1,6 @@
 ---
 title: Form Alanları Ada Göre Alınır
-linktitle:Form Alanları Ada Göre Alınır
+linktitle: Form Alanları Ada Göre Alınır
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde form alanlarını ada göre nasıl alacağınızı ve değiştireceğinizi öğrenin.
 type: docs

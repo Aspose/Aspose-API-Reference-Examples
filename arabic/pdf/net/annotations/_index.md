@@ -1,6 +1,6 @@
 ---
 title: البرمجة مع الشروح
-linktitle:البرمجة مع الشروح
+linktitle: البرمجة مع الشروح
 type: docs
 weight: 11
 url: /ar/pdf/net/annotations/

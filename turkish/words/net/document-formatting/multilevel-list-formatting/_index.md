@@ -1,6 +1,6 @@
 ---
 title: Çok Düzeyli Liste Biçimlendirme
-linktitle:Çok Düzeyli Liste Biçimlendirme
+linktitle: Çok Düzeyli Liste Biçimlendirme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile çok düzeyli bir liste oluşturmayı ve özel biçimlendirme uygulamayı öğrenin.
 type: docs

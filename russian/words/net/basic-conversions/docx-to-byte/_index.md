@@ -1,6 +1,6 @@
 ---
 title: Docx в байт
-linktitle:Docx в байт
+linktitle: Docx в байт
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как преобразовать документы Word из Docx в массив байтов с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

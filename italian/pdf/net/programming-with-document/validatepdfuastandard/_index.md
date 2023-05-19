@@ -1,6 +1,6 @@
 ---
 title: Convalida lo standard PDFUA
-linktitle:Convalida lo standard PDFUA
+linktitle: Convalida lo standard PDFUA
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per convalidare lo standard PDF/UA utilizzando il codice C#. Guida passo dopo passo.
 type: docs

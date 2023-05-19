@@ -1,6 +1,6 @@
 ---
 title: Flatten Annotation
-linktitle:Flatten Annotation
+linktitle: Flatten Annotation
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to flatten annotations in a PDF document using Aspose.PDF for .NET. Preserve annotations and prevent accidental alteration.
 type: docs

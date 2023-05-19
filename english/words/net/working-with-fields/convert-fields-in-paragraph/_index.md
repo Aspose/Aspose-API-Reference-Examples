@@ -1,6 +1,6 @@
 ---
 title: Convert Fields In Paragraph
-linktitle:Convert Fields In Paragraph
+linktitle: Convert Fields In Paragraph
 second_title: Aspose.Words for .NET API Reference
 description: Convert IF fields to plain text in a paragraph with Aspose.Words for .NET.
 type: docs

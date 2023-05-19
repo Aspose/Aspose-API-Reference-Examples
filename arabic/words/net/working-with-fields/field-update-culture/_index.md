@@ -1,6 +1,6 @@
 ---
 title: ثقافة التحديث الميداني
-linktitle:ثقافة التحديث الميداني
+linktitle: ثقافة التحديث الميداني
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تحديث الثقافة الميدانية في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

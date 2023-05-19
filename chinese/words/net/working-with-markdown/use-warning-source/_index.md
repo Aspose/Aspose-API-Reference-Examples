@@ -1,6 +1,6 @@
 ---
 title: 使用警告源
-linktitle:使用警告源
+linktitle: 使用警告源
 second_title: Aspose.Words for .NET API 参考
 description: 通过 Aspose.Words for .NET 分步指南了解如何使用警告源。
 type: docs

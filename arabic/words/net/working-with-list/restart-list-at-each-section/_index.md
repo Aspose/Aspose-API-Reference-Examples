@@ -1,6 +1,6 @@
 ---
 title: قائمة إعادة التشغيل في كل قسم
-linktitle:قائمة إعادة التشغيل في كل قسم
+linktitle: قائمة إعادة التشغيل في كل قسم
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إعادة تعيين قائمة مرقمة لكل قسم في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Skapa sidhuvud
-linktitle:Skapa sidhuvud
+linktitle: Skapa sidhuvud
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar sidhuvuden och sidfötter i dina Word-dokument med Aspose.Words för .NET. Anpassa sidhuvuden och sidfötter för varje sida.
 type: docs

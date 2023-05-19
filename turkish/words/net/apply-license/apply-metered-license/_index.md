@@ -1,6 +1,6 @@
 ---
 title: Tarifeli Lisansı Uygula
-linktitle:Tarifeli Lisansı Uygula
+linktitle: Tarifeli Lisansı Uygula
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak ölçülü bir lisansı nasıl uygulayacağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Sposta nella cella della tabella
-linktitle:Sposta nella cella della tabella
+linktitle: Sposta nella cella della tabella
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata all'utilizzo di Sposta nella cella della tabella in Aspose.Words per .NET
 type: docs

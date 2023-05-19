@@ -1,6 +1,6 @@
 ---
 title: Mesa
-linktitle:Mesa
+linktitle: Mesa
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una tabla con Aspose.Words para .NET Guía paso a paso.
 type: docs

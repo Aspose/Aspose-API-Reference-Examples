@@ -1,6 +1,6 @@
 ---
 title: Удалить поля
-linktitle:Удалить поля
+linktitle: Удалить поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по удалению полей слияния в документах Word с помощью Aspose.Words для .NET.
 type: docs

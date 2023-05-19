@@ -1,6 +1,6 @@
 ---
 title: Учебники Aspose.Words для .NET
-linktitle:Учебники Aspose.Words для .NET
+linktitle: Учебники Aspose.Words для .NET
 type: docs
 weight: 10
 url: /ru/words/net/

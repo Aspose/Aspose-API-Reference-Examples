@@ -1,6 +1,6 @@
 ---
 title: 将 Ole 对象插入为图标
-linktitle:将 Ole 对象插入为图标
+linktitle: 将 Ole 对象插入为图标
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将 OLE 对象作为图标插入。
 type: docs

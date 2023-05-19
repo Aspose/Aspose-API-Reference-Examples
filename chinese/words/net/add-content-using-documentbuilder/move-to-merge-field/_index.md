@@ -1,6 +1,6 @@
 ---
 title: 移动到合并字段
-linktitle:移动到合并字段
+linktitle: 移动到合并字段
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用分步指南在 Aspose.Words for .NET 中实现移动到合并字段功能。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: PDF в документ
-linktitle:PDF в документ
+linktitle: PDF в документ
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать PDF-документы в формат Docx с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

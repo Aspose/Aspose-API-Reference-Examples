@@ -28,7 +28,7 @@ Tout d'abord, créez une nouvelle application console C# dans Microsoft Visual S
 
 Ensuite, ajoutez une référence à Aspose.PDF pour .NET dans votre projet. Pour ce faire, faites un clic droit sur votre projet dans le volet "Explorateur de solutions", sélectionnez "Ajouter" > "Référence", puis accédez à l'emplacement où vous avez enregistré le fichier DLL Aspose.PDF pour .NET. Sélectionnez le fichier DLL et cliquez sur "OK" pour ajouter la référence à votre projet.
 
-### 3. Configurer l'environnement
+## 3. Configurer l'environnement
 
 Après avoir ajouté la référence à Aspose.PDF pour .NET, vous devez configurer l'environnement. Pour ce faire, créez une nouvelle variable de chaîne appelée "dataDir" et définissez-la sur le chemin du répertoire où se trouve votre document PDF. Remplacez "VOTRE RÉPERTOIRE DE DOCUMENTS" dans le code ci-dessous par le chemin réel de votre répertoire de documents :
 
@@ -37,7 +37,7 @@ Après avoir ajouté la référence à Aspose.PDF pour .NET, vous devez configur
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-### 4. Ouvrez le document PDF
+## 4. Ouvrez le document PDF
 
 Une fois que vous avez configuré l'environnement, vous pouvez ouvrir le document PDF en utilisant le code suivant :
 
@@ -48,7 +48,7 @@ Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.p
 
 Remplacez "SetFreeTextAnnotationFormatting.pdf" par le nom réel de votre document PDF.
 
-### 5. Configurer l'apparence par défaut
+## 5. Configurer l'apparence par défaut
 
 Pour configurer l'apparence par défaut de l'annotation de texte libre, vous devez instancier l'objet DefaultAppearance avec la police, la taille de police et la couleur souhaitées. Dans ce didacticiel, nous définissons la police sur "Arial", la taille de la police sur 28 et la couleur sur le rouge.
 
@@ -57,7 +57,7 @@ Pour configurer l'apparence par défaut de l'annotation de texte libre, vous dev
 DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
 ```
 
-### 6. Créez une annotation de texte libre
+## 6. Créez une annotation de texte libre
 
 Maintenant que vous avez configuré l'apparence par défaut, vous pouvez créer une annotation de texte libre à l'aide du code suivant :
 
@@ -68,13 +68,14 @@ FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new A
 
 Le code ci-dessus crée une nouvelle annotation de texte libre sur la deuxième page du document PDF. L'annotation sera positionnée à (200, 400) et aura une largeur de 400 et une hauteur de 600.
 
-### 7. Spécifiez le contenu de l'annotation
+## 7. Spécifiez le contenu de l'annotation
 
 Après avoir créé l'annotation de texte libre, vous pouvez spécifier le contenu de l'annotation à l'aide du code suivant :
 
 ```csharp
 // Spécifier le contenu de l'annotation
 freetext.Contents = "Free Text
+```
 
 ### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
 ```csharp

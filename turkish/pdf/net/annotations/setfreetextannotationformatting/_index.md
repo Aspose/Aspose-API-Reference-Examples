@@ -28,7 +28,7 @@ Başlamadan önce, aşağıdaki ön koşullara sahip olduğunuzdan emin olun:
 
 Ardından, projenize Aspose.PDF for .NET'e bir referans ekleyin. Bunu yapmak için "Çözüm Gezgini" bölmesinde projenize sağ tıklayın, "Ekle" > "Referans" öğesini seçin ve ardından Aspose.PDF for .NET DLL dosyasını kaydettiğiniz konuma göz atın. DLL dosyasını seçin ve referansı projenize eklemek için "Tamam"a tıklayın.
 
-### 3. Ortamı kurun
+## 3. Ortamı kurun
 
 Aspose.PDF for .NET'e referansı ekledikten sonra, ortamı ayarlamanız gerekir. Bunu yapmak için "dataDir" adlı yeni bir dize değişkeni oluşturun ve bunu PDF belgenizin bulunduğu dizinin yoluna ayarlayın. Aşağıdaki kodda "BELGE DİZİNİNİZİ", belge dizininizin gerçek yolu ile değiştirin:
 
@@ -37,7 +37,7 @@ Aspose.PDF for .NET'e referansı ekledikten sonra, ortamı ayarlamanız gerekir.
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-### 4. PDF belgesini açın
+## 4. PDF belgesini açın
 
 Ortamı kurduktan sonra, aşağıdaki kodu kullanarak PDF belgesini açabilirsiniz:
 
@@ -48,7 +48,7 @@ Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.p
 
 "SetFreeTextAnnotationFormatting.pdf" ifadesini PDF belgenizin gerçek adıyla değiştirin.
 
-### 5. Varsayılan görünümü ayarlayın
+## 5. Varsayılan görünümü ayarlayın
 
 Serbest metin açıklamasının varsayılan görünümünü ayarlamak için, istenen yazı tipi, yazı tipi boyutu ve rengiyle DefaultAppearance nesnesini başlatmanız gerekir. Bu eğitimde yazı tipini "Arial", yazı tipi boyutunu 28 ve rengi kırmızı olarak ayarlıyoruz.
 
@@ -57,7 +57,7 @@ Serbest metin açıklamasının varsayılan görünümünü ayarlamak için, ist
 DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
 ```
 
-### 6. Ücretsiz bir metin ek açıklaması oluşturun
+## 6. Ücretsiz bir metin ek açıklaması oluşturun
 
 Artık varsayılan görünümü ayarladığınıza göre, aşağıdaki kodu kullanarak bir serbest metin notu oluşturabilirsiniz:
 
@@ -68,13 +68,14 @@ FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new A
 
 Yukarıdaki kod, PDF belgesinin ikinci sayfasında yeni bir serbest metin açıklaması oluşturur. Ek açıklama (200, 400) konumunda olacak ve 400 genişliğe ve 600 yüksekliğe sahip olacaktır.
 
-### 7. Ek açıklamanın içeriğini belirtin
+## 7. Ek açıklamanın içeriğini belirtin
 
 Serbest metin açıklamasını oluşturduktan sonra, açıklamanın içeriğini aşağıdaki kodu kullanarak belirleyebilirsiniz:
 
 ```csharp
 // Ek açıklamanın içeriğini belirtin
 freetext.Contents = "Free Text
+```
 
 ### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
 ```csharp

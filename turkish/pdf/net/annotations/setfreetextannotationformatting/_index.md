@@ -77,26 +77,25 @@ Serbest metin açıklamasını oluşturduktan sonra, açıklamanın içeriğini 
 freetext.Contents = "Free Text
 ```
 
-### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
+### Aspose.PDF for .NET kullanarak Serbest Metin Açıklama Biçimlendirmesini Ayarlamak için örnek kaynak kodu
 ```csharp
 
-            
-            // Belgeler dizininin yolu.
-            string dataDir = "YOUR DOCUMENT DIRECTORY";
-            
-            // Belgeyi aç
-            Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.pdf");
+	// Belgeler dizininin yolu.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            // DefaultAppearance nesnesinin örneğini oluşturun
-            DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
-            // Ek açıklama oluştur
-            FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new Aspose.Pdf.Rectangle(200, 400, 400, 600), default_appearance);
-            // Ek açıklamanın içeriğini belirtin
-            freetext.Contents = "Free Text";
-            // Sayfanın ek açıklamalar koleksiyonuna açıklama ekleme
-            pdfDocument.Pages[1].Annotations.Add(freetext);
-            dataDir = dataDir + "SetFreeTextAnnotationFormatting_out.pdf";
-            // Güncellenen belgeyi kaydedin
-            pdfDocument.Save(dataDir);            
+	// Belgeyi aç
+	Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.pdf");
+
+	// DefaultAppearance nesnesinin örneğini oluşturun
+	DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
+	// Ek açıklama oluştur
+	FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new Aspose.Pdf.Rectangle(200, 400, 400, 600), default_appearance);
+	// Ek açıklamanın içeriğini belirtin
+	freetext.Contents = "Free Text";
+	// Sayfanın ek açıklamalar koleksiyonuna açıklama ekleme
+	pdfDocument.Pages[1].Annotations.Add(freetext);
+	dataDir = dataDir + "SetFreeTextAnnotationFormatting_out.pdf";
+	// Güncellenen belgeyi kaydedin
+	pdfDocument.Save(dataDir);            
         
 ```

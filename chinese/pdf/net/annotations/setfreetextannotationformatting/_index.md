@@ -77,26 +77,25 @@ FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new A
 freetext.Contents = "Free Text
 ```
 
-### Example source code for Set Free Text Annotation Formatting using Aspose.PDF for .NET
+### 使用 Aspose.PDF for .NET 设置自由文本注释格式的示例源代码
 ```csharp
 
-            
-            //文档目录的路径。
-            string dataDir = "YOUR DOCUMENT DIRECTORY";
-            
-            //打开文档
-            Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.pdf");
+	//文档目录的路径。
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	
+	//打开文档
+	Document pdfDocument = new Document(dataDir + "SetFreeTextAnnotationFormatting.pdf");
 
-            //实例化 DefaultAppearance 对象
-            DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
-            //创建注释
-            FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new Aspose.Pdf.Rectangle(200, 400, 400, 600), default_appearance);
-            //指定注释的内容
-            freetext.Contents = "Free Text";
-            //添加注释到页面的注释集合
-            pdfDocument.Pages[1].Annotations.Add(freetext);
-            dataDir = dataDir + "SetFreeTextAnnotationFormatting_out.pdf";
-            //保存更新的文档
-            pdfDocument.Save(dataDir);            
-        
+	//实例化 DefaultAppearance 对象
+	DefaultAppearance default_appearance = new DefaultAppearance("Arial", 28, System.Drawing.Color.Red);
+	//创建注释
+	FreeTextAnnotation freetext = new FreeTextAnnotation(pdfDocument.Pages[1], new Aspose.Pdf.Rectangle(200, 400, 400, 600), default_appearance);
+	//指定注释的内容
+	freetext.Contents = "Free Text";
+	//添加注释到页面的注释集合
+	pdfDocument.Pages[1].Annotations.Add(freetext);
+	dataDir = dataDir + "SetFreeTextAnnotationFormatting_out.pdf";
+	//保存更新的文档
+	pdfDocument.Save(dataDir); 
+	
 ```

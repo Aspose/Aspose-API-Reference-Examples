@@ -1,6 +1,6 @@
 ---
 title: Insérer un champ de formulaire de saisie de texte
-linktitle: Insert Text Input Form Field
+linktitle:Insérer un champ de formulaire de saisie de texte
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour insérer un champ de formulaire de saisie de texte dans des documents Word avec ce guide étape par étape.
 type: docs

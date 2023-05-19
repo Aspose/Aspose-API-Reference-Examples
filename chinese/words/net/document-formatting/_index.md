@@ -1,6 +1,6 @@
 ---
 title: 文档格式
-linktitle: Document Formatting
+linktitle:文档格式
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含亚洲和拉丁文本之间的空格、亚洲排版换行符组、段落格式、多级列表格式和应用段落样式。
 type: docs

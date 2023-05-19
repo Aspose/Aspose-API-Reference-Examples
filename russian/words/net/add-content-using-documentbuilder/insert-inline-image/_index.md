@@ -1,6 +1,6 @@
 ---
 title: Вставить встроенное изображение
-linktitle: Insert Inline Image
+linktitle:Вставить встроенное изображение
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять встроенные изображения в документы Word с помощью Aspose.Words для .NET.
 type: docs

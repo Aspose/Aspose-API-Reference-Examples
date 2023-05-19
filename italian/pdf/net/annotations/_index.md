@@ -1,6 +1,6 @@
 ---
 title: Programmazione con annotazioni
-linktitle: Programming with Annotations
+linktitle:Programmazione con annotazioni
 type: docs
 weight: 11
 url: /it/pdf/net/annotations/

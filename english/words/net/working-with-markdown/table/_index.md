@@ -1,6 +1,6 @@
 ---
 title: Table
-linktitle: Table
+linktitle:Table
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to create a table with Aspose.Words for .NET Step-by-step guide.
 type: docs

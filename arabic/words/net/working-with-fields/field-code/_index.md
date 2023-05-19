@@ -1,6 +1,6 @@
 ---
 title: كود الحقل
-linktitle: Field Code
+linktitle:كود الحقل
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة للحصول على رمز الحقل والنتيجة الميدانية في مستندات Word الخاصة بك باستخدام Aspose.Words for .NET.
 type: docs

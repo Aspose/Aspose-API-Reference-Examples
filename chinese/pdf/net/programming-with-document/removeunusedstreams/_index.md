@@ -1,6 +1,6 @@
 ---
 title: 删除未使用的流
-linktitle: Remove Unused Streams
+linktitle:删除未使用的流
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 从 PDF 文件中删除未使用的流。我们的分步指南。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 展平注释
-linktitle: Flatten Annotation
+linktitle:展平注释
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 平展 PDF 文档中的注释。保留注释并防止意外更改。
 type: docs

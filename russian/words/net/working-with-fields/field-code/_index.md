@@ -1,6 +1,6 @@
 ---
 title: Код поля
-linktitle: Field Code
+linktitle:Код поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по получению кода поля и результата поля в ваших документах Word с помощью Aspose.Words для .NET.
 type: docs

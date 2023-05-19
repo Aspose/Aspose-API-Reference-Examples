@@ -1,6 +1,6 @@
 ---
 title: Insert Ole Object
-linktitle: Insert Ole Object
+linktitle:Insert Ole Object
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert an OLE object into a document using Aspose.Words for .NET.
 type: docs

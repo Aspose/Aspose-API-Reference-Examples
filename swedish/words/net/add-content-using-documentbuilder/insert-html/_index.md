@@ -1,6 +1,6 @@
 ---
 title: Infoga HTML
-linktitle: Insert Html
+linktitle:Infoga HTML
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar HTML-innehåll i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

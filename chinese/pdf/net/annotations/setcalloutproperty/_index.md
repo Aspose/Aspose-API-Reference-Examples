@@ -1,6 +1,6 @@
 ---
 title: 设置标注属性
-linktitle: Set Callout Property
+linktitle:设置标注属性
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 设置标注属性。使用标注线、文本颜色和结束样式自定义注释。
 type: docs

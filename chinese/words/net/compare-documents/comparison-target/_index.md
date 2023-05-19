@@ -1,6 +1,6 @@
 ---
 title: 比较对象
-linktitle: Comparison Target
+linktitle:比较对象
 second_title: Aspose.Words for .NET API 参考
 description: 了解 Aspose.Words for .NET 的比较目标功能，它允许您比较文档并生成包含所做更改的新文档。
 type: docs

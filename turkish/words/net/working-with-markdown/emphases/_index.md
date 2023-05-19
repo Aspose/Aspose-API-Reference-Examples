@@ -1,6 +1,6 @@
 ---
 title: Vurgular
-linktitle: Emphases
+linktitle:Vurgular
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile vurguları (kalın ve italik) nasıl kullanacağınızı öğrenin.
 type: docs

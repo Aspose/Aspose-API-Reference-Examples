@@ -1,6 +1,6 @@
 ---
 title: По разделам HTML
-linktitle: By Sections Html
+linktitle:По разделам HTML
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как разбить документ Word на разделы Html с помощью Aspose.Words для .NET с полным примером кода.
 type: docs

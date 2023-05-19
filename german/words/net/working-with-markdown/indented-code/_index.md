@@ -1,6 +1,6 @@
 ---
 title: Eingerückter Code
-linktitle: Indented Code
+linktitle:Eingerückter Code
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie eingerückten Code mit Aspose.Words für .NET verwenden.
 type: docs

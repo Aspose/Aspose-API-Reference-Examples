@@ -1,6 +1,6 @@
 ---
 title: Zitieren
-linktitle: Quote
+linktitle:Zitieren
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie Zitate mit Aspose.Words für .NET verwenden.
 type: docs

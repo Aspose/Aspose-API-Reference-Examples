@@ -1,6 +1,6 @@
 ---
 title: 文档生成器插入书签
-linktitle: Document Builder Insert Bookmark
+linktitle:文档生成器插入书签
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 中的 DocumentBuilder 将书签插入到 Word 文档中。分步指南。
 type: docs

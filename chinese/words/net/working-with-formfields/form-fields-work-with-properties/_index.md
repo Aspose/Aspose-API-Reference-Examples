@@ -1,6 +1,6 @@
 ---
 title: 表单字段使用属性
-linktitle: Form Fields Work With Properties
+linktitle:表单字段使用属性
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 处理 Word 文档中的表单域属性。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 获取缩放因子
-linktitle: Get Zoom Factor
+linktitle:获取缩放因子
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 获取 PDF 文件的缩放系数。
 type: docs

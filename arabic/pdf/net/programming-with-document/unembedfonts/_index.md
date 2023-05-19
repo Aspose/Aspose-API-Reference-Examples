@@ -1,6 +1,6 @@
 ---
 title: الخطوط غير المجمعة
-linktitle: Unembed Fonts
+linktitle:الخطوط غير المجمعة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على Unembed Fonts وتحسين ملفات PDF. دليل خطوة بخطوة.
 type: docs

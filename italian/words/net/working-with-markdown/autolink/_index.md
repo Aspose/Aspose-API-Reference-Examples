@@ -1,6 +1,6 @@
 ---
 title: Collegamento automatico
-linktitle: Autolink
+linktitle:Collegamento automatico
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire il collegamento automatico con Aspose.Words per .NET Guida dettagliata.
 type: docs

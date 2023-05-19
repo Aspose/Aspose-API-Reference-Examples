@@ -1,6 +1,6 @@
 ---
 title: Чтение свойств Active XControl
-linktitle: Read Active XControl Properties
+linktitle:Чтение свойств Active XControl
 second_title: Справочник по API Aspose.Words для .NET
 description: Чтение свойств элементов управления ActiveX в документе Word с помощью Aspose.Words для .NET.
 type: docs

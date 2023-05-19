@@ -1,6 +1,6 @@
 ---
 title: Lavorare con Node
-linktitle: Working with Node
+linktitle:Lavorare con Node
 second_title: Riferimento all'API Aspose.Words per .NET
 description: tutorial contengono come utilizzare il tipo di nodo, ottenere il nodo padre, il documento proprietario, tutti i nodi ricorsivi, attraversare tutti i nodi, enumerare i nodi figlio e creare nodi di paragrafo nel documento di Word utilizzando Aspose.Words per .NET.
 type: docs

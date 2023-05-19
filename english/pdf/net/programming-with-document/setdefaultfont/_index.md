@@ -1,6 +1,6 @@
 ---
 title: Set Default Font
-linktitle: Set Default Font
+linktitle:Set Default Font
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to set the default font for a PDF document using Aspose.PDF for .NET with this step-by-step guide.
 type: docs

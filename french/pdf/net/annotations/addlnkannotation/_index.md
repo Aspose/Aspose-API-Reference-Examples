@@ -1,6 +1,6 @@
 ---
 title: Ajouter une annotation de lien
-linktitle: Add lnk Annotation
+linktitle:Ajouter une annotation de lien
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Découvrez comment ajouter la fonctionnalité d'annotation manuscrite aux documents PDF en C# à l'aide d'Aspose.PDF pour .NET avec un guide étape par étape et le code source complet.
 type: docs

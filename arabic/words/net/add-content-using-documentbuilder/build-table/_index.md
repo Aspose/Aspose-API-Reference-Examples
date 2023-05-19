@@ -1,6 +1,6 @@
 ---
 title: بناء الجدول
-linktitle: Build Table
+linktitle:بناء الجدول
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء جدول في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

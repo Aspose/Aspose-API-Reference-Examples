@@ -1,6 +1,6 @@
 ---
 title: Comparar opciones
-linktitle: Compare Options
+linktitle:Comparar opciones
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para explicar el código fuente de C# de la función Comparar opciones con Aspose.Words para .NET.
 type: docs

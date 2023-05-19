@@ -1,6 +1,6 @@
 ---
 title: 设置脚注列
-linktitle: Set Foot Note Columns
+linktitle:设置脚注列
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 设置 Word 文档中脚注的列数。
 type: docs

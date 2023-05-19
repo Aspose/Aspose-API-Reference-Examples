@@ -1,6 +1,6 @@
 ---
 title: Trabajando con Lista
-linktitle: Working with List
+linktitle:Trabajando con Lista
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen cómo reiniciar la lista en cada sección, especificar el nivel de la lista, reiniciar el número de la lista en el documento usando Aspose.Words para .NET.
 type: docs

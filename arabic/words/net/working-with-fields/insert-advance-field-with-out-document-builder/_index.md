@@ -1,6 +1,6 @@
 ---
 title: أدخل الحقل المتقدم بدون Document Builder
-linktitle: Insert Advance Field Without Document Builder
+linktitle:أدخل الحقل المتقدم بدون Document Builder
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقل متقدم في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

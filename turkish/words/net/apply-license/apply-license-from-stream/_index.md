@@ -1,6 +1,6 @@
 ---
 title: Akıştan Lisansı Uygula
-linktitle: Apply License From Stream
+linktitle:Akıştan Lisansı Uygula
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir akıştan nasıl lisans uygulayacağınızı öğrenin. Adım adım rehber
 type: docs

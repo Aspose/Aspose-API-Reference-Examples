@@ -1,6 +1,6 @@
 ---
 title: Bağlantı
-linktitle: Link
+linktitle:Bağlantı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bağlantıları nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs

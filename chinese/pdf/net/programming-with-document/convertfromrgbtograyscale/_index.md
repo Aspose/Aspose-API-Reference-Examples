@@ -1,6 +1,6 @@
 ---
 title: 从 RGB 转换为灰度
-linktitle: Convert From RGB To Grayscale
+linktitle:从 RGB 转换为灰度
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 将 PDF 从 RGB 转换为灰度。提高打印质量并减小文件大小。
 type: docs

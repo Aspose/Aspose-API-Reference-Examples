@@ -1,6 +1,6 @@
 ---
 title: Set Free Text Annotation Formatting
-linktitle: Set Free Text Annotation Formatting
+linktitle:Set Free Text Annotation Formatting
 second_title: Aspose.PDF for .NET API Reference
 description: This article provides a step-by-step guide on how to create a free text annotation and specify its contents using Aspose.PDF for .NET
 type: docs

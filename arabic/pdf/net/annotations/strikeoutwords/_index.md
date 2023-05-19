@@ -1,6 +1,6 @@
 ---
 title: شطب الكلمات
-linktitle: Strike Out Words
+linktitle:شطب الكلمات
 second_title: Aspose.PDF لمرجع .NET API
 description: تقدم هذه المقالة دليلاً مفصلاً خطوة بخطوة لاستخدام ميزة Aspose.PDF لـ .NET's Strike Out Words ، بما في ذلك دليل خطوة بخطوة وشروحات
 type: docs

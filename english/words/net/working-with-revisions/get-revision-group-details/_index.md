@@ -1,6 +1,6 @@
 ---
 title: Get Revision Group Details
-linktitle: Get Revision Group Details
+linktitle:Get Revision Group Details
 second_title: Aspose.Words for .NET API Reference
 description: Get revision group details in a Word document with Aspose.Words for .NET.
 type: docs

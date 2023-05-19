@@ -1,6 +1,6 @@
 ---
 title: Extrahera markerad text
-linktitle: Extract Highlighted Text
+linktitle:Extrahera markerad text
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du extraherar markerad text med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: احصل على العقدة الأصلية
-linktitle: Get Parent Node
+linktitle:احصل على العقدة الأصلية
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية الحصول على العقدة الأصلية لعنصر معين باستخدام Aspose.Words for .NET.
 type: docs

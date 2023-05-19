@@ -1,6 +1,6 @@
 ---
 title: Personnaliser les numéros de page lors de l'ajout de la table des matières
-linktitle: Customize Page Numbes While Adding TOC
+linktitle:Personnaliser les numéros de page lors de l'ajout de la table des matières
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à personnaliser les numéros de page tout en ajoutant une table des matières (TOC) à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape et cet exemple de code.
 type: docs

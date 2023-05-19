@@ -1,6 +1,6 @@
 ---
 title: Betten Sie Schriftarten bei der Dokumenterstellung ein
-linktitle: Embed Font While Doc Creation
+linktitle:Betten Sie Schriftarten bei der Dokumenterstellung ein
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie beim Erstellen eines PDF-Dokuments mit Aspose.PDF für .NET eine Schriftart einbetten. Sorgen Sie für eine korrekte Anzeige auf verschiedenen Geräten.
 type: docs

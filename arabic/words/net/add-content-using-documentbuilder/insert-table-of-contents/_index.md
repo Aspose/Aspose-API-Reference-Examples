@@ -1,6 +1,6 @@
 ---
 title: أدخل جدول المحتويات
-linktitle: Insert Table Of Contents
+linktitle:أدخل جدول المحتويات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج جدول محتويات في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

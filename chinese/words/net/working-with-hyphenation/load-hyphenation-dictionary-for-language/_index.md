@@ -1,6 +1,6 @@
 ---
 title: 为语言加载断字词典
-linktitle: Load Hyphenation Dictionary For Language
+linktitle:为语言加载断字词典
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何在 Aspose.Words for .NET 中加载特定语言的断字词典。
 type: docs

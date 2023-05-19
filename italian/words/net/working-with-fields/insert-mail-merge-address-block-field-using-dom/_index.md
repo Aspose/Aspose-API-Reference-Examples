@@ -1,6 +1,6 @@
 ---
 title: Inserisci il campo di blocco dell'indirizzo di stampa unione utilizzando DOM
-linktitle: Insert Mail Merge Address Block Field Using DOM
+linktitle:Inserisci il campo di blocco dell'indirizzo di stampa unione utilizzando DOM
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un campo di blocco dell'indirizzo di stampa unione nei documenti di Word con Aspose.Words per .NET.
 type: docs

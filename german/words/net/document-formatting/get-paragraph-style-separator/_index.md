@@ -1,6 +1,6 @@
 ---
 title: Holen Sie sich das Trennzeichen für den Absatzstil
-linktitle: Get Paragraph Style Separator
+linktitle:Holen Sie sich das Trennzeichen für den Absatzstil
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET das Absatzformat-Trennzeichen erhalten.
 type: docs

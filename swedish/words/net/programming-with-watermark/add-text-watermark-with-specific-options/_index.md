@@ -1,6 +1,6 @@
 ---
 title: Lägg till textvattenstämpel med specifika alternativ
-linktitle: Add Text Watermark With Specific Options
+linktitle:Lägg till textvattenstämpel med specifika alternativ
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du lägger till en textvattenstämpel med specifika alternativ med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

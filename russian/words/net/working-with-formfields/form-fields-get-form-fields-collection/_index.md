@@ -1,6 +1,6 @@
 ---
 title: Поля формы Получить коллекцию полей формы
-linktitle: Form Fields Get Form Fields Collection
+linktitle:Поля формы Получить коллекцию полей формы
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как извлекать и управлять коллекцией полей форм в документах Word с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Características de tipo abierto
-linktitle: Open Type Features
+linktitle:Características de tipo abierto
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a habilitar y usar las funciones de tipo abierto en Aspose.Words para .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Formularfelder nach Namen abrufen
-linktitle: Form Fields Get By Name
+linktitle:Formularfelder nach Namen abrufen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Formularfelder in Word-Dokumenten nach Namen abrufen und ändern.
 type: docs

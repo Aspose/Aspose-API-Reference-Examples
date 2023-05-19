@@ -1,6 +1,6 @@
 ---
 title: قم بإدراج FieldIncludeText بدون Document Builder
-linktitle: Insert FieldIncludeText Without Document Builder
+linktitle:قم بإدراج FieldIncludeText بدون Document Builder
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقل FieldIncludeText في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

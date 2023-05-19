@@ -1,6 +1,6 @@
 ---
 title: Установить дату истечения срока действия
-linktitle: Set Expiry Date
+linktitle:Установить дату истечения срока действия
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как установить дату истечения срока действия в документах PDF с помощью Aspose.PDF для .NET.
 type: docs

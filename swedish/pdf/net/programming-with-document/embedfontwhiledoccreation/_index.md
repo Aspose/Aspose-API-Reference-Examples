@@ -1,6 +1,6 @@
 ---
 title: Bädda in teckensnitt medan du skapar dokument
-linktitle: Embed Font While Doc Creation
+linktitle:Bädda in teckensnitt medan du skapar dokument
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du bäddar in ett teckensnitt samtidigt som du skapar ett PDF-dokument med Aspose.PDF för .NET. Säkerställ korrekt visning på olika enheter.
 type: docs

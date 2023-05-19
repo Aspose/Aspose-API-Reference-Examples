@@ -1,6 +1,6 @@
 ---
 title: Flytta till sammanfogningsfält
-linktitle: Move To Merge Field
+linktitle:Flytta till sammanfogningsfält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du implementerar funktionen Move To Merge Field i Aspose.Words för .NET med hjälp av en steg-för-steg-guide.
 type: docs

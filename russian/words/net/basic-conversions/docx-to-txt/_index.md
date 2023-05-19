@@ -1,6 +1,6 @@
 ---
 title: Docx в текст
-linktitle: Docx To Txt
+linktitle:Docx в текст
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как преобразовать документы Word из Docx в обычный текст (Txt) с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

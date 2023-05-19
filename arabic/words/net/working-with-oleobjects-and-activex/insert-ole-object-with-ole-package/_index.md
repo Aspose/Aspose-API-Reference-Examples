@@ -1,6 +1,6 @@
 ---
 title: قم بإدراج كائن Ole مع حزمة Ole
-linktitle: Insert Ole Object With Ole Package
+linktitle:قم بإدراج كائن Ole مع حزمة Ole
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج كائن OLE مع حزمة OLE في مستند باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Tireleme Geri Çağırma
-linktitle: Hyphenation Callback
+linktitle:Tireleme Geri Çağırma
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te sözcük hecelemesini işlemek için heceleme geri aramasını nasıl kullanacağınızı öğrenin.
 type: docs

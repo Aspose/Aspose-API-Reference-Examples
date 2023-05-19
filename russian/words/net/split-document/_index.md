@@ -1,6 +1,6 @@
 ---
 title: Разделить документ
-linktitle: Split Document
+linktitle:Разделить документ
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат по заголовкам html, по разделам html, по разделам, постранично, объединяют документы и по диапазону страниц
 type: docs

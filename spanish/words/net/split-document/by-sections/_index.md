@@ -1,6 +1,6 @@
 ---
 title: Por Secciones
-linktitle: By Sections
+linktitle:Por Secciones
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a dividir un documento de Word en secciones separadas usando Aspose.Words para .NET con un ejemplo de código completo.
 type: docs

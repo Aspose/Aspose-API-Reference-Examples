@@ -1,6 +1,6 @@
 ---
 title: Lizenz aus Stream anwenden
-linktitle: Apply License From Stream
+linktitle:Lizenz aus Stream anwenden
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Lizenz aus einem Stream anwenden. Schritt für Schritt Anleitung
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Dela dokument
-linktitle: Split Document
+linktitle:Dela dokument
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller efter rubriker html, efter avsnitt html, efter avsnitt, sida för sida, sammanfoga dokument och efter sidintervall
 type: docs

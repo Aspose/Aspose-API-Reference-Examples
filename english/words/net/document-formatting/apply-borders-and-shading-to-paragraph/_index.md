@@ -1,6 +1,6 @@
 ---
 title: Apply Borders And Shading To Paragraph
-linktitle: Apply Borders And Shading To Paragraph
+linktitle:Apply Borders And Shading To Paragraph
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to apply borders and shading to a paragraph with Aspose.Words for .NET.
 type: docs

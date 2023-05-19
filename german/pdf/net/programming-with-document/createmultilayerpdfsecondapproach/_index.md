@@ -1,6 +1,6 @@
 ---
 title: Zweiter Ansatz zum Erstellen mehrschichtiger PDFs
-linktitle: Create Multilayer PDF Second Approach
+linktitle:Zweiter Ansatz zum Erstellen mehrschichtiger PDFs
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET ein mehrschichtiges PDF erstellen. Schritt-für-Schritt-Anleitung mit Quellcode zum Erstellen dynamischer PDFs mit Text und Bildern.
 type: docs

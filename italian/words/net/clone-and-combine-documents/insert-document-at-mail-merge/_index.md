@@ -1,6 +1,6 @@
 ---
 title: Inserisci documento alla stampa unione
-linktitle: Insert Document At Mail Merge
+linktitle:Inserisci documento alla stampa unione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un documento in un altro durante la stampa unione utilizzando Aspose.Words per .NET.
 type: docs

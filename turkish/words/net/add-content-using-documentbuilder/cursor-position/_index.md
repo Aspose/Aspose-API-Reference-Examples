@@ -1,6 +1,6 @@
 ---
 title: İmleç Konumu
-linktitle: Cursor Position
+linktitle:İmleç Konumu
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak bir Word belgesinde imleç konumunu nasıl alacağınızı öğrenin.
 type: docs

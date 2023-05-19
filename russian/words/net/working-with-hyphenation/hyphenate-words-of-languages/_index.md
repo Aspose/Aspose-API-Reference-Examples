@@ -1,6 +1,6 @@
 ---
 title: Перенос слов языков
-linktitle: Hyphenate Words Of Languages
+linktitle:Перенос слов языков
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как расставлять переносы слов на разных языках в документах Word с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Doküman Oluşturma Sırasında Yazı Tipini Göm
-linktitle: Embed Font While Doc Creation
+linktitle:Doküman Oluşturma Sırasında Yazı Tipini Göm
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF belgesi oluştururken bir yazı tipini nasıl gömeceğinizi öğrenin. Farklı cihazlarda doğru görüntülemeyi sağlayın.
 type: docs

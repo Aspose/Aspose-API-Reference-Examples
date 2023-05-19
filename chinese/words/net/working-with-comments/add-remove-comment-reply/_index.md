@@ -1,6 +1,6 @@
 ---
 title: 添加删除评论回复
-linktitle: Add Remove Comment Reply
+linktitle:添加删除评论回复
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中添加和删除评论回复。
 type: docs

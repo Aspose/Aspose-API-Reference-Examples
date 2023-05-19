@@ -1,6 +1,6 @@
 ---
 title: Rubrik
-linktitle: Heading
+linktitle:Rubrik
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder heading med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

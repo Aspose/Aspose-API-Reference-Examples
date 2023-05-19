@@ -1,6 +1,6 @@
 ---
 title: تسطيح الشرح
-linktitle: Flatten Annotation
+linktitle:تسطيح الشرح
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تسوية التعليقات التوضيحية في مستند PDF باستخدام Aspose.PDF for .NET. الحفاظ على التعليقات التوضيحية ومنع التغيير العرضي.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Sayfadaki Tüm Ek Açıklamaları Sil
-linktitle: Delete All Annotations From Page
+linktitle:Sayfadaki Tüm Ek Açıklamaları Sil
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzu kullanarak Aspose.PDF for .NET ile bir PDF sayfasından tüm notları nasıl sileceğinizi öğrenin.
 type: docs

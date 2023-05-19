@@ -1,6 +1,6 @@
 ---
 title: By Sections
-linktitle: By Sections
+linktitle:By Sections
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to split a Word document into separate sections using Aspose.Words for .NET with complete code example.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Infoga dokument vid brevkoppling
-linktitle: Insert Document At Mail Merge
+linktitle:Infoga dokument vid brevkoppling
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar dokument i ett annat under sammankoppling med Aspose.Words för .NET.
 type: docs

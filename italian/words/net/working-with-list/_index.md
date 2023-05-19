@@ -1,6 +1,6 @@
 ---
 title: Lavorare con List
-linktitle: Working with List
+linktitle:Lavorare con List
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono come riavviare l'elenco in ogni sezione, specificare il livello dell'elenco, riavviare il numero dell'elenco nel documento utilizzando Aspose.Words per .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Установить шрифт по умолчанию
-linktitle: Set Default Font
+linktitle:Установить шрифт по умолчанию
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как установить шрифт по умолчанию для документа PDF с помощью Aspose.PDF для .NET.
 type: docs

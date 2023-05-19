@@ -1,6 +1,6 @@
 ---
 title: 使用节点
-linktitle: Working with Node
+linktitle:使用节点
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含如何使用节点类型、获取父节点、所有者文档、递归所有节点、遍历所有节点、枚举子节点以及使用 Aspose.Words for .NET 在 Word 文档中创建段落节点。
 type: docs

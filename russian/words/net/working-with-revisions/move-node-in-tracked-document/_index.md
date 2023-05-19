@@ -1,6 +1,6 @@
 ---
 title: Переместить узел в отслеживаемом документе
-linktitle: Move Node In Tracked Document
+linktitle:Переместить узел в отслеживаемом документе
 second_title: Справочник по API Aspose.Words для .NET
 description: Перемещайте узлы в отслеживаемом документе с помощью Aspose.Words для .NET.
 type: docs

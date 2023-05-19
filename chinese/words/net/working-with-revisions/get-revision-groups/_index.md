@@ -1,6 +1,6 @@
 ---
 title: 获取修订组
-linktitle: Get Revision Groups
+linktitle:获取修订组
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 在 Word 文档中获取修订组。
 type: docs

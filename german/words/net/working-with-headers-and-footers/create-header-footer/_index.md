@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie eine Kopf- und Fußzeile
-linktitle: Create Header Footer
+linktitle:Erstellen Sie eine Kopf- und Fußzeile
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Kopf- und Fußzeilen in Ihren Word-Dokumenten erstellen. Passen Sie Kopf- und Fußzeilen für jede Seite an.
 type: docs

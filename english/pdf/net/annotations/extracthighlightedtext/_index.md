@@ -1,6 +1,6 @@
 ---
 title: Extract Highlighted Text
-linktitle: Extract Highlighted Text
+linktitle:Extract Highlighted Text
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to extract highlighted text using Aspose.PDF for .NET with this step-by-step guide.
 type: docs

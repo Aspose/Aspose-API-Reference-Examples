@@ -1,6 +1,6 @@
 ---
 title: Devolución de llamada con guión
-linktitle: Hyphenation Callback
+linktitle:Devolución de llamada con guión
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar la devolución de llamada de separación de palabras en Aspose.Words para .NET para manejar la separación de palabras.
 type: docs

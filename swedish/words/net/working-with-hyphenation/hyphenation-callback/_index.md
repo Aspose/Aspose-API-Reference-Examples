@@ -1,6 +1,6 @@
 ---
 title: Återuppringning med avstavning
-linktitle: Hyphenation Callback
+linktitle:Återuppringning med avstavning
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder återuppringning av avstavning i Aspose.Words för .NET för att hantera ordavstavning.
 type: docs

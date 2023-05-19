@@ -1,6 +1,6 @@
 ---
 title: Kontrol Sırası
-linktitle: Check Sequence
+linktitle:Kontrol Sırası
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki Metin Kutularının sırasını nasıl kontrol edeceğinizi öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 文档编程
-linktitle: Programming with Document
+linktitle:文档编程
 type: docs
 weight: 10
 url: /zh/pdf/net/programming-with-document/

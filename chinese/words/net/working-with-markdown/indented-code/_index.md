@@ -1,6 +1,6 @@
 ---
 title: 缩进代码
-linktitle: Indented Code
+linktitle:缩进代码
 second_title: Aspose.Words for .NET API 参考
 description: 通过 Aspose.Words for .NET 分步指南了解如何使用缩进代码。
 type: docs

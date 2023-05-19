@@ -1,6 +1,6 @@
 ---
 title: 评估 IF 条件
-linktitle: Evaluate IF Condition
+linktitle:评估 IF 条件
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 评估 Word 文档中的 IF 条件的分步指南。
 type: docs

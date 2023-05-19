@@ -1,6 +1,6 @@
 ---
 title: 删除单词
-linktitle: Strike Out Words
+linktitle:删除单词
 second_title: Aspose.PDF for .NET API 参考
 description: 本文提供了使用 Aspose.PDF for .NET 的删除文字功能的分步指南，包括分步指南和解释
 type: docs

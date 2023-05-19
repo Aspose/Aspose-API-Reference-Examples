@@ -1,6 +1,6 @@
 ---
 title: أضف Remove Javascript To Doc
-linktitle: Add Remove Javascript To Doc
+linktitle:أضف Remove Javascript To Doc
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة وإزالة JavaScript من مستندات PDF باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع دروس تعليمات برمجية للبرمجة النصية على مستوى المستند.
 type: docs

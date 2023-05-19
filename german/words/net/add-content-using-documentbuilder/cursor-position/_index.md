@@ -1,6 +1,6 @@
 ---
 title: Cursorposition
-linktitle: Cursor Position
+linktitle:Cursorposition
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.Words für .NET die Cursorposition in einem Word-Dokument abrufen.
 type: docs

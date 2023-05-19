@@ -1,6 +1,6 @@
 ---
 title: Código en línea
-linktitle: Inline Code
+linktitle:Código en línea
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a codificar en línea con Aspose.Words para la guía paso a paso de .NET.
 type: docs

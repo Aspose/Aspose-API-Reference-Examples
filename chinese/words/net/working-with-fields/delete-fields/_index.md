@@ -1,6 +1,6 @@
 ---
 title: 删除字段
-linktitle: Delete Fields
+linktitle:删除字段
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 删除 Word 文档中合并字段的分步指南。
 type: docs

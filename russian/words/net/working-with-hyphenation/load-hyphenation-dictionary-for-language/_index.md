@@ -1,6 +1,6 @@
 ---
 title: Загрузить словарь переносов для языка
-linktitle: Load Hyphenation Dictionary For Language
+linktitle:Загрузить словарь переносов для языка
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как загрузить словарь переносов для определенного языка в Aspose.Words для .NET.
 type: docs

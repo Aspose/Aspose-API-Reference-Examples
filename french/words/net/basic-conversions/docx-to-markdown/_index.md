@@ -1,6 +1,6 @@
 ---
 title: Docx à Markdown
-linktitle: Docx To Markdown
+linktitle:Docx à Markdown
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à convertir des documents Word du format Docx au format Markdown en utilisant Aspose.Words pour .NET. Tutoriel étape par étape avec un exemple de code source.
 type: docs

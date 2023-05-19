@@ -1,6 +1,6 @@
 ---
 title: Установить свойства для диалогового окна печати
-linktitle: Set Properties For Print Dialog
+linktitle:Установить свойства для диалогового окна печати
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как установить свойства диалогового окна печати в Aspose.PDF для .NET, используя пошаговое руководство.
 type: docs

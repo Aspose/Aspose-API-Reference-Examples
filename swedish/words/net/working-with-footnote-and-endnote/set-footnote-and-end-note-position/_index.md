@@ -1,6 +1,6 @@
 ---
 title: Ställ in fotnots- och slutnotposition
-linktitle: Set Footnote And End Note Position
+linktitle:Ställ in fotnots- och slutnotposition
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ställer in positionen för fotnoter och slutnoter i Word-dokument med Aspose.Words för .NET.
 type: docs

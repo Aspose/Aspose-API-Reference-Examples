@@ -1,6 +1,6 @@
 ---
 title: Field Code
-linktitle: Field Code
+linktitle:Field Code
 second_title: Aspose.Words for .NET API Reference
 description: Step by step guide to get field code and field result in your Word documents with Aspose.Words for .NET.  
 type: docs

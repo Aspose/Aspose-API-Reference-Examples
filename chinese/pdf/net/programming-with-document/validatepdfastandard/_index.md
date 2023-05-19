@@ -1,6 +1,6 @@
 ---
 title: 验证 PDFA 标准
-linktitle: Validate PDFAStandard
+linktitle:验证 PDFA 标准
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 验证 PDF 文件是否符合 PDFAStandard。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 对段落应用边框和底纹
-linktitle: Apply Borders And Shading To Paragraph
+linktitle:对段落应用边框和底纹
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将边框和底纹应用于段落。
 type: docs

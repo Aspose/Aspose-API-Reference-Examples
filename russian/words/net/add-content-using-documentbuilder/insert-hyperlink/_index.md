@@ -1,6 +1,6 @@
 ---
 title: Вставить гиперссылку
-linktitle: Insert Hyperlink
+linktitle:Вставить гиперссылку
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять гиперссылки в документы Word с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

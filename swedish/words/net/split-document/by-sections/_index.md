@@ -1,6 +1,6 @@
 ---
 title: Efter sektioner
-linktitle: By Sections
+linktitle:Efter sektioner
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du delar upp ett Word-dokument i separata avsnitt med Aspose.Words för .NET med komplett kodexempel.
 type: docs

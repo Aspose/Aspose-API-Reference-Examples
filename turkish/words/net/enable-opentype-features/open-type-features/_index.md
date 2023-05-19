@@ -1,6 +1,6 @@
 ---
 title: Açık Tip Özellikler
-linktitle: Open Type Features
+linktitle:Açık Tip Özellikler
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'te Open Type özelliklerini nasıl etkinleştireceğinizi ve kullanacağınızı öğrenin
 type: docs

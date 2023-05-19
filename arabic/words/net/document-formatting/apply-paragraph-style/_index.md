@@ -1,6 +1,6 @@
 ---
 title: تطبيق نمط الفقرة
-linktitle: Apply Paragraph Style
+linktitle:تطبيق نمط الفقرة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق نمط فقرة باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Перечислить дочерние узлы
-linktitle: Enumerate Child Nodes
+linktitle:Перечислить дочерние узлы
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как перечислить дочерние узлы в абзаце с помощью Aspose.Words для .NET.
 type: docs

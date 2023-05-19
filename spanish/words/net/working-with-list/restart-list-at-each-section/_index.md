@@ -1,6 +1,6 @@
 ---
 title: Lista de reinicios en cada sección
-linktitle: Restart List At Each Section
+linktitle:Lista de reinicios en cada sección
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a restablecer una lista numerada en cada sección de un documento de Word con Aspose.Words para .NET.
 type: docs

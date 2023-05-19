@@ -1,6 +1,6 @@
 ---
 title: 按页面范围
-linktitle: By Page Range
+linktitle:按页面范围
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 分步指南轻松按页面范围从 Word 文档中提取。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Установить параметры концевой сноски
-linktitle: Set Endnote Options
+linktitle:Установить параметры концевой сноски
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как установить параметры концевых сносок в документах Word с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

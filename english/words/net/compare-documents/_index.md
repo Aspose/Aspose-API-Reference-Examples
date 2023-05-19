@@ -1,6 +1,6 @@
 ---
 title: Compare Documents
-linktitle: Compare Documents
+linktitle:Compare Documents
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain compare for equal, compare options, comparison target and comparison granularity.
 type: docs

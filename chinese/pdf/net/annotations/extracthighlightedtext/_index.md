@@ -1,6 +1,6 @@
 ---
 title: 提取突出显示的文本
-linktitle: Extract Highlighted Text
+linktitle:提取突出显示的文本
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 提取突出显示的文本。
 type: docs

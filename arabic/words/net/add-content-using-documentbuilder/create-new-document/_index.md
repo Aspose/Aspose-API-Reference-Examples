@@ -1,6 +1,6 @@
 ---
 title: قم بإنشاء مستند جديد
-linktitle: Create New Document
+linktitle:قم بإنشاء مستند جديد
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء مستند Word جديد وإضافة محتوى باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

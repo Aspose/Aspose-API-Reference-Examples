@@ -1,6 +1,6 @@
 ---
 title: Dokumente zusammenführen
-linktitle: Merge Documents
+linktitle:Dokumente zusammenführen
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Funktion „Dokumente zusammenführen“ von Aspose.Words für .NET
 type: docs

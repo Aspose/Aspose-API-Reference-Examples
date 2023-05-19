@@ -1,6 +1,6 @@
 ---
 title: Konvertera fält i kroppen
-linktitle: Convert Fields In Body
+linktitle:Konvertera fält i kroppen
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att konvertera sidfält till text i brödtexten i ett Word-dokument.
 type: docs

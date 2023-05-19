@@ -1,6 +1,6 @@
 ---
 title: Оценить условие ЕСЛИ
-linktitle: Evaluate IF Condition
+linktitle:Оценить условие ЕСЛИ
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по оценке условия ЕСЛИ в ваших документах Word с помощью Aspose.Words для .NET.
 type: docs

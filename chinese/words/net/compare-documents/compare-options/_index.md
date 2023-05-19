@@ -1,6 +1,6 @@
 ---
 title: 比较选项
-linktitle: Compare Options
+linktitle:比较选项
 second_title: Aspose.Words for .NET API 参考
 description: 分步指南解释比较选项功能的 C# 源代码与 Aspose.Words for .NET。
 type: docs

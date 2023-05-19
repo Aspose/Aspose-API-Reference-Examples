@@ -1,6 +1,6 @@
 ---
 title: Applica bordi e ombreggiatura al paragrafo
-linktitle: Apply Borders And Shading To Paragraph
+linktitle:Applica bordi e ombreggiatura al paragrafo
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare bordi e ombreggiatura a un paragrafo con Aspose.Words per .NET.
 type: docs

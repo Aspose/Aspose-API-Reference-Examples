@@ -1,6 +1,6 @@
 ---
 title: تضمين الخط
-linktitle: Embed Font
+linktitle:تضمين الخط
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تضمين الخطوط في ملف PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة. تأكد من عرض المستندات الخاصة بك بشكل صحيح على أي جهاز.
 type: docs

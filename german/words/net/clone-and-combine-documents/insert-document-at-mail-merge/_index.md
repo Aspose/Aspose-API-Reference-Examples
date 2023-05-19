@@ -1,6 +1,6 @@
 ---
 title: Dokument beim Seriendruck einfügen
-linktitle: Insert Document At Mail Merge
+linktitle:Dokument beim Seriendruck einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Dokument beim Seriendruck in ein anderes einfügen.
 type: docs

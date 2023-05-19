@@ -1,6 +1,6 @@
 ---
 title: Köprüleri Değiştir
-linktitle: Replace Hyperlinks
+linktitle:Köprüleri Değiştir
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki köprüleri değiştirin. Köprüleri değiştirmek için adım adım talimatlar.
 type: docs

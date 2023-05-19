@@ -1,6 +1,6 @@
 ---
 title: Regola orizzontale
-linktitle: Horizontal Rule
+linktitle:Regola orizzontale
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire una regola orizzontale con Aspose.Words per .NET Guida dettagliata.
 type: docs

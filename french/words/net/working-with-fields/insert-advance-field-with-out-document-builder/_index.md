@@ -1,6 +1,6 @@
 ---
 title: Insérer un champ avancé sans Document Builder
-linktitle: Insert Advance Field Without Document Builder
+linktitle:Insérer un champ avancé sans Document Builder
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer un champ avancé dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

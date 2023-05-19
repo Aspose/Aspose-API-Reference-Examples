@@ -1,6 +1,6 @@
 ---
 title: قطع الارتباط
-linktitle: Break A Link
+linktitle:قطع الارتباط
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية فصل الروابط في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

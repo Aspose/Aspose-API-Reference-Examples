@@ -1,6 +1,6 @@
 ---
 title: Результаты отображения поля
-linktitle: Field Display Results
+linktitle:Результаты отображения поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по отображению результатов полей в документах Word с помощью Aspose.Words для .NET.
 type: docs

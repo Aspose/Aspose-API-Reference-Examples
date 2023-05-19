@@ -1,6 +1,6 @@
 ---
 title: 获取段落样式分隔符
-linktitle: Get Paragraph Style Separator
+linktitle:获取段落样式分隔符
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 获取段落样式分隔符。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Alan Ekle
-linktitle: Insert Field
+linktitle:Alan Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize nasıl alan ekleyeceğinizi öğrenin. Belgelerinizi dinamik alanlarla kişiselleştirin.
 type: docs

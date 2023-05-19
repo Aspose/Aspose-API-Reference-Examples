@@ -1,6 +1,6 @@
 ---
 title: Lägg till innehåll med Documentbuilder
-linktitle: Add Content Using Documentbuilder
+linktitle:Lägg till innehåll med Documentbuilder
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller skapa nytt dokument, dokumentbyggaren infoga bokmärke, bygg tabell, infoga horisontell regel, horisontell regelformat, infoga brytning, infoga text i
 type: docs

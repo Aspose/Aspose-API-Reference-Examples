@@ -1,6 +1,6 @@
 ---
 title: Jämför för lika
-linktitle: Compare For Equal
+linktitle:Jämför för lika
 second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att förklara C#-källkoden för Compare for Equals-funktionen med Aspose.Words för .NET.
 type: docs

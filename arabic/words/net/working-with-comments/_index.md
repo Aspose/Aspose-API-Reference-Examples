@@ -1,6 +1,6 @@
 ---
 title: التعامل مع التعليقات
-linktitle: Working with Comments
+linktitle:التعامل مع التعليقات
 second_title: Aspose.Words لمراجع .NET API
 description: توضح البرامج التعليمية كيفية إضافة التعليقات وإرساء التعليقات وإضافة / إزالة الرد على التعليقات واستخراج التعليقات وحل التعليقات والردود في Aspose.Words for .NET
 type: docs

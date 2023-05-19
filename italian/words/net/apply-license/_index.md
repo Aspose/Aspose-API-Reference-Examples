@@ -1,6 +1,6 @@
 ---
 title: Applica licenza
-linktitle: Apply License
+linktitle:Applica licenza
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Ottieni istruzioni dettagliate per l'applicazione di una licenza Aspose.Words nei tuoi progetti .NET. Segui i passaggi per abilitare la piena funzionalità della libreria Aspose.Words.
 type: docs

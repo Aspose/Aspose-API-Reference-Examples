@@ -1,6 +1,6 @@
 ---
 title: Använd varningskälla
-linktitle: Use Warning Source
+linktitle:Använd varningskälla
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder varningskälla med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

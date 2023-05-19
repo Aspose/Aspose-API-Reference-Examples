@@ -1,6 +1,6 @@
 ---
 title: lnk Larghezza della linea di annotazione
-linktitle: lnk Annotation Line Width
+linktitle:lnk Larghezza della linea di annotazione
 second_title: Aspose.PDF per riferimento API .NET
 description: Questo articolo fornisce una guida dettagliata per l'impostazione della larghezza della linea dell'annotazione lnk utilizzando Aspose.PDF per .NET.
 type: docs

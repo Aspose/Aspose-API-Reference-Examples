@@ -1,6 +1,6 @@
 ---
 title: Imposta proprietà didascalia
-linktitle: Set Callout Property
+linktitle:Imposta proprietà didascalia
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare la proprietà Callout utilizzando Aspose.PDF per .NET. Personalizza le annotazioni con linee di richiamo, colore del testo e stili finali.
 type: docs

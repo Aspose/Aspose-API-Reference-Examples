@@ -1,6 +1,6 @@
 ---
 title: Aggancia alla griglia
-linktitle: Snap To Grid
+linktitle:Aggancia alla griglia
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per spiegare il codice sorgente C# della funzione Snap to Grid con Aspose.Words per .NET.
 type: docs

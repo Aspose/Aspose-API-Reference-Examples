@@ -1,6 +1,6 @@
 ---
 title: 接受修订
-linktitle: Accept Revisions
+linktitle:接受修订
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 接受对 Word 文档的修订
 type: docs

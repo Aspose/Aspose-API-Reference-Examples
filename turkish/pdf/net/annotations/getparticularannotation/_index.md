@@ -1,6 +1,6 @@
 ---
 title: Özel Ek Açıklama Alın
-linktitle: Get Particular Annotation
+linktitle:Özel Ek Açıklama Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF belgesinde belirli açıklamaları almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

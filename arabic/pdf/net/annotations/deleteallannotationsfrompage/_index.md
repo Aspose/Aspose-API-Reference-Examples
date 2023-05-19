@@ -1,6 +1,6 @@
 ---
 title: حذف كافة التعليقات التوضيحية من الصفحة
-linktitle: Delete All Annotations From Page
+linktitle:حذف كافة التعليقات التوضيحية من الصفحة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية حذف جميع التعليقات التوضيحية من صفحة PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

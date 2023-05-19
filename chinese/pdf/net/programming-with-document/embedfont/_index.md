@@ -1,6 +1,6 @@
 ---
 title: 嵌入字体
-linktitle: Embed Font
+linktitle:嵌入字体
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 在 PDF 文件中嵌入字体。确保您的文档在任何设备上都能正确显示。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Skapa en länk
-linktitle: Create A Link
+linktitle:Skapa en länk
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar en länk mellan TextBoxes i ett Word-dokument med Aspose.Words för .NET.
 type: docs

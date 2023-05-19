@@ -1,6 +1,6 @@
 ---
 title: Bestäm framsteg
-linktitle: Determine Progress
+linktitle:Bestäm framsteg
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du avgör framstegen för ett PDF-dokuments konverteringsprocess med Aspose.PDF för .NET med denna steg-för-steg-guide och kodexempel.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: أدخل الحقل
-linktitle: Insert Field
+linktitle:أدخل الحقل
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقل في مستندات Word باستخدام Aspose.Words for .NET. إضفاء الطابع الشخصي على المستندات الخاصة بك مع الحقول الديناميكية.
 type: docs

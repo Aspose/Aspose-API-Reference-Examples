@@ -1,6 +1,6 @@
 ---
 title: Cambia campo Aggiorna origine cultura
-linktitle: Change Field Update Culture Source
+linktitle:Cambia campo Aggiorna origine cultura
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Modifica sorgente cultura aggiornamento campo, guida passo passo per modificare la sorgente cultura in Aspose.Words per .NET.
 type: docs

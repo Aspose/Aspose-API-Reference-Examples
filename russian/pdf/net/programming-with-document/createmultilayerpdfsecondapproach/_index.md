@@ -1,6 +1,6 @@
 ---
 title: Создать многослойный PDF Второй подход
-linktitle: Create Multilayer PDF Second Approach
+linktitle:Создать многослойный PDF Второй подход
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как создать многослойный PDF-файл с помощью Aspose.PDF для .NET. Пошаговое руководство с исходным кодом для создания динамических PDF-файлов с текстом и изображениями.
 type: docs

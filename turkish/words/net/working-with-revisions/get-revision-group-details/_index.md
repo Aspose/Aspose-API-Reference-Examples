@@ -1,6 +1,6 @@
 ---
 title: Revizyon Grubu Ayrıntılarını Alın
-linktitle: Get Revision Group Details
+linktitle:Revizyon Grubu Ayrıntılarını Alın
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinde revizyon grubu ayrıntılarını alın.
 type: docs

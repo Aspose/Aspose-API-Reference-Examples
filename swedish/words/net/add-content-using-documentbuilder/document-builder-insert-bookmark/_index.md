@@ -1,6 +1,6 @@
 ---
 title: Document Builder Infoga bokmärke
-linktitle: Document Builder Insert Bookmark
+linktitle:Document Builder Infoga bokmärke
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar bokmärken i Word-dokument med DocumentBuilder i Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Linienbreite der lnk-Anmerkung
-linktitle: lnk Annotation Line Width
+linktitle:Linienbreite der lnk-Anmerkung
 second_title: Aspose.PDF für .NET API-Referenz
 description: Dieser Artikel enthält eine Schritt-für-Schritt-Anleitung zum Festlegen der Linienbreite der lnk-Annotation mit Aspose.PDF für .NET.
 type: docs

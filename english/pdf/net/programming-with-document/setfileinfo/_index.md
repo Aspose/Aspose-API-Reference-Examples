@@ -1,6 +1,6 @@
 ---
 title: Set File Info
-linktitle: Set File Info
+linktitle:Set File Info
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use Aspose.PDF for .NET to set file info in your PDF documents with this step-by-step guide.
 type: docs

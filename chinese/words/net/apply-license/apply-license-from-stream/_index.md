@@ -1,6 +1,6 @@
 ---
 title: 从 Stream 申请许可证
-linktitle: Apply License From Stream
+linktitle:从 Stream 申请许可证
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 从流中申请许可证。分步指南
 type: docs

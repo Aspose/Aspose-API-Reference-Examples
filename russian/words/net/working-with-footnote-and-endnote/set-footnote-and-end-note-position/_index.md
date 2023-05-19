@@ -1,6 +1,6 @@
 ---
 title: Установить позицию сноски и конечной сноски
-linktitle: Set Footnote And End Note Position
+linktitle:Установить позицию сноски и конечной сноски
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как установить положение сносок и концевых сносок в документах Word с помощью Aspose.Words для .NET.
 type: docs

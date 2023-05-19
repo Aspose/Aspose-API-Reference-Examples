@@ -1,6 +1,6 @@
 ---
 title: Form Alanları Özelliklerle Çalışır
-linktitle: Form Fields Work With Properties
+linktitle:Form Alanları Özelliklerle Çalışır
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde form alanı özellikleriyle nasıl çalışacağınızı öğrenin.
 type: docs

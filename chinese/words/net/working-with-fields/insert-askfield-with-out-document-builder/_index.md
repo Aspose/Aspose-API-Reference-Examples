@@ -1,6 +1,6 @@
 ---
 title: 在没有文档生成器的情况下插入 ASKField
-linktitle: Insert ASKField Without Document Builder
+linktitle:在没有文档生成器的情况下插入 ASKField
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将 ASK 字段插入到您的 Word 文档中。
 type: docs

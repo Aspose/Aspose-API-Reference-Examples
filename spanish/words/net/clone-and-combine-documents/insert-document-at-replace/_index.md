@@ -1,6 +1,6 @@
 ---
 title: Insertar documento en reemplazar
-linktitle: Insert Document At Replace
+linktitle:Insertar documento en reemplazar
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un documento en reemplazo usando Aspose.Words para .NET.
 type: docs

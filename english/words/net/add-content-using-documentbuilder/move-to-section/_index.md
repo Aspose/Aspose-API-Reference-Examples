@@ -1,6 +1,6 @@
 ---
 title: Move To Section
-linktitle: Move To Section
+linktitle:Move To Section
 second_title: Aspose.Words for .NET API Reference
 description: Step-by-step guide to using Move To Section in Aspose.Words for .NET manipulate sections and paragraphs in Word documents.
 type: docs

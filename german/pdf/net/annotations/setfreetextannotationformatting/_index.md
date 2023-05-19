@@ -1,6 +1,6 @@
 ---
 title: Legen Sie die freie Formatierung von Textanmerkungen fest
-linktitle: Set Free Text Annotation Formatting
+linktitle:Legen Sie die freie Formatierung von Textanmerkungen fest
 second_title: Aspose.PDF für .NET API-Referenz
 description: Dieser Artikel enthält eine Schritt-für-Schritt-Anleitung zum Erstellen einer Freitextanmerkung und zum Festlegen ihres Inhalts mit Aspose.PDF für .NET
 type: docs

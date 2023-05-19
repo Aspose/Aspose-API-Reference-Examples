@@ -1,6 +1,6 @@
 ---
 title: Collega flussi duplicati
-linktitle: Link Duplicate Streams
+linktitle:Collega flussi duplicati
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per la funzione .NET Link Duplicate Streams per ottimizzare i tuoi documenti PDF con questa guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: احصل على نافذة الوثيقة
-linktitle: Get Document Window
+linktitle:احصل على نافذة الوثيقة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام ميزة GetDocumentWindow الخاصة بـ Aspose.PDF for .NET لاسترداد معلومات حول خصائص نافذة مستند PDF.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Avstava ord av språk
-linktitle: Hyphenate Words Of Languages
+linktitle:Avstava ord av språk
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du avstavar ord på olika språk i Word-dokument med Aspose.Words för .NET.
 type: docs

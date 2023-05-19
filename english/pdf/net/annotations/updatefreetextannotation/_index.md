@@ -1,6 +1,6 @@
 ---
 title: Update Free Text Annotation
-linktitle: Update Free Text Annotation
+linktitle:Update Free Text Annotation
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to update free text annotation feature of Aspose.PDF for .NET using C# source code.
 type: docs

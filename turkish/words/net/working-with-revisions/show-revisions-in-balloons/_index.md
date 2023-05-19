@@ -1,6 +1,6 @@
 ---
 title: Revizyonları Balonlarda Göster
-linktitle: Show Revisions In Balloons
+linktitle:Revizyonları Balonlarda Göster
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile revizyonları balonlarda gösterin.
 type: docs

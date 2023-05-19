@@ -1,6 +1,6 @@
 ---
 title: Specify List Level
-linktitle: Specify List Level
+linktitle:Specify List Level
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to specify the list level in a Word document with Aspose.Words for .NET.
 type: docs

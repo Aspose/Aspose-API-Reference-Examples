@@ -1,6 +1,6 @@
 ---
 title: Infoga kryssruta formulärfält
-linktitle: Insert Check Box Form Field
+linktitle:Infoga kryssruta formulärfält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar kryssrutaformulär i Word-dokument med Aspose.Words för .NET. Steg-för-steg guide.
 type: docs

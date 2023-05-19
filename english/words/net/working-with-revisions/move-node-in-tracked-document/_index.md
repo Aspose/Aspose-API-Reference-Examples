@@ -1,6 +1,6 @@
 ---
 title: Move Node In Tracked Document
-linktitle: Move Node In Tracked Document
+linktitle:Move Node In Tracked Document
 second_title: Aspose.Words for .NET API Reference
 description: Move nodes in a tracked document with Aspose.Words for .NET.
 type: docs

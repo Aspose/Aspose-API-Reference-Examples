@@ -1,6 +1,6 @@
 ---
 title: Betten Sie Schriftarten mithilfe der Subset-Strategie ein
-linktitle: Embed Fonts Using Subset Strategy
+linktitle:Betten Sie Schriftarten mithilfe der Subset-Strategie ein
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Subset Strategy mithilfe von Aspose.PDF für .NET Schriftarten in eine PDF-Datei einbetten. Optimieren Sie die Größe Ihrer PDF-Datei, indem Sie nur die erforderlichen Zeichen einbetten.
 type: docs

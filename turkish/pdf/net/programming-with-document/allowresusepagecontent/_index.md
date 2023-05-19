@@ -1,6 +1,6 @@
 ---
 title: Sayfa İçeriğinin Yeniden Kullanılmasına İzin Ver
-linktitle: Allow Resuse Page Content
+linktitle:Sayfa İçeriğinin Yeniden Kullanılmasına İzin Ver
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak "Sayfa İçeriğinin Yeniden Kullanılmasına İzin Ver" özelliğini etkinleştirerek PDF'leri nasıl optimize edeceğinizi öğrenin. Dosya boyutunu azaltın ve performansı artırın.
 type: docs

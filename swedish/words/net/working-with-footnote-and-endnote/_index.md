@@ -1,6 +1,6 @@
 ---
 title: Arbeta med fotnot och slutnot
-linktitle: Working with Footnote and Endnote
+linktitle:Arbeta med fotnot och slutnot
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar förklarar hur du ställer in fotnot och slutnot i Word-dokument med Aspose.Words för .NET
 type: docs

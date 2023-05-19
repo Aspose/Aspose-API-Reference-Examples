@@ -1,6 +1,6 @@
 ---
 title: Bölümlere Göre Html
-linktitle: By Sections Html
+linktitle:Bölümlere Göre Html
 second_title: Aspose.Words for .NET API Referansı
 description: Eksiksiz bir kod örneği ile Aspose.Words for .NET kullanarak bir Word belgesini Html'de bölümlere ayırmayı öğrenin.
 type: docs

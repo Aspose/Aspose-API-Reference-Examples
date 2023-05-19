@@ -1,6 +1,6 @@
 ---
 title: Establecer fuente predeterminada
-linktitle: Set Default Font
+linktitle:Establecer fuente predeterminada
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar la fuente predeterminada para un documento PDF usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

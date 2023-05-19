@@ -1,6 +1,6 @@
 ---
 title: Consenti Riutilizzo del contenuto della pagina
-linktitle: Allow Resuse Page Content
+linktitle:Consenti Riutilizzo del contenuto della pagina
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come ottimizzare i PDF abilitando la funzione "Consenti riutilizzo del contenuto della pagina" utilizzando Aspose.PDF per .NET. Riduci le dimensioni del file e migliora le prestazioni.
 type: docs

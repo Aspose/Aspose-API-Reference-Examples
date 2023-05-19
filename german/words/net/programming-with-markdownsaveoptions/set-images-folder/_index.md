@@ -1,6 +1,6 @@
 ---
 title: Legen Sie den Bilderordner fest
-linktitle: Set Images Folder
+linktitle:Legen Sie den Bilderordner fest
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie den Bilderordner beim Exportieren nach Markdown mit Aspose.Words für .NET festlegen. Passen Sie die Platzierung von Bildern für eine bessere Organisation und Integration an.
 type: docs

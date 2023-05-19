@@ -1,6 +1,6 @@
 ---
 title: Efter sidintervall
-linktitle: By Page Range
+linktitle:Efter sidintervall
 second_title: Aspose.Words för .NET API Referens
 description: Extrahera enkelt efter sidintervall från ett Word-dokument med hjälp av Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

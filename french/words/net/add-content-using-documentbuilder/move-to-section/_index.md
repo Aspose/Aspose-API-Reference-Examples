@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers la section
-linktitle: Move To Section
+linktitle:Déplacer vers la section
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour utiliser Déplacer vers la section dans Aspose.Words pour .NET manipuler des sections et des paragraphes dans des documents Word.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Установить информацию о файле
-linktitle: Set File Info
+linktitle:Установить информацию о файле
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как использовать Aspose.PDF для .NET для установки информации о файлах в ваших PDF-документах.
 type: docs

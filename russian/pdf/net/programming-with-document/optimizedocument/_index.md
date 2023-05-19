@@ -1,6 +1,6 @@
 ---
 title: Оптимизировать документ
-linktitle: Optimize Document
+linktitle:Оптимизировать документ
 second_title: Aspose.PDF для справочника API .NET
 description: Оптимизация документа для Интернета необходима для удобства пользователей. Узнайте, как это сделать с помощью Aspose.PDF для .NET, из этого пошагового руководства.
 type: docs

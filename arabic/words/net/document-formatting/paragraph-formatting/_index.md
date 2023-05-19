@@ -1,6 +1,6 @@
 ---
 title: تنسيق الفقرة
-linktitle: Paragraph Formatting
+linktitle:تنسيق الفقرة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق التنسيق المخصص على فقراتك باستخدام Aspose.Words for .NET.
 type: docs

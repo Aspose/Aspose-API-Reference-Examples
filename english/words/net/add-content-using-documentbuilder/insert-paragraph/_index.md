@@ -1,6 +1,6 @@
 ---
 title: Insert Paragraph
-linktitle: Insert Paragraph
+linktitle:Insert Paragraph
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert formatted paragraphs in Word documents using Aspose.Words for .NET.
 type: docs

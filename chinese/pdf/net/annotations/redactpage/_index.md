@@ -1,6 +1,6 @@
 ---
 title: 编辑页面
-linktitle: Redact Page
+linktitle:编辑页面
 second_title: Aspose.PDF for .NET API 参考
 description: 本文解释了如何使用 Aspose.PDF for .NET 编辑 PDF 页面，包括分步说明和示例源代码。
 type: docs

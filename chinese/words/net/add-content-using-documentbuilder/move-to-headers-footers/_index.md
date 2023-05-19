@@ -1,6 +1,6 @@
 ---
 title: 移动到页眉页脚
-linktitle: Move To Headers Footers
+linktitle:移动到页眉页脚
 second_title: Aspose.Words for .NET API 参考
 description: 通过此分步指南，了解如何使用 Aspose.Words for .NET 在 Word 文档中导航和修改页眉和页脚。
 type: docs

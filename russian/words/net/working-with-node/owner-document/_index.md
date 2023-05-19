@@ -1,6 +1,6 @@
 ---
 title: Документ владельца
-linktitle: Owner Document
+linktitle:Документ владельца
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать документ владельца в Aspose.Words для .NET.
 type: docs

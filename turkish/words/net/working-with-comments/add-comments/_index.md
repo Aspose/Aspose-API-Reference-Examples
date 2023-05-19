@@ -1,6 +1,6 @@
 ---
 title: Yorum ekle
-linktitle: Add Comments
+linktitle:Yorum ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine nasıl yorum ekleyeceğinizi öğrenin.
 type: docs

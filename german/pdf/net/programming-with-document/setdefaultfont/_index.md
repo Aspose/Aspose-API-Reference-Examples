@@ -1,6 +1,6 @@
 ---
 title: Legen Sie die Standardschriftart fest
-linktitle: Set Default Font
+linktitle:Legen Sie die Standardschriftart fest
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET die Standardschriftart für ein PDF-Dokument festlegen.
 type: docs

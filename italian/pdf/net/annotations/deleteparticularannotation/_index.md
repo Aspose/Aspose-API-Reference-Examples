@@ -1,6 +1,6 @@
 ---
 title: Elimina annotazione particolare
-linktitle: Delete Particular Annotation
+linktitle:Elimina annotazione particolare
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come eliminare una particolare annotazione da un documento PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

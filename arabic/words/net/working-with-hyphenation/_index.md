@@ -1,6 +1,6 @@
 ---
 title: العمل مع الواصلة
-linktitle: Working with Hyphenation
+linktitle:العمل مع الواصلة
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على الواصلة كلمات اللغات ، وتحميل قاموس الواصلة للغة واستدعاء الواصلة باستخدام Aspose.Words for .NET.
 type: docs

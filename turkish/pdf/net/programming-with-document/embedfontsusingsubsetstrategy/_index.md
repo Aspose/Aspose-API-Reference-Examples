@@ -1,6 +1,6 @@
 ---
 title: Alt Küme Stratejisini Kullanarak Yazı Tiplerini Gömme
-linktitle: Embed Fonts Using Subset Strategy
+linktitle:Alt Küme Stratejisini Kullanarak Yazı Tiplerini Gömme
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak Alt Küme Stratejisi ile bir PDF dosyasına yazı tiplerini nasıl gömeceğinizi öğrenin. Yalnızca gerekli karakterleri ekleyerek PDF boyutunuzu optimize edin.
 type: docs

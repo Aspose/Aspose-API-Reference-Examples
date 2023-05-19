@@ -1,6 +1,6 @@
 ---
 title: 插入段落
-linktitle: Insert Paragraph
+linktitle:插入段落
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中插入格式化段落。
 type: docs

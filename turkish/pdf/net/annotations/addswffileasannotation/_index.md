@@ -1,6 +1,6 @@
 ---
 title: Swf Dosyasını Açıklama Olarak Ekle
-linktitle: Add Swf File As Annotation
+linktitle:Swf Dosyasını Açıklama Olarak Ekle
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'te SWF dosyalarını açıklama olarak nasıl ekleyeceğinizi öğrenin.
 type: docs

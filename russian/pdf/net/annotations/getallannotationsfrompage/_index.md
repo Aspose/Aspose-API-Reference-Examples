@@ -1,6 +1,6 @@
 ---
 title: Получить все аннотации со страницы
-linktitle: Get All Annotations From Page
+linktitle:Получить все аннотации со страницы
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как использовать Aspose.PDF для .NET для извлечения всех аннотаций со страницы PDF с помощью этого пошагового руководства.
 type: docs

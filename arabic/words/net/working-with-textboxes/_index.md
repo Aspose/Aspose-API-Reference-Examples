@@ -1,6 +1,6 @@
 ---
 title: العمل مع مربعات النص
-linktitle: Working with Textboxes
+linktitle:العمل مع مربعات النص
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على إنشاء ارتباط ، والتحقق من التسلسل ، وكسر الارتباط باستخدام Aspose.Words for .NET.
 type: docs

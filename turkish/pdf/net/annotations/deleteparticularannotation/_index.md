@@ -1,6 +1,6 @@
 ---
 title: Belirli Ek Açıklamayı Sil
-linktitle: Delete Particular Annotation
+linktitle:Belirli Ek Açıklamayı Sil
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir PDF belgesinden belirli bir açıklamayı nasıl sileceğinizi öğrenin.
 type: docs

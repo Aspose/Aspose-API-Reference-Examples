@@ -1,6 +1,6 @@
 ---
 title: Indented Code
-linktitle: Indented Code
+linktitle:Indented Code
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use indented code with Aspose.Words for .NET Step-by-step guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 验证 PDFAB 标准
-linktitle: Validate PDFABStandard
+linktitle:验证 PDFAB 标准
 second_title: Aspose.PDF for .NET API 参考
 description: 通过我们的分步指南和代码示例，了解如何使用 Aspose.PDF for .NET 根据 PDFAB 标准验证 PDF 文档。
 type: docs

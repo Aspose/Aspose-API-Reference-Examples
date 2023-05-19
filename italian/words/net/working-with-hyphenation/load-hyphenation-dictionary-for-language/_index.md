@@ -1,6 +1,6 @@
 ---
 title: Carica il dizionario di sillabazione per la lingua
-linktitle: Load Hyphenation Dictionary For Language
+linktitle:Carica il dizionario di sillabazione per la lingua
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come caricare un dizionario di sillabazione per una lingua specifica in Aspose.Words per .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Dip Not Sütunlarını Ayarla
-linktitle: Set Foot Note Columns
+linktitle:Dip Not Sütunlarını Ayarla
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki dipnotlar için sütun sayısını nasıl ayarlayacağınızı öğrenin.
 type: docs

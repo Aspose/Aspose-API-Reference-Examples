@@ -1,6 +1,6 @@
 ---
 title: 使用列表
-linktitle: Working with List
+linktitle:使用列表
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含如何在每个部分重新启动列表、指定列表级别、使用 Aspose.Words for .NET 在文档中重新启动列表编号。
 type: docs

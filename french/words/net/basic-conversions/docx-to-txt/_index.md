@@ -1,6 +1,6 @@
 ---
 title: Docx à Txt
-linktitle: Docx To Txt
+linktitle:Docx à Txt
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à convertir des documents Word de Docx en texte brut (Txt) à l'aide d'Aspose.Words pour .NET. Tutoriel étape par étape avec un exemple de code source.
 type: docs

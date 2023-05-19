@@ -1,6 +1,6 @@
 ---
 title: Rappel de césure
-linktitle: Hyphenation Callback
+linktitle:Rappel de césure
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le rappel de césure dans Aspose.Words pour .NET pour gérer la césure des mots.
 type: docs

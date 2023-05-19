@@ -1,6 +1,6 @@
 ---
 title: Gövdedeki Alanları Dönüştür
-linktitle: Convert Fields In Body
+linktitle:Gövdedeki Alanları Dönüştür
 second_title: Aspose.Words for .NET API Referansı
 description: Sayfa alanlarını bir Word belgesinin gövdesindeki metne dönüştürmek için Aspose.Words for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

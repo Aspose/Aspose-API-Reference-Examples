@@ -1,6 +1,6 @@
 ---
 title: تقليص المستندات
-linktitle: Shrink Documents
+linktitle:تقليص المستندات
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لتقليص مستندات PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

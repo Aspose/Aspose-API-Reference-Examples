@@ -1,6 +1,6 @@
 ---
 title: Якорный комментарий
-linktitle: Anchor Comment
+linktitle:Якорный комментарий
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как привязывать ответы на комментарии к определенному тексту в документах Word с помощью Aspose.Words для .NET.
 type: docs

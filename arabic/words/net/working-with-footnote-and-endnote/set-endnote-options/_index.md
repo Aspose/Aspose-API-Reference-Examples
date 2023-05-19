@@ -1,6 +1,6 @@
 ---
 title: قم بتعيين خيارات التعليق الختامي
-linktitle: Set Endnote Options
+linktitle:قم بتعيين خيارات التعليق الختامي
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تعيين خيارات التعليقات الختامية في مستندات Word باستخدام Aspose.Words for .NET. برنامج تعليمي خطوة بخطوة مع مثال على الكود المصدري.
 type: docs

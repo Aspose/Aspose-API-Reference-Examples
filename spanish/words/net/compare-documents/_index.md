@@ -1,6 +1,6 @@
 ---
 title: Comparar Documentos
-linktitle: Compare Documents
+linktitle:Comparar Documentos
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen comparación por igual, opciones de comparación, objetivo de comparación y granularidad de comparación.
 type: docs

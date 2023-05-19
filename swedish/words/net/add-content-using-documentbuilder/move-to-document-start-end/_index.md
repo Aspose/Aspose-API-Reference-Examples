@@ -1,6 +1,6 @@
 ---
 title: Flytta till dokumentets startslut
-linktitle: Move To Document Start End
+linktitle:Flytta till dokumentets startslut
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att flytta till dokumentets start och slut i Word-dokument med denna steg-för-steg-guide.
 type: docs

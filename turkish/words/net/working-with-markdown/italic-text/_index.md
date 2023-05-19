@@ -1,6 +1,6 @@
 ---
 title: İtalik Metin
-linktitle: Italic Text
+linktitle:İtalik Metin
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile metni italik yapmayı öğrenin.
 type: docs

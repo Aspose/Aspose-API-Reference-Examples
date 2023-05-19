@@ -1,6 +1,6 @@
 ---
 title: Finestra di dialogo Imposta proprietà per la stampa
-linktitle: Set Properties For Print Dialog
+linktitle:Finestra di dialogo Imposta proprietà per la stampa
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare le proprietà per la finestra di dialogo di stampa in Aspose.PDF per .NET utilizzando la guida dettagliata.
 type: docs

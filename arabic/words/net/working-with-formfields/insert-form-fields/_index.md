@@ -1,6 +1,6 @@
 ---
 title: أدخل حقول النموذج
-linktitle: Insert Form Fields
+linktitle:أدخل حقول النموذج
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج حقول نموذج القائمة المنسدلة في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

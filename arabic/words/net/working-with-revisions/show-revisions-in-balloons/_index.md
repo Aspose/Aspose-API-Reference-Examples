@@ -1,6 +1,6 @@
 ---
 title: إظهار المراجعات في بالونات
-linktitle: Show Revisions In Balloons
+linktitle:إظهار المراجعات في بالونات
 second_title: Aspose.Words لمراجع .NET API
 description: اعرض المراجعات في بالونات باستخدام Aspose.Words for .NET.
 type: docs

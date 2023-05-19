@@ -1,6 +1,6 @@
 ---
 title: الوصول إلى النسخة المنقحة
-linktitle: Access Revised Version
+linktitle:الوصول إلى النسخة المنقحة
 second_title: Aspose.Words لمراجع .NET API
 description: قم بالوصول إلى نسخة منقحة من مستند Word باستخدام Aspose.Words for .NET.
 type: docs

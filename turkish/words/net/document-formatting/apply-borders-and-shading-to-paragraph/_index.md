@@ -1,6 +1,6 @@
 ---
 title: Paragrafa Kenarlıklar ve Gölgelendirme Uygula
-linktitle: Apply Borders And Shading To Paragraph
+linktitle:Paragrafa Kenarlıklar ve Gölgelendirme Uygula
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir paragrafa kenarlık ve gölgeleme uygulamayı öğrenin.
 type: docs

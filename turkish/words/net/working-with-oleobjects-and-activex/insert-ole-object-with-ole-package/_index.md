@@ -1,6 +1,6 @@
 ---
 title: Ole Paketi ile Ole Nesnesi Ekleme
-linktitle: Insert Ole Object With Ole Package
+linktitle:Ole Paketi ile Ole Nesnesi Ekleme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir OLE paketi ile bir OLE nesnesini bir belgeye nasıl ekleyeceğinizi öğrenin.
 type: docs

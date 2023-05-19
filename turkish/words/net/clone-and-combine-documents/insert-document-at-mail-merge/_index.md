@@ -1,6 +1,6 @@
 ---
 title: Adres Mektup Birleştirmede Belge Ekle
-linktitle: Insert Document At Mail Merge
+linktitle:Adres Mektup Birleştirmede Belge Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'i kullanarak adres-mektup birleştirme sırasında diğerine nasıl belge ekleyeceğinizi öğrenin.
 type: docs

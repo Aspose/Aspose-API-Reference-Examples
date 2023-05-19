@@ -1,6 +1,6 @@
 ---
 title: Cambiar configuración regional
-linktitle: Change Locale
+linktitle:Cambiar configuración regional
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a cambiar la configuración regional para el formato de fecha y número en documentos de Word usando Aspose.Words para .NET.
 type: docs

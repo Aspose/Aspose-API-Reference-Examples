@@ -1,6 +1,6 @@
 ---
 title: Maddeli liste
-linktitle: Bulleted List
+linktitle:Maddeli liste
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile madde işaretli liste oluşturmayı öğrenin Adım adım kılavuz.
 type: docs

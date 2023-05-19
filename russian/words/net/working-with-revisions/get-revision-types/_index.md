@@ -1,6 +1,6 @@
 ---
 title: Получить типы изменений
-linktitle: Get Revision Types
+linktitle:Получить типы изменений
 second_title: Справочник по API Aspose.Words для .NET
 description: Получите типы изменений в документе Word с помощью Aspose.Words для .NET.
 type: docs

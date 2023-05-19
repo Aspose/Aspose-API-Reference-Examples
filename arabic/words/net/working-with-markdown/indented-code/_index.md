@@ -1,6 +1,6 @@
 ---
 title: رمز مسافة بادئة
-linktitle: Indented Code
+linktitle:رمز مسافة بادئة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام التعليمات البرمجية ذات المسافات البادئة مع دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

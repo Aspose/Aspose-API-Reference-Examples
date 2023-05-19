@@ -1,6 +1,6 @@
 ---
 title: Enumerate Child Nodes
-linktitle: Enumerate Child Nodes
+linktitle:Enumerate Child Nodes
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to enumerate child nodes in a paragraph with Aspose.Words for .NET.
 type: docs

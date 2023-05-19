@@ -1,6 +1,6 @@
 ---
 title: تطبيق الترخيص المقنن
-linktitle: Apply Metered License
+linktitle:تطبيق الترخيص المقنن
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية تطبيق ترخيص محدود باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Редактировать страницу
-linktitle: Redact Page
+linktitle:Редактировать страницу
 second_title: Aspose.PDF для справочника API .NET
 description: В этой статье объясняется, как редактировать страницу PDF с помощью Aspose.PDF для .NET, включая пошаговые инструкции и пример исходного кода.
 type: docs

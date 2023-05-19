@@ -1,6 +1,6 @@
 ---
 title: 围栏代码
-linktitle: Fenced Code
+linktitle:围栏代码
 second_title: Aspose.Words for .NET API 参考
 description: 通过 Aspose.Words for .NET 分步指南了解如何使用防护代码功能。
 type: docs

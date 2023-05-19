@@ -1,6 +1,6 @@
 ---
 title: Onay Kutusu Form Alanı Ekle
-linktitle: Insert Check Box Form Field
+linktitle:Onay Kutusu Form Alanı Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine onay kutusu form alanlarının nasıl ekleneceğini öğrenin. Adım adım rehber.
 type: docs

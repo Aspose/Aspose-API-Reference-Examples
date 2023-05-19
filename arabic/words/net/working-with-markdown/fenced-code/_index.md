@@ -1,6 +1,6 @@
 ---
 title: كود مسيّج
-linktitle: Fenced Code
+linktitle:كود مسيّج
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام ميزة الشفرة المسيجة مع دليل Aspose.Words for .NET خطوة بخطوة.
 type: docs

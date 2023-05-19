@@ -1,6 +1,6 @@
 ---
 title: Kontrollera Sekvens
-linktitle: Check Sequence
+linktitle:Kontrollera Sekvens
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du kontrollerar sekvensen av textrutor i ett Word-dokument med Aspose.Words för .NET.
 type: docs

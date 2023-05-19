@@ -1,6 +1,6 @@
 ---
 title: Bygg bord
-linktitle: Build Table
+linktitle:Bygg bord
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du bygger en tabell i ett Word-dokument med Aspose.Words för .NET.
 type: docs

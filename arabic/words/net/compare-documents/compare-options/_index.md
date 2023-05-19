@@ -1,6 +1,6 @@
 ---
 title: قارن الخيارات
-linktitle: Compare Options
+linktitle:قارن الخيارات
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لشرح كود مصدر C # لميزة مقارنة الخيارات مع Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: In Abschnitt verschieben
-linktitle: Move To Section
+linktitle:In Abschnitt verschieben
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Verwendung von „In Abschnitt verschieben“ in Aspose.Words für .NET zum Bearbeiten von Abschnitten und Absätzen in Word-Dokumenten.
 type: docs

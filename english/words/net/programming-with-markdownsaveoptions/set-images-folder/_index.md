@@ -1,6 +1,6 @@
 ---
 title: Set Images Folder
-linktitle: Set Images Folder
+linktitle:Set Images Folder
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to set the images folder when exporting to Markdown with Aspose.Words for .NET. Customize the placement of images for better organization and integration.
 type: docs

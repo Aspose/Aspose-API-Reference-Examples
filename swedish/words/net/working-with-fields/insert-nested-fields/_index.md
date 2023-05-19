@@ -1,6 +1,6 @@
 ---
 title: Infoga kapslade fält
-linktitle: Insert Nested Fields
+linktitle:Infoga kapslade fält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du enkelt infogar kapslade fält i dina Word-dokument med Aspose.Words för .NET.
 type: docs

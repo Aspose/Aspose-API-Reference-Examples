@@ -1,6 +1,6 @@
 ---
 title: Укажите языковой стандарт на уровне поля
-linktitle: Specify Locale At Field Level
+linktitle:Укажите языковой стандарт на уровне поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как указать локализацию на уровне поля в документах Word с помощью Aspose.Words для .NET.
 type: docs

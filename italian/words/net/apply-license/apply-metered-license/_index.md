@@ -1,6 +1,6 @@
 ---
 title: Applicare la licenza misurata
-linktitle: Apply Metered License
+linktitle:Applicare la licenza misurata
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare una licenza a consumo utilizzando Aspose.Words per .NET.
 type: docs

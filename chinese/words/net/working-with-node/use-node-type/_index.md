@@ -1,6 +1,6 @@
 ---
 title: 使用节点类型
-linktitle: Use Node Type
+linktitle:使用节点类型
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用节点类型通过 Aspose.Words for .NET 访问文档特定信息。
 type: docs

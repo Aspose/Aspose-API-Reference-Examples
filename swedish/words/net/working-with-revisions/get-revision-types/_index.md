@@ -1,6 +1,6 @@
 ---
 title: Skaffa revisionstyper
-linktitle: Get Revision Types
+linktitle:Skaffa revisionstyper
 second_title: Aspose.Words för .NET API Referens
 description: Få versionstyper i ett Word-dokument med Aspose.Words för .NET.
 type: docs

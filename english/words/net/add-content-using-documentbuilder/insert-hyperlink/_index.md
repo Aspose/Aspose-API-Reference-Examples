@@ -1,6 +1,6 @@
 ---
 title: Insert Hyperlink
-linktitle: Insert Hyperlink
+linktitle:Insert Hyperlink
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert hyperlinks in Word documents using Aspose.Words for .NET Step-by-step guide.
 type: docs

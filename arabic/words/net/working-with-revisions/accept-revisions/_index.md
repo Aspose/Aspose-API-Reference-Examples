@@ -1,6 +1,6 @@
 ---
 title: قبول المراجعات
-linktitle: Accept Revisions
+linktitle:قبول المراجعات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية قبول المراجعات على مستند Word باستخدام Aspose.Words for .NET
 type: docs

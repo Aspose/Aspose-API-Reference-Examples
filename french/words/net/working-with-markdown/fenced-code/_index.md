@@ -1,6 +1,6 @@
 ---
 title: Code clôturé
-linktitle: Fenced Code
+linktitle:Code clôturé
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser la fonctionnalité de code clôturé avec Aspose.Words for .NET Guide étape par étape.
 type: docs

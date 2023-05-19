@@ -1,6 +1,6 @@
 ---
 title: 文本转文档
-linktitle: Txt To Docx
+linktitle:文本转文档
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将纯文本文件 (Txt) 转换为 Word 文档 (Docx)。带有示例代码的分步教程。
 type: docs

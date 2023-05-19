@@ -1,6 +1,6 @@
 ---
 title: Vergleichen Sie für gleich
-linktitle: Compare For Equal
+linktitle:Vergleichen Sie für gleich
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Funktion „Compare for Equals“ mit Aspose.Words für .NET.
 type: docs

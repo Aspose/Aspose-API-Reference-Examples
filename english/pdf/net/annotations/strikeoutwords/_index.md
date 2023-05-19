@@ -1,6 +1,6 @@
 ---
 title: Strike Out Words
-linktitle: Strike Out Words
+linktitle:Strike Out Words
 second_title: Aspose.PDF for .NET API Reference
 description: This article provides a step-by-step guide to using Aspose.PDF for .NET's Strike Out Words feature, including step by step guide and explanations
 type: docs

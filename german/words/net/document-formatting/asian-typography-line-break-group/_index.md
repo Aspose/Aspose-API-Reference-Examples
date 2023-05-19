@@ -1,6 +1,6 @@
 ---
 title: Asiatische Typografie-Zeilenumbruchgruppe
-linktitle: Asian Typography Line Break Group
+linktitle:Asiatische Typografie-Zeilenumbruchgruppe
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Zeilenumbruchgruppe „Asiatische Typografie“ mit Aspose.Words für .NET verwenden.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: IF Koşulunu Değerlendir
-linktitle: Evaluate IF Condition
+linktitle:IF Koşulunu Değerlendir
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizdeki IF koşulunu değerlendirmek için adım adım kılavuz.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Horizontale Regel einfügen
-linktitle: Insert Horizontal Rule
+linktitle:Horizontale Regel einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET horizontale Regeln in Word-Dokumente einfügen. Schritt für Schritt Anleitung.
 type: docs

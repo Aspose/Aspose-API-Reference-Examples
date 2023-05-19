@@ -1,6 +1,6 @@
 ---
 title: İlk Yaklaşım Çok Katmanlı PDF Oluşturun
-linktitle: Create Multilayer PDF First Approach
+linktitle:İlk Yaklaşım Çok Katmanlı PDF Oluşturun
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET ile İlk Yaklaşımı kullanarak çok katmanlı PDF belgeleri oluşturmayı öğrenin. PDF'lerinizi geliştirmek için metin, resim ve daha fazlasını ekleyin.
 type: docs

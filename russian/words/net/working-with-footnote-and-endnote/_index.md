@@ -1,6 +1,6 @@
 ---
 title: Работа со сноской и концевой сноской
-linktitle: Working with Footnote and Endnote
+linktitle:Работа со сноской и концевой сноской
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники объясняют, как установить сноску и концевую сноску в документе Word с помощью Aspose.Words для .NET.
 type: docs

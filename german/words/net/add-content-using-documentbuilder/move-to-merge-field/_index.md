@@ -1,6 +1,6 @@
 ---
 title: Zum Zusammenführungsfeld verschieben
-linktitle: Move To Merge Field
+linktitle:Zum Zusammenführungsfeld verschieben
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie anhand der Schritt-für-Schritt-Anleitung, wie Sie die Funktion „In Merge-Feld verschieben“ in Aspose.Words für .NET implementieren.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Establecer propiedades para el diálogo de impresión
-linktitle: Set Properties For Print Dialog
+linktitle:Establecer propiedades para el diálogo de impresión
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar las propiedades para el cuadro de diálogo de impresión en Aspose.PDF para .NET usando la guía paso a paso.
 type: docs

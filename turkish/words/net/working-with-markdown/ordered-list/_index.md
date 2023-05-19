@@ -1,6 +1,6 @@
 ---
 title: Sıralı Liste
-linktitle: Ordered List
+linktitle:Sıralı Liste
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile sıralı liste oluşturmayı öğrenin Adım adım kılavuz.
 type: docs

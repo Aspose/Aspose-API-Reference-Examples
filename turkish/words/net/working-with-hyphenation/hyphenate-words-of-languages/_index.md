@@ -1,6 +1,6 @@
 ---
 title: Dillerin Tireli Kelimeleri
-linktitle: Hyphenate Words Of Languages
+linktitle:Dillerin Tireli Kelimeleri
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde farklı dillerdeki sözcükleri nasıl heceleyeceğinizi öğrenin.
 type: docs

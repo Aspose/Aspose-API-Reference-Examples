@@ -1,6 +1,6 @@
 ---
 title: По разделам
-linktitle: By Sections
+linktitle:По разделам
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как разделить документ Word на отдельные разделы с помощью Aspose.Words для .NET с полным примером кода.
 type: docs

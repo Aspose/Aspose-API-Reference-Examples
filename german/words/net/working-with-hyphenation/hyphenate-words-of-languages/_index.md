@@ -1,6 +1,6 @@
 ---
 title: Wörter von Sprachen trennen
-linktitle: Hyphenate Words Of Languages
+linktitle:Wörter von Sprachen trennen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Wörter in verschiedenen Sprachen in Word-Dokumenten trennen.
 type: docs

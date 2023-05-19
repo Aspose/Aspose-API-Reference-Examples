@@ -1,6 +1,6 @@
 ---
 title: Lavorare con la sillabazione
-linktitle: Working with Hyphenation
+linktitle:Lavorare con la sillabazione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: tutorial contengono Words of Languages con sillabazione, caricano il dizionario di sillabazione per la richiamata di lingua e sillabazione usando Aspose.Words per .NET.
 type: docs

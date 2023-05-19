@@ -1,6 +1,6 @@
 ---
 title: إخفاء أرقام الصفحات في جدول المحتويات
-linktitle: Hide Page Numbers In TOC
+linktitle:إخفاء أرقام الصفحات في جدول المحتويات
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إخفاء أرقام الصفحات في جدول المحتويات باستخدام Aspose.PDF for .NET مع هذا الدليل المفصل خطوة بخطوة.
 type: docs

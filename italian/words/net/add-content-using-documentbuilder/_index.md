@@ -1,6 +1,6 @@
 ---
 title: Aggiungi contenuto utilizzando Documentbuilder
-linktitle: Add Content Using Documentbuilder
+linktitle:Aggiungi contenuto utilizzando Documentbuilder
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Le esercitazioni contengono creazione di un nuovo documento, creazione di documenti, inserimento di segnalibri, creazione di tabelle, inserimento di righe orizzontali, formato di righe orizzontali, inserimento di interruzioni, inserimento di testo i
 type: docs

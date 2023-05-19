@@ -1,6 +1,6 @@
 ---
 title: 插入文本输入表单域
-linktitle: Insert Text Input Form Field
+linktitle:插入文本输入表单域
 second_title: Aspose.Words for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.Words for .NET 将文本输入表单域插入 Word 文档。
 type: docs

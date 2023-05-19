@@ -1,6 +1,6 @@
 ---
 title: Ställ in fotnotskolumner
-linktitle: Set Foot Note Columns
+linktitle:Ställ in fotnotskolumner
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ställer in antalet kolumner för fotnoter i Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Docx en Mhtml et envoi d'e-mail
-linktitle: Docx To Mhtml And Sending Email
+linktitle:Docx en Mhtml et envoi d'e-mail
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à convertir des documents Word de Docx en MHTML et à les envoyer sous forme d'e-mails à l'aide d'Aspose.Words et d'Aspose.Email. Tutoriel étape par étape.
 type: docs

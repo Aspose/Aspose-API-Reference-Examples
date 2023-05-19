@@ -1,6 +1,6 @@
 ---
 title: Преобразование полей в документе
-linktitle: Convert Fields In Document
+linktitle:Преобразование полей в документе
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по преобразованию полей документа в текст с помощью Aspose.Words для .NET.
 type: docs

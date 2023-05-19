@@ -1,6 +1,6 @@
 ---
 title: Hämta alla kommentarer från sidan
-linktitle: Get All Annotations From Page
+linktitle:Hämta alla kommentarer från sidan
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att hämta alla kommentarer från en PDF-sida med denna steg-för-steg-guide.
 type: docs

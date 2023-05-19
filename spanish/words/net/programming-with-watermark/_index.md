@@ -1,6 +1,6 @@
 ---
 title: Programación con marca de agua
-linktitle: Programming With Watermark
+linktitle:Programación con marca de agua
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen agregar marca de agua de texto con opciones específicas
 type: docs

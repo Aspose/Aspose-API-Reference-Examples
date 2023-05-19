@@ -1,6 +1,6 @@
 ---
 title: 在邮件合并时插入文档
-linktitle: Insert Document At Mail Merge
+linktitle:在邮件合并时插入文档
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在邮件合并期间将文档插入另一个文档。
 type: docs

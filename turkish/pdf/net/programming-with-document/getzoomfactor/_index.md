@@ -1,6 +1,6 @@
 ---
 title: Yakınlaştırma Faktörünü Alın
-linktitle: Get Zoom Factor
+linktitle:Yakınlaştırma Faktörünü Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF dosyasının yakınlaştırma faktörünü elde etmek için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

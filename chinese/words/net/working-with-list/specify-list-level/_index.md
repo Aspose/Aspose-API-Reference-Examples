@@ -1,6 +1,6 @@
 ---
 title: 指定列表级别
-linktitle: Specify List Level
+linktitle:指定列表级别
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中指定列表级别。
 type: docs

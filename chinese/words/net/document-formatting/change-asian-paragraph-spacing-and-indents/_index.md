@@ -1,6 +1,6 @@
 ---
 title: 更改亚洲段落间距和缩进
-linktitle: Change Asian Paragraph Spacing And Indents
+linktitle:更改亚洲段落间距和缩进
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 更改亚洲段落间距和缩进。
 type: docs

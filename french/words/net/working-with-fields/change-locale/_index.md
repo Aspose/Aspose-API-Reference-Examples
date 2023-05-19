@@ -1,6 +1,6 @@
 ---
 title: Modifier les paramètres régionaux
-linktitle: Change Locale
+linktitle:Modifier les paramètres régionaux
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment modifier les paramètres régionaux pour la mise en forme des dates et des nombres dans les documents Word à l'aide de Aspose.Words pour .NET.
 type: docs

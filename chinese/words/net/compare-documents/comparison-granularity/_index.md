@@ -1,6 +1,6 @@
 ---
 title: 比较粒度
-linktitle: Comparison Granularity
+linktitle:比较粒度
 second_title: Aspose.Words for .NET API 参考
 description: 了解 Aspose.Words for .NET 的比较粒度功能，它允许逐个字符地比较文档，报告所做的更改。
 type: docs

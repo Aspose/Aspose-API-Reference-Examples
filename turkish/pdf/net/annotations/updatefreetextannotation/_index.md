@@ -1,6 +1,6 @@
 ---
 title: Serbest Metin Açıklamasını Güncelle
-linktitle: Update Free Text Annotation
+linktitle:Serbest Metin Açıklamasını Güncelle
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET'in ücretsiz metin açıklaması özelliğini C# kaynak kodunu kullanarak nasıl güncelleyeceğinizi öğrenin.
 type: docs

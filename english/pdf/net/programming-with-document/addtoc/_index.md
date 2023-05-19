@@ -1,6 +1,6 @@
 ---
 title: Add TOC
-linktitle: Add TOC
+linktitle:Add TOC
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to add a table of contents to PDF documents using Aspose.PDF for .NET. Step-by-step guide with example source code. Boost document navigation!
 type: docs

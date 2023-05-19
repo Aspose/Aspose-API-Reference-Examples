@@ -1,6 +1,6 @@
 ---
 title: 使用断字
-linktitle: Working with Hyphenation
+linktitle:使用断字
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含语言的断字词、语言的加载断字字典和使用 Aspose.Words for .NET 的断字回调。
 type: docs

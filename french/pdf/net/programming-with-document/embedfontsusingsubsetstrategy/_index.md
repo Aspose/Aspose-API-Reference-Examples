@@ -1,6 +1,6 @@
 ---
 title: Incorporer des polices à l'aide de la stratégie de sous-ensemble
-linktitle: Embed Fonts Using Subset Strategy
+linktitle:Incorporer des polices à l'aide de la stratégie de sous-ensemble
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à incorporer des polices dans un fichier PDF avec Subset Strategy en utilisant Aspose.PDF pour .NET. Optimisez la taille de votre PDF en incorporant uniquement les caractères nécessaires.
 type: docs

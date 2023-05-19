@@ -1,6 +1,6 @@
 ---
 title: السماح بإعادة استخدام محتوى الصفحة
-linktitle: Allow Resuse Page Content
+linktitle:السماح بإعادة استخدام محتوى الصفحة
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحسين ملفات PDF عن طريق تمكين ميزة "السماح بإعادة استخدام محتوى الصفحة" باستخدام Aspose.PDF لـ .NET. تقليل حجم الملف وتحسين الأداء.
 type: docs

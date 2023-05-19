@@ -1,6 +1,6 @@
 ---
 title: 有序列表
-linktitle: Ordered List
+linktitle:有序列表
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南创建有序列表。
 type: docs

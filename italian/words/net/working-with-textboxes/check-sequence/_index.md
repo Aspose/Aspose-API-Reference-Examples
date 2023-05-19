@@ -1,6 +1,6 @@
 ---
 title: Controlla la sequenza
-linktitle: Check Sequence
+linktitle:Controlla la sequenza
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come controllare la sequenza di TextBox in un documento Word con Aspose.Words per .NET.
 type: docs

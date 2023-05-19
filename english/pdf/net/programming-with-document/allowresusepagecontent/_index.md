@@ -1,6 +1,6 @@
 ---
 title: Allow Resuse Page Content
-linktitle: Allow Resuse Page Content
+linktitle:Allow Resuse Page Content
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to optimize PDFs by enabling "Allow Resuse Page Content" feature using Aspose.PDF for .NET. Reduce file size and improve performance.
 type: docs

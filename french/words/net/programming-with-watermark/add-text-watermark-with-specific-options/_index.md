@@ -1,6 +1,6 @@
 ---
 title: Ajouter un filigrane de texte avec des options spécifiques
-linktitle: Add Text Watermark With Specific Options
+linktitle:Ajouter un filigrane de texte avec des options spécifiques
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ajouter un filigrane de texte avec des options spécifiques à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs

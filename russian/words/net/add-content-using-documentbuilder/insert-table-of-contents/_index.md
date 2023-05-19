@@ -1,6 +1,6 @@
 ---
 title: Вставить оглавление
-linktitle: Insert Table Of Contents
+linktitle:Вставить оглавление
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить оглавление в документы Word с помощью Aspose.Words для .NET.
 type: docs

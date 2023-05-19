@@ -1,6 +1,6 @@
 ---
 title: البرمجة بالعلامة المائية
-linktitle: Programming With Watermark
+linktitle:البرمجة بالعلامة المائية
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على إضافة نص العلامة المائية مع خيارات محددة
 type: docs

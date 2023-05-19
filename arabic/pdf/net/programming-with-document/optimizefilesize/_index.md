@@ -1,6 +1,6 @@
 ---
 title: تحسين حجم الملف
-linktitle: Optimize File Size
+linktitle:تحسين حجم الملف
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحسين حجم ملف مستندات PDF الخاصة بك باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

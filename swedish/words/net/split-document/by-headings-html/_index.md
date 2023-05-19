@@ -1,6 +1,6 @@
 ---
 title: Efter rubriker Html
-linktitle: By Headings Html
+linktitle:Efter rubriker Html
 second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att förklara C#-källkoden för HTML-funktionen By Heading i Aspose.Words för .NET
 type: docs

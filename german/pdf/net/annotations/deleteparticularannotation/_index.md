@@ -1,6 +1,6 @@
 ---
 title: Bestimmte Anmerkung löschen
-linktitle: Delete Particular Annotation
+linktitle:Bestimmte Anmerkung löschen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET eine bestimmte Anmerkung aus einem PDF-Dokument löschen.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Belgeleri Küçült
-linktitle: Shrink Documents
+linktitle:Belgeleri Küçült
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'i kullanarak PDF belgelerini küçültmeyi öğrenin.
 type: docs

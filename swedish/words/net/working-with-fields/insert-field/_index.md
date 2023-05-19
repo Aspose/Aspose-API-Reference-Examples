@@ -1,6 +1,6 @@
 ---
 title: Infoga fält
-linktitle: Insert Field
+linktitle:Infoga fält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett fält i dina Word-dokument med Aspose.Words för .NET. Anpassa dina dokument med dynamiska fält.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 添加注释
-linktitle: Add Annotation
+linktitle:添加注释
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用此 C# 源代码使用 Aspose.PDF for .NET 添加文本注释。使用特定的细节和图标自定义您的注释。
 type: docs

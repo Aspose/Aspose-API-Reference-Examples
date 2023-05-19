@@ -1,6 +1,6 @@
 ---
 title: Valider PDFA Standard
-linktitle: Validate PDFAStandard
+linktitle:Valider PDFA Standard
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour valider les fichiers PDF pour PDFAStandard avec ce guide étape par étape.
 type: docs

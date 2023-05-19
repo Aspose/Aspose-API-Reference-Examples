@@ -1,6 +1,6 @@
 ---
 title: Visa revisioner i ballonger
-linktitle: Show Revisions In Balloons
+linktitle:Visa revisioner i ballonger
 second_title: Aspose.Words för .NET API Referens
 description: Visa revisioner i ballonger med Aspose.Words för .NET.
 type: docs

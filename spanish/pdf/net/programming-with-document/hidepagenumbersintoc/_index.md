@@ -1,6 +1,6 @@
 ---
 title: Ocultar números de página en la tabla de contenido
-linktitle: Hide Page Numbers In TOC
+linktitle:Ocultar números de página en la tabla de contenido
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a ocultar números de página en una tabla de contenido usando Aspose.PDF para .NET con esta guía paso a paso.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Установить столбцы примечаний к ноте
-linktitle: Set Foot Note Columns
+linktitle:Установить столбцы примечаний к ноте
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как установить количество столбцов для сносок в документах Word с помощью Aspose.Words для .NET.
 type: docs

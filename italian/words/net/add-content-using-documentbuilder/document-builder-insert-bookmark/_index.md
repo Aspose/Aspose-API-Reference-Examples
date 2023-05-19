@@ -1,6 +1,6 @@
 ---
 title: Generatore di documenti Inserisci segnalibro
-linktitle: Document Builder Insert Bookmark
+linktitle:Generatore di documenti Inserisci segnalibro
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire segnalibri nei documenti di Word utilizzando DocumentBuilder in Aspose.Words per .NET. Guida passo dopo passo.
 type: docs

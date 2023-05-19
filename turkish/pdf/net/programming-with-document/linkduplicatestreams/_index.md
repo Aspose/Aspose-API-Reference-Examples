@@ -1,6 +1,6 @@
 ---
 title: Yinelenen Akışları Bağlayın
-linktitle: Link Duplicate Streams
+linktitle:Yinelenen Akışları Bağlayın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET Link Duplicate Streams özelliğini kullanarak PDF belgelerinizi optimize etmeyi öğrenin.
 type: docs

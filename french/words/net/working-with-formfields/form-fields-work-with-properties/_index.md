@@ -1,6 +1,6 @@
 ---
 title: Les champs de formulaire fonctionnent avec les propriétés
-linktitle: Form Fields Work With Properties
+linktitle:Les champs de formulaire fonctionnent avec les propriétés
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser les propriétés de champ de formulaire dans les documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

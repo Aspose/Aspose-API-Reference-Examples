@@ -1,6 +1,6 @@
 ---
 title: Insérer un champ de formulaire de zone de liste déroulante
-linktitle: Insert Combo Box Form Field
+linktitle:Insérer un champ de formulaire de zone de liste déroulante
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des champs de formulaire de zone de liste déroulante dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs

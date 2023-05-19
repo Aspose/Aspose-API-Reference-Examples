@@ -1,6 +1,6 @@
 ---
 title: Texto en cursiva
-linktitle: Italic Text
+linktitle:Texto en cursiva
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a poner texto en cursiva con Aspose.Words para la guía paso a paso de .NET.
 type: docs

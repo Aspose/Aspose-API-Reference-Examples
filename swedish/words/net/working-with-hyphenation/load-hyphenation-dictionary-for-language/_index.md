@@ -1,6 +1,6 @@
 ---
 title: Ladda avstavningsordbok för språk
-linktitle: Load Hyphenation Dictionary For Language
+linktitle:Ladda avstavningsordbok för språk
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du laddar en avstavningsordbok för ett specifikt språk i Aspose.Words för .NET.
 type: docs

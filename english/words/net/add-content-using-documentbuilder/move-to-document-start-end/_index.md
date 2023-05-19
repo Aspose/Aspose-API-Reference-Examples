@@ -1,6 +1,6 @@
 ---
 title: Move To Document Start End
-linktitle: Move To Document Start End
+linktitle:Move To Document Start End
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use Aspose.Words for .NET to move to the document start and end in Word documents with this step-by-step guide.
 type: docs

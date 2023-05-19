@@ -1,6 +1,6 @@
 ---
 title: docx a byte
-linktitle: Docx To Byte
+linktitle:docx a byte
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a convertir documentos de Word de Docx a una matriz de bytes usando Aspose.Words para .NET. Tutorial paso a paso con código fuente de ejemplo.
 type: docs

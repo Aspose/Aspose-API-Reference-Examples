@@ -1,6 +1,6 @@
 ---
 title: أضف علامة مائية نصية مع خيارات محددة
-linktitle: Add Text Watermark With Specific Options
+linktitle:أضف علامة مائية نصية مع خيارات محددة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إضافة علامة مائية نصية مع خيارات محددة باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

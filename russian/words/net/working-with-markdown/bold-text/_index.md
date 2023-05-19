@@ -1,6 +1,6 @@
 ---
 title: Жирный текст
-linktitle: Bold Text
+linktitle:Жирный текст
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как выделить текст жирным шрифтом с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

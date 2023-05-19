@@ -1,6 +1,6 @@
 ---
 title: Metin Başlığı
-linktitle: Setext Heading
+linktitle:Metin Başlığı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile belgelerinizi biçimlendirmek için Setext başlıklarını nasıl kullanacağınızı öğrenin.
 type: docs

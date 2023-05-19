@@ -1,6 +1,6 @@
 ---
 title: RGB'den Gri Tonlamaya Dönüştür
-linktitle: Convert From RGB To Grayscale
+linktitle:RGB'den Gri Tonlamaya Dönüştür
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF'leri RGB'den Gri Tonlamaya nasıl dönüştüreceğinizi öğrenin. Baskı kalitesini artırın ve dosya boyutunu azaltın.
 type: docs

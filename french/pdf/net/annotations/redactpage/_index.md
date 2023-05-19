@@ -1,6 +1,6 @@
 ---
 title: Caviarder la page
-linktitle: Redact Page
+linktitle:Caviarder la page
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article explique comment rédiger une page PDF à l'aide d'Aspose.PDF pour .NET, y compris des instructions détaillées et un exemple de code source.
 type: docs

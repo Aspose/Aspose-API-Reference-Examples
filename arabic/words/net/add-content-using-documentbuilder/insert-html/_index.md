@@ -1,6 +1,6 @@
 ---
 title: أدخل Html
-linktitle: Insert Html
+linktitle:أدخل Html
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج محتوى HTML في مستندات Word باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

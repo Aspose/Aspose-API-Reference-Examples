@@ -1,6 +1,6 @@
 ---
 title: Anmerkung hinzufügen
-linktitle: Add Annotation
+linktitle:Anmerkung hinzufügen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mithilfe dieses C#-Quellcodes Textanmerkungen mit Aspose.PDF für .NET hinzufügen. Passen Sie Ihre Anmerkungen mit spezifischen Details und Symbolen an.
 type: docs

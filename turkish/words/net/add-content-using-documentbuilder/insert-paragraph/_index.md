@@ -1,6 +1,6 @@
 ---
 title: Paragraf Ekle
-linktitle: Insert Paragraph
+linktitle:Paragraf Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine biçimlendirilmiş paragraflar eklemeyi öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Insertar campo
-linktitle: Insert Field
+linktitle:Insertar campo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar un campo en sus documentos de Word con Aspose.Words para .NET. Personaliza tus documentos con campos dinámicos.
 type: docs

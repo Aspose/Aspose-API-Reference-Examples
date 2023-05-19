@@ -1,6 +1,6 @@
 ---
 title: Mover al campo de combinación
-linktitle: Move To Merge Field
+linktitle:Mover al campo de combinación
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a implementar la función Mover a campo de combinación en Aspose.Words para .NET con una guía paso a paso.
 type: docs

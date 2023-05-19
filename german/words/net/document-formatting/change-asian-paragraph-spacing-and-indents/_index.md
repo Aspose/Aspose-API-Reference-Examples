@@ -1,6 +1,6 @@
 ---
 title: Ändern Sie asiatische Absatzabstände und Einzüge
-linktitle: Change Asian Paragraph Spacing And Indents
+linktitle:Ändern Sie asiatische Absatzabstände und Einzüge
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie asiatische Absatzabstände und Einzüge mit Aspose.Words für .NET ändern.
 type: docs

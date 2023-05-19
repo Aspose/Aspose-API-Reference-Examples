@@ -1,6 +1,6 @@
 ---
 title: 创建文档时嵌入字体
-linktitle: Embed Font While Doc Creation
+linktitle:创建文档时嵌入字体
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何在使用 Aspose.PDF for .NET 创建 PDF 文档时嵌入字体。确保在不同设备上正确显示。
 type: docs

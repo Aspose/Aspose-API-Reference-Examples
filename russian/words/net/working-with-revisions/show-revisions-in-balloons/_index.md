@@ -1,6 +1,6 @@
 ---
 title: Показать изменения в выносках
-linktitle: Show Revisions In Balloons
+linktitle:Показать изменения в выносках
 second_title: Справочник по API Aspose.Words для .NET
 description: Показывайте исправления во всплывающих подсказках с помощью Aspose.Words для .NET.
 type: docs

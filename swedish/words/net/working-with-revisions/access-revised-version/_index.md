@@ -1,6 +1,6 @@
 ---
 title: Få tillgång till reviderad version
-linktitle: Access Revised Version
+linktitle:Få tillgång till reviderad version
 second_title: Aspose.Words för .NET API Referens
 description: Få tillgång till en reviderad version av ett Word-dokument med Aspose.Words för .NET.
 type: docs

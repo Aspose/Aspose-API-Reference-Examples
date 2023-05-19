@@ -1,6 +1,6 @@
 ---
 title: Embed Font While Doc Creation
-linktitle: Embed Font While Doc Creation
+linktitle:Embed Font While Doc Creation
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to embed a font while creating a PDF document using Aspose.PDF for .NET. Ensure correct display on different devices.
 type: docs

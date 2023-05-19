@@ -1,6 +1,6 @@
 ---
 title: دقة المقارنة
-linktitle: Comparison Granularity
+linktitle:دقة المقارنة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على ميزة مقارنة التفاصيل في Aspose.Words for .NET التي تسمح بمقارنة المستندات حرفًا بحرف ، والإبلاغ عن التغييرات التي تم إجراؤها.
 type: docs

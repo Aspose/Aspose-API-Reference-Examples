@@ -1,6 +1,6 @@
 ---
 title: Incorpora carattere
-linktitle: Embed Font
+linktitle:Incorpora carattere
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come incorporare i caratteri in un file PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata. Assicurati che i tuoi documenti siano visualizzati correttamente su qualsiasi dispositivo.
 type: docs

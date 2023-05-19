@@ -1,6 +1,6 @@
 ---
 title: Bağlantıyı Kır
-linktitle: Break A Link
+linktitle:Bağlantıyı Kır
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki bağlantıların nasıl kesileceğini öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Akışı Kullanarak Ole Nesnesini Simge Olarak Ekleme
-linktitle: Insert Ole Object As Icon Using Stream
+linktitle:Akışı Kullanarak Ole Nesnesini Simge Olarak Ekleme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir akışı kullanarak bir OLE nesnesini simge olarak nasıl ekleyeceğinizi öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Вставьте поле блока адреса для слияния с помощью DOM
-linktitle: Insert Mail Merge Address Block Field Using DOM
+linktitle:Вставьте поле блока адреса для слияния с помощью DOM
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить поле блока адреса слияния в документы Word с помощью Aspose.Words для .NET.
 type: docs

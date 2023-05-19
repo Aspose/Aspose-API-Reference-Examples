@@ -1,6 +1,6 @@
 ---
 title: Docx'e Metin
-linktitle: Txt To Docx
+linktitle:Docx'e Metin
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak düz metin dosyalarını (Txt) Word belgelerine (Docx) nasıl dönüştüreceğinizi öğrenin. Örnek kod ile adım adım öğretici.
 type: docs

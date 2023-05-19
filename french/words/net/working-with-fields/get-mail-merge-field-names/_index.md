@@ -1,6 +1,6 @@
 ---
 title: Obtenir les noms des champs de publipostage
-linktitle: Get Mail Merge Field Names
+linktitle:Obtenir les noms des champs de publipostage
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment obtenir des noms de champs de fusion et publipostage dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

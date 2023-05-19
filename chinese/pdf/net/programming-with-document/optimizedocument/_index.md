@@ -1,6 +1,6 @@
 ---
 title: 优化文档
-linktitle: Optimize Document
+linktitle:优化文档
 second_title: Aspose.PDF for .NET API 参考
 description: 为网络优化文档对于用户体验至关重要。通过此分步指南，了解如何使用 Aspose.PDF for .NET 完成此操作。
 type: docs

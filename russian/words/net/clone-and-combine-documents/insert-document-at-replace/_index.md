@@ -1,6 +1,6 @@
 ---
 title: Вставить документ при замене
-linktitle: Insert Document At Replace
+linktitle:Вставить документ при замене
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить документ о замене с помощью Aspose.Words для .NET.
 type: docs

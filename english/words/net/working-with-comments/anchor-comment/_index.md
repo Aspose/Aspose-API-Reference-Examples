@@ -1,6 +1,6 @@
 ---
 title: Anchor Comment
-linktitle: Anchor Comment
+linktitle:Anchor Comment
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to anchor comment replies to specific text in Word documents using Aspose.Words for .NET. 
 type: docs

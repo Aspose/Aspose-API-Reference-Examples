@@ -1,6 +1,6 @@
 ---
 title: Lier les flux en double
-linktitle: Link Duplicate Streams
+linktitle:Lier les flux en double
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour la fonction .NET Link Duplicate Streams pour optimiser vos documents PDF avec ce guide étape par étape.
 type: docs

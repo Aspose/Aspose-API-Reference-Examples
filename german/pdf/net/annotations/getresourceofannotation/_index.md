@@ -1,6 +1,6 @@
 ---
 title: Holen Sie sich eine Anmerkungsressource
-linktitle: Get Resource Of Annotation
+linktitle:Holen Sie sich eine Anmerkungsressource
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie die Ressource einer Anmerkung mit Aspose.PDF für .NET abrufen.
 type: docs

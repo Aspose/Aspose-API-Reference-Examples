@@ -1,6 +1,6 @@
 ---
 title: Infoga textinmatningsformulärfält
-linktitle: Insert Text Input Form Field
+linktitle:Infoga textinmatningsformulärfält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att infoga formulärfält för textinmatning i Word-dokument med denna steg-för-steg-guide.
 type: docs

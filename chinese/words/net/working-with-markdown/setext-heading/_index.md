@@ -1,6 +1,6 @@
 ---
 title: 文本标题
-linktitle: Setext Heading
+linktitle:文本标题
 second_title: Aspose.Words for .NET API 参考
 description: 通过 Aspose.Words for .NET 分步指南了解如何使用 Setext 标题格式化您的文档。
 type: docs

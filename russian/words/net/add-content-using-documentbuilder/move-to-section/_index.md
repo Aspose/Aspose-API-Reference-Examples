@@ -1,6 +1,6 @@
 ---
 title: Перейти к разделу
-linktitle: Move To Section
+linktitle:Перейти к разделу
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по использованию функции «Переместить в раздел» в Aspose.Words для .NET для управления разделами и абзацами в документах Word.
 type: docs

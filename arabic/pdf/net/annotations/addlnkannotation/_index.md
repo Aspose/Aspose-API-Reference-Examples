@@ -1,6 +1,6 @@
 ---
 title: أضف التعليق التوضيحي lnk
-linktitle: Add lnk Annotation
+linktitle:أضف التعليق التوضيحي lnk
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة ميزة التعليقات التوضيحية بالحبر إلى مستندات PDF في C # باستخدام Aspose.PDF for .NET مع دليل خطوة بخطوة وكود المصدر الكامل.
 type: docs

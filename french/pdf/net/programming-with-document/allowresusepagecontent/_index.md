@@ -1,6 +1,6 @@
 ---
 title: Autoriser la réutilisation du contenu de la page
-linktitle: Allow Resuse Page Content
+linktitle:Autoriser la réutilisation du contenu de la page
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à optimiser les PDF en activant la fonctionnalité "Autoriser la réutilisation du contenu de la page" à l'aide d'Aspose.PDF pour .NET. Réduisez la taille des fichiers et améliorez les performances.
 type: docs

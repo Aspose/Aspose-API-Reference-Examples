@@ -1,6 +1,6 @@
 ---
 title: 添加删除 Javascript 到文档
-linktitle: Add Remove Javascript To Doc
+linktitle:添加删除 Javascript 到文档
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 在 PDF 文档中添加和删除 JavaScript。带有文档级脚本编写代码教程的分步指南。
 type: docs

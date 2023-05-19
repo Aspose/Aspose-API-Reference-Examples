@@ -1,6 +1,6 @@
 ---
 title: Добавить Удалить Javascript в документ
-linktitle: Add Remove Javascript To Doc
+linktitle:Добавить Удалить Javascript в документ
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как добавлять и удалять JavaScript из документов PDF с помощью Aspose.PDF для .NET. Пошаговое руководство с учебными пособиями по коду для написания сценариев на уровне документа.
 type: docs

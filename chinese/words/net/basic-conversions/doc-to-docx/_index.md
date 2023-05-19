@@ -1,6 +1,6 @@
 ---
 title: 文档到文档
-linktitle: Doc To Docx
+linktitle:文档到文档
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将 Word 文档从 .doc 格式转换为 Docx 格式。带示例源代码的分步教程。
 type: docs

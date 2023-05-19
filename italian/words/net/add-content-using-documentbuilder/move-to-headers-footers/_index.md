@@ -1,6 +1,6 @@
 ---
 title: Sposta in intestazioni piè di pagina
-linktitle: Move To Headers Footers
+linktitle:Sposta in intestazioni piè di pagina
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare Aspose.Words per .NET per navigare e modificare intestazioni e piè di pagina nei documenti di Word con questa guida dettagliata.
 type: docs

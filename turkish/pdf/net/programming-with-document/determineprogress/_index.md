@@ -1,6 +1,6 @@
 ---
 title: İlerlemeyi Belirle
-linktitle: Determine Progress
+linktitle:İlerlemeyi Belirle
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ve kod örneği ile Aspose.PDF for .NET kullanarak bir PDF belgesinin dönüştürme sürecinin ilerlemesini nasıl belirleyeceğinizi öğrenin.
 type: docs

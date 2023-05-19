@@ -1,6 +1,6 @@
 ---
 title: Incrustar fuente durante la creación de documentos
-linktitle: Embed Font While Doc Creation
+linktitle:Incrustar fuente durante la creación de documentos
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a incrustar una fuente mientras crea un documento PDF con Aspose.PDF para .NET. Asegurar la visualización correcta en diferentes dispositivos.
 type: docs

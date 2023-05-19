@@ -1,6 +1,6 @@
 ---
 title: Insert Merge Field Using DOM
-linktitle: Insert Merge Field Using DOM
+linktitle:Insert Merge Field Using DOM
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert custom field merge fields into your Word documents with Aspose.Words for .NET.
 type: docs

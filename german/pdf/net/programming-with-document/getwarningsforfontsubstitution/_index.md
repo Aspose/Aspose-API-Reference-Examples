@@ -1,6 +1,6 @@
 ---
 title: Erhalten Sie Warnungen zum Ersetzen von Schriftarten
-linktitle: Get Warnings For Font Substitution
+linktitle:Erhalten Sie Warnungen zum Ersetzen von Schriftarten
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die GetWarningsForFontSubstitution-Funktion von Aspose.PDF für .NET verwenden, um Warnungen zur Schriftartersetzung beim Öffnen eines PDF-Dokuments zu erkennen.
 type: docs

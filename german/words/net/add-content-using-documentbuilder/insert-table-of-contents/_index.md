@@ -1,6 +1,6 @@
 ---
 title: Inhaltsverzeichnis einfügen
-linktitle: Insert Table Of Contents
+linktitle:Inhaltsverzeichnis einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Inhaltsverzeichnis in Word-Dokumente einfügen.
 type: docs

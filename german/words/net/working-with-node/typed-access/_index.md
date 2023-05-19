@@ -1,6 +1,6 @@
 ---
 title: Typisierter Zugriff
-linktitle: Typed Access
+linktitle:Typisierter Zugriff
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie typisierten Zugriff zum Bearbeiten von Tabellen in Aspose.Words für .NET verwenden.
 type: docs

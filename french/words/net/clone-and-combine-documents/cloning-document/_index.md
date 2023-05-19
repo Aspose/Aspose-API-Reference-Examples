@@ -1,6 +1,6 @@
 ---
 title: Cloner un document
-linktitle: Cloning Document
+linktitle:Cloner un document
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à cloner un document Word à l'aide d'Aspose.Words pour .NET.
 type: docs

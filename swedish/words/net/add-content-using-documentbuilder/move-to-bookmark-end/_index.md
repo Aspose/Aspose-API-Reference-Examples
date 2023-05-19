@@ -1,6 +1,6 @@
 ---
 title: Flytta till bokmärkesslut
-linktitle: Move To Bookmark End
+linktitle:Flytta till bokmärkesslut
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Aspose.Words för .NET för att flytta till slutet av ett bokmärke i Word-dokument med denna steg-för-steg-guide.
 type: docs

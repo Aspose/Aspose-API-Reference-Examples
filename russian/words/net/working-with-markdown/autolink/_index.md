@@ -1,6 +1,6 @@
 ---
 title: Автоссылка
-linktitle: Autolink
+linktitle:Автоссылка
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить автоссылку с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

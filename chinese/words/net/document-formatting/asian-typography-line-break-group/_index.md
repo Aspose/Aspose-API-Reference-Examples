@@ -1,6 +1,6 @@
 ---
 title: 亚洲版式换行组
-linktitle: Asian Typography Line Break Group
+linktitle:亚洲版式换行组
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何通过 Aspose.Words for .NET 使用 Asian Typography 换行符组。
 type: docs

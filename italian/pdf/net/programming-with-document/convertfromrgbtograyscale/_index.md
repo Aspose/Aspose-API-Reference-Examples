@@ -1,6 +1,6 @@
 ---
 title: Conversione da RGB a scala di grigi
-linktitle: Convert From RGB To Grayscale
+linktitle:Conversione da RGB a scala di grigi
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come convertire i PDF da RGB a scala di grigi utilizzando Aspose.PDF per .NET. Migliora la qualità di stampa e riduci le dimensioni del file.
 type: docs

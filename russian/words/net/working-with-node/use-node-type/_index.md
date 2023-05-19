@@ -1,6 +1,6 @@
 ---
 title: Использовать тип узла
-linktitle: Use Node Type
+linktitle:Использовать тип узла
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать тип узла для доступа к конкретной информации документа с помощью Aspose.Words для .NET.
 type: docs

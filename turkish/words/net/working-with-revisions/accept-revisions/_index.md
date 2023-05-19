@@ -1,6 +1,6 @@
 ---
 title: Düzeltmeleri Kabul Et
-linktitle: Accept Revisions
+linktitle:Düzeltmeleri Kabul Et
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak bir Word belgesine yönelik düzeltmeleri nasıl kabul edeceğinizi öğrenin
 type: docs

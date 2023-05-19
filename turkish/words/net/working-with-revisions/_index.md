@@ -1,6 +1,6 @@
 ---
 title: Revizyonlarla Çalışmak
-linktitle: Working with Revisions
+linktitle:Revizyonlarla Çalışmak
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak revizyonları kabul etmeyi, revizyon türlerini almayı, revizyon gruplarını almayı, PDF'de yorumları kaldırmayı, revizyonları balonlarda göstermeyi, revizyon grubu ayrıntılarını almayı, revize edilmiş sürüme erişmeyi, izlenen belgede düğümü taşımayı ve revizyonu şekillendirmeyi içerir. .
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Hervorgehobenen Text extrahieren
-linktitle: Extract Highlighted Text
+linktitle:Hervorgehobenen Text extrahieren
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie hervorgehobenen Text mit Aspose.PDF für .NET extrahieren.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Применить ограниченную лицензию
-linktitle: Apply Metered License
+linktitle:Применить ограниченную лицензию
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как применить ограниченную лицензию с помощью Aspose.Words для .NET.
 type: docs

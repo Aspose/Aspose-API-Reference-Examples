@@ -1,6 +1,6 @@
 ---
 title: Document Builder Insert Bookmark
-linktitle: Document Builder Insert Bookmark
+linktitle:Document Builder Insert Bookmark
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert bookmarks in Word documents using DocumentBuilder in Aspose.Words for .NET. Step-by-step guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Bitiş Tarihini Ayarla
-linktitle: Set Expiry Date
+linktitle:Bitiş Tarihini Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak PDF belgelerinde son kullanma tarihini nasıl belirleyeceğinizi öğrenin.
 type: docs

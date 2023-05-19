@@ -1,6 +1,6 @@
 ---
 title: Вставить поле TOA без построителя документов
-linktitle: Insert TOA Field Without Document Builder
+linktitle:Вставить поле TOA без построителя документов
 second_title: Справочник по API Aspose.Words для .NET
 description: Пошаговое руководство по вставке поля TOA без Document Builder с использованием Aspose.Words для .NET.
 type: docs

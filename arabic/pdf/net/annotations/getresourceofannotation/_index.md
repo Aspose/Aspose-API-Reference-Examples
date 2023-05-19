@@ -1,6 +1,6 @@
 ---
 title: احصل على مورد من التعليقات التوضيحية
-linktitle: Get Resource Of Annotation
+linktitle:احصل على مورد من التعليقات التوضيحية
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استرداد مورد أحد التعليقات التوضيحية باستخدام Aspose.PDF for .NET باستخدام هذا الدليل التفصيلي خطوة بخطوة.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Номер списка перезапуска
-linktitle: Restart List Number
+linktitle:Номер списка перезапуска
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как сбросить номер списка в документе Word с помощью Aspose.Words для .NET.
 type: docs

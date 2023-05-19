@@ -1,6 +1,6 @@
 ---
 title: Absatz einfügen
-linktitle: Insert Paragraph
+linktitle:Absatz einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET formatierte Absätze in Word-Dokumente einfügen.
 type: docs

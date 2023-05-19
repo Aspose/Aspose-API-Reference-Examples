@@ -1,6 +1,6 @@
 ---
 title: Cloner et combiner des documents
-linktitle: Clone And Combine Documents
+linktitle:Cloner et combiner des documents
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent un document de clonage, insèrent un document lors du remplacement et insèrent un document lors du publipostage.
 type: docs

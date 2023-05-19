@@ -1,6 +1,6 @@
 ---
 title: Programmieren mit Wasserzeichen
-linktitle: Programming With Watermark
+linktitle:Programmieren mit Wasserzeichen
 second_title: Aspose.Words für .NET API-Referenz
 description: Tutorials enthalten das Hinzufügen von Textwasserzeichen mit spezifischen Optionen
 type: docs

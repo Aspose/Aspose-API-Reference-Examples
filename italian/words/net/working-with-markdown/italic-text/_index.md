@@ -1,6 +1,6 @@
 ---
 title: Testo in corsivo
-linktitle: Italic Text
+linktitle:Testo in corsivo
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come scrivere in corsivo con Aspose.Words per .NET Guida dettagliata.
 type: docs

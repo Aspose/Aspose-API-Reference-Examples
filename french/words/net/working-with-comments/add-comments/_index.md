@@ -1,6 +1,6 @@
 ---
 title: Ajoutez des commentaires
-linktitle: Add Comments
+linktitle:Ajoutez des commentaires
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ajouter des commentaires aux documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

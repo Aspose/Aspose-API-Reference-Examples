@@ -1,6 +1,6 @@
 ---
 title: Set Endnote Options
-linktitle: Set Endnote Options
+linktitle:Set Endnote Options
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to set endnote options in Word documents using Aspose.Words for .NET. Step-by-step tutorial with example source code.
 type: docs

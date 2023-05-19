@@ -1,6 +1,6 @@
 ---
 title: Schriftart einbetten
-linktitle: Embed Font
+linktitle:Schriftart einbetten
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Schriftarten in eine PDF-Datei einbetten. Stellen Sie sicher, dass Ihre Dokumente auf jedem Gerät korrekt angezeigt werden.
 type: docs

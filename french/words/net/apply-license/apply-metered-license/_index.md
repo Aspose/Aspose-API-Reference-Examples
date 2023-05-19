@@ -1,6 +1,6 @@
 ---
 title: Appliquer une licence limitée
-linktitle: Apply Metered License
+linktitle:Appliquer une licence limitée
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à appliquer une licence limitée à l'aide d'Aspose.Words pour .NET.
 type: docs

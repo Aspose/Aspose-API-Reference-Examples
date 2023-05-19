@@ -1,6 +1,6 @@
 ---
 title: Durchgestrichen
-linktitle: Strikethrough
+linktitle:Durchgestrichen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie den durchgestrichenen Textstil mit Aspose.Words für .NET anwenden.
 type: docs

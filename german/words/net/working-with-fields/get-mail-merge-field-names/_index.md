@@ -1,6 +1,6 @@
 ---
 title: Rufen Sie die Namen der Serienbrieffelder ab
-linktitle: Get Mail Merge Field Names
+linktitle:Rufen Sie die Namen der Serienbrieffelder ab
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Serienbrieffeldnamen in Ihre Word-Dokumente einfügen.
 type: docs

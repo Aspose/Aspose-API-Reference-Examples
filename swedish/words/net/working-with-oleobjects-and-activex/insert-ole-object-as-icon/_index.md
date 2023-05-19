@@ -1,6 +1,6 @@
 ---
 title: Infoga Ole-objekt som ikon
-linktitle: Insert Ole Object As Icon
+linktitle:Infoga Ole-objekt som ikon
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett OLE-objekt som en ikon med Aspose.Words för .NET.
 type: docs

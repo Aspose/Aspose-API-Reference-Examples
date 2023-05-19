@@ -1,6 +1,6 @@
 ---
 title: Setext Heading
-linktitle: Setext Heading
+linktitle:Setext Heading
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use Setext headings to format your documents with Aspose.Words for .NET Step-by-step guide.
 type: docs

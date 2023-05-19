@@ -1,6 +1,6 @@
 ---
 title: Optimizar tamaño de archivo
-linktitle: Optimize File Size
+linktitle:Optimizar tamaño de archivo
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a optimizar el tamaño de archivo de sus documentos PDF con Aspose.PDF para .NET usando esta guía paso a paso.
 type: docs

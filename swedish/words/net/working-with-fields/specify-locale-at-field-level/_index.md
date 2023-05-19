@@ -1,6 +1,6 @@
 ---
 title: Ange språk på fältnivå
-linktitle: Specify Locale At Field Level
+linktitle:Ange språk på fältnivå
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du anger lokalisering på fältnivå i Word-dokument med Aspose.Words för .NET.
 type: docs

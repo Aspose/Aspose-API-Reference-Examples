@@ -1,6 +1,6 @@
 ---
 title: Копировать заголовки и нижние колонтитулы из предыдущего раздела
-linktitle: Copy Headers Footers From Previous Section
+linktitle:Копировать заголовки и нижние колонтитулы из предыдущего раздела
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как копировать верхние и нижние колонтитулы из предыдущего раздела в документы Word с помощью Aspose.Words для .NET.
 type: docs

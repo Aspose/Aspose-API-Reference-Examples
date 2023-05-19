@@ -1,6 +1,6 @@
 ---
 title: Культура обновления поля
-linktitle: Field Update Culture
+linktitle:Культура обновления поля
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как обновить культуру полей в документах Word с помощью Aspose.Words для .NET.
 type: docs

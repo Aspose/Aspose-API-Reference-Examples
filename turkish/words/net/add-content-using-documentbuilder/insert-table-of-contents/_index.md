@@ -1,6 +1,6 @@
 ---
 title: İçindekiler Tablosu Ekle
-linktitle: Insert Table Of Contents
+linktitle:İçindekiler Tablosu Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine içindekiler tablosunu nasıl ekleyeceğinizi öğrenin.
 type: docs

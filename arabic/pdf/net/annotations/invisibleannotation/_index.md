@@ -1,6 +1,6 @@
 ---
 title: تعليق توضيحي غير مرئي
-linktitle: Invisible Annotation
+linktitle:تعليق توضيحي غير مرئي
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة تعليقات توضيحية إلى ملفات PDF بشكل غير مرئي باستخدام الكود المصدري C # مع Aspose.PDF for .NET. دليل خطوة بخطوة.
 type: docs

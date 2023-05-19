@@ -1,6 +1,6 @@
 ---
 title: Extraire le texte en surbrillance
-linktitle: Extract Highlighted Text
+linktitle:Extraire le texte en surbrillance
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à extraire le texte en surbrillance à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs

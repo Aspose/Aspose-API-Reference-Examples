@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie eine SWF-Datei als Anmerkung hinzu
-linktitle: Add Swf File As Annotation
+linktitle:Fügen Sie eine SWF-Datei als Anmerkung hinzu
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie SWF-Dateien als Anmerkungen in Aspose.PDF für .NET hinzufügen.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Alıntı
-linktitle: Quote
+linktitle:Alıntı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile teklifin nasıl kullanılacağını öğrenin Adım adım kılavuz.
 type: docs

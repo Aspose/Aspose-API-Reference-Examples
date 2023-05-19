@@ -1,6 +1,6 @@
 ---
 title: Sida för sida
-linktitle: Page By Page
+linktitle:Sida för sida
 second_title: Aspose.Words för .NET API Referens
 description: Steg-för-steg-guide för att förklara C#-källkoden för Aspose.Words Sida för sida-funktionen för .NET
 type: docs

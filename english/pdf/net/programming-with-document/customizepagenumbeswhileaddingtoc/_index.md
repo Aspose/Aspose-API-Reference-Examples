@@ -1,6 +1,6 @@
 ---
 title: Customize Page Numbes While Adding TOC
-linktitle: Customize Page Numbes While Adding TOC
+linktitle:Customize Page Numbes While Adding TOC
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to customize page numbers while adding a table of contents (TOC) using Aspose.PDF for .NET with this step-by-step guide and code example.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: تنسيق قائمة متعددة المستويات
-linktitle: Multilevel List Formatting
+linktitle:تنسيق قائمة متعددة المستويات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء قائمة متعددة المستويات وتطبيق تنسيق مخصص باستخدام Aspose.Words for .NET.
 type: docs

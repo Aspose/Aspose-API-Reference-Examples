@@ -1,6 +1,6 @@
 ---
 title: Définir les propriétés de la boîte de dialogue d'impression
-linktitle: Set Properties For Print Dialog
+linktitle:Définir les propriétés de la boîte de dialogue d'impression
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à définir les propriétés de la boîte de dialogue d'impression dans Aspose.PDF pour .NET à l'aide du guide étape par étape.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 锚评论
-linktitle: Anchor Comment
+linktitle:锚评论
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将评论回复锚定到 Word 文档中的特定文本。
 type: docs

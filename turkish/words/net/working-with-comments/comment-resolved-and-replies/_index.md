@@ -1,6 +1,6 @@
 ---
 title: Yorum Çözüldü ve Yanıtlar
-linktitle: Comment Resolved And Replies
+linktitle:Yorum Çözüldü ve Yanıtlar
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki yorumları ve yanıtlarını nasıl çözeceğinizi öğrenin.
 type: docs

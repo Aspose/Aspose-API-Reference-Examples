@@ -1,6 +1,6 @@
 ---
 title: Establecer información de archivo
-linktitle: Set File Info
+linktitle:Establecer información de archivo
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para configurar la información del archivo en sus documentos PDF con esta guía paso a paso.
 type: docs

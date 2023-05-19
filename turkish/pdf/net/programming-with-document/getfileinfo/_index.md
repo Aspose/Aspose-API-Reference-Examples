@@ -1,6 +1,6 @@
 ---
 title: Dosya Bilgilerini Alın
-linktitle: Get File Info
+linktitle:Dosya Bilgilerini Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bir PDF belgesi hakkında meta veri bilgilerini almak için Aspose.PDF for .NET'in GetFileInfo özelliğini nasıl kullanacağınızı öğrenin.
 type: docs

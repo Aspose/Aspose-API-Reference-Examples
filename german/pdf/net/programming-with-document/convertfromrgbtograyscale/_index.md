@@ -1,6 +1,6 @@
 ---
 title: Von RGB in Graustufen konvertieren
-linktitle: Convert From RGB To Grayscale
+linktitle:Von RGB in Graustufen konvertieren
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET PDFs von RGB in Graustufen konvertieren. Verbessern Sie die Druckqualität und reduzieren Sie die Dateigröße.
 type: docs

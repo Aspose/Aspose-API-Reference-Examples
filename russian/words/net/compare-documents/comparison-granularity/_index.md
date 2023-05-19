@@ -1,6 +1,6 @@
 ---
 title: Гранулярность сравнения
-linktitle: Comparison Granularity
+linktitle:Гранулярность сравнения
 second_title: Справочник по API Aspose.Words для .NET
 description: Изучите функцию детализации сравнения Aspose.Words для .NET, которая позволяет сравнивать документы посимвольно, сообщая о внесенных изменениях.
 type: docs

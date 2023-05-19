@@ -1,6 +1,6 @@
 ---
 title: Pdf'den Docx'e
-linktitle: Pdf To Docx
+linktitle:Pdf'den Docx'e
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak PDF belgelerini Docx formatına nasıl dönüştüreceğinizi öğrenin. Örnek kaynak koduyla adım adım öğretici.
 type: docs

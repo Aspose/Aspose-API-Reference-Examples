@@ -1,6 +1,6 @@
 ---
 title: Set Expiry Date
-linktitle: Set Expiry Date
+linktitle:Set Expiry Date
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to set expiry date in PDF documents using Aspose.PDF for .NET with this step-by-step guide.
 type: docs

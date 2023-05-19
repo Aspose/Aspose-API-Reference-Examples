@@ -1,6 +1,6 @@
 ---
 title: Belgeleri Klonlayın ve Birleştirin
-linktitle: Clone And Combine Documents
+linktitle:Belgeleri Klonlayın ve Birleştirin
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, belge kopyalama, değiştirme sırasında belge ekleme ve adres-mektup birleştirme sırasında belge ekleme içerir.
 type: docs

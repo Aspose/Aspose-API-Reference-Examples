@@ -1,6 +1,6 @@
 ---
 title: Первый подход к созданию многослойного PDF
-linktitle: Create Multilayer PDF First Approach
+linktitle:Первый подход к созданию многослойного PDF
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как создавать многослойные PDF-документы, используя первый подход с Aspose.PDF для .NET. Добавьте текст, изображения и многое другое, чтобы улучшить ваши PDF-файлы.
 type: docs

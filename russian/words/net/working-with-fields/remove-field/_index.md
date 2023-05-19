@@ -1,6 +1,6 @@
 ---
 title: Удалить поле
-linktitle: Remove Field
+linktitle:Удалить поле
 second_title: Справочник по API Aspose.Words для .NET
 description: В этом руководстве вы узнаете, как удалить определенное поле в документе с помощью Aspose.Words для .NET.
 type: docs

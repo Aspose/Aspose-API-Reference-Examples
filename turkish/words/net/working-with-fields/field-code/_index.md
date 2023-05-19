@@ -1,6 +1,6 @@
 ---
 title: Alan Kodu
-linktitle: Field Code
+linktitle:Alan Kodu
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizde alan kodunu ve alan sonucunu almak için adım adım kılavuz.
 type: docs

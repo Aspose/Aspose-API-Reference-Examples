@@ -1,6 +1,6 @@
 ---
 title: Per intervallo di pagine
-linktitle: By Page Range
+linktitle:Per intervallo di pagine
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Estrai facilmente per intervallo di pagine da un documento Word utilizzando Aspose.Words per .NET Guida dettagliata.
 type: docs

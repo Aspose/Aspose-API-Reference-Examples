@@ -1,6 +1,6 @@
 ---
 title: 引用
-linktitle: Quote
+linktitle:引用
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何通过 Aspose.Words for .NET 分步指南使用引号。
 type: docs

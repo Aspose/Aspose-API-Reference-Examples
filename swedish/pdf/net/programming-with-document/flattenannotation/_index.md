@@ -1,6 +1,6 @@
 ---
 title: Platta ut anteckning
-linktitle: Flatten Annotation
+linktitle:Platta ut anteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du förenklar anteckningar i ett PDF-dokument med Aspose.PDF för .NET. Bevara anteckningar och förhindra oavsiktliga ändringar.
 type: docs

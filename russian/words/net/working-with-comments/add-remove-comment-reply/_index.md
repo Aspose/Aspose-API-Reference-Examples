@@ -1,6 +1,6 @@
 ---
 title: Добавить Удалить Комментарий Ответить
-linktitle: Add Remove Comment Reply
+linktitle:Добавить Удалить Комментарий Ответить
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как добавлять и удалять ответы на комментарии в документах Word с помощью Aspose.Words для .NET.
 type: docs

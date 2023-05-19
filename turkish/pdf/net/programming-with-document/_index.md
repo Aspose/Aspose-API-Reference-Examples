@@ -1,6 +1,6 @@
 ---
 title: Belge ile Programlama
-linktitle: Programming with Document
+linktitle:Belge ile Programlama
 type: docs
 weight: 10
 url: /tr/pdf/net/programming-with-document/

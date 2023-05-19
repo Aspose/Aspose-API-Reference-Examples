@@ -1,6 +1,6 @@
 ---
 title: Преобразование из RGB в оттенки серого
-linktitle: Convert From RGB To Grayscale
+linktitle:Преобразование из RGB в оттенки серого
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как преобразовать PDF-файлы из RGB в оттенки серого с помощью Aspose.PDF для .NET. Повысьте качество печати и уменьшите размер файла.
 type: docs

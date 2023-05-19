@@ -1,6 +1,6 @@
 ---
 title: Insert Html
-linktitle: Insert Html
+linktitle:Insert Html
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert HTML content into Word documents using Aspose.Words for .NET. Step-by-step guide.
 type: docs

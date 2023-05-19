@@ -1,6 +1,6 @@
 ---
 title: Déplacer vers la cellule du tableau
-linktitle: Move To Table Cell
+linktitle:Déplacer vers la cellule du tableau
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour utiliser Move To Table Cell dans Aspose.Words pour .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Obtener nodo principal
-linktitle: Get Parent Node
+linktitle:Obtener nodo principal
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a obtener el nodo principal de un elemento específico con Aspose.Words para .NET.
 type: docs

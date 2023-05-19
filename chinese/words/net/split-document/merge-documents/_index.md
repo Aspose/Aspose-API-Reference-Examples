@@ -1,6 +1,6 @@
 ---
 title: 合并文件
-linktitle: Merge Documents
+linktitle:合并文件
 second_title: Aspose.Words for .NET API 参考
 description: 分步指南解释 Aspose.Words for .NET 的合并文档功能的 C# 源代码
 type: docs

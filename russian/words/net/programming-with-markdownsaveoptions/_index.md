@@ -1,6 +1,6 @@
 ---
 title: Программирование с параметрами сохранения Markdown
-linktitle: Programming With Markdownsaveoptions
+linktitle:Программирование с параметрами сохранения Markdown
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат экспорт в уценку с выравниванием содержимого таблицы и установкой папки с изображениями.
 type: docs

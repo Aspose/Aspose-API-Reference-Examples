@@ -1,6 +1,6 @@
 ---
 title: الانتقال إلى تذييلات الرؤوس
-linktitle: Move To Headers Footers
+linktitle:الانتقال إلى تذييلات الرؤوس
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام Aspose.Words for .NET للتنقل وتعديل الرؤوس والتذييلات في مستندات Word باستخدام هذا الدليل التفصيلي.
 type: docs

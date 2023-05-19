@@ -1,6 +1,6 @@
 ---
 title: Raum zwischen asiatischem und lateinischem Text
-linktitle: Space Between Asian And Latin Text
+linktitle:Raum zwischen asiatischem und lateinischem Text
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET den Abstand zwischen asiatischem und lateinischem Text in Ihrem Dokument automatisch anpassen.
 type: docs

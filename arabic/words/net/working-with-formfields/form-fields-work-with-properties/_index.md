@@ -1,6 +1,6 @@
 ---
 title: تعمل حقول النموذج مع الخصائص
-linktitle: Form Fields Work With Properties
+linktitle:تعمل حقول النموذج مع الخصائص
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية التعامل مع خصائص حقل النموذج في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

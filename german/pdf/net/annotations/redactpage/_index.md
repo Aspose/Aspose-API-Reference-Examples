@@ -1,6 +1,6 @@
 ---
 title: Seite redigieren
-linktitle: Redact Page
+linktitle:Seite redigieren
 second_title: Aspose.PDF für .NET API-Referenz
 description: In diesem Artikel wird erläutert, wie Sie eine PDF-Seite mit Aspose.PDF für .NET redigieren, einschließlich Schritt-für-Schritt-Anleitungen und Beispielquellcode.
 type: docs

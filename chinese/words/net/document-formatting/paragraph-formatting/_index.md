@@ -1,6 +1,6 @@
 ---
 title: 段落格式
-linktitle: Paragraph Formatting
+linktitle:段落格式
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将自定义格式应用于您的段落。
 type: docs

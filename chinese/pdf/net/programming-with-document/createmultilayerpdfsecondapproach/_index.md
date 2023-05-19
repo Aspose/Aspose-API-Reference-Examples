@@ -1,6 +1,6 @@
 ---
 title: 创建多层 PDF 第二种方法
-linktitle: Create Multilayer PDF Second Approach
+linktitle:创建多层 PDF 第二种方法
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 创建多层 PDF。带有源代码的分步指南，用于创建带有文本和图像的动态 PDF。
 type: docs

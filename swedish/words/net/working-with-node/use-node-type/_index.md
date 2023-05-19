@@ -1,6 +1,6 @@
 ---
 title: Använd nodtyp
-linktitle: Use Node Type
+linktitle:Använd nodtyp
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder nodtyp för att komma åt dokumentspecifik information med Aspose.Words för .NET.
 type: docs

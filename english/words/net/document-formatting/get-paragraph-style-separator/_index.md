@@ -1,6 +1,6 @@
 ---
 title: Get Paragraph Style Separator
-linktitle: Get Paragraph Style Separator
+linktitle:Get Paragraph Style Separator
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to get the paragraph style separator with Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Alle Anmerkungen von der Seite löschen
-linktitle: Delete All Annotations From Page
+linktitle:Alle Anmerkungen von der Seite löschen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET alle Anmerkungen von einer PDF-Seite löschen.
 type: docs

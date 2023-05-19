@@ -1,6 +1,6 @@
 ---
 title: Obtener tipos de revisión
-linktitle: Get Revision Types
+linktitle:Obtener tipos de revisión
 second_title: Referencia de API de Aspose.Words para .NET
 description: Obtenga tipos de revisión en un documento de Word con Aspose.Words para .NET.
 type: docs

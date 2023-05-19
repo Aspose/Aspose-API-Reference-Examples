@@ -1,6 +1,6 @@
 ---
 title: I campi modulo funzionano con le proprietà
-linktitle: Form Fields Work With Properties
+linktitle:I campi modulo funzionano con le proprietà
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come lavorare con le proprietà dei campi modulo nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

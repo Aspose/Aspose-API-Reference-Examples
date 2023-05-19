@@ -1,6 +1,6 @@
 ---
 title: Form Alanları Ekle
-linktitle: Insert Form Fields
+linktitle:Form Alanları Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak açılır form alanlarını Word belgelerine nasıl ekleyeceğinizi öğrenin.
 type: docs

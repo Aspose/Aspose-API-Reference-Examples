@@ -1,6 +1,6 @@
 ---
 title: Açıklamayı Düzleştir
-linktitle: Flatten Annotation
+linktitle:Açıklamayı Düzleştir
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak bir PDF belgesindeki açıklamaları nasıl düzleştireceğinizi öğrenin. Ek açıklamaları koruyun ve yanlışlıkla değiştirilmesini önleyin.
 type: docs

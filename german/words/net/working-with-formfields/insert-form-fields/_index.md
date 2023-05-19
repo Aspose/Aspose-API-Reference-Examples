@@ -1,6 +1,6 @@
 ---
 title: Formularfelder einfügen
-linktitle: Insert Form Fields
+linktitle:Formularfelder einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Dropdown-Formularfelder in Word-Dokumente einfügen.
 type: docs

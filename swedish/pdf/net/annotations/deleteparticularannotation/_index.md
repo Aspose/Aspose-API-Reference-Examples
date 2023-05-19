@@ -1,6 +1,6 @@
 ---
 title: Ta bort särskild anteckning
-linktitle: Delete Particular Annotation
+linktitle:Ta bort särskild anteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du tar bort en viss anteckning från ett PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs

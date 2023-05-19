@@ -1,6 +1,6 @@
 ---
 title: Spécifier les paramètres régionaux au niveau du champ
-linktitle: Specify Locale At Field Level
+linktitle:Spécifier les paramètres régionaux au niveau du champ
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à spécifier la localisation au niveau du champ dans les documents Word avec Aspose.Words pour .NET.
 type: docs

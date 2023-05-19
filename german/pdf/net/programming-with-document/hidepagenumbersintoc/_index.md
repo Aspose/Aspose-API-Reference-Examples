@@ -1,6 +1,6 @@
 ---
 title: Seitenzahlen im Inhaltsverzeichnis ausblenden
-linktitle: Hide Page Numbers In TOC
+linktitle:Seitenzahlen im Inhaltsverzeichnis ausblenden
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET Seitenzahlen in einem Inhaltsverzeichnis ausblenden.
 type: docs

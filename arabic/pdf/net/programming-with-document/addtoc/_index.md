@@ -1,6 +1,6 @@
 ---
 title: أضف جدول المحتويات
-linktitle: Add TOC
+linktitle:أضف جدول المحتويات
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية إضافة جدول محتويات إلى مستندات PDF باستخدام Aspose.PDF for .NET. دليل خطوة بخطوة مع مثال التعليمات البرمجية المصدر. تعزيز التنقل في المستند!
 type: docs

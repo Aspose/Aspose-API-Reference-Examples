@@ -1,6 +1,6 @@
 ---
 title: Länka dubbletter av strömmar
-linktitle: Link Duplicate Streams
+linktitle:Länka dubbletter av strömmar
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder funktionen Aspose.PDF för .NET Link Duplicate Streams för att optimera dina PDF-dokument med denna steg-för-steg-guide.
 type: docs

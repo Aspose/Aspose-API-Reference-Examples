@@ -1,6 +1,6 @@
 ---
 title: Arbeta med avstavning
-linktitle: Working with Hyphenation
+linktitle:Arbeta med avstavning
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller avstavning av Words of Languages, ladda avstavningsordbok för språk och avstavningsuppringning med Aspose.Words för .NET.
 type: docs

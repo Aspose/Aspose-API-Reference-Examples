@@ -1,6 +1,6 @@
 ---
 title: قم بتعيين عامل التكبير
-linktitle: Set Zoom Factor
+linktitle:قم بتعيين عامل التكبير
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين عامل التكبير / التصغير لملفات PDF باستخدام Aspose.PDF for .NET مع دليلنا المفصل خطوة بخطوة.
 type: docs

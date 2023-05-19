@@ -1,6 +1,6 @@
 ---
 title: 收缩文件
-linktitle: Shrink Documents
+linktitle:收缩文件
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 来缩小 PDF 文档。
 type: docs

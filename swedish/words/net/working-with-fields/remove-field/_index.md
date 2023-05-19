@@ -1,6 +1,6 @@
 ---
 title: Ta bort fält
-linktitle: Remove Field
+linktitle:Ta bort fält
 second_title: Aspose.Words för .NET API Referens
 description: I den här guiden kommer du att lära dig hur du tar bort ett specifikt fält i ett dokument med Aspose.Words för .NET.
 type: docs

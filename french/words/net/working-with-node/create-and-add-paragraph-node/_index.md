@@ -1,6 +1,6 @@
 ---
 title: Créer et ajouter un nœud de paragraphe
-linktitle: Create And Add Paragraph Node
+linktitle:Créer et ajouter un nœud de paragraphe
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Créez et ajoutez un nœud de paragraphe à vos documents Word avec Aspose.Words pour .NET.
 type: docs

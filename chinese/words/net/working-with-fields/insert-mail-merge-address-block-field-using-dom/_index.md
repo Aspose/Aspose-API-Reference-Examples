@@ -1,6 +1,6 @@
 ---
 title: 使用 DOM 插入邮件合并地址块字段
-linktitle: Insert Mail Merge Address Block Field Using DOM
+linktitle:使用 DOM 插入邮件合并地址块字段
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将邮件合并地址块字段插入到您的 Word 文档中。
 type: docs

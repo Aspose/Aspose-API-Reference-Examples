@@ -1,6 +1,6 @@
 ---
 title: Получить коэффициент масштабирования
-linktitle: Get Zoom Factor
+linktitle:Получить коэффициент масштабирования
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как использовать Aspose.PDF для .NET для получения коэффициента масштабирования файла PDF.
 type: docs

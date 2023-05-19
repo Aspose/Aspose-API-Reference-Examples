@@ -1,6 +1,6 @@
 ---
 title: Insert Floating Image
-linktitle: Insert Floating Image
+linktitle:Insert Floating Image
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert floating images in Word documents using Aspose.Words for .NET. Step-by-step guide.
 type: docs

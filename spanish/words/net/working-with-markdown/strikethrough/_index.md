@@ -1,6 +1,6 @@
 ---
 title: tachado
-linktitle: Strikethrough
+linktitle:tachado
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a aplicar el estilo de texto tachado con la guía paso a paso de Aspose.Words para .NET.
 type: docs

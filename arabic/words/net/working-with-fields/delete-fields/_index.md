@@ -1,6 +1,6 @@
 ---
 title: حذف الحقول
-linktitle: Delete Fields
+linktitle:حذف الحقول
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لحذف حقول الدمج في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

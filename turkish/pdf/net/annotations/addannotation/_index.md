@@ -1,6 +1,6 @@
 ---
 title: Açıklama Ekle
-linktitle: Add Annotation
+linktitle:Açıklama Ekle
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu C# kaynak kodunu kullanarak Aspose.PDF for .NET ile nasıl metin açıklamaları ekleyeceğinizi öğrenin. Ek açıklamalarınızı belirli ayrıntılar ve simgelerle özelleştirin.
 type: docs

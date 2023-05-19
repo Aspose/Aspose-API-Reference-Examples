@@ -1,6 +1,6 @@
 ---
 title: sayfa sayfa
-linktitle: Page By Page
+linktitle:sayfa sayfa
 second_title: Aspose.Words for .NET API Referansı
 description: .NET için Aspose.Words Sayfa Sayfa özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz
 type: docs

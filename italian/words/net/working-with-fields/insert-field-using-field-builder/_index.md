@@ -1,6 +1,6 @@
 ---
 title: Inserisci campo utilizzando Field Builder
-linktitle: Insert Field Using Field Builder
+linktitle:Inserisci campo utilizzando Field Builder
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire campi personalizzati nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Ställ in standardteckensnitt
-linktitle: Set Default Font
+linktitle:Ställ in standardteckensnitt
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in standardteckensnittet för ett PDF-dokument med Aspose.PDF för .NET med denna steg-för-steg-guide.
 type: docs

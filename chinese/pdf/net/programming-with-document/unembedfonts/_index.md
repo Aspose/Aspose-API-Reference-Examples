@@ -1,6 +1,6 @@
 ---
 title: 取消嵌入字体
-linktitle: Unembed Fonts
+linktitle:取消嵌入字体
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 获取 Unembed Fonts 和优化 PDF 文件。分步指南。
 type: docs

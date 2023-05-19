@@ -1,6 +1,6 @@
 ---
 title: Setext Rubrik
-linktitle: Setext Heading
+linktitle:Setext Rubrik
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder Setext-rubriker för att formatera dina dokument med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

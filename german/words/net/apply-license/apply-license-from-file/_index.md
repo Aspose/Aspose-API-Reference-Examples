@@ -1,6 +1,6 @@
 ---
 title: Lizenz aus Datei anwenden
-linktitle: Apply License From File
+linktitle:Lizenz aus Datei anwenden
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Lizenz aus einer Datei anwenden.
 type: docs

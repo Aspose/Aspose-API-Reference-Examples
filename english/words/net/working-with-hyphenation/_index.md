@@ -1,6 +1,6 @@
 ---
 title: Working with Hyphenation
-linktitle: Working with Hyphenation
+linktitle:Working with Hyphenation
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contains hyphenate Words of Languages, load hyphenation dictionary for language and hyphenation callback using Aspose.Words for .NET.
 type: docs

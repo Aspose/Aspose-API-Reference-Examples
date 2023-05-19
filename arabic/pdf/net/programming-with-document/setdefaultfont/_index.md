@@ -1,6 +1,6 @@
 ---
 title: تعيين الخط الافتراضي
-linktitle: Set Default Font
+linktitle:تعيين الخط الافتراضي
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تعيين الخط الافتراضي لمستند PDF باستخدام Aspose.PDF for .NET باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

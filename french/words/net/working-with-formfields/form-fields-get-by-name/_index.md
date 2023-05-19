@@ -1,6 +1,6 @@
 ---
 title: Champs de formulaire Obtenir par nom
-linktitle: Form Fields Get By Name
+linktitle:Champs de formulaire Obtenir par nom
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Découvrez comment récupérer et modifier des champs de formulaire par leur nom dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Establecer propiedad de llamada
-linktitle: Set Callout Property
+linktitle:Establecer propiedad de llamada
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar la propiedad de la llamada con Aspose.PDF para .NET. Personalice las anotaciones con líneas de llamada, color de texto y estilos finales.
 type: docs

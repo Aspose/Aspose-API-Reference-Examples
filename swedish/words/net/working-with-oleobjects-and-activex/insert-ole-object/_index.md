@@ -1,6 +1,6 @@
 ---
 title: Infoga Ole Object
-linktitle: Insert Ole Object
+linktitle:Infoga Ole Object
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett OLE-objekt i ett dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: العمل مع Markdown
-linktitle: Working with Markdown
+linktitle:العمل مع Markdown
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على كيفية كتابة النص الغامق والنص المائل والنص الخطي والشفرة المضمنة والربط التلقائي وإضافة صورة والقائمة المرتبة والعنوان والجدول وقراءة مستند تخفيض السعر باستخدام Aspose.Words for .NET.
 type: docs

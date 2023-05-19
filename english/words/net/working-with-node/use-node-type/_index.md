@@ -1,6 +1,6 @@
 ---
 title: Use Node Type
-linktitle: Use Node Type
+linktitle:Use Node Type
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use node type to access document specific information with Aspose.Words for .NET.
 type: docs

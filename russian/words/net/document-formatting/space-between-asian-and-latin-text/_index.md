@@ -1,6 +1,6 @@
 ---
 title: Пробел между азиатским и латинским текстом
-linktitle: Space Between Asian And Latin Text
+linktitle:Пробел между азиатским и латинским текстом
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как автоматически настроить расстояние между азиатским и латинским текстом в документе с помощью Aspose.Words для .NET.
 type: docs

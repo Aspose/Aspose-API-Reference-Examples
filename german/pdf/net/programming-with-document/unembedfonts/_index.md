@@ -1,6 +1,6 @@
 ---
 title: Einbettung von Schriftarten aufheben
-linktitle: Unembed Fonts
+linktitle:Einbettung von Schriftarten aufheben
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie Aspose.PDF für .NET verwenden, um nicht eingebettete Schriftarten zu erhalten und PDF-Dateien zu optimieren. Eine Schritt-für-Schritt-Anleitung.
 type: docs

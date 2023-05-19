@@ -1,6 +1,6 @@
 ---
 title: 开放式功能
-linktitle: Open Type Features
+linktitle:开放式功能
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何在 Aspose.Words for .NET 中启用和使用 Open Type 功能
 type: docs

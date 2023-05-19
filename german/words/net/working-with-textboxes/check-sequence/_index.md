@@ -1,6 +1,6 @@
 ---
 title: Reihenfolge prüfen
-linktitle: Check Sequence
+linktitle:Reihenfolge prüfen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET die Reihenfolge von Textfeldern in einem Word-Dokument überprüfen.
 type: docs

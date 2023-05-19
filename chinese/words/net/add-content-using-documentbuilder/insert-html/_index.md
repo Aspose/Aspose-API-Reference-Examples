@@ -1,6 +1,6 @@
 ---
 title: 插入HTML
-linktitle: Insert Html
+linktitle:插入HTML
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将 HTML 内容插入到 Word 文档中。分步指南。
 type: docs

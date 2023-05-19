@@ -1,6 +1,6 @@
 ---
 title: Field Update Culture
-linktitle: Field Update Culture
+linktitle:Field Update Culture
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to update field culture in your Word documents with Aspose.Words for .NET.
 type: docs

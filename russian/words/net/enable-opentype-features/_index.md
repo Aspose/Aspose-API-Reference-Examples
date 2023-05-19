@@ -1,6 +1,6 @@
 ---
 title: Включить функции OpenType
-linktitle: Enable OpenType features
+linktitle:Включить функции OpenType
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как включить функции openType для улучшения типографики и внешнего вида ваших документов Word.
 type: docs

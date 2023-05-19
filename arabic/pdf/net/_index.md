@@ -1,6 +1,6 @@
 ---
 title: Aspose.PDF لبرامج .NET التعليمية
-linktitle: Aspose.PDF for .NET Tutorials
+linktitle:Aspose.PDF لبرامج .NET التعليمية
 type: docs
 weight: 10
 url: /ar/pdf/net/

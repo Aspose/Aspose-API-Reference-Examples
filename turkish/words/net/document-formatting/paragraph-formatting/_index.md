@@ -1,6 +1,6 @@
 ---
 title: Paragraf Biçimlendirme
-linktitle: Paragraph Formatting
+linktitle:Paragraf Biçimlendirme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile paragraflarınıza nasıl özel biçimlendirme uygulayacağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 从页面获取所有注释
-linktitle: Get All Annotations From Page
+linktitle:从页面获取所有注释
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 从 PDF 页面检索所有注释。
 type: docs

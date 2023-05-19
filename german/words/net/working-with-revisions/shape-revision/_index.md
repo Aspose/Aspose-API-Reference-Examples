@@ -1,6 +1,6 @@
 ---
 title: Formrevision
-linktitle: Shape Revision
+linktitle:Formrevision
 second_title: Aspose.Words für .NET API-Referenz
 description: Überarbeiten Sie Formen in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs

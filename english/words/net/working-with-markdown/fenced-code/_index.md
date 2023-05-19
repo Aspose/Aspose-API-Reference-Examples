@@ -1,6 +1,6 @@
 ---
 title: Fenced Code
-linktitle: Fenced Code
+linktitle:Fenced Code
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use the fenced code feature with Aspose.Words for .NET Step-by-step guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Par Rubriques Html
-linktitle: By Headings Html
+linktitle:Par Rubriques Html
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour expliquer le code source C# de la fonctionnalité HTML par en-tête d'Aspose.Words pour .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Por encabezados HTML
-linktitle: By Headings Html
+linktitle:Por encabezados HTML
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para explicar el código fuente C# de la función HTML Por encabezado de Aspose.Words para .NET
 type: docs

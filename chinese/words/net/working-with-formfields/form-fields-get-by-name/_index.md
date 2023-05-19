@@ -1,6 +1,6 @@
 ---
 title: 表单字段按名称获取
-linktitle: Form Fields Get By Name
+linktitle:表单字段按名称获取
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 按名称检索和修改 Word 文档中的表单域。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Absatzstil anwenden
-linktitle: Apply Paragraph Style
+linktitle:Absatzstil anwenden
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET einen Absatzstil anwenden.
 type: docs

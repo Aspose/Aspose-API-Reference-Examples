@@ -1,6 +1,6 @@
 ---
 title: Insert Author Field
-linktitle: Insert Author Field
+linktitle:Insert Author Field
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to Insert an AUTHOR field in your Word documents with Aspose.Words for .NET. Specify the author's name to personalize your documents.
 type: docs

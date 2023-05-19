@@ -1,6 +1,6 @@
 ---
 title: Öppna Typfunktioner
-linktitle: Open Type Features
+linktitle:Öppna Typfunktioner
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du aktiverar och använder Open Type-funktioner i Aspose.Words för .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Agregar marca de agua de texto con opciones específicas
-linktitle: Add Text Watermark With Specific Options
+linktitle:Agregar marca de agua de texto con opciones específicas
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a agregar una marca de agua de texto con opciones específicas usando Aspose.Words para .NET. Guía paso por paso.
 type: docs

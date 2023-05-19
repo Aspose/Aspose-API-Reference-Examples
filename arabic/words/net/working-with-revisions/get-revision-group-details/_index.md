@@ -1,6 +1,6 @@
 ---
 title: احصل على تفاصيل مجموعة المراجعة
-linktitle: Get Revision Group Details
+linktitle:احصل على تفاصيل مجموعة المراجعة
 second_title: Aspose.Words لمراجع .NET API
 description: احصل على تفاصيل مجموعة المراجعة في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

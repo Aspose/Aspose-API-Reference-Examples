@@ -1,6 +1,6 @@
 ---
 title: Charger le dictionnaire de césure pour la langue
-linktitle: Load Hyphenation Dictionary For Language
+linktitle:Charger le dictionnaire de césure pour la langue
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à charger un dictionnaire de césure pour une langue spécifique dans Aspose.Words pour .NET.
 type: docs

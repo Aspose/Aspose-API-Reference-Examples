@@ -1,6 +1,6 @@
 ---
 title: Удалить неиспользуемые объекты
-linktitle: Remove Unused Objects
+linktitle:Удалить неиспользуемые объекты
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как использовать Aspose.PDF для .NET для удаления неиспользуемых объектов из PDF-документов с помощью этого пошагового руководства.
 type: docs

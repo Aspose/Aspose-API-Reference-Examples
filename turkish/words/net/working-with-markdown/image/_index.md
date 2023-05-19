@@ -1,6 +1,6 @@
 ---
 title: resim
-linktitle: Image
+linktitle:resim
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile görüntü eklemeyi ve özelleştirmeyi öğrenin.
 type: docs

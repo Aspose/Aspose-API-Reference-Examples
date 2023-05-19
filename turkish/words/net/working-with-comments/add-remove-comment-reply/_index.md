@@ -1,6 +1,6 @@
 ---
 title: Ekle Yorum Kaldır Yanıtla
-linktitle: Add Remove Comment Reply
+linktitle:Ekle Yorum Kaldır Yanıtla
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine yorum yanıtlarını nasıl ekleyeceğinizi ve kaldıracağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Arbeiten mit Textfeldern
-linktitle: Working with Textboxes
+linktitle:Arbeiten mit Textfeldern
 second_title: Aspose.Words für .NET API-Referenz
 description: Die Tutorials umfassen das Erstellen eines Links, das Überprüfen der Reihenfolge und das Unterbrechen eines Links mit Aspose.Words für .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Укажите уровень списка
-linktitle: Specify List Level
+linktitle:Укажите уровень списка
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как указать уровень списка в документе Word с помощью Aspose.Words для .NET.
 type: docs

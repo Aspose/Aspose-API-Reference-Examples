@@ -1,6 +1,6 @@
 ---
 title: Räkna upp barnnoder
-linktitle: Enumerate Child Nodes
+linktitle:Räkna upp barnnoder
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du räknar upp underordnade noder i ett stycke med Aspose.Words för .NET.
 type: docs

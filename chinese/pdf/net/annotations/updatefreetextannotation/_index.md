@@ -1,6 +1,6 @@
 ---
 title: 更新自由文本注释
-linktitle: Update Free Text Annotation
+linktitle:更新自由文本注释
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 C# 源代码更新 Aspose.PDF for .NET 的自由文本注释功能。
 type: docs

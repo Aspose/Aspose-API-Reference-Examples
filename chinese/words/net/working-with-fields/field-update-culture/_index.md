@@ -1,6 +1,6 @@
 ---
 title: 现场更新文化
-linktitle: Field Update Culture
+linktitle:现场更新文化
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 更新 Word 文档中的字段区域性。
 type: docs

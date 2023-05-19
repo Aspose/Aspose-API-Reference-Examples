@@ -1,6 +1,6 @@
 ---
 title: Tutoriales de Aspose.Words para .NET
-linktitle: Aspose.Words for .NET Tutorials
+linktitle:Tutoriales de Aspose.Words para .NET
 type: docs
 weight: 10
 url: /es/words/net/

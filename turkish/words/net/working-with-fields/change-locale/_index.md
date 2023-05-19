@@ -1,6 +1,6 @@
 ---
 title: Yerel Ayarı Değiştir
-linktitle: Change Locale
+linktitle:Yerel Ayarı Değiştir
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde tarih ve sayı biçimlendirmesi için yerel ayarı nasıl değiştireceğinizi öğrenin.
 type: docs

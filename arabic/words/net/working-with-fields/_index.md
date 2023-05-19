@@ -1,6 +1,6 @@
 ---
 title: العمل مع الحقول
-linktitle: Working with Fields
+linktitle:العمل مع الحقول
 second_title: Aspose.Words لمراجع .NET API
 description: توضح البرامج التعليمية كيفية إدراج الحقل ، وتحديث الثقافة المحفوظة ، واستبدال الارتباط التشعبي للحقل ، وإزالة الحقل ، وإدراج الحقول المتداخلة في مستند Word باستخدام Aspose.Words for .NET
 type: docs

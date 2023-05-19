@@ -1,6 +1,6 @@
 ---
 title: Aggiungi Rimuovi Commento Rispondi
-linktitle: Add Remove Comment Reply
+linktitle:Aggiungi Rimuovi Commento Rispondi
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come aggiungere e rimuovere le risposte ai commenti nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

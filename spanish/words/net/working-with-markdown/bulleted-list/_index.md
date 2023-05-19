@@ -1,6 +1,6 @@
 ---
 title: Lista con viñetas
-linktitle: Bulleted List
+linktitle:Lista con viñetas
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a crear una lista con viñetas con Aspose.Words para la guía paso a paso de .NET.
 type: docs

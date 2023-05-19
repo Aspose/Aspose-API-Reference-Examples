@@ -1,6 +1,6 @@
 ---
 title: Modifier la source de la culture de mise à jour du champ
-linktitle: Change Field Update Culture Source
+linktitle:Modifier la source de la culture de mise à jour du champ
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Modifier la source de culture de mise à jour du champ, guide étape par étape pour modifier la source de culture dans Aspose.Words pour .NET.
 type: docs

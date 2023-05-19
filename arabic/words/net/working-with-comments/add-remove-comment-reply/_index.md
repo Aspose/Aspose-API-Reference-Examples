@@ -1,6 +1,6 @@
 ---
 title: إضافة إزالة التعليق الرد
-linktitle: Add Remove Comment Reply
+linktitle:إضافة إزالة التعليق الرد
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إضافة وإزالة الردود على التعليقات في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

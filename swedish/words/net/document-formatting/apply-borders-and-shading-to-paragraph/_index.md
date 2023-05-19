@@ -1,6 +1,6 @@
 ---
 title: Applicera kanter och skuggning på stycke
-linktitle: Apply Borders And Shading To Paragraph
+linktitle:Applicera kanter och skuggning på stycke
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du använder kanter och skuggning på ett stycke med Aspose.Words för .NET.
 type: docs

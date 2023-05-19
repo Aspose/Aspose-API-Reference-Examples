@@ -1,6 +1,6 @@
 ---
 title: نسخ تذييلات الرؤوس من القسم السابق
-linktitle: Copy Headers Footers From Previous Section
+linktitle:نسخ تذييلات الرؤوس من القسم السابق
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية نسخ الرؤوس والتذييلات من القسم السابق في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

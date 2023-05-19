@@ -1,6 +1,6 @@
 ---
 title: Crea nuovo documento
-linktitle: Create New Document
+linktitle:Crea nuovo documento
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un nuovo documento Word e aggiungere contenuto utilizzando Aspose.Words per .NET. Guida passo dopo passo.
 type: docs

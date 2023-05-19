@@ -1,6 +1,6 @@
 ---
 title: Комментарий решен и ответы
-linktitle: Comment Resolved And Replies
+linktitle:Комментарий решен и ответы
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как разрешать комментарии и ответы на них в документах Word с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Incorpora i caratteri utilizzando la strategia dei sottoinsiemi
-linktitle: Embed Fonts Using Subset Strategy
+linktitle:Incorpora i caratteri utilizzando la strategia dei sottoinsiemi
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come incorporare i caratteri in un file PDF con Subset Strategy utilizzando Aspose.PDF per .NET. Ottimizza le dimensioni del tuo PDF incorporando solo i caratteri necessari.
 type: docs

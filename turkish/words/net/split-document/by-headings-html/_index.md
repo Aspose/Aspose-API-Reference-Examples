@@ -1,6 +1,6 @@
 ---
 title: Başlıklara göre Html
-linktitle: By Headings Html
+linktitle:Başlıklara göre Html
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET'in Başlığa Göre HTML özelliğinin C# kaynak kodunu açıklayan adım adım kılavuz
 type: docs

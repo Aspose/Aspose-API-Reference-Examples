@@ -1,6 +1,6 @@
 ---
 title: قم بإدراج كائن Ole كرمز باستخدام الدفق
-linktitle: Insert Ole Object As Icon Using Stream
+linktitle:قم بإدراج كائن Ole كرمز باستخدام الدفق
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج كائن OLE كرمز باستخدام دفق باستخدام Aspose.Words for .NET.
 type: docs

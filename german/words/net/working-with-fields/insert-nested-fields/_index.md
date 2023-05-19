@@ -1,6 +1,6 @@
 ---
 title: Verschachtelte Felder einfügen
-linktitle: Insert Nested Fields
+linktitle:Verschachtelte Felder einfügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ganz einfach verschachtelte Felder in Ihre Word-Dokumente einfügen.
 type: docs

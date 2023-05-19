@@ -1,6 +1,6 @@
 ---
 title: Documento dividido
-linktitle: Split Document
+linktitle:Documento dividido
 second_title: Referencia de API de Aspose.Words para .NET
 description: Los tutoriales contienen por encabezados html, por secciones html, por secciones, página por página, combinación de documentos y por rango de páginas.
 type: docs

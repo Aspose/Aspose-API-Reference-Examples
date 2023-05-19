@@ -1,6 +1,6 @@
 ---
 title: تحديث تعليق النص الحر
-linktitle: Update Free Text Annotation
+linktitle:تحديث تعليق النص الحر
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية تحديث ميزة التعليق التوضيحي للنص المجاني في Aspose.PDF for .NET باستخدام الكود المصدري C #.
 type: docs

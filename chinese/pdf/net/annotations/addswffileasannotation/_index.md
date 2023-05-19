@@ -1,6 +1,6 @@
 ---
 title: 添加 Swf 文件作为注释
-linktitle: Add Swf File As Annotation
+linktitle:添加 Swf 文件作为注释
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南，了解如何在 Aspose.PDF for .NET 中将 SWF 文件添加为注释。
 type: docs

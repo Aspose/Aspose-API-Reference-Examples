@@ -1,6 +1,6 @@
 ---
 title: نص عريض
-linktitle: Bold Text
+linktitle:نص عريض
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية كتابة نص غامق باستخدام Aspose.Words دليل تفصيلي خطوة بخطوة لـ .NET.
 type: docs

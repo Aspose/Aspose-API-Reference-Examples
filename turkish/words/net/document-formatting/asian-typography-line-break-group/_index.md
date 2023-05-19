@@ -1,6 +1,6 @@
 ---
 title: Asya Tipografi Satır Sonu Grubu
-linktitle: Asian Typography Line Break Group
+linktitle:Asya Tipografi Satır Sonu Grubu
 second_title: Aspose.Words for .NET API Referansı
 description: Asya Tipografisi satır sonu grubunu Aspose.Words for .NET ile nasıl kullanacağınızı öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 添加目录时自定义页码
-linktitle: Customize Page Numbes While Adding TOC
+linktitle:添加目录时自定义页码
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南和代码示例，了解如何使用 Aspose.PDF for .NET 在添加目录 (TOC) 时自定义页码。
 type: docs

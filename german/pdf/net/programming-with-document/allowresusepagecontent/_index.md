@@ -1,6 +1,6 @@
 ---
 title: Erlauben Sie die Wiederverwendung von Seiteninhalten
-linktitle: Allow Resuse Page Content
+linktitle:Erlauben Sie die Wiederverwendung von Seiteninhalten
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie PDFs optimieren, indem Sie die Funktion „Wiederverwendung von Seiteninhalten zulassen“ mit Aspose.PDF für .NET aktivieren. Reduzieren Sie die Dateigröße und verbessern Sie die Leistung.
 type: docs

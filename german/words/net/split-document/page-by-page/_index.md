@@ -1,6 +1,6 @@
 ---
 title: Seite für Seite
-linktitle: Page By Page
+linktitle:Seite für Seite
 second_title: Aspose.Words für .NET API-Referenz
 description: Schritt-für-Schritt-Anleitung zur Erläuterung des C#-Quellcodes der Aspose.Words Page by Page-Funktion für .NET
 type: docs

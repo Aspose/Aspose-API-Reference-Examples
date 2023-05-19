@@ -1,6 +1,6 @@
 ---
 title: الانتقال إلى الفقرة
-linktitle: Move To Paragraph
+linktitle:الانتقال إلى الفقرة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام ميزة Aspose.Words for .NET's Move To Paragraph للتنقل ومعالجة الفقرات في مستندات Word برمجيًا.
 type: docs

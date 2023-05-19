@@ -1,6 +1,6 @@
 ---
 title: Crea PDF A1 con Aspose Pdf
-linktitle: Create PDF A1 With Aspose Pdf
+linktitle:Crea PDF A1 con Aspose Pdf
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come creare un documento PDF A1 utilizzando Aspose.PDF per .NET. Guida dettagliata con codice sorgente C#. Ottimizza in modo efficiente i PDF.
 type: docs

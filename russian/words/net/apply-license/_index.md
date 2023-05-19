@@ -1,6 +1,6 @@
 ---
 title: Применить лицензию
-linktitle: Apply License
+linktitle:Применить лицензию
 second_title: Справочник по API Aspose.Words для .NET
 description: Получите пошаговые инструкции по применению лицензии Aspose.Words в ваших проектах .NET. Следуйте инструкциям, чтобы включить полную функциональность библиотеки Aspose.Words.
 type: docs

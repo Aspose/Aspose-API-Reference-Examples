@@ -1,6 +1,6 @@
 ---
 title: Добавить Java-скрипт на страницу
-linktitle: Add Java Script To Page
+linktitle:Добавить Java-скрипт на страницу
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как добавить JavaScript в файлы PDF с помощью Aspose.PDF для .NET. Пошаговое руководство с учебными пособиями по коду для сценариев на уровне документов и страниц.
 type: docs

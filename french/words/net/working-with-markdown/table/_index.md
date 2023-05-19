@@ -1,6 +1,6 @@
 ---
 title: Tableau
-linktitle: Table
+linktitle:Tableau
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à créer un tableau avec le guide pas à pas Aspose.Words pour .NET.
 type: docs

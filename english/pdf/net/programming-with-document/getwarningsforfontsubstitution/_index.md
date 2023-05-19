@@ -1,6 +1,6 @@
 ---
 title: Get Warnings For Font Substitution
-linktitle: Get Warnings For Font Substitution
+linktitle:Get Warnings For Font Substitution
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to use the GetWarningsForFontSubstitution feature of Aspose.PDF for .NET to detect font substitution warnings when opening a PDF document.
 type: docs

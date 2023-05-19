@@ -1,6 +1,6 @@
 ---
 title: Получить ресурс аннотации
-linktitle: Get Resource Of Annotation
+linktitle:Получить ресурс аннотации
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как получить ресурс аннотации с помощью Aspose.PDF для .NET с помощью этого пошагового руководства.
 type: docs

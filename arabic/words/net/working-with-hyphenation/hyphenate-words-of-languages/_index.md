@@ -1,6 +1,6 @@
 ---
 title: وصل كلمات اللغات
-linktitle: Hyphenate Words Of Languages
+linktitle:وصل كلمات اللغات
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية وصل الكلمات بلغات مختلفة في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

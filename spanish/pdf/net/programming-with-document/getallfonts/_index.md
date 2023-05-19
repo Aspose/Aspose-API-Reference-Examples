@@ -1,6 +1,6 @@
 ---
 title: Obtener todas las fuentes
-linktitle: Get All Fonts
+linktitle:Obtener todas las fuentes
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener todas las fuentes utilizadas en un documento PDF mediante programación con esta guía paso a paso y código de ejemplo.
 type: docs

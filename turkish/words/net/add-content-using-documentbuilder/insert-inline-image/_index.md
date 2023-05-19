@@ -1,6 +1,6 @@
 ---
 title: Satır İçi Görüntü Ekle
-linktitle: Insert Inline Image
+linktitle:Satır İçi Görüntü Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine satır içi görüntüleri nasıl ekleyeceğinizi öğrenin.
 type: docs

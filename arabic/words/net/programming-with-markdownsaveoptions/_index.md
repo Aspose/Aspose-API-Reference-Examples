@@ -1,6 +1,6 @@
 ---
 title: البرمجة باستخدام Markdownsaveoptions
-linktitle: Programming With Markdownsaveoptions
+linktitle:البرمجة باستخدام Markdownsaveoptions
 second_title: Aspose.Words لمراجع .NET API
 description: تحتوي البرامج التعليمية على تصدير إلى علامة التخفيض مع محاذاة محتوى الجدول وتعيين مجلد الصور
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie Textwasserzeichen mit spezifischen Optionen hinzu
-linktitle: Add Text Watermark With Specific Options
+linktitle:Fügen Sie Textwasserzeichen mit spezifischen Optionen hinzu
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Textwasserzeichen mit bestimmten Optionen hinzufügen. Schritt für Schritt Anleitung.
 type: docs

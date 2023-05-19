@@ -1,6 +1,6 @@
 ---
 title: Establecer factor de zoom
-linktitle: Set Zoom Factor
+linktitle:Establecer factor de zoom
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a configurar el factor de zoom para archivos PDF usando Aspose.PDF para .NET con nuestra guía paso a paso.
 type: docs

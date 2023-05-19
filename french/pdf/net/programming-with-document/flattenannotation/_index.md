@@ -1,6 +1,6 @@
 ---
 title: Aplatir l'annotation
-linktitle: Flatten Annotation
+linktitle:Aplatir l'annotation
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à aplatir les annotations dans un document PDF à l'aide d'Aspose.PDF pour .NET. Conservez les annotations et évitez toute modification accidentelle.
 type: docs

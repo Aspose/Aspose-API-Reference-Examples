@@ -1,6 +1,6 @@
 ---
 title: Codice campo
-linktitle: Field Code
+linktitle:Codice campo
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida passo passo per ottenere il codice di campo e il risultato del campo nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs

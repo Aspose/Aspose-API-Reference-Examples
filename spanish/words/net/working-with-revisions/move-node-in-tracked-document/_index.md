@@ -1,6 +1,6 @@
 ---
 title: Mover nodo en documento con seguimiento
-linktitle: Move Node In Tracked Document
+linktitle:Mover nodo en documento con seguimiento
 second_title: Referencia de API de Aspose.Words para .NET
 description: Mueva nodos en un documento con seguimiento con Aspose.Words para .NET.
 type: docs

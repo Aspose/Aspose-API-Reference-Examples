@@ -1,6 +1,6 @@
 ---
 title: Ersätt hyperlänkar
-linktitle: Replace Hyperlinks
+linktitle:Ersätt hyperlänkar
 second_title: Aspose.Words för .NET API Referens
 description: Ersätt hyperlänkar i Word-dokument med Aspose.Words för .NET. Steg-för-steg-instruktioner för att ersätta hyperlänkar.
 type: docs

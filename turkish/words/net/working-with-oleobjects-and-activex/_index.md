@@ -1,6 +1,6 @@
 ---
 title: OleObjects ve ActiveX ile Çalışma
-linktitle: Working with OleObjects and ActiveX
+linktitle:OleObjects ve ActiveX ile Çalışma
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Ole Paketi olan ve olmayan Ole Nesnesinin, Simge Olarak Ole Nesnesinin nasıl ekleneceğini ve Aspose.Words for .NET kullanılarak Active XControl Özelliklerinin nasıl okunacağını içerir.
 type: docs

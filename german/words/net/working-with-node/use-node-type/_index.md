@@ -1,6 +1,6 @@
 ---
 title: Knotentyp verwenden
-linktitle: Use Node Type
+linktitle:Knotentyp verwenden
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET mithilfe des Knotentyps auf dokumentspezifische Informationen zugreifen.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Create A Link
-linktitle: Create A Link
+linktitle:Create A Link
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to create a link between TextBoxes in a Word document with Aspose.Words for .NET.
 type: docs

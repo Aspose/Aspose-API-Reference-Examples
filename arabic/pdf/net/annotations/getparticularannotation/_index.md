@@ -1,6 +1,6 @@
 ---
 title: احصل على تعليق توضيحي خاص
-linktitle: Get Particular Annotation
+linktitle:احصل على تعليق توضيحي خاص
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET للحصول على تعليق توضيحي معين في مستند PDF باستخدام هذا الدليل المفصل خطوة بخطوة.
 type: docs

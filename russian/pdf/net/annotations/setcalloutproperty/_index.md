@@ -1,6 +1,6 @@
 ---
 title: Установить свойство выноски
-linktitle: Set Callout Property
+linktitle:Установить свойство выноски
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как установить свойство выноски с помощью Aspose.PDF для .NET. Настройте аннотации с помощью линий выноски, цвета текста и стилей завершения.
 type: docs

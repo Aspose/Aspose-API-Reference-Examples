@@ -1,6 +1,6 @@
 ---
 title: Удалить неиспользуемые потоки
-linktitle: Remove Unused Streams
+linktitle:Удалить неиспользуемые потоки
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как удалить неиспользуемые потоки из файлов PDF с помощью Aspose.PDF для .NET. Наше пошаговое руководство.
 type: docs

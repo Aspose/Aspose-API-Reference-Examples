@@ -1,6 +1,6 @@
 ---
 title: Paragraf Stili Ayırıcısını Alın
-linktitle: Get Paragraph Style Separator
+linktitle:Paragraf Stili Ayırıcısını Alın
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile paragraf stili ayırıcıyı nasıl alacağınızı öğrenin.
 type: docs

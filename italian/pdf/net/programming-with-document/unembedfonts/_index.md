@@ -1,6 +1,6 @@
 ---
 title: Disincorpora i caratteri
-linktitle: Unembed Fonts
+linktitle:Disincorpora i caratteri
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per ottenere font Unembed e ottimizzare i file PDF. Una guida passo passo.
 type: docs

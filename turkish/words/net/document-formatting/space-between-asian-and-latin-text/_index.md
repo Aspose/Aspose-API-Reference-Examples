@@ -1,6 +1,6 @@
 ---
 title: Asya ve Latin Metinleri Arasındaki Boşluk
-linktitle: Space Between Asian And Latin Text
+linktitle:Asya ve Latin Metinleri Arasındaki Boşluk
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile belgenizdeki Asya ve Latin metinleri arasındaki boşluğu otomatik olarak nasıl ayarlayacağınızı öğrenin.
 type: docs

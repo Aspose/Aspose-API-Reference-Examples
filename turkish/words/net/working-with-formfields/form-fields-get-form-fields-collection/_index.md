@@ -1,6 +1,6 @@
 ---
 title: Form Alanları Form Alanları Koleksiyonunu Alın
-linktitle: Form Fields Get Form Fields Collection
+linktitle:Form Alanları Form Alanları Koleksiyonunu Alın
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki form alanları koleksiyonunu nasıl alacağınızı ve değiştireceğinizi öğrenin.
 type: docs

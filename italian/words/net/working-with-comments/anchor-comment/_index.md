@@ -1,6 +1,6 @@
 ---
 title: Commento di ancoraggio
-linktitle: Anchor Comment
+linktitle:Commento di ancoraggio
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come ancorare le risposte ai commenti a testo specifico nei documenti di Word utilizzando Aspose.Words per .NET.
 type: docs

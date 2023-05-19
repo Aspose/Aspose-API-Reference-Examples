@@ -1,6 +1,6 @@
 ---
 title: Entfernen Sie nicht verwendete Streams
-linktitle: Remove Unused Streams
+linktitle:Entfernen Sie nicht verwendete Streams
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.PDF für .NET nicht verwendete Streams aus PDF-Dateien entfernen. Unsere Schritt-für-Schritt-Anleitung.
 type: docs

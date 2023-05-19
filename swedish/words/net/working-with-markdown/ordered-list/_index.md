@@ -1,6 +1,6 @@
 ---
 title: Beställd lista
-linktitle: Ordered List
+linktitle:Beställd lista
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du skapar en ordnad lista med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

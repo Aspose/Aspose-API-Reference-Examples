@@ -1,6 +1,6 @@
 ---
 title: Aggiungi annotazione lnk
-linktitle: Add lnk Annotation
+linktitle:Aggiungi annotazione lnk
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiungere la funzionalità di annotazione a penna ai documenti PDF in C# utilizzando Aspose.PDF per .NET con guida dettagliata e codice sorgente completo.
 type: docs

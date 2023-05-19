@@ -1,6 +1,6 @@
 ---
 title: Ricevi avvisi per la sostituzione dei caratteri
-linktitle: Get Warnings For Font Substitution
+linktitle:Ricevi avvisi per la sostituzione dei caratteri
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare la funzione GetWarningsForFontSubstitution di Aspose.PDF per .NET per rilevare gli avvisi di sostituzione dei caratteri all'apertura di un documento PDF.
 type: docs

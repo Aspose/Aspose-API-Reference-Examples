@@ -1,6 +1,6 @@
 ---
 title: 按 HTML 部分
-linktitle: By Sections Html
+linktitle:按 HTML 部分
 second_title: Aspose.Words for .NET API 参考
 description: 通过完整的代码示例，了解如何使用 Aspose.Words for .NET 将 Word 文档拆分为 Html 部分。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Tillämpa licens från fil
-linktitle: Apply License From File
+linktitle:Tillämpa licens från fil
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du ansöker om en licens från en fil med Aspose.Words för .NET.
 type: docs

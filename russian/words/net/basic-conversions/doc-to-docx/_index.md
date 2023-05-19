@@ -1,6 +1,6 @@
 ---
 title: Документ в Docx
-linktitle: Doc To Docx
+linktitle:Документ в Docx
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать документы Word из формата .doc в формат Docx с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

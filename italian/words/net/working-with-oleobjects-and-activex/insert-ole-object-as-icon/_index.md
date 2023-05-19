@@ -1,6 +1,6 @@
 ---
 title: Inserisci Oggetto Ole Come Icona
-linktitle: Insert Ole Object As Icon
+linktitle:Inserisci Oggetto Ole Come Icona
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un oggetto OLE come icona con Aspose.Words per .NET.
 type: docs

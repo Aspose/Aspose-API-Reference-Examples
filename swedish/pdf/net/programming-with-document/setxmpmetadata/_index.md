@@ -1,6 +1,6 @@
 ---
 title: Ställ in XMPMetadata
-linktitle: Set XMPMetadata
+linktitle:Ställ in XMPMetadata
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du ställer in XMPMetadata i PDF-filer med Aspose.PDF för .NET. Följ denna steg-för-steg-guide.
 type: docs

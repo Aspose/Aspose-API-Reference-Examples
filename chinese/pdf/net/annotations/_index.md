@@ -1,6 +1,6 @@
 ---
 title: 使用注解编程
-linktitle: Programming with Annotations
+linktitle:使用注解编程
 type: docs
 weight: 11
 url: /zh/pdf/net/annotations/

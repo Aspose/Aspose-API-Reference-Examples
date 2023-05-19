@@ -1,6 +1,6 @@
 ---
 title: 在字段级别指定语言环境
-linktitle: Specify Locale At Field Level
+linktitle:在字段级别指定语言环境
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在 Word 文档中指定字段级本地化。
 type: docs

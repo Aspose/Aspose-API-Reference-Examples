@@ -1,6 +1,6 @@
 ---
 title: Programmazione con filigrana
-linktitle: Programming With Watermark
+linktitle:Programmazione con filigrana
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono l'aggiunta di una filigrana di testo con opzioni specifiche
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Modifica la spaziatura e i rientri dei paragrafi asiatici
-linktitle: Change Asian Paragraph Spacing And Indents
+linktitle:Modifica la spaziatura e i rientri dei paragrafi asiatici
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come modificare la spaziatura e i rientri dei paragrafi asiatici con Aspose.Words per .NET.
 type: docs

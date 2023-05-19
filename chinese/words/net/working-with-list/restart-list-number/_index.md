@@ -1,6 +1,6 @@
 ---
 title: 重启列表编号
-linktitle: Restart List Number
+linktitle:重启列表编号
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 重置 Word 文档中的列表编号。
 type: docs

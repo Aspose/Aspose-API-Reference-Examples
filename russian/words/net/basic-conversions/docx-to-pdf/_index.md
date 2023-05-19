@@ -1,6 +1,6 @@
 ---
 title: Docx в PDF
-linktitle: Docx To Pdf
+linktitle:Docx в PDF
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать документы Word из Docx в PDF с помощью Aspose.Words для .NET. Пошаговое руководство с примером исходного кода.
 type: docs

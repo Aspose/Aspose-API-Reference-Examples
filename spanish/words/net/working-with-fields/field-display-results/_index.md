@@ -1,6 +1,6 @@
 ---
 title: Resultados de visualización de campo
-linktitle: Field Display Results
+linktitle:Resultados de visualización de campo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Guía paso a paso para mostrar resultados de campo en sus documentos de Word con Aspose.Words para .NET.
 type: docs

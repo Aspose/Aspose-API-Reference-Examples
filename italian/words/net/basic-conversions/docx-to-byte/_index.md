@@ -1,6 +1,6 @@
 ---
 title: Docx in byte
-linktitle: Docx To Byte
+linktitle:Docx in byte
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come convertire documenti Word da Docx in array di byte utilizzando Aspose.Words per .NET. Tutorial passo passo con codice sorgente di esempio.
 type: docs

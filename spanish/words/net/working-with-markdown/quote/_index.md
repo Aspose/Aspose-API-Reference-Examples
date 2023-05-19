@@ -1,6 +1,6 @@
 ---
 title: Cita
-linktitle: Quote
+linktitle:Cita
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a usar las comillas con Aspose.Words para la guía paso a paso de .NET.
 type: docs

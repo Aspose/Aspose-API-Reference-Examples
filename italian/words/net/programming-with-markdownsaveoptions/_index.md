@@ -1,6 +1,6 @@
 ---
 title: Programmare con Markdownsaveoptions
-linktitle: Programming With Markdownsaveoptions
+linktitle:Programmare con Markdownsaveoptions
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono l'esportazione in markdown con l'allineamento del contenuto della tabella e la cartella delle immagini impostate
 type: docs

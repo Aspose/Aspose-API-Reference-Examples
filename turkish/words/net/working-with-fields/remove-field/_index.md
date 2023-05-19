@@ -1,6 +1,6 @@
 ---
 title: Alanı Kaldır
-linktitle: Remove Field
+linktitle:Alanı Kaldır
 second_title: Aspose.Words for .NET API Referansı
 description: Bu kılavuzda, Aspose.Words for .NET kullanarak bir belgedeki belirli bir alanı nasıl sileceğinizi öğreneceksiniz.
 type: docs

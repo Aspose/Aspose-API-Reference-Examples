@@ -1,6 +1,6 @@
 ---
 title: Zum Absatz wechseln
-linktitle: Move To Paragraph
+linktitle:Zum Absatz wechseln
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie die Funktion „In Absatz verschieben“ von Aspose.Words für .NET verwenden, um programmgesteuert in Absätzen in Word-Dokumenten zu navigieren und diese zu bearbeiten.
 type: docs

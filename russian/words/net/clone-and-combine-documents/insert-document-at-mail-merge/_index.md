@@ -1,6 +1,6 @@
 ---
 title: Вставить документ при слиянии
-linktitle: Insert Document At Mail Merge
+linktitle:Вставить документ при слиянии
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить документ в другой во время слияния с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 使用表格内容对齐导出到 Markdown
-linktitle: Export Into Markdown With Table Content Alignment
+linktitle:使用表格内容对齐导出到 Markdown
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将具有不同对齐方式的表格内容导出到 Markdown 文件。
 type: docs

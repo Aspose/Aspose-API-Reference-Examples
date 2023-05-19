@@ -1,6 +1,6 @@
 ---
 title: Dosya Boyutunu Optimize Edin
-linktitle: Optimize File Size
+linktitle:Dosya Boyutunu Optimize Edin
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuzu kullanarak Aspose.PDF for .NET ile PDF belgelerinizin dosya boyutunu nasıl optimize edeceğinizi öğrenin.
 type: docs

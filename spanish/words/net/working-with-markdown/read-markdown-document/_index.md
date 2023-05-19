@@ -1,6 +1,6 @@
 ---
 title: Leer documento de descuento
-linktitle: Read Markdown Document
+linktitle:Leer documento de descuento
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a leer un documento de rebajas con Aspose.Words para la guía paso a paso de .NET.
 type: docs

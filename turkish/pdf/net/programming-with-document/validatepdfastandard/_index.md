@@ -1,6 +1,6 @@
 ---
 title: PDFASstandartını Doğrula
-linktitle: Validate PDFAStandard
+linktitle:PDFASstandartını Doğrula
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile PDFASstandard için PDF dosyalarını doğrulamak üzere Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

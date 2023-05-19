@@ -1,6 +1,6 @@
 ---
 title: Docx'ten Epub'a
-linktitle: Docx To Epub
+linktitle:Docx'ten Epub'a
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerini Docx'ten Epub formatına nasıl dönüştüreceğinizi öğrenin. Örnek kaynak koduyla adım adım öğretici.
 type: docs

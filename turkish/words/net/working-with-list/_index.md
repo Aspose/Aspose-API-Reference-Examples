@@ -1,6 +1,6 @@
 ---
 title: Liste ile Çalışmak
-linktitle: Working with List
+linktitle:Liste ile Çalışmak
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, Aspose.Words for .NET kullanarak her bölümde listenin nasıl yeniden başlatılacağını, liste düzeyinin nasıl belirleneceğini, Belgede liste numarasının nasıl yeniden başlatılacağını içerir.
 type: docs

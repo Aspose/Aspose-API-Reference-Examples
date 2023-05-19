@@ -1,6 +1,6 @@
 ---
 title: Aktivieren Sie OpenType-Funktionen
-linktitle: Enable OpenType features
+linktitle:Aktivieren Sie OpenType-Funktionen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie openType-Funktionen aktivieren, um die Typografie und das Erscheinungsbild Ihrer Word-Dokumente zu verbessern.
 type: docs

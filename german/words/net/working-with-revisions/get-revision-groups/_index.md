@@ -1,6 +1,6 @@
 ---
 title: Revisionsgruppen abrufen
-linktitle: Get Revision Groups
+linktitle:Revisionsgruppen abrufen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erhalten Sie Revisionsgruppen in einem Word-Dokument mit Aspose.Words für .NET.
 type: docs

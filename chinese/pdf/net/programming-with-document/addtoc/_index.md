@@ -1,6 +1,6 @@
 ---
 title: 添加目录
-linktitle: Add TOC
+linktitle:添加目录
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 将目录添加到 PDF 文档。带有示例源代码的分步指南。增强文档浏览！
 type: docs

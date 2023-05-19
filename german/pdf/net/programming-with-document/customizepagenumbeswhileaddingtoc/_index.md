@@ -1,6 +1,6 @@
 ---
 title: Passen Sie die Seitenzahlen beim Hinzufügen des Inhaltsverzeichnisses an
-linktitle: Customize Page Numbes While Adding TOC
+linktitle:Passen Sie die Seitenzahlen beim Hinzufügen des Inhaltsverzeichnisses an
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit dieser Schritt-für-Schritt-Anleitung und dem Codebeispiel, wie Sie Seitenzahlen anpassen und gleichzeitig ein Inhaltsverzeichnis (TOC) mit Aspose.PDF für .NET hinzufügen.
 type: docs

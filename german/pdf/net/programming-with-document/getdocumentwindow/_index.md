@@ -1,6 +1,6 @@
 ---
 title: Dokumentfenster abrufen
-linktitle: Get Document Window
+linktitle:Dokumentfenster abrufen
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie, wie Sie die GetDocumentWindow-Funktion von Aspose.PDF für .NET verwenden, um Informationen über die Fenstereigenschaften eines PDF-Dokuments abzurufen.
 type: docs

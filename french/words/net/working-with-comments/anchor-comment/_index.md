@@ -1,6 +1,6 @@
 ---
 title: Commentaire d'ancrage
-linktitle: Anchor Comment
+linktitle:Commentaire d'ancrage
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à ancrer les réponses aux commentaires à un texte spécifique dans des documents Word à l'aide d'Aspose.Words pour .NET.
 type: docs

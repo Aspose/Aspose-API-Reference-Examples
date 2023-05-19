@@ -1,6 +1,6 @@
 ---
 title: Endnotenoptionen festlegen
-linktitle: Set Endnote Options
+linktitle:Endnotenoptionen festlegen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET Endnotenoptionen in Word-Dokumenten festlegen. Schritt-für-Schritt-Anleitung mit Beispielquellcode.
 type: docs

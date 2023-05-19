@@ -1,6 +1,6 @@
 ---
 title: Travailler avec des champs
-linktitle: Working with Fields
+linktitle:Travailler avec des champs
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels montrent comment insérer un champ, mettre à jour la culture archivée, remplacer le lien hypertexte du champ, supprimer le champ et insérer des champs imbriqués dans un document Word à l'aide d'Aspose.Words pour .NET
 type: docs

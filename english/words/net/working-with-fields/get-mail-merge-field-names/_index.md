@@ -1,6 +1,6 @@
 ---
 title: Get Mail Merge Field Names
-linktitle: Get Mail Merge Field Names
+linktitle:Get Mail Merge Field Names
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to get mail merge field names in your Word documents with Aspose.Words for .NET.
 type: docs

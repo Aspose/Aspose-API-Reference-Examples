@@ -1,6 +1,6 @@
 ---
 title: Programming With Markdownsaveoptions
-linktitle: Programming With Markdownsaveoptions
+linktitle:Programming With Markdownsaveoptions
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain export into markdown with table content alignment and set images folder
 type: docs

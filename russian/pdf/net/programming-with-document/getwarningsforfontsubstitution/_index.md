@@ -1,6 +1,6 @@
 ---
 title: Получить предупреждения о замене шрифта
-linktitle: Get Warnings For Font Substitution
+linktitle:Получить предупреждения о замене шрифта
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как использовать функцию GetWarningsForFontSubstitution в Aspose.PDF для .NET для обнаружения предупреждений о замене шрифта при открытии документа PDF.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: حل التعليق والردود
-linktitle: Comment Resolved And Replies
+linktitle:حل التعليق والردود
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية حل التعليقات والردود عليها في مستندات Word باستخدام Aspose.Words for .NET.
 type: docs

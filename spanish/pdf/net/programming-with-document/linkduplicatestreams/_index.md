@@ -1,6 +1,6 @@
 ---
 title: Vincular secuencias duplicadas
-linktitle: Link Duplicate Streams
+linktitle:Vincular secuencias duplicadas
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para la función .NET Link Duplicate Streams para optimizar sus documentos PDF con esta guía paso a paso.
 type: docs

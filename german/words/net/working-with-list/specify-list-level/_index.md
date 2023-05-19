@@ -1,6 +1,6 @@
 ---
 title: Geben Sie die Listenebene an
-linktitle: Specify List Level
+linktitle:Geben Sie die Listenebene an
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET die Listenebene in einem Word-Dokument angeben.
 type: docs

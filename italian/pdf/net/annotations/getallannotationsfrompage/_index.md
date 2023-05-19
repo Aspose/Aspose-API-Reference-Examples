@@ -1,6 +1,6 @@
 ---
 title: Ottieni tutte le annotazioni dalla pagina
-linktitle: Get All Annotations From Page
+linktitle:Ottieni tutte le annotazioni dalla pagina
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come utilizzare Aspose.PDF per .NET per recuperare tutte le annotazioni da una pagina PDF con questa guida dettagliata.
 type: docs

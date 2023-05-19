@@ -1,6 +1,6 @@
 ---
 title: 使用字段生成器插入字段
-linktitle: Insert Field Using Field Builder
+linktitle:使用字段生成器插入字段
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将自定义字段插入到您的 Word 文档中。
 type: docs

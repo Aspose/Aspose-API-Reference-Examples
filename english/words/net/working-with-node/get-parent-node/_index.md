@@ -1,6 +1,6 @@
 ---
 title: Get Parent Node
-linktitle: Get Parent Node
+linktitle:Get Parent Node
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to get the parent node of a specific element with Aspose.Words for .NET.
 type: docs

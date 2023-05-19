@@ -1,6 +1,6 @@
 ---
 title: Redact Page
-linktitle: Redact Page
+linktitle:Redact Page
 second_title: Aspose.PDF for .NET API Reference
 description: This article explains how to redact a PDF page using Aspose.PDF for .NET, including step-by-step instructions and example source code.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Barrer les mots
-linktitle: Strike Out Words
+linktitle:Barrer les mots
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape pour l'utilisation d'Aspose.PDF pour la fonctionnalité Strike Out Words de .NET, y compris un guide étape par étape et des explications.
 type: docs

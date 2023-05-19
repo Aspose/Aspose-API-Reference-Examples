@@ -1,6 +1,6 @@
 ---
 title: TC字段插入
-linktitle: Insert TCField
+linktitle:TC字段插入
 second_title: Aspose.Words for .NET API 参考
 description: 在本分步指南中了解如何使用 C# 和 Aspose.Words for .NET 在 Word 文档中插入和操作 TCFields。
 type: docs

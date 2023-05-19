@@ -1,6 +1,6 @@
 ---
 title: 项目符号列表
-linktitle: Bulleted List
+linktitle:项目符号列表
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南创建项目符号列表。
 type: docs

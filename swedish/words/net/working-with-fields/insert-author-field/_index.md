@@ -1,6 +1,6 @@
 ---
 title: Infoga författarefält
-linktitle: Insert Author Field
+linktitle:Infoga författarefält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar ett AUTHOR-fält i dina Word-dokument med Aspose.Words för .NET. Ange författarens namn för att anpassa dina dokument.
 type: docs

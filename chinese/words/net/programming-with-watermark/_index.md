@@ -1,6 +1,6 @@
 ---
 title: 水印编程
-linktitle: Programming With Watermark
+linktitle:水印编程
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含使用特定选项添加文本水印
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Lägg till innehållsförteckning
-linktitle: Add TOC
+linktitle:Lägg till innehållsförteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till en innehållsförteckning till PDF-dokument med Aspose.PDF för .NET. Steg-för-steg guide med exempel på källkod. Öka dokumentnavigeringen!
 type: docs

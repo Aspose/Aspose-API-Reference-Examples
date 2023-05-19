@@ -1,6 +1,6 @@
 ---
 title: تعيين معلومات الملف
-linktitle: Set File Info
+linktitle:تعيين معلومات الملف
 second_title: Aspose.PDF لمرجع .NET API
 description: تعرف على كيفية استخدام Aspose.PDF for .NET لتعيين معلومات الملف في مستندات PDF الخاصة بك باستخدام هذا الدليل التفصيلي.
 type: docs

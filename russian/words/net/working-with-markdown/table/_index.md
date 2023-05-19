@@ -1,6 +1,6 @@
 ---
 title: Стол
-linktitle: Table
+linktitle:Стол
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как создать таблицу с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

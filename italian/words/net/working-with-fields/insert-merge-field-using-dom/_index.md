@@ -1,6 +1,6 @@
 ---
 title: Inserisci campo di unione utilizzando DOM
-linktitle: Insert Merge Field Using DOM
+linktitle:Inserisci campo di unione utilizzando DOM
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire campi di unione di campi personalizzati nei tuoi documenti Word con Aspose.Words per .NET.
 type: docs

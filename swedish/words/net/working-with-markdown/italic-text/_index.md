@@ -1,6 +1,6 @@
 ---
 title: Kursiv text
-linktitle: Italic Text
+linktitle:Kursiv text
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig att kursiv text med Aspose.Words för .NET Steg-för-steg-guide.
 type: docs

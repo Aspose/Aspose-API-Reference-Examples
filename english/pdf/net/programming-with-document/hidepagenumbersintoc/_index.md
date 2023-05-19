@@ -1,6 +1,6 @@
 ---
 title: Hide Page Numbers In TOC
-linktitle: Hide Page Numbers In TOC
+linktitle:Hide Page Numbers In TOC
 second_title: Aspose.PDF for .NET API Reference
 description: Learn how to hide page numbers in a table of contents using Aspose.PDF for .NET with this step-by-step guide.
 type: docs

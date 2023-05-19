@@ -1,6 +1,6 @@
 ---
 title: Document Formatting
-linktitle: Document Formatting
+linktitle:Document Formatting
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain space between asian and latin text, asian typography line break group, paragraph formatting, multilevel list formatting and apply paragraph style.
 type: docs

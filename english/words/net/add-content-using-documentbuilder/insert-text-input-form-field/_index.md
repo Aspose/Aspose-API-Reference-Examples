@@ -1,6 +1,6 @@
 ---
 title: Insert Text Input Form Field
-linktitle: Insert Text Input Form Field
+linktitle:Insert Text Input Form Field
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use Aspose.Words for .NET to insert text input form field into Word documents with this step-by-step guide.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Dosya Bilgisini Ayarla
-linktitle: Set File Info
+linktitle:Dosya Bilgisini Ayarla
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET'i kullanarak PDF belgelerinizdeki dosya bilgilerini nasıl kullanacağınızı öğrenin.
 type: docs

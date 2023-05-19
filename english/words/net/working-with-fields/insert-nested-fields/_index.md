@@ -1,6 +1,6 @@
 ---
 title: Insert Nested Fields
-linktitle: Insert Nested Fields
+linktitle:Insert Nested Fields
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to easily insert nested fields into your Word documents with Aspose.Words for .NET.
 type: docs

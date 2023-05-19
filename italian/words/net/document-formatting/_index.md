@@ -1,6 +1,6 @@
 ---
 title: Formattazione del documento
-linktitle: Document Formatting
+linktitle:Formattazione del documento
 second_title: Riferimento all'API Aspose.Words per .NET
 description: I tutorial contengono spazio tra testo asiatico e latino, gruppo di interruzioni di riga di tipografia asiatica, formattazione di paragrafo, formattazione di elenchi multilivello e applicazione dello stile di paragrafo.
 type: docs

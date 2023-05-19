@@ -1,6 +1,6 @@
 ---
 title: المسافة بين النص الآسيوي واللاتيني
-linktitle: Space Between Asian And Latin Text
+linktitle:المسافة بين النص الآسيوي واللاتيني
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية ضبط المسافة تلقائيًا بين النص الآسيوي واللاتيني في مستندك باستخدام Aspose.Words for .NET.
 type: docs

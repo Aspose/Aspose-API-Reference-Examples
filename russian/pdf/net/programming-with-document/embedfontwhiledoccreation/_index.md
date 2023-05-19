@@ -1,6 +1,6 @@
 ---
 title: Встроить шрифт при создании документа
-linktitle: Embed Font While Doc Creation
+linktitle:Встроить шрифт при создании документа
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как внедрить шрифт при создании документа PDF с помощью Aspose.PDF для .NET. Обеспечьте правильное отображение на разных устройствах.
 type: docs

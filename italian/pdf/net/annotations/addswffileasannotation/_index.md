@@ -1,6 +1,6 @@
 ---
 title: Aggiungi file Swf come annotazione
-linktitle: Add Swf File As Annotation
+linktitle:Aggiungi file Swf come annotazione
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come aggiungere file SWF come annotazioni in Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

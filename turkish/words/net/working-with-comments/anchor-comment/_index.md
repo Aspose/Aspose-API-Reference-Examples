@@ -1,6 +1,6 @@
 ---
 title: Çapa Yorumu
-linktitle: Anchor Comment
+linktitle:Çapa Yorumu
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerindeki belirli metinlere yorum yanıtlarını nasıl tutturacağınızı öğrenin.
 type: docs

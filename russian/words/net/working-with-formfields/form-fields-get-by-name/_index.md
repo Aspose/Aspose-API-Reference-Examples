@@ -1,6 +1,6 @@
 ---
 title: Поля формы получают по имени
-linktitle: Form Fields Get By Name
+linktitle:Поля формы получают по имени
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как извлекать и изменять поля формы по имени в документах Word с помощью Aspose.Words для .NET.
 type: docs

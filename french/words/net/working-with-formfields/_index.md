@@ -1,6 +1,6 @@
 ---
 title: Travailler avec les champs de formulaire
-linktitle: Working with FormFields
+linktitle:Travailler avec les champs de formulaire
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Tutoriels expliquant comment insérer des champs de formulaire, travailler avec les propriétés des champs de formulaire, obtenir une collection de champs de formulaire et obtenir des champs de formulaire par nom dans un document Word à l'aide de Aspose.Words pour .NET.
 type: docs

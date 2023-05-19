@@ -1,6 +1,6 @@
 ---
 title: 断开链接
-linktitle: Break A Link
+linktitle:断开链接
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 断开 Word 文档中的链接。
 type: docs

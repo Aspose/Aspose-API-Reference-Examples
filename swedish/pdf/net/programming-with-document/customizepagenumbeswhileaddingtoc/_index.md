@@ -1,6 +1,6 @@
 ---
 title: Anpassa sidnummer när du lägger till innehållsförteckning
-linktitle: Customize Page Numbes While Adding TOC
+linktitle:Anpassa sidnummer när du lägger till innehållsförteckning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du anpassar sidnummer samtidigt som du lägger till en innehållsförteckning (TOC) med Aspose.PDF för .NET med denna steg-för-steg-guide och kodexempel.
 type: docs

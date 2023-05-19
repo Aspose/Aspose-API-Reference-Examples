@@ -1,6 +1,6 @@
 ---
 title: Définir la mise en forme libre des annotations de texte
-linktitle: Set Free Text Annotation Formatting
+linktitle:Définir la mise en forme libre des annotations de texte
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Cet article fournit un guide étape par étape sur la façon de créer une annotation de texte libre et de spécifier son contenu à l'aide d'Aspose.PDF pour .NET
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Utrymmet mellan asiatisk och latinsk text
-linktitle: Space Between Asian And Latin Text
+linktitle:Utrymmet mellan asiatisk och latinsk text
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du automatiskt justerar utrymmet mellan asiatisk och latinsk text i ditt dokument med Aspose.Words för .NET.
 type: docs

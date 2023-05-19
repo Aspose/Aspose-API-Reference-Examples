@@ -1,6 +1,6 @@
 ---
 title: 缩放系数集
-linktitle: Set Zoom Factor
+linktitle:缩放系数集
 second_title: Aspose.PDF for .NET API 参考
 description: 通过我们的分步指南，了解如何使用 Aspose.PDF for .NET 为 PDF 文件设置缩放系数。
 type: docs

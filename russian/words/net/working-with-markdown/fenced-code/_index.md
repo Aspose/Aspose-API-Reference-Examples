@@ -1,6 +1,6 @@
 ---
 title: Огражденный код
-linktitle: Fenced Code
+linktitle:Огражденный код
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как использовать функцию изолированного кода с Aspose.Words для .NET. Пошаговое руководство.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Obtener anotación particular
-linktitle: Get Particular Annotation
+linktitle:Obtener anotación particular
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener una anotación particular en un documento PDF con esta guía paso a paso.
 type: docs

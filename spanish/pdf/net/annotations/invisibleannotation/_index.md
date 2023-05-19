@@ -1,6 +1,6 @@
 ---
 title: Anotación invisible
-linktitle: Invisible Annotation
+linktitle:Anotación invisible
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a anotar archivos PDF de forma invisible utilizando el código fuente de C# con Aspose.PDF para .NET. Guía paso por paso.
 type: docs

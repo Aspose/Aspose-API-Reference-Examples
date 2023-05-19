@@ -1,6 +1,6 @@
 ---
 title: Vérifier la séquence
-linktitle: Check Sequence
+linktitle:Vérifier la séquence
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à vérifier la séquence des zones de texte dans un document Word avec Aspose.Words pour .NET.
 type: docs

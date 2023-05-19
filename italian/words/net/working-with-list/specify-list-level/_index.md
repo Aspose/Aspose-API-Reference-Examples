@@ -1,6 +1,6 @@
 ---
 title: Specifica livello elenco
-linktitle: Specify List Level
+linktitle:Specifica livello elenco
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come specificare il livello di elenco in un documento di Word con Aspose.Words per .NET.
 type: docs

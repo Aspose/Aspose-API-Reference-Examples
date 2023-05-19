@@ -1,6 +1,6 @@
 ---
 title: Codice rientrato
-linktitle: Indented Code
+linktitle:Codice rientrato
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare il codice indentato con Aspose.Words per .NET Guida dettagliata.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Groupe de saut de ligne de typographie asiatique
-linktitle: Asian Typography Line Break Group
+linktitle:Groupe de saut de ligne de typographie asiatique
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser le groupe de saut de ligne Asian Typography avec Aspose.Words pour .NET.
 type: docs

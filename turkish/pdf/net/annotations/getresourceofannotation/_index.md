@@ -1,6 +1,6 @@
 ---
 title: Açıklama Kaynağını Alın
-linktitle: Get Resource Of Annotation
+linktitle:Açıklama Kaynağını Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile Aspose.PDF for .NET kullanarak bir ek açıklamanın kaynağını nasıl alacağınızı öğrenin.
 type: docs

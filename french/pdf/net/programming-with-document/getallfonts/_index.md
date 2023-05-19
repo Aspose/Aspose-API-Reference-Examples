@@ -1,6 +1,6 @@
 ---
 title: Obtenir toutes les polices
-linktitle: Get All Fonts
+linktitle:Obtenir toutes les polices
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à utiliser Aspose.PDF pour .NET pour obtenir toutes les polices utilisées dans un document PDF par programmation avec ce guide étape par étape et un exemple de code.
 type: docs

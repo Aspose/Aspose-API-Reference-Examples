@@ -1,6 +1,6 @@
 ---
 title: Sayfa Aralığına Göre
-linktitle: By Page Range
+linktitle:Sayfa Aralığına Göre
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuzunu kullanarak bir Word belgesinden sayfa aralığına göre kolayca ayıklayın.
 type: docs

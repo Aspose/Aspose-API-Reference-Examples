@@ -1,6 +1,6 @@
 ---
 title: Ottieni gruppi di revisione
-linktitle: Get Revision Groups
+linktitle:Ottieni gruppi di revisione
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Ottieni gruppi di revisione in un documento di Word con Aspose.Words per .NET.
 type: docs

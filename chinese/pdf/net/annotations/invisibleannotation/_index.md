@@ -1,6 +1,6 @@
 ---
 title: 隐形注解
-linktitle: Invisible Annotation
+linktitle:隐形注解
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 C# 源代码和 Aspose.PDF for .NET 对 PDF 进行不可见的注释。分步指南。
 type: docs

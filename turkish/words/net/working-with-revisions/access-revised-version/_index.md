@@ -1,6 +1,6 @@
 ---
 title: Gözden Geçirilmiş Sürüme Erişim
-linktitle: Access Revised Version
+linktitle:Gözden Geçirilmiş Sürüme Erişim
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesinin gözden geçirilmiş versiyonuna erişin.
 type: docs

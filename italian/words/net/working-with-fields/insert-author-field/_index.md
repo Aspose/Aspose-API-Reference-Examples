@@ -1,6 +1,6 @@
 ---
 title: Inserisci campo autore
-linktitle: Insert Author Field
+linktitle:Inserisci campo autore
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire un campo AUTHOR nei tuoi documenti Word con Aspose.Words per .NET. Specifica il nome dell'autore per personalizzare i tuoi documenti.
 type: docs

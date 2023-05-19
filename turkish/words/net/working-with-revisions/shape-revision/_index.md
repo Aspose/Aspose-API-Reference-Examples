@@ -1,6 +1,6 @@
 ---
 title: Şekil Revizyonu
-linktitle: Shape Revision
+linktitle:Şekil Revizyonu
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki şekilleri gözden geçirin.
 type: docs

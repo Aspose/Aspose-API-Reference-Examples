@@ -1,6 +1,6 @@
 ---
 title: Verwenden Sie die Warnquelle
-linktitle: Use Warning Source
+linktitle:Verwenden Sie die Warnquelle
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie Schritt-für-Schritt-Anleitung, wie Sie die Warnquelle mit Aspose.Words für .NET verwenden.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: البرمجة بالمستند
-linktitle: Programming with Document
+linktitle:البرمجة بالمستند
 type: docs
 weight: 10
 url: /ar/pdf/net/programming-with-document/

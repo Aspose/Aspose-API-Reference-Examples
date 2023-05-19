@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie ASKField ohne Document Builder ein
-linktitle: Insert ASKField Without Document Builder
+linktitle:Fügen Sie ASKField ohne Document Builder ein
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein ASK-Feld in Ihre Word-Dokumente einfügen.
 type: docs

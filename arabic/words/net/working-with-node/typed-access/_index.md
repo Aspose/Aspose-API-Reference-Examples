@@ -1,6 +1,6 @@
 ---
 title: الوصول المكتوب
-linktitle: Typed Access
+linktitle:الوصول المكتوب
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام الوصول المكتوب لمعالجة الجداول في Aspose.Words for .NET.
 type: docs

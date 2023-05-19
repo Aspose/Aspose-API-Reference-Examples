@@ -1,6 +1,6 @@
 ---
 title: Establecer columnas de notas al pie
-linktitle: Set Foot Note Columns
+linktitle:Establecer columnas de notas al pie
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a configurar el número de columnas para notas al pie en documentos de Word usando Aspose.Words para .NET.
 type: docs

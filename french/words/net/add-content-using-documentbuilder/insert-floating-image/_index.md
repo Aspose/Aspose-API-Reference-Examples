@@ -1,6 +1,6 @@
 ---
 title: Insérer une image flottante
-linktitle: Insert Floating Image
+linktitle:Insérer une image flottante
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à insérer des images flottantes dans des documents Word à l'aide d'Aspose.Words pour .NET. Guide étape par étape.
 type: docs

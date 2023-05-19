@@ -1,6 +1,6 @@
 ---
 title: Получить группы изменений
-linktitle: Get Revision Groups
+linktitle:Получить группы изменений
 second_title: Справочник по API Aspose.Words для .NET
 description: Получите группы ревизий в документе Word с помощью Aspose.Words для .NET.
 type: docs

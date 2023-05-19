@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie Inhalte mit Documentbuilder hinzu
-linktitle: Add Content Using Documentbuilder
+linktitle:Fügen Sie Inhalte mit Documentbuilder hinzu
 second_title: Aspose.Words für .NET API-Referenz
 description: Zu den Tutorials gehören „Neues Dokument erstellen“, „Dokument-Builder“, „Lesezeichen einfügen“, „Tabelle erstellen“, „Horizontale Regel einfügen“, „Horizontale Regel formatieren“, „Umbruch einfügen“, „Text einfügen“.
 type: docs

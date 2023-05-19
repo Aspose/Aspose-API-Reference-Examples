@@ -1,6 +1,6 @@
 ---
 title: Javascript'i Dokümana Ekle Kaldır
-linktitle: Add Remove Javascript To Doc
+linktitle:Javascript'i Dokümana Ekle Kaldır
 second_title: Aspose.PDF for .NET API Referansı
 description: Aspose.PDF for .NET kullanarak PDF belgelerine JavaScript eklemeyi ve kaldırmayı öğrenin. Belge düzeyinde komut dosyası oluşturmaya yönelik kod eğitimlerini içeren adım adım kılavuz.
 type: docs

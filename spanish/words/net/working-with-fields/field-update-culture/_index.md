@@ -1,6 +1,6 @@
 ---
 title: Cultura de actualización de campo
-linktitle: Field Update Culture
+linktitle:Cultura de actualización de campo
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a actualizar la cultura de campo en sus documentos de Word con Aspose.Words para .NET.
 type: docs

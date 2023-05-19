@@ -1,6 +1,6 @@
 ---
 title: Holen Sie sich alle Schriftarten
-linktitle: Get All Fonts
+linktitle:Holen Sie sich alle Schriftarten
 second_title: Aspose.PDF für .NET API-Referenz
 description: Erfahren Sie mit dieser Schritt-für-Schritt-Anleitung und dem Beispielcode, wie Sie Aspose.PDF für .NET verwenden, um alle in einem PDF-Dokument verwendeten Schriftarten programmgesteuert abzurufen.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 删除未使用的对象
-linktitle: Remove Unused Objects
+linktitle:删除未使用的对象
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南，了解如何使用 Aspose.PDF for .NET 从 PDF 文档中删除未使用的对象。
 type: docs

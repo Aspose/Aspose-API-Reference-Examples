@@ -1,6 +1,6 @@
 ---
 title: Her Bölümde Listeyi Yeniden Başlat
-linktitle: Restart List At Each Section
+linktitle:Her Bölümde Listeyi Yeniden Başlat
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile bir Word belgesindeki her bölüme numaralı bir listeyi nasıl sıfırlayacağınızı öğrenin.
 type: docs

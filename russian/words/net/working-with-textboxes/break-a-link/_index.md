@@ -1,6 +1,6 @@
 ---
 title: Разорвать ссылку
-linktitle: Break A Link
+linktitle:Разорвать ссылку
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как разорвать ссылки в документе Word с помощью Aspose.Words для .NET.
 type: docs

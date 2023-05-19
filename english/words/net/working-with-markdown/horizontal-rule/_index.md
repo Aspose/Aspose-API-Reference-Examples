@@ -1,6 +1,6 @@
 ---
 title: Horizontal Rule
-linktitle: Horizontal Rule
+linktitle:Horizontal Rule
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to insert a horizontal rule with Aspose.Words for .NET Step-by-step guide.
 type: docs

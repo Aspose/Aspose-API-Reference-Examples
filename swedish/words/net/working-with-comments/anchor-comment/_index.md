@@ -1,6 +1,6 @@
 ---
 title: Ankarekommentar
-linktitle: Anchor Comment
+linktitle:Ankarekommentar
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du förankrar kommentarsvar till specifik text i Word-dokument med Aspose.Words för .NET.
 type: docs

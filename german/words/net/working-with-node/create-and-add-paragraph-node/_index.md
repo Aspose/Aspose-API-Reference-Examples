@@ -1,6 +1,6 @@
 ---
 title: Absatzknoten erstellen und hinzufügen
-linktitle: Create And Add Paragraph Node
+linktitle:Absatzknoten erstellen und hinzufügen
 second_title: Aspose.Words für .NET API-Referenz
 description: Erstellen Sie mit Aspose.Words für .NET einen Absatzknoten und fügen Sie ihn zu Ihren Word-Dokumenten hinzu.
 type: docs

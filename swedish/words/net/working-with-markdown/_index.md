@@ -1,6 +1,6 @@
 ---
 title: Jobbar med Markdown
-linktitle: Working with Markdown
+linktitle:Jobbar med Markdown
 second_title: Aspose.Words för .NET API Referens
 description: Handledningar innehåller hur man fet text, kursiv text, genomstruken, inline-kod, autolänk, lägger till bild, ordnad lista, rubrik, tabell och läser markdown-dokument med Aspose.Words för .NET.
 type: docs

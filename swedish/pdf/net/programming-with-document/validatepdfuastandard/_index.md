@@ -1,6 +1,6 @@
 ---
 title: Validera PDFUAstandard
-linktitle: Validate PDFUAstandard
+linktitle:Validera PDFUAstandard
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder Aspose.PDF för .NET för att validera PDF/UA-standard med C#-kod. Steg-för-steg guide.
 type: docs

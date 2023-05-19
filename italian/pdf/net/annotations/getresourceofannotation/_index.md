@@ -1,6 +1,6 @@
 ---
 title: Ottieni risorsa di annotazione
-linktitle: Get Resource Of Annotation
+linktitle:Ottieni risorsa di annotazione
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come recuperare la risorsa di un'annotazione utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

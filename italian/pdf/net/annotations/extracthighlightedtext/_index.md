@@ -1,6 +1,6 @@
 ---
 title: Estrai testo evidenziato
-linktitle: Extract Highlighted Text
+linktitle:Estrai testo evidenziato
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come estrarre il testo evidenziato utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

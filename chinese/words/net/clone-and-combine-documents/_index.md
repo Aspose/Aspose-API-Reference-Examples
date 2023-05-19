@@ -1,6 +1,6 @@
 ---
 title: 克隆和合并文件
-linktitle: Clone And Combine Documents
+linktitle:克隆和合并文件
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含克隆文档、在替换时插入文档和在邮件合并时插入文档。
 type: docs

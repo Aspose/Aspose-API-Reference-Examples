@@ -1,6 +1,6 @@
 ---
 title: Applica licenza dal flusso
-linktitle: Apply License From Stream
+linktitle:Applica licenza dal flusso
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come applicare una licenza da un flusso utilizzando Aspose.Words per .NET. Guida passo dopo passo
 type: docs

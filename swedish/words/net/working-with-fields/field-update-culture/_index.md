@@ -1,6 +1,6 @@
 ---
 title: Fältuppdateringskultur
-linktitle: Field Update Culture
+linktitle:Fältuppdateringskultur
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du uppdaterar fältkultur i dina Word-dokument med Aspose.Words för .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 读取活动 XControl 属性
-linktitle: Read Active XControl Properties
+linktitle:读取活动 XControl 属性
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 读取 Word 文档中 ActiveX 控件的属性。
 type: docs

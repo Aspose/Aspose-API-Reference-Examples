@@ -1,6 +1,6 @@
 ---
 title: Field Builder'ı Kullanarak Alan Ekleme
-linktitle: Insert Field Using Field Builder
+linktitle:Field Builder'ı Kullanarak Alan Ekleme
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinize nasıl özel alanlar ekleyeceğinizi öğrenin.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Leggi le proprietà di Active XControl
-linktitle: Read Active XControl Properties
+linktitle:Leggi le proprietà di Active XControl
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Leggi le proprietà dei controlli ActiveX in un documento Word con Aspose.Words per .NET.
 type: docs

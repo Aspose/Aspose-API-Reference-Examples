@@ -1,6 +1,6 @@
 ---
 title: Вставить FieldIncludeText без построителя документов
-linktitle: Insert FieldIncludeText Without Document Builder
+linktitle:Вставить FieldIncludeText без построителя документов
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить поле FieldIncludeText в документы Word с помощью Aspose.Words для .NET.
 type: docs

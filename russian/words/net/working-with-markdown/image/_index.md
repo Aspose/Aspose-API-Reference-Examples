@@ -1,6 +1,6 @@
 ---
 title: Изображение
-linktitle: Image
+linktitle:Изображение
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять и настраивать изображения с помощью Aspose.Words для .NET. Пошаговое руководство.
 type: docs

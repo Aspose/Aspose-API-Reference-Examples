@@ -1,6 +1,6 @@
 ---
 title: Imposta data di scadenza
-linktitle: Set Expiry Date
+linktitle:Imposta data di scadenza
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare la data di scadenza nei documenti PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

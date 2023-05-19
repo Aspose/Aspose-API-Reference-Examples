@@ -1,6 +1,6 @@
 ---
 title: Per titoli Html
-linktitle: By Headings Html
+linktitle:Per titoli Html
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Guida dettagliata per spiegare il codice sorgente C# della funzione HTML By Heading di Aspose.Words per .NET
 type: docs

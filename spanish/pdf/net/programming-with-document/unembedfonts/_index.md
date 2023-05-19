@@ -1,6 +1,6 @@
 ---
 title: Fuentes desincrustadas
-linktitle: Unembed Fonts
+linktitle:Fuentes desincrustadas
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a usar Aspose.PDF para .NET para obtener fuentes no incrustadas y optimizar archivos PDF. Una guía paso a paso.
 type: docs

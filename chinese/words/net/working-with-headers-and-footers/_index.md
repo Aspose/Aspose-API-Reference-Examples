@@ -1,6 +1,6 @@
 ---
 title: 使用页眉和页脚
-linktitle: Working with Headers and Footers
+linktitle:使用页眉和页脚
 second_title: Aspose.Words for .NET API 参考
 description: 教程包含如何使用 Aspose.Words for .NET 从 Word 文档的前一部分创建页眉页脚和复制页眉页脚。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Crear segundo enfoque de PDF multicapa
-linktitle: Create Multilayer PDF Second Approach
+linktitle:Crear segundo enfoque de PDF multicapa
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a crear un PDF multicapa con Aspose.PDF para .NET. Guía paso a paso con código fuente para crear PDF dinámicos con texto e imágenes.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 获取邮件合并字段名称
-linktitle: Get Mail Merge Field Names
+linktitle:获取邮件合并字段名称
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 在您的 Word 文档中获取邮件合并字段名称。
 type: docs

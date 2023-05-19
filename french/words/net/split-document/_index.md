@@ -1,6 +1,6 @@
 ---
 title: Diviser le document
-linktitle: Split Document
+linktitle:Diviser le document
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les tutoriels contiennent par en-têtes html, par sections html, par sections, page par page, fusionnent des documents et par plage de pages
 type: docs

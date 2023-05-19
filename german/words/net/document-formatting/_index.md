@@ -1,6 +1,6 @@
 ---
 title: Dokumentformatierung
-linktitle: Document Formatting
+linktitle:Dokumentformatierung
 second_title: Aspose.Words für .NET API-Referenz
 description: Tutorials enthalten Leerzeichen zwischen asiatischem und lateinischem Text, Zeilenumbruchgruppen für asiatische Typografie, Absatzformatierung, mehrstufige Listenformatierung und die Anwendung des Absatzstils.
 type: docs

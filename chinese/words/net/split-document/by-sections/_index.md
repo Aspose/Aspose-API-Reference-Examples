@@ -1,6 +1,6 @@
 ---
 title: 按章节
-linktitle: By Sections
+linktitle:按章节
 second_title: Aspose.Words for .NET API 参考
 description: 通过完整的代码示例了解如何使用 Aspose.Words for .NET 将 Word 文档拆分为单独的部分。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 使用 Aspose Pdf 创建 PDF A1
-linktitle: Create PDF A1 With Aspose Pdf
+linktitle:使用 Aspose Pdf 创建 PDF A1
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 创建 PDF A1 文档。带 C# 源代码的分步指南。有效优化 PDF。
 type: docs

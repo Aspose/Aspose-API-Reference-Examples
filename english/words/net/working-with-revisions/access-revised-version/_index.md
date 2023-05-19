@@ -1,6 +1,6 @@
 ---
 title: Access Revised Version
-linktitle: Access Revised Version
+linktitle:Access Revised Version
 second_title: Aspose.Words for .NET API Reference
 description: Access a revised version of a Word document with Aspose.Words for .NET.
 type: docs

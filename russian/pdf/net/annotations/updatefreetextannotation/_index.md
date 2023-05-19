@@ -1,6 +1,6 @@
 ---
 title: Обновить аннотацию произвольного текста
-linktitle: Update Free Text Annotation
+linktitle:Обновить аннотацию произвольного текста
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как обновить функцию аннотаций произвольного текста в Aspose.PDF для .NET, используя исходный код C#.
 type: docs

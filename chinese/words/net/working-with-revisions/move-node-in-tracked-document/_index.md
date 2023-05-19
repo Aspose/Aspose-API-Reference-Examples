@@ -1,6 +1,6 @@
 ---
 title: 在跟踪文档中移动节点
-linktitle: Move Node In Tracked Document
+linktitle:在跟踪文档中移动节点
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 在跟踪文档中移动节点。
 type: docs

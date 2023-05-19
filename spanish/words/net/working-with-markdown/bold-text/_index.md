@@ -1,6 +1,6 @@
 ---
 title: Texto en negrita
-linktitle: Bold Text
+linktitle:Texto en negrita
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a poner texto en negrita con Aspose.Words para la guía paso a paso de .NET.
 type: docs

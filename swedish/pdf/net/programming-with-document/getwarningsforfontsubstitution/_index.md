@@ -1,6 +1,6 @@
 ---
 title: Få varningar för teckensnittsersättning
-linktitle: Get Warnings For Font Substitution
+linktitle:Få varningar för teckensnittsersättning
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du använder GetWarningsForFontSubstitution-funktionen i Aspose.PDF för .NET för att upptäcka varningar för teckensnittsersättning när du öppnar ett PDF-dokument.
 type: docs

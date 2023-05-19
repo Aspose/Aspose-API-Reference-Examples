@@ -1,6 +1,6 @@
 ---
 title: إنشاء وإضافة فقرة العقدة
-linktitle: Create And Add Paragraph Node
+linktitle:إنشاء وإضافة فقرة العقدة
 second_title: Aspose.Words لمراجع .NET API
 description: قم بإنشاء وإضافة عقدة فقرة إلى مستندات Word الخاصة بك باستخدام Aspose.Words for .NET.
 type: docs

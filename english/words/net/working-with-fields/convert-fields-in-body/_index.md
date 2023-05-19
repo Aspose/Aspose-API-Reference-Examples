@@ -1,6 +1,6 @@
 ---
 title: Convert Fields In Body
-linktitle: Convert Fields In Body
+linktitle:Convert Fields In Body
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to use Aspose.Words for .NET to convert Page fields to text in the body of a Word document.
 type: docs

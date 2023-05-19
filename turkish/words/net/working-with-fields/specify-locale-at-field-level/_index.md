@@ -1,6 +1,6 @@
 ---
 title: Alan Düzeyinde Yerel Ayarı Belirtin
-linktitle: Specify Locale At Field Level
+linktitle:Alan Düzeyinde Yerel Ayarı Belirtin
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinde alan düzeyinde yerelleştirmeyi nasıl belirteceğinizi öğrenin.
 type: docs

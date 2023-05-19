@@ -1,6 +1,6 @@
 ---
 title: Split Document
-linktitle: Split Document
+linktitle:Split Document
 second_title: Aspose.Words for .NET API Reference
 description: Tutorials contain by headings html, by sections html, by sections, page by page, merge documents and by page range
 type: docs

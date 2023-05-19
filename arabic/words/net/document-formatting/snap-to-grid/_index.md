@@ -1,6 +1,6 @@
 ---
 title: المفاجئة إلى الشبكة
-linktitle: Snap To Grid
+linktitle:المفاجئة إلى الشبكة
 second_title: Aspose.Words لمراجع .NET API
 description: دليل خطوة بخطوة لشرح كود مصدر C # لميزة Snap to Grid باستخدام Aspose.Words for .NET.
 type: docs

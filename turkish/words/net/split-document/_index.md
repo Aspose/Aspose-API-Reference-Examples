@@ -1,6 +1,6 @@
 ---
 title: Belgeyi Böl
-linktitle: Split Document
+linktitle:Belgeyi Böl
 second_title: Aspose.Words for .NET API Referansı
 description: Öğreticiler, html başlıklarına göre, html bölümlerine göre, bölümlere göre, sayfa sayfa, belgeleri birleştirme ve sayfa aralığına göre içerir
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Добавить аннотацию
-linktitle: Add Annotation
+linktitle:Добавить аннотацию
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как добавлять текстовые аннотации с помощью Aspose.PDF для .NET, используя этот исходный код C#. Настройте свои аннотации с конкретными деталями и значками.
 type: docs

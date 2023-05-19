@@ -1,6 +1,6 @@
 ---
 title: قراءة خصائص Active XControl
-linktitle: Read Active XControl Properties
+linktitle:قراءة خصائص Active XControl
 second_title: Aspose.Words لمراجع .NET API
 description: اقرأ خصائص عناصر تحكم ActiveX في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

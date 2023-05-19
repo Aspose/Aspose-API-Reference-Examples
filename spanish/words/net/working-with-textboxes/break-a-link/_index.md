@@ -1,6 +1,6 @@
 ---
 title: romper un enlace
-linktitle: Break A Link
+linktitle:romper un enlace
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a romper vínculos en un documento de Word con Aspose.Words para .NET.
 type: docs

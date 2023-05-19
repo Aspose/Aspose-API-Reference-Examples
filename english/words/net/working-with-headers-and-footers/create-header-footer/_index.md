@@ -1,6 +1,6 @@
 ---
 title: Create Header Footer
-linktitle: Create Header Footer
+linktitle:Create Header Footer
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to create headers and footers in your Word documents with Aspose.Words for .NET. Customize headers and footers for each page.
 type: docs

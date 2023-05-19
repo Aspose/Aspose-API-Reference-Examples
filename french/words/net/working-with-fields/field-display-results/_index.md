@@ -1,6 +1,6 @@
 ---
 title: Résultats d'affichage des champs
-linktitle: Field Display Results
+linktitle:Résultats d'affichage des champs
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Guide étape par étape pour afficher les résultats de champ dans vos documents Word avec Aspose.Words pour .NET.
 type: docs

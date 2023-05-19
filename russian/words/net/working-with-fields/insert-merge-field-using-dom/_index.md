@@ -1,6 +1,6 @@
 ---
 title: Вставьте поле слияния с помощью DOM
-linktitle: Insert Merge Field Using DOM
+linktitle:Вставьте поле слияния с помощью DOM
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставлять поля слияния настраиваемых полей в документы Word с помощью Aspose.Words для .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 移至段落
-linktitle: Move To Paragraph
+linktitle:移至段落
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 的移动到段落功能以编程方式导航和操作 Word 文档中的段落。
 type: docs

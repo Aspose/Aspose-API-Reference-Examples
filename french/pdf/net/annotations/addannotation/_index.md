@@ -1,6 +1,6 @@
 ---
 title: Ajouter une annotation
-linktitle: Add Annotation
+linktitle:Ajouter une annotation
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à ajouter des annotations de texte avec Aspose.PDF pour .NET à l'aide de ce code source C#. Personnalisez vos annotations avec des détails et des icônes spécifiques.
 type: docs

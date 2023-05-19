@@ -1,6 +1,6 @@
 ---
 title: إدراج صورة عائمة
-linktitle: Insert Floating Image
+linktitle:إدراج صورة عائمة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج الصور العائمة في مستندات Word باستخدام Aspose.Words for .NET. دليل خطوة بخطوة.
 type: docs

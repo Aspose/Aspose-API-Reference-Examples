@@ -1,6 +1,6 @@
 ---
 title: 将字段转换为段落
-linktitle: Convert Fields In Paragraph
+linktitle:将字段转换为段落
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 将 IF 字段转换为段落中的纯文本。
 type: docs

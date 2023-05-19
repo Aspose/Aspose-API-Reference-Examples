@@ -1,6 +1,6 @@
 ---
 title: Infoga formulärfält
-linktitle: Insert Form Fields
+linktitle:Infoga formulärfält
 second_title: Aspose.Words för .NET API Referens
 description: Lär dig hur du infogar dropdown-formulärfält i Word-dokument med Aspose.Words för .NET.
 type: docs

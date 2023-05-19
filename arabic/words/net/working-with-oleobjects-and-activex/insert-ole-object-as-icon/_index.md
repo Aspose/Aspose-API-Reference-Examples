@@ -1,6 +1,6 @@
 ---
 title: إدراج كائن Ole كرمز
-linktitle: Insert Ole Object As Icon
+linktitle:إدراج كائن Ole كرمز
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إدراج كائن OLE كرمز باستخدام Aspose.Words for .NET.
 type: docs

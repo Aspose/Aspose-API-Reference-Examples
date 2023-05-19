@@ -1,6 +1,6 @@
 ---
 title: 添加图层
-linktitle: Add Layers
+linktitle:添加图层
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 向 PDF 文件添加图层。包含用于创建和保存分层 PDF 的代码教程的分步指南。
 type: docs

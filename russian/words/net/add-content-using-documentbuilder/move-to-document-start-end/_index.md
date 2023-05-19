@@ -1,6 +1,6 @@
 ---
 title: Переместить в начало документа
-linktitle: Move To Document Start End
+linktitle:Переместить в начало документа
 second_title: Справочник по API Aspose.Words для .NET
 description: Из этого пошагового руководства вы узнаете, как использовать Aspose.Words для .NET для перехода к началу и концу документа в документах Word.
 type: docs

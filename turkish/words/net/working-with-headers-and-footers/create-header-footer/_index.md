@@ -1,6 +1,6 @@
 ---
 title: Üst Bilgi Alt Bilgi Oluştur
-linktitle: Create Header Footer
+linktitle:Üst Bilgi Alt Bilgi Oluştur
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile Word belgelerinizde üst bilgileri ve alt bilgileri nasıl oluşturacağınızı öğrenin. Her sayfa için üst bilgileri ve alt bilgileri özelleştirin.
 type: docs

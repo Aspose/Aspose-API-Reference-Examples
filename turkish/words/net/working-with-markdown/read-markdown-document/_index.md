@@ -1,6 +1,6 @@
 ---
 title: İşaretleme Belgesini Oku
-linktitle: Read Markdown Document
+linktitle:İşaretleme Belgesini Oku
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET Adım adım kılavuz ile işaretleme belgesini nasıl okuyacağınızı öğrenin.
 type: docs

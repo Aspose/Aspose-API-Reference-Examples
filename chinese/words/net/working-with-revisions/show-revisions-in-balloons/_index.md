@@ -1,6 +1,6 @@
 ---
 title: 在气球中显示评论
-linktitle: Show Revisions In Balloons
+linktitle:在气球中显示评论
 second_title: Aspose.Words for .NET API 参考
 description: 使用 Aspose.Words for .NET 在气球中显示修订。
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Convertir les champs dans le corps
-linktitle: Convert Fields In Body
+linktitle:Convertir les champs dans le corps
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Apprenez à utiliser Aspose.Words pour .NET pour convertir les champs Page en texte dans le corps d'un document Word.
 type: docs

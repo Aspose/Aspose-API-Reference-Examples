@@ -1,6 +1,6 @@
 ---
 title: Ana Düğümü Al
-linktitle: Get Parent Node
+linktitle:Ana Düğümü Al
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET ile belirli bir öğenin ana düğümünü nasıl alacağınızı öğrenin.
 type: docs

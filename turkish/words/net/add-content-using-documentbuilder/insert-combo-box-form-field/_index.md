@@ -1,6 +1,6 @@
 ---
 title: Açılan Kutu Form Alanı Ekle
-linktitle: Insert Combo Box Form Field
+linktitle:Açılan Kutu Form Alanı Ekle
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerine açılan kutu form alanlarını nasıl ekleyeceğinizi öğrenin. Adım adım rehber.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: 获取特定注释
-linktitle: Get Particular Annotation
+linktitle:获取特定注释
 second_title: Aspose.PDF for .NET API 参考
 description: 通过此分步指南了解如何使用 Aspose.PDF for .NET 在 PDF 文档中获取特定注释。
 type: docs

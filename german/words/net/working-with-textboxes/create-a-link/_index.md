@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie einen Link
-linktitle: Create A Link
+linktitle:Erstellen Sie einen Link
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET eine Verknüpfung zwischen Textfeldern in einem Word-Dokument erstellen.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Programmation avec Markdownsaveoptions
-linktitle: Programming With Markdownsaveoptions
+linktitle:Programmation avec Markdownsaveoptions
 second_title: Référence de l'API Aspose.Words pour .NET
 description: Les didacticiels contiennent l'exportation dans le démarquage avec l'alignement du contenu du tableau et le dossier d'images défini
 type: docs

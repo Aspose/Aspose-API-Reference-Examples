@@ -1,6 +1,6 @@
 ---
 title: Sayfadan Tüm Ek Açıklamaları Alın
-linktitle: Get All Annotations From Page
+linktitle:Sayfadan Tüm Ek Açıklamaları Alın
 second_title: Aspose.PDF for .NET API Referansı
 description: Bu adım adım kılavuz ile bir PDF sayfasından tüm açıklamaları almak için Aspose.PDF for .NET'i nasıl kullanacağınızı öğrenin.
 type: docs

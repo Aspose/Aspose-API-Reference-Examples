@@ -1,6 +1,6 @@
 ---
 title: إنشاء ارتباط
-linktitle: Create A Link
+linktitle:إنشاء ارتباط
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية إنشاء رابط بين TextBoxes في مستند Word باستخدام Aspose.Words for .NET.
 type: docs

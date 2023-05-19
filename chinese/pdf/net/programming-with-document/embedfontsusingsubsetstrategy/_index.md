@@ -1,6 +1,6 @@
 ---
 title: 使用子集策略嵌入字体
-linktitle: Embed Fonts Using Subset Strategy
+linktitle:使用子集策略嵌入字体
 second_title: Aspose.PDF for .NET API 参考
 description: 了解如何使用 Aspose.PDF for .NET 通过子集策略将字体嵌入 PDF 文件。通过仅嵌入必要的字符来优化您的 PDF 大小。
 type: docs

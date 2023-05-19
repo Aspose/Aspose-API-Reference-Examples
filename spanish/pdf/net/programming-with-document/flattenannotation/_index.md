@@ -1,6 +1,6 @@
 ---
 title: Aplanar anotación
-linktitle: Flatten Annotation
+linktitle:Aplanar anotación
 second_title: Referencia de API de Aspose.PDF para .NET
 description: Aprenda a acoplar anotaciones en un documento PDF con Aspose.PDF para .NET. Conservar las anotaciones y evitar alteraciones accidentales.
 type: docs

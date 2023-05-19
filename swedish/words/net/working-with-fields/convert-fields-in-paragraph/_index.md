@@ -1,6 +1,6 @@
 ---
 title: Konvertera fält i stycke
-linktitle: Convert Fields In Paragraph
+linktitle:Konvertera fält i stycke
 second_title: Aspose.Words för .NET API Referens
 description: Konvertera IF-fält till vanlig text i ett stycke med Aspose.Words för .NET.
 type: docs

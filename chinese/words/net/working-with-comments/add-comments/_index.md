@@ -1,6 +1,6 @@
 ---
 title: 添加评论
-linktitle: Add Comments
+linktitle:添加评论
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 向 Word 文档添加评论。
 type: docs

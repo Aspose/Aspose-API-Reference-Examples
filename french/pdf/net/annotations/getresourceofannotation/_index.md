@@ -1,6 +1,6 @@
 ---
 title: Obtenir la ressource d'annotation
-linktitle: Get Resource Of Annotation
+linktitle:Obtenir la ressource d'annotation
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à récupérer la ressource d'une annotation à l'aide d'Aspose.PDF pour .NET avec ce guide étape par étape.
 type: docs

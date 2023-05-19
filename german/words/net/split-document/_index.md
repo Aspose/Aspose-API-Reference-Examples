@@ -1,6 +1,6 @@
 ---
 title: Dokument teilen
-linktitle: Split Document
+linktitle:Dokument teilen
 second_title: Aspose.Words für .NET API-Referenz
 description: Tutorials enthalten HTML nach Überschriften, HTML nach Abschnitten, nach Abschnitten, Seite für Seite, Zusammenführungsdokumente und nach Seitenbereich
 type: docs

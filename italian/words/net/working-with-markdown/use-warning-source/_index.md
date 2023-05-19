@@ -1,6 +1,6 @@
 ---
 title: Usa la fonte di avviso
-linktitle: Use Warning Source
+linktitle:Usa la fonte di avviso
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come utilizzare la fonte di avviso con Aspose.Words per .NET Guida dettagliata.
 type: docs

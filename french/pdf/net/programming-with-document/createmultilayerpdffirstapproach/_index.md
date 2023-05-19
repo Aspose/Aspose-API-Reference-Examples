@@ -1,6 +1,6 @@
 ---
 title: Créer une première approche de PDF multicouche
-linktitle: Create Multilayer PDF First Approach
+linktitle:Créer une première approche de PDF multicouche
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à créer des documents PDF multicouches à l'aide de la première approche avec Aspose.PDF pour .NET. Ajoutez du texte, des images et plus encore pour améliorer vos PDF.
 type: docs

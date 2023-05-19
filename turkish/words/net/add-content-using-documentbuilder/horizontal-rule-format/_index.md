@@ -1,6 +1,6 @@
 ---
 title: Yatay Kural Formatı
-linktitle: Horizontal Rule Format
+linktitle:Yatay Kural Formatı
 second_title: Aspose.Words for .NET API Referansı
 description: Aspose.Words for .NET kullanarak Word belgelerinde yatay kuralları nasıl biçimlendireceğinizi öğrenin. Adım adım rehber.
 type: docs

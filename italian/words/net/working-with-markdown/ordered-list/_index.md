@@ -1,6 +1,6 @@
 ---
 title: Lista ordinata
-linktitle: Ordered List
+linktitle:Lista ordinata
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come creare un elenco ordinato con Aspose.Words per .NET Guida dettagliata.
 type: docs

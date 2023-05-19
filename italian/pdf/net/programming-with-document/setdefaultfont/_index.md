@@ -1,6 +1,6 @@
 ---
 title: Imposta carattere predefinito
-linktitle: Set Default Font
+linktitle:Imposta carattere predefinito
 second_title: Aspose.PDF per riferimento API .NET
 description: Scopri come impostare il carattere predefinito per un documento PDF utilizzando Aspose.PDF per .NET con questa guida dettagliata.
 type: docs

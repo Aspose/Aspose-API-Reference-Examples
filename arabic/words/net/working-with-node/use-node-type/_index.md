@@ -1,6 +1,6 @@
 ---
 title: استخدم نوع العقدة
-linktitle: Use Node Type
+linktitle:استخدم نوع العقدة
 second_title: Aspose.Words لمراجع .NET API
 description: تعرف على كيفية استخدام نوع العقدة للوصول إلى المعلومات الخاصة بالمستند باستخدام Aspose.Words for .NET.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Inserisci TCField
-linktitle: Insert TCField
+linktitle:Inserisci TCField
 second_title: Riferimento all'API Aspose.Words per .NET
 description: Scopri come inserire e manipolare i TCField nei documenti di Word utilizzando C# e Aspose.Words per .NET in questa guida dettagliata.
 type: docs

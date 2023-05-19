@@ -1,6 +1,6 @@
 ---
 title: Определить прогресс
-linktitle: Determine Progress
+linktitle:Определить прогресс
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как определить ход процесса преобразования PDF-документа с помощью Aspose.PDF для .NET с помощью этого пошагового руководства и примера кода.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Программирование с водяным знаком
-linktitle: Programming With Watermark
+linktitle:Программирование с водяным знаком
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники содержат добавление текстового водяного знака с определенными параметрами.
 type: docs

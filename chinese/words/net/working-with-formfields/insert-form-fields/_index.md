@@ -1,6 +1,6 @@
 ---
 title: 插入表单域
-linktitle: Insert Form Fields
+linktitle:插入表单域
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 将下拉表单字段插入到 Word 文档中。
 type: docs

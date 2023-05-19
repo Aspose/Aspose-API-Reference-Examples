@@ -1,6 +1,6 @@
 ---
 title: Fügen Sie ein Serienbrief-Adressblockfeld mithilfe von DOM ein
-linktitle: Insert Mail Merge Address Block Field Using DOM
+linktitle:Fügen Sie ein Serienbrief-Adressblockfeld mithilfe von DOM ein
 second_title: Aspose.Words für .NET API-Referenz
 description: Erfahren Sie, wie Sie mit Aspose.Words für .NET ein Mail-Merge-Adressblockfeld in Ihre Word-Dokumente einfügen.
 type: docs

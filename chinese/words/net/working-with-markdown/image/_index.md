@@ -1,6 +1,6 @@
 ---
 title: 图片
-linktitle: Image
+linktitle:图片
 second_title: Aspose.Words for .NET API 参考
 description: 了解如何使用 Aspose.Words for .NET 分步指南插入和自定义图像。
 type: docs

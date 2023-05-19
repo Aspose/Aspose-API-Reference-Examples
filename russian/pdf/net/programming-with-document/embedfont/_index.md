@@ -1,6 +1,6 @@
 ---
 title: Встроить шрифт
-linktitle: Embed Font
+linktitle:Встроить шрифт
 second_title: Aspose.PDF для справочника API .NET
 description: Из этого пошагового руководства вы узнаете, как встраивать шрифты в файл PDF с помощью Aspose.PDF для .NET. Убедитесь, что ваши документы корректно отображаются на любом устройстве.
 type: docs

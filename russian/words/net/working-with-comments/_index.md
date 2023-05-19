@@ -1,6 +1,6 @@
 ---
 title: Работа с комментариями
-linktitle: Working with Comments
+linktitle:Работа с комментариями
 second_title: Справочник по API Aspose.Words для .NET
 description: Учебники показывают, как добавлять комментарии, привязывать комментарии, добавлять/удалять ответы на комментарии, извлекать комментарии и разрешать комментарии и ответы в Aspose.Words для .NET.
 type: docs

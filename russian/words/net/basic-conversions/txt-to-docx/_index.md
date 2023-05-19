@@ -1,6 +1,6 @@
 ---
 title: Отправьте текст в документ
-linktitle: Txt To Docx
+linktitle:Отправьте текст в документ
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как конвертировать текстовые файлы (Txt) в документы Word (Docx) с помощью Aspose.Words для .NET. Пошаговое руководство с примером кода.
 type: docs

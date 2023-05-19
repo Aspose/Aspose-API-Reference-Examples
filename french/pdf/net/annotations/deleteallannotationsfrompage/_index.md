@@ -1,6 +1,6 @@
 ---
 title: Supprimer toutes les annotations de la page
-linktitle: Delete All Annotations From Page
+linktitle:Supprimer toutes les annotations de la page
 second_title: Référence de l'API Aspose.PDF pour .NET
 description: Apprenez à supprimer toutes les annotations d'une page PDF avec Aspose.PDF pour .NET à l'aide de ce guide étape par étape.
 type: docs

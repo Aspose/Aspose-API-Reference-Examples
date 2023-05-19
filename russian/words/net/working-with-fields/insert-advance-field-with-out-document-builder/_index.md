@@ -1,6 +1,6 @@
 ---
 title: Вставить дополнительное поле без построителя документов
-linktitle: Insert Advance Field Without Document Builder
+linktitle:Вставить дополнительное поле без построителя документов
 second_title: Справочник по API Aspose.Words для .NET
 description: Узнайте, как вставить расширенное поле в документы Word с помощью Aspose.Words для .NET.
 type: docs

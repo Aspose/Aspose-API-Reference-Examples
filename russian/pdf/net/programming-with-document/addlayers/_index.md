@@ -1,6 +1,6 @@
 ---
 title: Добавить слои
-linktitle: Add Layers
+linktitle:Добавить слои
 second_title: Aspose.PDF для справочника API .NET
 description: Узнайте, как добавлять слои в файлы PDF с помощью Aspose.PDF для .NET. Пошаговое руководство с учебными пособиями по коду для создания и сохранения многоуровневых PDF-файлов.
 type: docs

@@ -1,6 +1,6 @@
 ---
 title: Imagen
-linktitle: Image
+linktitle:Imagen
 second_title: Referencia de API de Aspose.Words para .NET
 description: Aprenda a insertar y personalizar imágenes con Aspose.Words para la guía paso a paso de .NET.
 type: docs

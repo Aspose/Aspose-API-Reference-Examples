@@ -11,4 +11,4 @@ url: /words/net/programming-with-officemath/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Math Equations](./math-equations/) | |
+| [Math Equations](./math-equations/) | Learn how to add math equations to your Word documents using Aspose.Words for .NET. |

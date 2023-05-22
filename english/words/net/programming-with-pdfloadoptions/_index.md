@@ -11,5 +11,5 @@ url: /words/net/programming-with-pdfloadoptions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Load Encrypted Pdf](./load-encrypted-pdf/) | |
-| [Load Page Range Of Pdf](./load-page-range-of-pdf/) | |
+| [Load Encrypted Pdf](./load-encrypted-pdf/) | Step-by-step guide to load an encrypted PDF using Aspose.Words for .NET. |
+| [Load Page Range Of Pdf](./load-page-range-of-pdf/) | Step-by-step guide to load a specific PDF page range with Aspose.Words for .NET. |

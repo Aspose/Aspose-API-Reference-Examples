@@ -11,5 +11,5 @@ url: /words/net/programming-with-table-of-content/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Change Style Of Toc Level](./change-style-of-toc-level/) | |
-| [Change Toc Tab Stops](./change-toc-tab-stops/) | |
+| [Change Style Of Toc Level](./change-style-of-toc-level/) | Learn how to easily change the style of a table of contents level in a Word document using Aspose.Words for .NET. |
+| [Change Toc Tab Stops](./change-toc-tab-stops/) | Learn how to change table of contents tabs in a Word document using Aspose.Words for .NET. |

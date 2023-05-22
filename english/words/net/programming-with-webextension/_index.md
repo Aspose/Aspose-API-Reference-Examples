@@ -11,4 +11,4 @@ url: /words/net/programming-with-webextension/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Using Web Extension Task Panes](./using-web-extension-task-panes/) | |
+| [Using Web Extension Task Panes](./using-web-extension-task-panes/) | Step-by-step guide to using Web Extension Task Panes with Aspose.Words for .NET. |

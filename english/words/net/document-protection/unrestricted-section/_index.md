@@ -66,26 +66,24 @@ Here is the complete source code for the unrestricted section using Aspose.Words
 
 ```csharp
 
-	// The path to the documents directory.
-	string dataDir = "YOUR DOCUMENT DIRECTORY";
-	// Insert two sections with some text.
-	Document doc = new Document();
-	DocumentBuilder builder = new DocumentBuilder(doc);
+// The path to the documents directory.
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+// Insert two sections with some text.
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
 
-	builder.Writeln("Section 1. Unprotected.");
-	builder.InsertBreak(BreakType.SectionBreakContinuous);
-	builder.Writeln("Section 2. Protected.");
+builder.Writeln("Section 1. Unprotected.");
+builder.InsertBreak(BreakType.SectionBreakContinuous);
+builder.Writeln("Section 2. Protected.");
 
-	// Section protection only works when document protection is turned and only editing in form fields is allowed.
-	doc.Protect(ProtectionType.AllowOnlyFormFields, "password");
+// Section protection only works when document protection is turned and only editing in form fields is allowed.
+doc.Protect(ProtectionType.AllowOnlyFormFields, "password");
 
-	// By default, all sections are protected, but we can selectively turn protection off.
-	doc.Sections[0].ProtectedForForms = false;
-	doc.Save(dataDir + "DocumentProtection.UnrestrictedSection.docx");
+// By default, all sections are protected, but we can selectively turn protection off.
+doc.Sections[0].ProtectedForForms = false;
+doc.Save(dataDir + "DocumentProtection.UnrestrictedSection.docx");
 
-	doc = new Document(dataDir + "DocumentProtection.UnrestrictedSection.docx");
-	Assert.False(doc.Sections[0].ProtectedForForms);
-	Assert.True(doc.Sections[1].ProtectedForForms);
+doc = new Document(dataDir + "DocumentProtection.UnrestrictedSection.docx");
 
 ```
 

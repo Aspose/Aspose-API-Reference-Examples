@@ -11,4 +11,4 @@ url: /words/net/programming-with-pclsaveoptions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Rasterize Transformed Elements](./rasterize-transformed-elements/) | |
+| [Rasterize Transformed Elements](./rasterize-transformed-elements/) | Learn how to disable rasterization of transformed elements when converting to PCL format with Aspose.Words for .NET. |

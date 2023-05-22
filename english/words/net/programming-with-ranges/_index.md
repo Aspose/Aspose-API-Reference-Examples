@@ -11,5 +11,5 @@ url: /words/net/programming-with-ranges/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Ranges Delete Text](./ranges-delete-text/) | |
-| [Ranges Get Text](./ranges-get-text/) | |
+| [Ranges Delete Text](./ranges-delete-text/) | Learn how to delete text in specific ranges in a Word document using Aspose.Words for .NET. |
+| [Ranges Get Text](./ranges-get-text/) | Learn how to easily extract text from a Word document using Aspose.Words for .NET. |

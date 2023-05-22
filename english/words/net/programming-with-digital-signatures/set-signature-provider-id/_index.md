@@ -15,8 +15,8 @@ In this tutorial, we'll walk you through the steps to use the Set Signature Prov
 Start by uploading the document containing the signature line:
 
 ```csharp
-string dataDir = "YOUR DOCUMENTS DIRECTORY";
-Document doc = new Document("YourPathToTheDocument.docx");
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document(dataDir + "Signature line.docx");
 
 SignatureLine signatureLine = ((Shape)doc.FirstSection.Body.GetChild(NodeType.Shape, 0, true)).SignatureLine;
 ```
@@ -38,9 +38,9 @@ ProviderId = signatureLine.ProviderId,
 To sign the document, you must use the DigitalSignatureUtil class and specify the signing certificate:
 
 ```csharp
-CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 
-DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx",
+DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx",
 	dataDir + "SignDocuments.SetSignatureProviderId.docx", certHolder, signOptions);
 ```
 
@@ -54,7 +54,7 @@ Here is the complete source code to set the signature provider ID with Aspose.Wo
 
 	// The path to the documents directory.
 	string dataDir = "YOUR DOCUMENT DIRECTORY";
-	Document doc = new Document(MyDir + "Signature line.docx");
+	Document doc = new Document(dataDir + "Signature line.docx");
 
 	SignatureLine signatureLine =
 		((Shape) doc.FirstSection.Body.GetChild(NodeType.Shape, 0, true)).SignatureLine;
@@ -64,9 +64,9 @@ Here is the complete source code to set the signature provider ID with Aspose.Wo
 		ProviderId = signatureLine.ProviderId, SignatureLineId = signatureLine.Id
 	};
 
-	CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+	CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 
-	DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx",
+	DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx",
 		dataDir + "SignDocuments.SetSignatureProviderId.docx", certHolder, signOptions);
 
 ```

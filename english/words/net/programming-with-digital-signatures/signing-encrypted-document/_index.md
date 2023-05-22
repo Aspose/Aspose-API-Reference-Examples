@@ -26,7 +26,7 @@ Be sure to specify the correct decryption password for your encrypted document.
 Start by loading the signing certificate using the CertificateHolder class:
 
 ```csharp
-CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 ```
 
 Be sure to specify the correct path to your certificate and associated password.
@@ -36,7 +36,7 @@ Be sure to specify the correct path to your certificate and associated password.
 Use the DigitalSignatureUtil class to sign the encrypted document:
 
 ```csharp
-DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx", dataDir + "Document.EncryptedDocument.docx",
+DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.EncryptedDocument.docx",
 	certHolder, signOptions);
 ```
 
@@ -52,9 +52,9 @@ Here is the complete source code to sign an encrypted document with Aspose.Words
 	string dataDir = "YOUR DOCUMENT DIRECTORY";
 	SignOptions signOptions = new SignOptions { DecryptionPassword = "decryptionPassword" };
 
-	CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+	CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 	
-	DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx", dataDir + "Document.EncryptedDocument.docx",
+	DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.EncryptedDocument.docx",
 		certHolder, signOptions);
 	
 

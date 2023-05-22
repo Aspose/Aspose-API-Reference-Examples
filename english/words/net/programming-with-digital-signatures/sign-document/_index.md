@@ -16,7 +16,7 @@ Start by loading the signing certificate using the CertificateHolder class:
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
-CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 ```
 
 Be sure to specify the correct path to your certificate and associated password.
@@ -26,7 +26,7 @@ Be sure to specify the correct path to your certificate and associated password.
 Use the DigitalSignatureUtil class to sign the document:
 
 ```csharp
-DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx", dataDir + "Document.Signed.docx",
+DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx",
 	certHolder);
 ```
 
@@ -40,9 +40,9 @@ Here is the complete source code to sign a document with Aspose.Words for .NET:
 
 	// The path to the documents directory.
 	string dataDir = "YOUR DOCUMENT DIRECTORY";
-	CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+	CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 	
-	DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx", dataDir + "Document.Signed.docx",
+	DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx",
 		certHolder);
 
 ```

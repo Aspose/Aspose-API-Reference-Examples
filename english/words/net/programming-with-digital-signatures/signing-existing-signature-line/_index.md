@@ -15,8 +15,8 @@ In this tutorial, we'll walk you through the steps to use the signature feature 
 Start by uploading the document containing the existing signature line:
 
 ```csharp
-string dataDir = "YOUR DOCUMENTS DIRECTORY";
-Document doc = new Document("YourPathToTheDocument.docx");
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document(dataDir + "Signature line.docx");
 
 SignatureLine signatureLine = ((Shape)doc.FirstSection.Body.GetChild(NodeType.Shape, 0, true)).SignatureLine;
 ```
@@ -40,7 +40,7 @@ Be sure to specify the correct path to the signature line image.
 Start by loading the signing certificate using the CertificateHolder class:
 
 ```csharp
-CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 ```
 
 Be sure to specify the correct path to your certificate and associated password.
@@ -50,7 +50,7 @@ Be sure to specify the correct path to your certificate and associated password.
 Use the DigitalSignatureUtil class to sign the existing signature line:
 
 ```csharp
-DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx",
+DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx",
 	dataDir + "SignDocuments.SigningExistingSignatureLine.docx", certHolder, signOptions);
 ```
 
@@ -65,7 +65,7 @@ Here is the complete source code to sign an existing signature line with Aspose.
 
 	// The path to the documents directory.
 	string dataDir = "YOUR DOCUMENT DIRECTORY";
-	Document doc = new Document(MyDir + "Signature line.docx");
+	Document doc = new Document(dataDir + "Signature line.docx");
 	
 	SignatureLine signatureLine =
 		((Shape) doc.FirstSection.Body.GetChild(NodeType.Shape, 0, true)).SignatureLine;
@@ -76,9 +76,9 @@ Here is the complete source code to sign an existing signature line with Aspose.
 		SignatureLineImage = File.ReadAllBytes(ImagesDir + "Enhanced Windows MetaFile.emf")
 	};
 
-	CertificateHolder certHolder = CertificateHolder.Create(MyDir + "morzal.pfx", "aw");
+	CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 	
-	DigitalSignatureUtil.Sign(MyDir + "Digitally signed.docx",
+	DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx",
 		dataDir + "SignDocuments.SigningExistingSignatureLine.docx", certHolder, signOptions);
 	
 

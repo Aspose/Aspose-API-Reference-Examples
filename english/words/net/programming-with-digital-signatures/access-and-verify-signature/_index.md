@@ -14,7 +14,8 @@ In this tutorial, we will guide you through the steps to use the access and sign
 Start by uploading the document containing digital signatures:
 
 ```csharp
-Document doc = new Document("YourPathToTheDocument.docx");
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+Document doc = new Document(dataDir + "Digitally signed.docx");
 ```
 
 ## Step 2: Browse Digital Signatures
@@ -43,8 +44,10 @@ Be sure to customize the display messages according to your needs.
 Here is the complete source code for access and signature verification using Aspose.Words for .NET:
 
 ```csharp
-
-	Document doc = new Document(MyDir + "Digitally signed.docx");
+	
+	// The path to the documents directory.
+	string dataDir = "YOUR DOCUMENT DIRECTORY";
+	Document doc = new Document(dataDir + "Digitally signed.docx");
 
 	foreach (DigitalSignature signature in doc.DigitalSignatures)
 	{

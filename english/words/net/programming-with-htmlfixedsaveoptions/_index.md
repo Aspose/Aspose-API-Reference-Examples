@@ -11,5 +11,5 @@ url: /words/net/programming-with-htmlfixedsaveoptions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Use Font From Target Machine](./use-font-from-target-machine/) | |
-| [Write All Css Rules In Single File](./write-all-css-rules-in-single-file/) | |
+| [Use Font From Target Machine](./use-font-from-target-machine/) | Learn how to convert a Word document to fixed HTML using the target machine's fonts with Aspose.Words for .NET. |
+| [Write All Css Rules In Single File](./write-all-css-rules-in-single-file/) | Learn how to convert a Word document to fixed HTML by writing all CSS rules in a single file with Aspose.Words for .NET. |

@@ -11,4 +11,4 @@ url: /words/net/programming-with-htmlloadoptions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Preferred Control Type](./preferred-control-type/) | |
+| [Preferred Control Type](./preferred-control-type/) | Step-by-step guide to specifying the preferred control type when loading an HTML document with Aspose.Words for .NET. |

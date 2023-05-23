@@ -11,12 +11,12 @@ url: /words/net/programming-with-document-options-and-settings/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Optimize For Ms Word](./optimize-for-ms-word/) | |
-| [Show Grammatical And Spelling Errors](./show-grammatical-and-spelling-errors/) | |
-| [Cleanup Unused Styles And Lists](./cleanup-unused-styles-and-lists/) | |
-| [Cleanup Duplicate Style](./cleanup-duplicate-style/) | |
-| [View Options](./view-options/) | |
-| [Document Page Setup](./document-page-setup/) | |
-| [Add Japanese As Editing Languages](./add-japanese-as-editing-languages/) | |
-| [Set Russian As Default Editing Language](./set-russian-as-default-editing-language/) | |
-| [Set Page Setup And Section Formatting](./set-page-setup-and-section-formatting/) | |
+| [Optimize For Ms Word](./optimize-for-ms-word/) | Step-by-step guide to optimizing a document for MS Word with Aspose.Words for .NET. |
+| [Show Grammatical And Spelling Errors](./show-grammatical-and-spelling-errors/) | Step-by-step guide to enable display of grammatical and spelling errors in a document with Aspose.Words for .NET. |
+| [Cleanup Unused Styles And Lists](./cleanup-unused-styles-and-lists/) | Step-by-step guide to cleaning up unused styles and lists in a document with Aspose.Words for .NET. |
+| [Cleanup Duplicate Style](./cleanup-duplicate-style/) | Step by step guide to clean up duplicate styles in a document using Aspose.Words for .NET. Full source code included. |
+| [View Options](./view-options/) | Step-by-step guide to configure document display options with Aspose.Words for .NET. |
+| [Document Page Setup](./document-page-setup/) | Step-by-step guide to setting up a document layout with Aspose.Words for .NET. |
+| [Add Japanese As Editing Languages](./add-japanese-as-editing-languages/) | Step-by-step guide to add Japanese as an editing language with Aspose.Words for .NET. |
+| [Set Russian As Default Editing Language](./set-russian-as-default-editing-language/) | Step-by-step guide to set Russian as the default editing language of a document with Aspose.Words for .NET. |
+| [Set Page Setup And Section Formatting](./set-page-setup-and-section-formatting/) | Step-by-step guide to setting up a document's layout and section formatting with Aspose.Words for .NET. |

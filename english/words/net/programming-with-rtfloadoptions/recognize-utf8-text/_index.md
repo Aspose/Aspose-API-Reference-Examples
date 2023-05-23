@@ -1,11 +1,11 @@
 ---
-title: Recognize Utf 8Text
-linktitle: Recognize Utf 8Text
+title: Recognize Utf8 Text
+linktitle: Recognize Utf8 Text
 second_title: Aspose.Words for .NET API Reference
 description: Learn how to recognize Utf-8 characters in RTF documents with Aspose.Words for .NET. Ensure data integrity.
 type: docs
 weight: 10
-url: /words/net/programming-with-rtfloadoptions/recognize-utf-8text/
+url: /words/net/programming-with-rtfloadoptions/recognize-utf8-text/
 ---
 
 In this tutorial, we will explore the C# source code provided for the "Recognize UTF-8 text with RTF load options" feature with Aspose.Words for .NET. This feature allows you to specify recognition of UTF-8 encoded text when loading an RTF document.

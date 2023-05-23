@@ -11,4 +11,4 @@ url: /words/net/programming-with-rtfsaveoptions/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Saving Images As Wmf](./saving-images-as-wmf/) | |
+| [Saving Images As Wmf](./saving-images-as-wmf/) | Learn how to save images as WMF when converting to RTF with Aspose.Words for .NET. |

@@ -11,11 +11,11 @@ url: /words/net/programming-with-document-properties/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Get Variables](./get-variables/) | |
-| [Enumerate Properties](./enumerate-properties/) | |
-| [Add Custom Document Properties](./add-custom-document-properties/) | |
-| [Remove Custom Document Properties](./remove-custom-document-properties/) | |
-| [Remove Personal Information](./remove-personal-information/) | |
-| [Configuring Link To Content](./configuring-link-to-content/) | |
-| [Convert Between Measurement Units](./convert-between-measurement-units/) | |
-| [Use Control Characters](./use-control-characters/) | |
+| [Get Variables](./get-variables/) | Step-by-step guide to retrieve document variables with Aspose.Words for .NET. |
+| [Enumerate Properties](./enumerate-properties/) | Step-by-step guide to enumerating document properties with Aspose.Words for .NET. |
+| [Add Custom Document Properties](./add-custom-document-properties/) | Step by step guide to add custom properties to a document with Aspose.Words for .NET. |
+| [Remove Custom Document Properties](./remove-custom-document-properties/) | Step-by-step guide to remove custom properties from a document with Aspose.Words for .NET. |
+| [Remove Personal Information](./remove-personal-information/) | Step-by-step guide to removing personal information from a document with Aspose.Words for .NET. |
+| [Configuring Link To Content](./configuring-link-to-content/) | Step-by-step guide to setting up linking to content in a document with Aspose.Words for .NET. |
+| [Convert Between Measurement Units](./convert-between-measurement-units/) | Step-by-step guide to converting between measurement units in a document with Aspose.Words for .NET. |
+| [Use Control Characters](./use-control-characters/) | Step-by-step guide to using control characters with Aspose.Words for .NET. |

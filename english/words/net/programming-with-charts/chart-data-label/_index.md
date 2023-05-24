@@ -7,21 +7,16 @@ type: docs
 weight: 10
 url: /words/net/programming-with-charts/chart-data-label/
 ---
-
-
-
-
+### Sample source code for Chart Data Label using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
-
             Shape shape = builder.InsertChart(ChartType.Bar, 432, 252);
-
             Chart chart = shape.Chart;
             ChartSeries series0 = shape.Chart.Series[0];
-
             ChartDataLabelCollection labels = series0.DataLabels;
             labels.ShowLegendKey = true;
             // By default, when you add data labels to the data points in a pie chart, leader lines are displayed for data labels that are
@@ -34,9 +29,5 @@ url: /words/net/programming-with-charts/chart-data-label/
             labels.ShowValue = true;
             labels.Separator = "/";
             labels.ShowValue = true;
-            
-            doc.Save(ArtifactsDir + "WorkingWithCharts.ChartDataLabel.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithCharts.ChartDataLabel.docx");
 ```
-

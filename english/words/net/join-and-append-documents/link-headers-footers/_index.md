@@ -7,26 +7,18 @@ type: docs
 weight: 10
 url: /words/net/join-and-append-documents/link-headers-footers/
 ---
-
-
-
-
+### Sample source code for Link Headers Footers using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
-            Document srcDoc = new Document(MyDir + "Document source.docx");
-            Document dstDoc = new Document(MyDir + "Northwind traders.docx");
-
+            Document srcDoc = new Document(dataDir + "Document source.docx");
+            Document dstDoc = new Document(dataDir + "Northwind traders.docx");
             // Set the appended document to appear on a new page.
             srcDoc.FirstSection.PageSetup.SectionStart = SectionStart.NewPage;
             // Link the headers and footers in the source document to the previous section.
             // This will override any headers or footers already found in the source document.
             srcDoc.FirstSection.HeadersFooters.LinkToPrevious(true);
-
             dstDoc.AppendDocument(srcDoc, ImportFormatMode.KeepSourceFormatting);
-
-            dstDoc.Save(ArtifactsDir + "JoinAndAppendDocuments.LinkHeadersFooters.docx");
-            
-        
+            dstDoc.Save(dataDir + "JoinAndAppendDocuments.LinkHeadersFooters.docx");
 ```
-

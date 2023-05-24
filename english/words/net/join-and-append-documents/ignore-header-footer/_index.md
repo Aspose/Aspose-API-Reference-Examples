@@ -7,22 +7,14 @@ type: docs
 weight: 10
 url: /words/net/join-and-append-documents/ignore-header-footer/
 ---
-
-
-
-
+### Sample source code for Ignore Header Footer using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
-            Document srcDocument = new Document(MyDir + "Document source.docx");
-            Document dstDocument = new Document(MyDir + "Northwind traders.docx");
-
+            Document srcDocument = new Document(dataDir + "Document source.docx");
+            Document dstDocument = new Document(dataDir + "Northwind traders.docx");
             ImportFormatOptions importFormatOptions = new ImportFormatOptions { IgnoreHeaderFooter = false };
-
             dstDocument.AppendDocument(srcDocument, ImportFormatMode.KeepSourceFormatting, importFormatOptions);
-            
-            dstDocument.Save(ArtifactsDir + "JoinAndAppendDocuments.IgnoreHeaderFooter.docx");
-            
-        
+            dstDocument.Save(dataDir + "JoinAndAppendDocuments.IgnoreHeaderFooter.docx");
 ```
-

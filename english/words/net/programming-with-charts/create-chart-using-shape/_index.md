@@ -7,30 +7,20 @@ type: docs
 weight: 10
 url: /words/net/programming-with-charts/create-chart-using-shape/
 ---
-
-
-
-
+### Sample source code for Create Chart Using Shape using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
-
             Shape shape = builder.InsertChart(ChartType.Line, 432, 252);
-
             Chart chart = shape.Chart;
             chart.Title.Show = true;
             chart.Title.Text = "Line Chart Title";
             chart.Title.Overlay = false;
-
             // Please note if null or empty value is specified as title text, auto generated title will be shown.
-
             chart.Legend.Position = LegendPosition.Left;
             chart.Legend.Overlay = true;
-            
-            doc.Save(ArtifactsDir + "WorkingWithCharts.CreateChartUsingShape.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithCharts.CreateChartUsingShape.docx");
 ```
-

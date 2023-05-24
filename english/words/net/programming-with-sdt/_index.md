@@ -18,7 +18,7 @@ url: /words/net/programming-with-sdt/
 | [Rich Text Box Content Control](./rich-text-box-content-control/) | |
 | [Set Content Control Color](./set-content-control-color/) | |
 | [Clear Contents Control](./clear-contents-control/) | |
-| [Bind Sd Tto Custom Xml Part](./bind-sd-tto-custom-xml-part/) | |
+| [Bind SDT to Custom Xml Part](./bind-sdt-to-custom-xml-part/) | |
 | [Set Content Control Style](./set-content-control-style/) | |
 | [Creating Table Repeating Section Mapped To Custom Xml Part](./creating-table-repeating-section-mapped-to-custom-xml-part/) | |
 | [Multi Section](./multi-section/) | |

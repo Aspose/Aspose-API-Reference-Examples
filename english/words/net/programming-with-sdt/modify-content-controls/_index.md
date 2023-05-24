@@ -7,15 +7,12 @@ type: docs
 weight: 10
 url: /words/net/programming-with-sdt/modify-content-controls/
 ---
-
-
-
-
+### Sample source code for Modify Content Controls using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
-            Document doc = new Document(MyDir + "Structured document tags.docx");
-
+            Document doc = new Document(dataDir + "Structured document tags.docx");
             foreach (StructuredDocumentTag sdt in doc.GetChildNodes(NodeType.StructuredDocumentTag, true))
             {
                 switch (sdt.SdtType)
@@ -41,14 +38,9 @@ url: /words/net/programming-with-sdt/modify-content-controls/
                         {
                             shape.ImageData.SetImage(ImagesDir + "Watermark.png");
                         }
-
                         break;
                     }
                 }
             }
-            
-            doc.Save(ArtifactsDir + "WorkingWithSdt.ModifyContentControls.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithSdt.ModifyContentControls.docx");
 ```
-

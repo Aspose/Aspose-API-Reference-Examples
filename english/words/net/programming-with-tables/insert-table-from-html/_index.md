@@ -7,16 +7,13 @@ type: docs
 weight: 10
 url: /words/net/programming-with-tables/insert-table-from-html/
 ---
-
-
-
-
+### Sample source code for Insert Table From Html using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
-
             // Note that AutoFitSettings does not apply to tables inserted from HTML.
             builder.InsertHtml("<table>" +
                                "<tr>" +
@@ -28,9 +25,5 @@ url: /words/net/programming-with-tables/insert-table-from-html/
                                "<td>Row 2, Cell 2</td>" +
                                "</tr>" +
                                "</table>");
-
-            doc.Save(ArtifactsDir + "WorkingWithTables.InsertTableFromHtml.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithTables.InsertTableFromHtml.docx");
 ```
-

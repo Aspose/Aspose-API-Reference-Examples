@@ -7,19 +7,15 @@ type: docs
 weight: 10
 url: /words/net/working-with-fonts/set-fonts-folders-with-priority/
 ---
-
-
-
-
+### Sample source code for Set Fonts Folders With Priority using Aspose.Words for .NET 
 ```csharp
-            
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+
             FontSettings.DefaultInstance.SetFontsSources(new FontSourceBase[]
             {
                 new SystemFontSource(), new FolderFontSource("C:\\MyFonts\\", true,1)
             });
-            
-
-            Document doc = new Document(MyDir + "Rendering.docx");
-            doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontsFoldersWithPriority.pdf");
+            Document doc = new Document(dataDir + "Rendering.docx");
+            doc.Save(dataDir + "WorkingWithFonts.SetFontsFoldersWithPriority.pdf");
 ```
-

@@ -7,10 +7,7 @@ type: docs
 weight: 10
 url: /words/net/working-with-vba-macros/get-lib-id-path/
 ---
-
-
-
-
+### Sample source code for Get Lib Id Path using Aspose.Words for .NET 
 ```csharp
 	private string GetLibIdPath(VbaReference reference)
         {
@@ -27,4 +24,3 @@ url: /words/net/working-with-vba-macros/get-lib-id-path/
 			}
 		}
 ```
-

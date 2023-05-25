@@ -7,20 +7,14 @@ type: docs
 weight: 10
 url: /words/net/working-with-vba-macros/modify-vba-macros/
 ---
-
-
-
-
+### Sample source code for Modify Vba Macros using Aspose.Words for .NET 
 ```csharp
-	Document doc = new Document(MyDir + "VBA project.docm");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
+	Document doc = new Document(dataDir + "VBA project.docm");
 	VbaProject project = doc.VbaProject;
-
 	const string newSourceCode = "Test change source code";
 	project.Modules[0].SourceCode = newSourceCode;
-	
-	
-	doc.Save(ArtifactsDir + "WorkingWithVba.ModifyVbaMacros.docm");
-            
+	doc.Save(dataDir + "WorkingWithVba.ModifyVbaMacros.docm");
 ```
-

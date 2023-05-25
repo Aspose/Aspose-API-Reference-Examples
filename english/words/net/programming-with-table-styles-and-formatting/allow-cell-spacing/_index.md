@@ -7,21 +7,14 @@ type: docs
 weight: 10
 url: /words/net/programming-with-table-styles-and-formatting/allow-cell-spacing/
 ---
-
-
-
-
+### Sample source code for Allow Cell Spacing using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
-            Document doc = new Document(MyDir + "Tables.docx");
-
+            Document doc = new Document(dataDir + "Tables.docx");
             Table table = (Table) doc.GetChild(NodeType.Table, 0, true);
             table.AllowCellSpacing = true;
             table.CellSpacing = 2;
-            
-            doc.Save(ArtifactsDir + "WorkingWithTableStylesAndFormatting.AllowCellSpacing.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithTableStylesAndFormatting.AllowCellSpacing.docx");
 ```
-

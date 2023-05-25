@@ -7,14 +7,12 @@ type: docs
 weight: 10
 url: /words/net/working-with-fonts/set-true-type-fonts-folder/
 ---
-
-
-
-
+### Sample source code for Set True Type Fonts Folder using Aspose.Words for .NET 
 ```csharp
-            
-            Document doc = new Document(MyDir + "Rendering.docx");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
+            Document doc = new Document(dataDir + "Rendering.docx");
             FontSettings fontSettings = new FontSettings();
             // Note that this setting will override any default font sources that are being searched by default. Now only these folders will be searched for
             // Fonts when rendering or embedding fonts. To add an extra font source while keeping system font sources then use both FontSettings.GetFontSources and
@@ -22,8 +20,5 @@ url: /words/net/working-with-fonts/set-true-type-fonts-folder/
             fontSettings.SetFontsFolder(@"C:\MyFonts\", false);
             // Set font settings
             doc.FontSettings = fontSettings;
-            
-            doc.Save(ArtifactsDir + "WorkingWithFonts.SetTrueTypeFontsFolder.pdf");
-            
+            doc.Save(dataDir + "WorkingWithFonts.SetTrueTypeFontsFolder.pdf");
 ```
-

@@ -7,13 +7,12 @@ type: docs
 weight: 10
 url: /words/net/working-with-vba-macros/read-vba-macros/
 ---
-
-
-
-
+### Sample source code for Read Vba Macros using Aspose.Words for .NET 
 ```csharp
-	Document doc = new Document(MyDir + "VBA project.docm");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
+	Document doc = new Document(dataDir + "VBA project.docm");
 	if (doc.VbaProject != null)
 	{
 		foreach (VbaModule module in doc.VbaProject.Modules)
@@ -21,6 +20,4 @@ url: /words/net/working-with-vba-macros/read-vba-macros/
 			Console.WriteLine(module.SourceCode);
 		}
 	}
-            
 ```
-

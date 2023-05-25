@@ -7,15 +7,12 @@ type: docs
 weight: 10
 url: /words/net/programming-with-tables/get-floating-table-position/
 ---
-
-
-
-
+### Sample source code for Get Floating Table Position using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
-            Document doc = new Document(MyDir + "Table wrapped by text.docx");
-            
+            Document doc = new Document(dataDir + "Table wrapped by text.docx");
             foreach (Table table in doc.FirstSection.Body.Tables)
             {
                 // If the table is floating type, then print its positioning properties.
@@ -31,7 +28,4 @@ url: /words/net/programming-with-tables/get-floating-table-position/
                     Console.WriteLine("..............................");
                 }
             }
-            
-        
 ```
-

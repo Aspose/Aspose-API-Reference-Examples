@@ -7,20 +7,14 @@ type: docs
 weight: 10
 url: /words/net/working-with-fonts/set-font-fallback-settings/
 ---
-
-
-
-
+### Sample source code for Set Font Fallback Settings using Aspose.Words for .NET 
 ```csharp
-            
-            Document doc = new Document(MyDir + "Rendering.docx");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
+            Document doc = new Document(dataDir + "Rendering.docx");
             FontSettings fontSettings = new FontSettings();
-            fontSettings.FallbackSettings.Load(MyDir + "Font fallback rules.xml");
-            
+            fontSettings.FallbackSettings.Load(dataDir + "Font fallback rules.xml");
             doc.FontSettings = fontSettings;
-            
-            doc.Save(ArtifactsDir + "WorkingWithFonts.SetFontFallbackSettings.pdf");
-            
+            doc.Save(dataDir + "WorkingWithFonts.SetFontFallbackSettings.pdf");
 ```
-

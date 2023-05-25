@@ -11,13 +11,13 @@ url: /words/net/working-with-section/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Add Section](./add-section/) | |
-| [Delete Section](./delete-section/) | |
-| [Delete All Sections](./delete-all-sections/) | |
-| [Append Section Content](./append-section-content/) | |
-| [Clone Section](./clone-section/) | |
-| [Copy Section](./copy-section/) | |
-| [Delete Header Footer Content](./delete-header-footer-content/) | |
-| [Delete Section Content](./delete-section-content/) | |
-| [Modify Page Setup In All Sections](./modify-page-setup-in-all-sections/) | |
-| [Sections Access By Index](./sections-access-by-index/) | |
+| [Add Section](./add-section/) | In this tutorial, learn how to add a section to a Word document using Aspose.Words for .NET. Step-by-step guide to structure your document. |
+| [Delete Section](./delete-section/) | In this tutorial, learn how to remove a specific section from a Word document with Aspose.Words for .NET. |
+| [Delete All Sections](./delete-all-sections/) | In this tutorial, learn how to remove all sections from a Word document using Aspose.Words for .NET. |
+| [Append Section Content](./append-section-content/) | In this tutorial, learn how to add content to specific sections of a Word document using Aspose.Words for .NET.  |
+| [Clone Section](./clone-section/) | In this tutorial, learn how to clone a section in a Word document using Aspose.Words for .NET. Step by step guide. |
+| [Copy Section](./copy-section/) | In this tutorial, learn how to copy a section from a Word document to another document using Aspose.Words for .NET. |
+| [Delete Header Footer Content](./delete-header-footer-content/) | In this tutorial, learn how to remove header and footer content from a Word document with Aspose.Words for .NET.  |
+| [Delete Section Content](./delete-section-content/) | In this tutorial, learn how to delete content from a specific section of a Word document with Aspose.Words for .NET. |
+| [Modify Page Setup In All Sections](./modify-page-setup-in-all-sections/) | In this tutorial, learn how to modify the page setup in all sections of a Word document with Aspose.Words for .NET. |
+| [Sections Access By Index](./sections-access-by-index/) | In this tutorial, learn how to access sections of a Word document by index and change their settings with Aspose.Words for .NET. |

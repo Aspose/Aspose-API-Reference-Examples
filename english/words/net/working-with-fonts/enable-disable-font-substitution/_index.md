@@ -7,21 +7,15 @@ type: docs
 weight: 10
 url: /words/net/working-with-fonts/enable-disable-font-substitution/
 ---
-
-
-
-
+### Sample source code for Enable Disable Font Substitution using Aspose.Words for .NET 
 ```csharp
-            
-            Document doc = new Document(MyDir + "Rendering.docx");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
+            Document doc = new Document(dataDir + "Rendering.docx");
             FontSettings fontSettings = new FontSettings();
             fontSettings.SubstitutionSettings.DefaultFontSubstitution.DefaultFontName = "Arial";
             fontSettings.SubstitutionSettings.FontInfoSubstitution.Enabled = false;
-            
             doc.FontSettings = fontSettings;
-            
-            doc.Save(ArtifactsDir + "WorkingWithFonts.EnableDisableFontSubstitution.pdf");
-            
+            doc.Save(dataDir + "WorkingWithFonts.EnableDisableFontSubstitution.pdf");
 ```
-

@@ -7,15 +7,12 @@ type: docs
 weight: 10
 url: /words/net/working-with-vba-macros/clone-vba-project/
 ---
-
-
-
-
+### Sample source code for Clone Vba Project using Aspose.Words for .NET 
 ```csharp
-	Document doc = new Document(MyDir + "VBA project.docm");
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
+
+	Document doc = new Document(dataDir + "VBA project.docm");
 	Document destDoc = new Document { VbaProject = doc.VbaProject.Clone() };
-
-	destDoc.Save(ArtifactsDir + "WorkingWithVba.CloneVbaProject.docm");
-            
+	destDoc.Save(dataDir + "WorkingWithVba.CloneVbaProject.docm");
 ```
-

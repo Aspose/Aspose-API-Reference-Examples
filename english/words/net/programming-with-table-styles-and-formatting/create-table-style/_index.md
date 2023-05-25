@@ -7,16 +7,13 @@ type: docs
 weight: 10
 url: /words/net/programming-with-table-styles-and-formatting/create-table-style/
 ---
-
-
-
-
+### Sample source code for Create Table Style using Aspose.Words for .NET 
 ```csharp
+// Path to your document directory 
+string dataDir = "YOUR DOCUMENT DIRECTORY";
 
-            
             Document doc = new Document();
             DocumentBuilder builder = new DocumentBuilder(doc);
-
             Table table = builder.StartTable();
             builder.InsertCell();
             builder.Write("Name");
@@ -26,7 +23,6 @@ url: /words/net/programming-with-table-styles-and-formatting/create-table-style/
             builder.InsertCell();
             builder.InsertCell();
             builder.EndTable();
-
             TableStyle tableStyle = (TableStyle) doc.Styles.Add(StyleType.Table, "MyTableStyle1");
             tableStyle.Borders.LineStyle = LineStyle.Double;
             tableStyle.Borders.LineWidth = 1;
@@ -34,11 +30,6 @@ url: /words/net/programming-with-table-styles-and-formatting/create-table-style/
             tableStyle.RightPadding = 18;
             tableStyle.TopPadding = 12;
             tableStyle.BottomPadding = 12;
-
             table.Style = tableStyle;
-
-            doc.Save(ArtifactsDir + "WorkingWithTableStylesAndFormatting.CreateTableStyle.docx");
-            
-        
+            doc.Save(dataDir + "WorkingWithTableStylesAndFormatting.CreateTableStyle.docx");
 ```
-

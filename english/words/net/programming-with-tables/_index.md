@@ -14,8 +14,6 @@ url: /words/net/programming-with-tables/
 | [Auto Fit Table To Contents](./auto-fit-table-to-contents/) | |
 | [Auto Fit Table To Fixed Column Widths](./auto-fit-table-to-fixed-column-widths/) | |
 | [Auto Fit Table To Page Width](./auto-fit-table-to-page-width/) | |
-| [Build Table From Data Table](./build-table-from-data-table/) | |
-| [Import Table From Data Table](./import-table-from-data-table/) | |
 | [Clone Complete Table](./clone-complete-table/) | |
 | [Clone Last Row](./clone-last-row/) | |
 | [Finding Index](./finding-index/) | |
@@ -28,8 +26,6 @@ url: /words/net/programming-with-tables/
 | [Split Table](./split-table/) | |
 | [Row Format Disable Break Across Pages](./row-format-disable-break-across-pages/) | |
 | [Keep Table Together](./keep-table-together/) | |
-| [Check Cells Merged](./check-cells-merged/) | |
-| [Print Cell Merge Type](./print-cell-merge-type/) | |
 | [Vertical Merge](./vertical-merge/) | |
 | [Horizontal Merge](./horizontal-merge/) | |
 | [Merge Cell Range](./merge-cell-range/) | |

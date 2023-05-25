@@ -12,10 +12,7 @@ url: /words/net/programming-with-tables/
 | Title | Description |
 | --- | --- |
 | [Auto Fit Table To Contents](./auto-fit-table-to-contents/) | |
-| [Auto Fit Table To Fixed Column Widths](./auto-fit-table-to-fixed-column-widths/) | |
-| [Auto Fit Table To Page Width](./auto-fit-table-to-page-width/) | |
 | [Clone Complete Table](./clone-complete-table/) | |
-| [Clone Last Row](./clone-last-row/) | |
 | [Finding Index](./finding-index/) | |
 | [Insert Table Directly](./insert-table-directly/) | |
 | [Insert Table From Html](./insert-table-from-html/) | |
@@ -28,9 +25,7 @@ url: /words/net/programming-with-tables/
 | [Keep Table Together](./keep-table-together/) | |
 | [Vertical Merge](./vertical-merge/) | |
 | [Horizontal Merge](./horizontal-merge/) | |
-| [Merge Cell Range](./merge-cell-range/) | |
 | [Convert To Horizontally Merged Cells](./convert-to-horizontally-merged-cells/) | |
-| [Merge Cells](./merge-cells/) | |
 | [Repeat Rows On Subsequent Pages](./repeat-rows-on-subsequent-pages/) | |
 | [Auto Fit To Page Width](./auto-fit-to-page-width/) | |
 | [Preferred Width Settings](./preferred-width-settings/) | |

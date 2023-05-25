@@ -11,25 +11,25 @@ url: /words/net/join-and-append-documents/
  ## Tutorials
 | Title | Description |
 | --- | --- |
-| [Simple Append Document](./simple-append-document/) | |
-| [Append Document](./append-document/) | |
-| [Append Document To Blank](./append-document-to-blank/) | |
-| [Append With Import Format Options](./append-with-import-format-options/) | |
-| [Different Page Setup](./different-page-setup/) | |
-| [Join Continuous](./join-continuous/) | |
-| [Join New Page](./join-new-page/) | |
-| [Keep Source Formatting](./keep-source-formatting/) | |
-| [Keep Source Together](./keep-source-together/) | |
-| [List Keep Source Formatting](./list-keep-source-formatting/) | |
-| [List Use Destination Styles](./list-use-destination-styles/) | |
-| [Restart Page Numbering](./restart-page-numbering/) | |
-| [Update Page Layout](./update-page-layout/) | |
-| [Use Destination Styles](./use-destination-styles/) | |
-| [Smart Style Behavior](./smart-style-behavior/) | |
-| [Insert Document With Builder](./insert-document-with-builder/) | |
-| [Keep Source Numbering](./keep-source-numbering/) | |
-| [Ignore Text Boxes](./ignore-text-boxes/) | |
-| [Ignore Header Footer](./ignore-header-footer/) | |
-| [Link Headers Footers](./link-headers-footers/) | |
-| [Remove Source Headers Footers](./remove-source-headers-footers/) | |
-| [Unlink Headers Footers](./unlink-headers-footers/) | |
+| [Simple Append Document](./simple-append-document/) | Learn how to join and append Word documents with preserved formatting using Aspose.Words for .NET. |
+| [Append Document](./append-document/) | Learn how to append the contents of one document to another using Aspose.Words for .NET. |
+| [Append Document To Blank](./append-document-to-blank/) | Learn how to append a document to a blank destination document in Aspose.Words for .NET. |
+| [Append With Import Format Options](./append-with-import-format-options/) | Learn how to append a document with import format options using Aspose.Words for .NET. |
+| [Different Page Setup](./different-page-setup/) | Learn how to append a document with different page setup settings using Aspose.Words for .NET. |
+| [Join Continuous](./join-continuous/) | Learn how to join two documents continuously while preserving formatting using Aspose.Words for .NET. |
+| [Join New Page](./join-new-page/) | Learn how to join two documents on a new page while preserving formatting using Aspose.Words for .NET. |
+| [Keep Source Formatting](./keep-source-formatting/) | Learn how to append a source document to a destination document while preserving the original formatting using Aspose.Words for .NET. |
+| [Keep Source Together](./keep-source-together/) | Learn how to use Aspose.Words for .NET to join and append Word documents while keeping the source content together with the destination document. |
+| [List Keep Source Formatting](./list-keep-source-formatting/) | Learn how to preserve list formatting while joining and appending Word documents using Aspose.Words for .NET. |
+| [List Use Destination Styles](./list-use-destination-styles/) | Learn how to join and append Word documents while preserving destination document's list styles using Aspose.Words for .NET. |
+| [Restart Page Numbering](./restart-page-numbering/) | Learn how to restart page numbering while joining and appending Word documents using Aspose.Words for .NET. |
+| [Update Page Layout](./update-page-layout/) | Learn how to update page layout when joining and appending Word documents using Aspose.Words for .NET. |
+| [Use Destination Styles](./use-destination-styles/) | Learn how to join and append Word documents while applying destination document styles using Aspose.Words for .NET. |
+| [Smart Style Behavior](./smart-style-behavior/) | Learn how to maintain smart style behavior when joining and appending Word documents using Aspose.Words for .NET. |
+| [Insert Document With Builder](./insert-document-with-builder/) | Learn how to insert a document at the end of another document using Aspose.Words for .NET. |
+| [Keep Source Numbering](./keep-source-numbering/) | Learn how to append a document while preserving source numbering formatting in Aspose.Words for .NET. |
+| [Ignore Text Boxes](./ignore-text-boxes/) | Learn how to append a document while ignore text box formatting using Aspose.Words for .NET. |
+| [Ignore Header Footer](./ignore-header-footer/) | Learn how to append a document while ignoring header and footer content using Aspose.Words for .NET. |
+| [Link Headers Footers](./link-headers-footers/) | Learn how to link headers and footers while joining and appending Word documents using Aspose.Words for .NET. |
+| [Remove Source Headers Footers](./remove-source-headers-footers/) | Learn how to remove headers and footers while joining and appending Word documents using Aspose.Words for .NET. |
+| [Unlink Headers Footers](./unlink-headers-footers/) | Learn how to join and append Word documents while unlinking headers and footers using Aspose.Words for .NET. |

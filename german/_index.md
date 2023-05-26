@@ -13,7 +13,7 @@ Aspose.Words-Tutorials und Code-Snippets zum Erstellen, Bearbeiten, Konvertieren
 {{% /alert %}}
 
 Dies sind Links zu einigen nützlichen Ressourcen:
-- [Aspose.Words für .NET-Tutorials](./words/net/)
+- [Aspose.Words für .NET-Tutorials](../words/de/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Aspose.PDF-Tutorials und Code-Snippets für die Arbeit mit PDF-Dateien. Erstelle
 {{% /alert %}}
 
 Dies sind Links zu einigen nützlichen Ressourcen:
-- [Aspose.PDF für .NET-Tutorials](./pdf/net/)
+- [Aspose.PDF für .NET-Tutorials](../pdf/de/net/)

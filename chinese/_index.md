@@ -13,7 +13,7 @@ Aspose.Words 教程和代码片段，用于在您的应用程序中创建、编�
 {{% /alert %}}
 
 这些是一些有用资源的链接：
-- [Aspose.Words for .NET 教程](./words/net/)
+- [Aspose.Words for .NET 教程](../words/zh/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Aspose.Words 教程和代码片段，用于在您的应用程序中创建、编�
 {{% /alert %}}
 
 这些是一些有用资源的链接：
-- [Aspose.PDF for .NET 教程](./pdf/net/)
+- [Aspose.PDF for .NET 教程](../pdf/zh/net/)

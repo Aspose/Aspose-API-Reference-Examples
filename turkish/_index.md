@@ -13,7 +13,7 @@ Uygulamanızda Word belgeleri için oluşturma, düzenleme, dönüştürme, yazd
 {{% /alert %}}
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
-- [Aspose.Words for .NET Öğreticileri](./words/net/)
+- [Aspose.Words for .NET Öğreticileri](../words/tr/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ PDF dosyalarıyla çalışmak için Aspose.PDF eğitimleri ve kod parçacıklar�
 {{% /alert %}}
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
-- [.NET Öğreticileri için Aspose.PDF](./pdf/net/)
+- [.NET Öğreticileri için Aspose.PDF](../pdf/tr/net/)

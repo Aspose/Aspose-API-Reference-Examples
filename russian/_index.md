@@ -13,7 +13,7 @@ url: /ru/
 {{% /alert %}}
 
 Это ссылки на некоторые полезные ресурсы:
-- [Учебники Aspose.Words для .NET](./words/net/)
+- [Учебники Aspose.Words для .NET](../words/ru/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ url: /ru/
 {{% /alert %}}
 
 Это ссылки на некоторые полезные ресурсы:
-- [Учебники Aspose.PDF для .NET](./pdf/net/)
+- [Учебники Aspose.PDF для .NET](../pdf/ru/net/)

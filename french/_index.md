@@ -13,7 +13,7 @@ Tutoriels Aspose.Words et extraits de code pour la création, l'édition, la con
 {{% /alert %}}
 
 Voici des liens vers des ressources utiles :
-- [Tutoriels Aspose.Words pour .NET](./words/net/)
+- [Tutoriels Aspose.Words pour .NET](../words/fr/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Tutoriels Aspose.PDF et extraits de code pour travailler avec des fichiers PDF. 
 {{% /alert %}}
 
 Voici des liens vers des ressources utiles :
-- [Tutoriels Aspose.PDF pour .NET](./pdf/net/)
+- [Tutoriels Aspose.PDF pour .NET](../pdf/fr/net/)

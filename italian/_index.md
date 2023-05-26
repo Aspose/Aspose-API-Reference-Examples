@@ -13,7 +13,7 @@ Tutorial Aspose.Words e frammenti di codice per creare, modificare, convertire, 
 {{% /alert %}}
 
 Questi sono i link ad alcune risorse utili:
-- [Tutorial Aspose.Words per .NET](./words/net/)
+- [Tutorial Aspose.Words per .NET](../words/it/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Tutorial Aspose.PDF e frammenti di codice per lavorare con i file PDF. Crea, mod
 {{% /alert %}}
 
 Questi sono i link ad alcune risorse utili:
-- [Aspose.PDF per .NET Tutorial](./pdf/net/)
+- [Aspose.PDF per .NET Tutorial](../pdf/it/net/)

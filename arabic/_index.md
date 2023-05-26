@@ -13,7 +13,7 @@ url: /ar/
 {{% /alert %}}
 
 هذه روابط لبعض المصادر المفيدة:
-- [Aspose.Words for .NET Tutorials](./words/net/)
+- [Aspose.Words for .NET Tutorials](../words/ar/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Aspose.PDF دروس تعليمية ومقتطفات كود للعمل مع مل�
 {{% /alert %}}
 
 هذه روابط لبعض المصادر المفيدة:
-- [Aspose.PDF لبرامج .NET التعليمية](./pdf/net/)
+- [Aspose.PDF لبرامج .NET التعليمية](../pdf/ar/net/)

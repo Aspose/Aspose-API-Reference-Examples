@@ -13,7 +13,7 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 {{% /alert %}}
 
 Det här är länkar till några användbara resurser:
-- [Aspose.Words för .NET Tutorials](./words/net/)
+- [Aspose.Words för .NET Tutorials](../words/sv/net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -21,4 +21,4 @@ Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, re
 {{% /alert %}}
 
 Det här är länkar till några användbara resurser:
-- [Aspose.PDF för .NET Tutorials](./pdf/net/)
+- [Aspose.PDF för .NET Tutorials](../pdf/sv/net/)

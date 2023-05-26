@@ -7,6 +7,11 @@ type: docs
 weight: 1520
 url: /words/net/programming-with-document-properties/
 ---
+The Aspose.Words for .NET tutorials on programming with document properties provide an in-depth look at managing document properties in your projects. In these tutorials, you will learn how to access, modify and delete properties such as title, author, keywords, etc., to personalize your Word documents. You'll also learn how to add custom properties to meet your specific needs.
+
+These tutorials will guide you step by step to use the Aspose.Words for .NET library to interact with document properties. You will learn how to extract existing properties, set new values, and remove unwanted properties. By understanding how to manipulate document properties, you will be able to create professional Word documents and customize them to suit your requirements.
+
+Whether you are a beginner or an experienced developer, the Aspose.Words for .NET tutorials on programming with document properties will provide you with the knowledge and skills to effectively manage your Word document properties and optimize your development workflow.
 
  ## Tutorials
 | Title | Description |

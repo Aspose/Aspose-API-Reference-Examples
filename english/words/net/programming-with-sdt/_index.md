@@ -7,6 +7,11 @@ type: docs
 weight: 1400
 url: /words/net/programming-with-sdt/
 ---
+Aspose.Words for .NET tutorials let you explore the library's features in depth and learn how to program with structured content in Word using Structured Content Controls (SDTs). These step-by-step tutorials walk you through the steps necessary to create, manipulate, and extract data from SDT controls in your Word documents.
+
+In these tutorials, you'll learn how to add and remove SDT controls, how to customize them with specific properties, and how to access and modify their data. You will also learn how to use events related to SDT controls to perform custom actions when modifying or validating data.
+
+The code samples provided in the tutorials will help you understand the concepts and practice the functionality of SDT controls in your own projects. Whether you are a beginner or an experienced developer, these tutorials will help you master the use of SDT controls in Aspose.Words for .NET and improve your Word document development skills.
 
  ## Tutorials
 | Title | Description |

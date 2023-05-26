@@ -7,6 +7,11 @@ type: docs
 weight: 1700
 url: /words/net/programming-with-txtsaveoptions/
 ---
+Aspose.Words for .NET tutorials walk you through the various features and uses of the library in the context of manipulating Word documents. One of the tutorials focuses on programming with TXT save options, showing you how to generate text files from Word documents while maintaining content formatting and structure. You will learn how to use the various options available to customize the conversion of documents to text files, such as specifying the column delimiter and managing white spaces.
+
+These tutorials provide step-by-step instructions, along with sample C# code, to help you understand and practice the concepts covered. Whether you are a beginner or an experienced developer, you will find detailed information on how to use Aspose.Words for .NET and how to get the most out of this powerful document manipulation library.
+
+Thanks to these tutorials, you will be able to fully exploit the functionalities of Aspose.Words for .NET and develop efficient solutions for the generation, conversion and manipulation of Word documents in your applications. Follow the steps, explore the code examples, and build your skills to build robust, high-performance Word apps.
 
  ## Tutorials
 | Title | Description |

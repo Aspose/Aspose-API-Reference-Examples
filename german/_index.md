@@ -22,3 +22,11 @@ Aspose.PDF-Tutorials und Code-Snippets für die Arbeit mit PDF-Dateien. Erstelle
 
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.PDF für .NET-Tutorials](../pdf/de/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Aspose.Cells-Tutorials und Code-Snippets führen Sie durch verschiedene Schritte, um das Potenzial von Aspose.Cells in Ihren Projekten voll auszuschöpfen. Sie lernen, wie Sie Tabellenkalkulationen erstellen, bearbeiten und formatieren, Daten manipulieren, Berechnungen durchführen, Diagramme verwalten und vieles mehr.
+{{% /alert %}}
+
+Dies sind Links zu einigen nützlichen Ressourcen:
+- [Aspose.Cells für .NET-Tutorials](../cells/de/net/)

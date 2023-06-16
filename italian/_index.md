@@ -22,3 +22,11 @@ Tutorial Aspose.PDF e frammenti di codice per lavorare con i file PDF. Crea, mod
 
 Questi sono i link ad alcune risorse utili:
 - [Aspose.PDF per .NET Tutorial](../pdf/it/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Aspose.Cells tutorial e frammenti di codice ti guidano attraverso diversi passaggi per sfruttare appieno il potenziale di Aspose.Cells nei tuoi progetti. Imparerai come creare, modificare e formattare fogli di calcolo, manipolare dati, eseguire calcoli, gestire grafici e molto altro.
+{{% /alert %}}
+
+Questi sono i link ad alcune risorse utili:
+- [Tutorial Aspose.Cells per .NET](../cells/it/net/)

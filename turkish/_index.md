@@ -22,3 +22,11 @@ PDF dosyalarıyla çalışmak için Aspose.PDF eğitimleri ve kod parçacıklar�
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
 - [.NET Öğreticileri için Aspose.PDF](../pdf/tr/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Aspose.Cells öğreticileri ve kod parçacıkları, projelerinizde Aspose.Cells'in potansiyelinden tam olarak yararlanmanız için farklı adımlarda size rehberlik eder. Hesap tabloları oluşturmayı, düzenlemeyi ve biçimlendirmeyi, verileri işlemeyi, hesaplamaları yapmayı, çizelgeleri yönetmeyi ve çok daha fazlasını öğreneceksiniz.
+{{% /alert %}}
+
+Bunlar bazı faydalı kaynaklara bağlantılar:
+- [Aspose.Cells for .NET Eğitimleri](../cells/tr/net/)

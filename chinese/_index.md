@@ -22,3 +22,11 @@ Aspose.Words 教程和代码片段，用于在您的应用程序中创建、编�
 
 这些是一些有用资源的链接：
 - [Aspose.PDF for .NET 教程](../pdf/zh/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Aspose.Cells 教程和代码片段将指导您完成不同的步骤，以在您的项目中充分发挥 Aspose.Cells 的潜力。 您将学习如何创建、编辑和格式化电子表格、操作数据、执行计算、管理图表等等。
+{{% /alert %}}
+
+这些是一些有用资源的链接：
+- [Aspose.Cells for .NET 教程](../cells/zh/net/)

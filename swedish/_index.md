@@ -22,3 +22,11 @@ Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, re
 
 Det här är länkar till några användbara resurser:
 - [Aspose.PDF för .NET Tutorials](../pdf/sv/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Aspose.Cells tutorials och kodsnuttar guidar dig genom olika steg för att fullt ut utnyttja potentialen hos Aspose.Cells i dina projekt. Du kommer att lära dig hur du skapar, redigerar och formaterar kalkylblad, manipulerar data, utför beräkningar, hanterar diagram och mycket mer.
+{{% /alert %}}
+
+Det här är länkar till några användbara resurser:
+- [Aspose.Cells för .NET Tutorials](../cells/sv/net/)

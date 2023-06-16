@@ -22,3 +22,11 @@ Tutoriales y fragmentos de código de Aspose.PDF para trabajar con archivos PDF.
 
 Estos son enlaces a algunos recursos útiles:
 - [Tutoriales de Aspose.PDF para .NET](../pdf/es/net/)
+
+## Aspose.Cells
+{{% alert color="primary" %}}
+Los tutoriales y fragmentos de código de Aspose.Cells lo guían a través de diferentes pasos para aprovechar al máximo el potencial de Aspose.Cells en sus proyectos. Aprenderá a crear, editar y formatear hojas de cálculo, manipular datos, realizar cálculos, administrar gráficos y mucho más.
+{{% /alert %}}
+
+Estos son enlaces a algunos recursos útiles:
+- [Tutoriales de Aspose.Cells para .NET](../cells/es/net/)

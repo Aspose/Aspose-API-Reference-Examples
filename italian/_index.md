@@ -14,6 +14,8 @@ Tutorial Aspose.Words e frammenti di codice per creare, modificare, convertire, 
 
 Questi sono i link ad alcune risorse utili:
 - [Tutorial Aspose.Words per .NET](../words/it/net/)
+- [Tutorial Aspose.Words per Java](../words/it/java/)
+- [Tutorial Aspose.Words per Python](../words/it/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

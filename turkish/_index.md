@@ -14,6 +14,8 @@ Uygulamanızda Word belgeleri için oluşturma, düzenleme, dönüştürme, yazd
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
 - [Aspose.Words for .NET Öğreticileri](../words/tr/net/)
+- [Aspose.Words for Java Öğreticileri](../words/tr/java/)
+- [Aspose.Words for Python Öğreticileri](../words/tr/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

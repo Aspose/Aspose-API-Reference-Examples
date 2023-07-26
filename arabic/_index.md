@@ -14,6 +14,8 @@ url: /ar/
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.Words for .NET Tutorials](../words/ar/net/)
+- [Aspose.Words for Java Tutorials](../words/ar/java/)
+- [Aspose.Words for Python Tutorials](../words/ar/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

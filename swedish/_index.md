@@ -14,6 +14,8 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 
 Det här är länkar till några användbara resurser:
 - [Aspose.Words för .NET Tutorials](../words/sv/net/)
+- [Aspose.Words för Java Tutorials](../words/sv/java/)
+- [Aspose.Words för Python Tutorials](../words/sv/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

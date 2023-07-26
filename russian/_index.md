@@ -14,6 +14,8 @@ url: /ru/
 
 Это ссылки на некоторые полезные ресурсы:
 - [Учебники Aspose.Words для .NET](../words/ru/net/)
+- [Учебники Aspose.Words для Java](../words/ru/java/)
+- [Учебники Aspose.Words для Python](../words/ru/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

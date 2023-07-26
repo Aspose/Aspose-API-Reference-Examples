@@ -14,6 +14,8 @@ Aspose.Words 教程和代码片段，用于在您的应用程序中创建、编�
 
 这些是一些有用资源的链接：
 - [Aspose.Words for .NET 教程](../words/zh/net/)
+- [Aspose.Words for Java 教程](../words/zh/java/)
+- [Aspose.Words for Python 教程](../words/zh/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}

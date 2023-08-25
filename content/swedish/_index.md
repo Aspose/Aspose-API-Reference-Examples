@@ -12,7 +12,7 @@ url: /sv/
 Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skriva ut och många fler funktioner för Word-dokument i din applikation. 
 {{% /alert %}}
 
-Det här är länkar till några användbara resurser:
+### Aspose.Words Tutorials
 - [Aspose.Words för .NET Tutorials](../words/sv/net/)
 - [Aspose.Words för Java Tutorials](../words/sv/java/)
 - [Aspose.Words för Python Tutorials](../words/sv/python-net/)
@@ -22,7 +22,7 @@ Det här är länkar till några användbara resurser:
 Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
 {{% /alert %}}
 
-Det här är länkar till några användbara resurser:
+### Aspose.PDF Tutorials
 - [Aspose.PDF för .NET Tutorials](../pdf/sv/net/)
 
 ## Aspose.Cells
@@ -30,5 +30,21 @@ Det här är länkar till några användbara resurser:
 Aspose.Cells tutorials och kodsnuttar guidar dig genom olika steg för att fullt ut utnyttja potentialen hos Aspose.Cells i dina projekt. Du kommer att lära dig hur du skapar, redigerar och formaterar kalkylblad, manipulerar data, utför beräkningar, hanterar diagram och mycket mer.
 {{% /alert %}}
 
-Det här är länkar till några användbara resurser:
+### Aspose.Cells Tutorials
 - [Aspose.Cells för .NET Tutorials](../cells/sv/net/)
+
+## Aspose.Email
+{{% alert color="primary" %}}
+Lås upp effektiv e-posthantering med Aspose.Email tutorials. Från komposition till säkerhet, behärska olika aspekter för förbättrade arbetsflöden och användarupplevelser.
+{{% /alert %}}
+
+### Aspose.Email Tutorials
+- [Aspose.Email for .NET Tutorials](./email/sv/net/)
+
+## Aspose.Slides
+{{% alert color="primary" %}}
+Bemästra presentationsbearbetning med Aspose.Slides tutorials. Skapa, ändra och förbättra PowerPoint-presentationer effektivt. Excel i dynamisk innehållsmanipulation.
+{{% /alert %}}
+
+### Aspose.Slides Tutorials
+- [Aspose.Slides for .NET Tutorials](./slides/sv/net/)

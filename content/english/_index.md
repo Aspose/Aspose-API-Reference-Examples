@@ -47,4 +47,4 @@ Master presentation processing with Aspose.Slides tutorials. Create, modify, and
 {{% /alert %}}
 
 ### Aspose.Slides Tutorials
-- [Aspose.Slides for .NET Tutorials](./email/net/)
+- [Aspose.Slides for .NET Tutorials](./slides/net/)

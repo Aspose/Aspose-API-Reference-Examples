@@ -12,7 +12,7 @@ url: /tr/
 Uygulamanızda Word belgeleri için oluşturma, düzenleme, dönüştürme, yazdırma ve daha birçok özellik için Aspose.Words öğreticileri ve kod parçacıkları. 
 {{% /alert %}}
 
-Bunlar bazı faydalı kaynaklara bağlantılar:
+### Aspose.Words Eğitimleri
 - [Aspose.Words for .NET Öğreticileri](../words/tr/net/)
 - [Aspose.Words for Java Öğreticileri](../words/tr/java/)
 - [Aspose.Words for Python Öğreticileri](../words/tr/python-net/)
@@ -22,7 +22,7 @@ Bunlar bazı faydalı kaynaklara bağlantılar:
 PDF dosyalarıyla çalışmak için Aspose.PDF eğitimleri ve kod parçacıkları. Uygulamanızdaki kapsamlı özelliklerle PDF belgeleri oluşturun, düzenleyin, dönüştürün ve ayıklayın.
 {{% /alert %}}
 
-Bunlar bazı faydalı kaynaklara bağlantılar:
+### Aspose.PDF Eğitimleri
 - [.NET Öğreticileri için Aspose.PDF](../pdf/tr/net/)
 
 ## Aspose.Cells
@@ -30,5 +30,21 @@ Bunlar bazı faydalı kaynaklara bağlantılar:
 Aspose.Cells öğreticileri ve kod parçacıkları, projelerinizde Aspose.Cells'in potansiyelinden tam olarak yararlanmanız için farklı adımlarda size rehberlik eder. Hesap tabloları oluşturmayı, düzenlemeyi ve biçimlendirmeyi, verileri işlemeyi, hesaplamaları yapmayı, çizelgeleri yönetmeyi ve çok daha fazlasını öğreneceksiniz.
 {{% /alert %}}
 
-Bunlar bazı faydalı kaynaklara bağlantılar:
+### Aspose.Cells Eğitimleri
 - [Aspose.Cells for .NET Eğitimleri](../cells/tr/net/)
+
+## Aspose.Email
+{{% alert color="primary" %}}
+Aspose.Email eğitimleriyle verimli e-posta yönetiminin kilidini açın. Kompozisyondan güvenliğe kadar gelişmiş iş akışları ve kullanıcı deneyimleri için çeşitli yönlerde uzmanlaşın.
+{{% /alert %}}
+
+### Aspose.Email Eğitimleri
+- [Aspose.Email for .NET Eğitimleri](./email/tr/net/)
+
+## Aspose.Slides
+{{% alert color="primary" %}}
+Aspose.Slides eğitimleriyle sunum işlemede ustalaşın. PowerPoint sunumlarını verimli bir şekilde oluşturun, değiştirin ve geliştirin. Dinamik içerik manipülasyonunda Excel.
+{{% /alert %}}
+
+### Aspose.Slides Eğitimleri
+- [Aspose.Slides for .NET Eğitimleri](./slides/tr/net/)

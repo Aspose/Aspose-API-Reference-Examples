@@ -12,7 +12,7 @@ url: /it/
 Tutorial Aspose.Words e frammenti di codice per creare, modificare, convertire, stampare e molte altre funzionalità per i documenti Word nella tua applicazione. 
 {{% /alert %}}
 
-Questi sono i link ad alcune risorse utili:
+### Aspose.Words Tutorial
 - [Tutorial Aspose.Words per .NET](../words/it/net/)
 - [Tutorial Aspose.Words per Java](../words/it/java/)
 - [Tutorial Aspose.Words per Python](../words/it/python-net/)
@@ -22,7 +22,7 @@ Questi sono i link ad alcune risorse utili:
 Tutorial Aspose.PDF e frammenti di codice per lavorare con i file PDF. Crea, modifica, converti ed estrai documenti PDF con funzionalità complete nella tua applicazione.
 {{% /alert %}}
 
-Questi sono i link ad alcune risorse utili:
+### Aspose.PDF Tutorial
 - [Aspose.PDF per .NET Tutorial](../pdf/it/net/)
 
 ## Aspose.Cells
@@ -30,5 +30,21 @@ Questi sono i link ad alcune risorse utili:
 Aspose.Cells tutorial e frammenti di codice ti guidano attraverso diversi passaggi per sfruttare appieno il potenziale di Aspose.Cells nei tuoi progetti. Imparerai come creare, modificare e formattare fogli di calcolo, manipolare dati, eseguire calcoli, gestire grafici e molto altro.
 {{% /alert %}}
 
-Questi sono i link ad alcune risorse utili:
+### Aspose.Cells Tutorial
 - [Tutorial Aspose.Cells per .NET](../cells/it/net/)
+
+## Aspose.Email
+{{% alert color="primary" %}}
+Sblocca una gestione efficiente della posta elettronica con i tutorial Aspose.Email. Dalla composizione alla sicurezza, padroneggia diversi aspetti per flussi di lavoro ed esperienze utente migliorati.
+{{% /alert %}}
+
+### Aspose.Email Tutorial
+- [Aspose.Email for .NET Tutorials](./email/it/net/)
+
+## Aspose.Slides
+{{% alert color="primary" %}}
+Masterizza l'elaborazione delle presentazioni con i tutorial di Aspose.Slides. Crea, modifica e migliora le presentazioni PowerPoint in modo efficiente. Eccelle nella manipolazione dei contenuti dinamici.
+{{% /alert %}}
+
+### Aspose.Slides Tutorial
+- [Aspose.Slides for .NET Tutorials](./slides/it/net/)

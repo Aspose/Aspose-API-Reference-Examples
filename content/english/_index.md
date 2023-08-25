@@ -12,7 +12,7 @@ url: /
 Aspose.Words tutorials and code-snippets for creating, editing, converting, printing, and many more features for Word documents in your application. 
 {{% /alert %}}
 
-These are links to some useful resources:
+### Aspose.Words Tutorials
 - [Aspose.Words for .NET Tutorials](./words/net/)
 - [Aspose.Words for Java Tutorials](./words/java/)
 - [Aspose.Words for Python Tutorials](./words/python-net/)
@@ -22,7 +22,7 @@ These are links to some useful resources:
 Aspose.PDF tutorials and code-snippets for working with PDF files. Create, edit, convert & extract PDF docs with comprehensive features in your application.
 {{% /alert %}}
 
-These are links to some useful resources:
+### Aspose.PDF Tutorials
 - [Aspose.PDF for .NET Tutorials](./pdf/net/)
 
 ## Aspose.Cells
@@ -30,5 +30,21 @@ These are links to some useful resources:
 Aspose.Cells tutorials and code-snippets guide you through different steps to fully exploit the potential of Aspose.Cells in your projects. You will learn how to create, edit and format spreadsheets, manipulate data, perform calculations, manage charts and much more.
 {{% /alert %}}
 
-These are links to some useful resources:
+### Aspose.Cells Tutorials
 - [Aspose.Cells for .NET Tutorials](./cells/net/)
+
+## Aspose.Email
+{{% alert color="primary" %}}
+Unlock efficient email management with Aspose.Email tutorials. From composition to security, master diverse aspects for enhanced workflows and user experiences.
+{{% /alert %}}
+
+### Aspose.Email Tutorials
+- [Aspose.Email for .NET Tutorials](./email/net/)
+
+## Aspose.Slides
+{{% alert color="primary" %}}
+Master presentation processing with Aspose.Slides tutorials. Create, modify, and enhance PowerPoint presentations efficiently. Excel in dynamic content manipulation.
+{{% /alert %}}
+
+### Aspose.Slides Tutorials
+- [Aspose.Slides for .NET Tutorials](./email/net/)

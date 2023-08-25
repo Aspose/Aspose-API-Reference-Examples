@@ -57,7 +57,11 @@ defaultContentLang = 'en'
     	[[languages.en.menu.main]]
      	  name = "Aspose.Email Tutorials"
 	  url = "/email/"
-   	  weight = 40	  
+   	  weight = 40	
+	    	[[languages.en.menu.main]]
+     	  name = "Aspose.Slides Tutorials"
+	  url = "/slides/"
+   	  weight = 50
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -81,6 +85,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Email Учебники"
 	  url = "/Email/ru/"
    	  weight = 40
+    	[[languages.ru.menu.main]]
+     	  name = "Aspose.Slides Учебники"
+	  url = "/Slides/ru/"
+   	  weight = 50
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -103,7 +111,11 @@ defaultContentLang = 'en'
     	[[languages.zh.menu.main]]
      	  name = "Aspose.Email 教程"
 	  url = "/email/zh/"
-   	  weight = 40	  
+   	  weight = 40	
+    	[[languages.zh.menu.main]]
+     	  name = "Aspose.Slides 教程"
+	  url = "/slides/zh/"
+   	  weight = 50	  
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -126,7 +138,11 @@ defaultContentLang = 'en'
     	[[languages.ar.menu.main]]
      	  name = "Aspose.Email دروس"
 	  url = "/email/ar/"
-   	  weight = 40  	  
+   	  weight = 40  
+    	[[languages.ar.menu.main]]
+     	  name = "Aspose.Slides دروس"
+	  url = "/slides/ar/"
+   	  weight = 50 	  
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -149,7 +165,11 @@ defaultContentLang = 'en'
     	[[languages.fr.menu.main]]
      	  name = "Aspose.Email Tutoriels"
 	  url = "/email/fr/"
-   	  weight = 40      
+   	  weight = 40  
+    	[[languages.fr.menu.main]]
+     	  name = "Aspose.Slides Tutoriels"
+	  url = "/slides/fr/"
+   	  weight = 50 	  
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -172,7 +192,11 @@ defaultContentLang = 'en'
     	[[languages.de.menu.main]]
      	  name = "Aspose.Email-Tutorials"
 	  url = "/email/de/"
-   	  weight = 40	  
+   	  weight = 40
+    	[[languages.de.menu.main]]
+     	  name = "Aspose.Slides-Tutorials"
+	  url = "/slides/de/"
+   	  weight = 50	  
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -195,7 +219,11 @@ defaultContentLang = 'en'
     	[[languages.it.menu.main]]
      	  name = "Aspose.Email Tutorial"
 	  url = "/email/it/"
-   	  weight = 40	  
+   	  weight = 40
+    	[[languages.it.menu.main]]
+     	  name = "Aspose.Slides Tutorial"
+	  url = "/slides/it/"
+   	  weight = 50	  
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -218,7 +246,11 @@ defaultContentLang = 'en'
     	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.Email"
 	  url = "/email/es/"
-   	  weight = 40	  
+   	  weight = 40
+    	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.Slides"
+	  url = "/slides/es/"
+   	  weight = 50	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -241,7 +273,11 @@ defaultContentLang = 'en'
     	[[languages.sv.menu.main]]
      	  name = "Aspose.Emal Tutorials"
 	  url = "/email/sv/"
-   	  weight = 40      
+   	  weight = 40  
+    	[[languages.sv.menu.main]]
+     	  name = "Aspose.Slides Tutorials"
+	  url = "/slides/sv/"
+   	  weight = 50	  
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -264,7 +300,11 @@ defaultContentLang = 'en'
     	[[languages.tr.menu.main]]
      	  name = "Aspose.Email Eğitimleri"
 	  url = "/email/tr/"
-   	  weight = 40	  
+   	  weight = 40
+    	[[languages.tr.menu.main]]
+     	  name = "Aspose.Slides Eğitimleri"
+	  url = "/slides/tr/"
+   	  weight = 50	  
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

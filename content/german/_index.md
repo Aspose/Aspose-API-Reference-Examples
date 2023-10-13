@@ -12,23 +12,47 @@ url: /de/
 Aspose.Words-Tutorials und Code-Snippets zum Erstellen, Bearbeiten, Konvertieren, Drucken und vielen weiteren Funktionen für Word-Dokumente in Ihrer Anwendung. 
 {{% /alert %}}
 
-Dies sind Links zu einigen nützlichen Ressourcen:
-- [Aspose.Words für .NET-Tutorials](../words/de/net/)
-- [Aspose.Words für Java-Tutorials](../words/de/java/)
-- [Aspose.Words für Python-Tutorials](../words/de/python-net/)
+### Aspose.Words-Tutorials
+- [Aspose.Words für .NET-Tutorials](./words/net/)
+- [Aspose.Words für Java-Tutorials](./words/java/)
+- [Aspose.Words für Python-Tutorials](./words/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
 Aspose.PDF-Tutorials und Code-Snippets für die Arbeit mit PDF-Dateien. Erstellen, bearbeiten, konvertieren und extrahieren Sie PDF-Dokumente mit umfassenden Funktionen in Ihrer Anwendung.
 {{% /alert %}}
 
-Dies sind Links zu einigen nützlichen Ressourcen:
-- [Aspose.PDF für .NET-Tutorials](../pdf/de/net/)
+### Aspose.PDF-Tutorials
+- [Aspose.PDF für .NET-Tutorials](./pdf/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
 Aspose.Cells-Tutorials und Code-Snippets führen Sie durch verschiedene Schritte, um das Potenzial von Aspose.Cells in Ihren Projekten voll auszuschöpfen. Sie lernen, wie Sie Tabellenkalkulationen erstellen, bearbeiten und formatieren, Daten manipulieren, Berechnungen durchführen, Diagramme verwalten und vieles mehr.
 {{% /alert %}}
 
-Dies sind Links zu einigen nützlichen Ressourcen:
-- [Aspose.Cells für .NET-Tutorials](../cells/de/net/)
+### Aspose.Cells-Tutorials
+- [Aspose.Cells für .NET-Tutorials](./cells/net/)
+
+## Aspose.Email
+{{% alert color="primary" %}}
+Erschließen Sie eine effiziente E-Mail-Verwaltung mit Aspose.Email-Tutorials. Von der Komposition bis zur Sicherheit beherrschen Sie verschiedene Aspekte für verbesserte Arbeitsabläufe und Benutzererlebnisse.
+{{% /alert %}}
+
+### Aspose.Email-Tutorials
+- [Aspose.Email für .NET-Tutorials](./email/net/)
+
+## Aspose.Folien
+{{% alert color="primary" %}}
+Meistern Sie die Präsentationsverarbeitung mit Aspose.Slides-Tutorials. Erstellen, ändern und verbessern Sie PowerPoint-Präsentationen effizient. Excel in der dynamischen Inhaltsmanipulation.
+{{% /alert %}}
+
+### Aspose.Slides-Tutorials
+- [Aspose.Slides für .NET-Tutorials](./slides/net/)
+
+## Aspose.HTML
+{{% alert color="primary" %}}
+Entdecken Sie umfassende Aspose.HTML-Tutorials, um die Manipulation von HTML-Dokumenten mithilfe der leistungsstarken Aspose.HTML-Bibliothek zu meistern. Vom Parsen und Rendern bis zum Konvertieren von HTML-Dateien bieten diese Tutorials Schritt-für-Schritt-Anleitungen für Entwickler
+{{% /alert %}}
+
+### Aspose.HTML-Tutorials
+- [Aspose.HTML für .NET-Tutorials](./html/net/)

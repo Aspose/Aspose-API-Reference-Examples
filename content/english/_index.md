@@ -47,4 +47,12 @@ Master presentation processing with Aspose.Slides tutorials. Create, modify, and
 {{% /alert %}}
 
 ### Aspose.Slides Tutorials
-- [Aspose.Slides for .NET Tutorials](./email/net/)
+- [Aspose.Slides for .NET Tutorials](./slides/net/)
+
+## Aspose.HTML
+{{% alert color="primary" %}}
+Explore comprehensive Aspose.HTML tutorials to master HTML document manipulation using the powerful Aspose.HTML library. From parsing and rendering to converting HTML files, these tutorials provide step-by-step guidance for developers
+{{% /alert %}}
+
+### Aspose.HTML Tutorials
+- [Aspose.HTML for .NET Tutorials](./html/net/)

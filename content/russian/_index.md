@@ -13,9 +13,9 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебники по Aspose.Words
-- [Учебные пособия по Aspose.Words для .NET](./words/ru/net/)
-- [Учебные пособия по Aspose.Words для Java](./words/ru/java/)
-- [Учебные пособия по Aspose.Words для Python](./words/ru/python-net/)
+- [Учебные пособия по Aspose.Words для .NET](../words/ru/net/)
+- [Учебные пособия по Aspose.Words для Java](../words/ru/java/)
+- [Учебные пособия по Aspose.Words для Python](../words/ru/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебники Aspose.PDF
-- [Учебные пособия по Aspose.PDF для .NET](./pdf/ru/net/)
+- [Учебные пособия по Aspose.PDF для .NET](../pdf/ru/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по Aspose.Cells
-- [Учебные пособия по Aspose.Cells для .NET](./cells/ru/net/)
+- [Учебные пособия по Aspose.Cells для .NET](../cells/ru/net/)
 
 ## Aspose.Электронная почта
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по Aspose.Email
-- [Учебные пособия по Aspose.Email для .NET](./email/ru/net/)
+- [Учебные пособия по Aspose.Email для .NET](../email/ru/net/)
 
 ## Aspose.Слайды
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по Aspose.Slides
-- [Учебные пособия по Aspose.Slides для .NET](./slides/ru/net/)
+- [Учебные пособия по Aspose.Slides для .NET](../slides/ru/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по Aspose.HTML
-- [Учебные пособия по Aspose.HTML для .NET](./html/ru/net/)
+- [Учебные пособия по Aspose.HTML для .NET](../html/ru/net/)

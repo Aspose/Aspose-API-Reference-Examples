@@ -13,9 +13,9 @@ url: /ar/
 {{% /alert %}}
 
 ### Aspose.Words دروس
-- [Aspose.Words لبرامج .NET التعليمية](./words/ar/net/)
-- [Aspose.Words لدروس جافا](./words/ar/java/)
-- [Aspose.Words لدروس بايثون](./words/ar/python-net/)
+- [Aspose.Words لبرامج .NET التعليمية](../words/ar/net/)
+- [Aspose.Words لدروس جافا](../words/ar/java/)
+- [Aspose.Words لدروس بايثون](../words/ar/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ url: /ar/
 {{% /alert %}}
 
 ### دروس Aspose.PDF
-- [Aspose.PDF لبرامج .NET التعليمية](./pdf/ar/net/)
+- [Aspose.PDF لبرامج .NET التعليمية](../pdf/ar/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ url: /ar/
 {{% /alert %}}
 
 ### دروس Aspose.Cells
-- [Aspose.Cells لبرامج .NET التعليمية](./cells/ar/net/)
+- [Aspose.Cells لبرامج .NET التعليمية](../cells/ar/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ url: /ar/
 {{% /alert %}}
 
 ### Aspose.Email الدروس
-- [Aspose.Email لبرامج .NET التعليمية](./email/ar/net/)
+- [Aspose.Email لبرامج .NET التعليمية](../email/ar/net/)
 
 ## Aspose.Slides
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ url: /ar/
 {{% /alert %}}
 
 ### Aspose.Slides دروس
-- [Aspose.Slides لبرامج .NET التعليمية](./slides/ar/net/)
+- [Aspose.Slides لبرامج .NET التعليمية](../slides/ar/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ url: /ar/
 {{% /alert %}}
 
 ### دروس Aspose.HTML
-- [Aspose.HTML لبرامج .NET التعليمية](./html/ar/net/)
+- [Aspose.HTML لبرامج .NET التعليمية](../html/ar/net/)

@@ -13,9 +13,9 @@ Tutoriels Aspose.Words et extraits de code pour la création, l'édition, la con
 {{% /alert %}}
 
 ### Tutoriels Aspose.Words
-- [Aspose.Words pour les didacticiels .NET](./words/fr/net/)
-- [Aspose.Words pour les didacticiels Java](./words/fr/java/)
-- [Aspose.Words pour les didacticiels Python](./words/fr/python-net/)
+- [Aspose.Words pour les didacticiels .NET](../words/fr/net/)
+- [Aspose.Words pour les didacticiels Java](../words/fr/java/)
+- [Aspose.Words pour les didacticiels Python](../words/fr/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Tutoriels Aspose.PDF et extraits de code pour travailler avec des fichiers PDF. 
 {{% /alert %}}
 
 ### Tutoriels Aspose.PDF
-- [Aspose.PDF pour les didacticiels .NET](./pdf/fr/net/)
+- [Aspose.PDF pour les didacticiels .NET](../pdf/fr/net/)
 
 ## Aspose.Cellules
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Les didacticiels et extraits de code Aspose.Cells vous guident à travers diffé
 {{% /alert %}}
 
 ### Tutoriels Aspose.Cells
-- [Aspose.Cells pour les didacticiels .NET](./cells/fr/net/)
+- [Aspose.Cells pour les didacticiels .NET](../cells/fr/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ Débloquez une gestion efficace des e-mails avec les didacticiels Aspose.Email. 
 {{% /alert %}}
 
 ### Tutoriels Aspose.Email
-- [Aspose.Email pour les didacticiels .NET](./email/fr/net/)
+- [Aspose.Email pour les didacticiels .NET](../email/fr/net/)
 
 ## Aspose.Slides
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ Maîtrisez le traitement des présentations avec les didacticiels Aspose.Slides.
 {{% /alert %}}
 
 ### Tutoriels Aspose.Slides
-- [Aspose.Slides pour les didacticiels .NET](./slides/fr/net/)
+- [Aspose.Slides pour les didacticiels .NET](../slides/fr/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ Explorez des didacticiels Aspose.HTML complets pour maîtriser la manipulation d
 {{% /alert %}}
 
 ### Tutoriels Aspose.HTML
-- [Aspose.HTML pour les didacticiels .NET](./html/fr/net/)
+- [Aspose.HTML pour les didacticiels .NET](../html/fr/net/)

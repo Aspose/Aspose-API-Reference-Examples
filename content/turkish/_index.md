@@ -13,7 +13,7 @@ Uygulamanızda Word belgeleri oluşturmak, düzenlemek, dönüştürmek, yazdır
 {{% /alert %}}
 
 ### Aspose.Words Eğitimleri
-- [Aspose.Words for .NET Eğitimleri](./words/tr/net/)
+- [Aspose.Words for .NET Eğitimleri](../words/tr/net/)
 - [Aspose.Words for Java Eğitimleri](../words/tr/java/)
 - [Aspose.Words for Python Eğitimleri](../words/tr/python-net/)
 

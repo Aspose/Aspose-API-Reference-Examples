@@ -13,9 +13,9 @@ Tutoriales y fragmentos de código de Aspose.Words para crear, editar, convertir
 {{% /alert %}}
 
 ### Tutoriales de Aspose.Words
-- [Tutoriales de Aspose.Words para .NET](./words/es/net/)
-- [Tutoriales de Aspose.Words para Java](./words/es/java/)
-- [Tutoriales de Aspose.Words para Python](./words/es/python-net/)
+- [Tutoriales de Aspose.Words para .NET](../words/es/net/)
+- [Tutoriales de Aspose.Words para Java](../words/es/java/)
+- [Tutoriales de Aspose.Words para Python](../words/es/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Tutoriales de Aspose.PDF y fragmentos de código para trabajar con archivos PDF.
 {{% /alert %}}
 
 ### Tutoriales de Aspose.PDF
-- [Aspose.PDF para tutoriales .NET](./pdf/es/net/)
+- [Aspose.PDF para tutoriales .NET](../pdf/es/net/)
 
 ## Aspose.Células
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Los tutoriales y fragmentos de código de Aspose.Cells lo guiarán a través de 
 {{% /alert %}}
 
 ### Tutoriales de Aspose.Cells
-- [Tutoriales de Aspose.Cells para .NET](./cells/es/net/)
+- [Tutoriales de Aspose.Cells para .NET](../cells/es/net/)
 
 ## Aspose.correo electrónico
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ Desbloquee una gestión eficiente del correo electrónico con los tutoriales de 
 {{% /alert %}}
 
 ### Aspose.Tutoriales por correo electrónico
-- [Aspose.Email para tutoriales de .NET](./email/es/net/)
+- [Aspose.Email para tutoriales de .NET](../email/es/net/)
 
 ## Aspose.Diapositivas
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ Domine el procesamiento de presentaciones con los tutoriales de Aspose.Slides. C
 {{% /alert %}}
 
 ### Tutoriales de Aspose.Slides
-- [Tutoriales de Aspose.Slides para .NET](./slides/es/net/)
+- [Tutoriales de Aspose.Slides para .NET](../slides/es/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ Explore los tutoriales completos de Aspose.HTML para dominar la manipulación de
 {{% /alert %}}
 
 ### Tutoriales de Aspose.HTML
-- [Tutoriales de Aspose.HTML para .NET](./html/es/net/)
+- [Tutoriales de Aspose.HTML para .NET](../html/es/net/)

@@ -13,9 +13,9 @@ Tutorial e frammenti di codice di Aspose.Words per creare, modificare, convertir
 {{% /alert %}}
 
 ### Esercitazioni su Aspose.Words
-- [Aspose.Words per .NET Tutorial](./words/it/net/)
-- [Aspose.Words per tutorial Java](./words/it/java/)
-- [Aspose.Words per tutorial Python](./words/it/python-net/)
+- [Aspose.Words per .NET Tutorial](../words/it/net/)
+- [Aspose.Words per tutorial Java](../words/it/java/)
+- [Aspose.Words per tutorial Python](../words/it/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Tutorial Aspose.PDF e frammenti di codice per lavorare con file PDF. Crea, modif
 {{% /alert %}}
 
 ### Tutorial Aspose.PDF
-- [Aspose.PDF per tutorial .NET](./pdf/it/net/)
+- [Aspose.PDF per tutorial .NET](../pdf/it/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ tutorial e gli snippet di codice di Aspose.Cells ti guidano attraverso diversi p
 {{% /alert %}}
 
 ### Esercitazioni su Aspose.Cells
-- [Aspose.Cells per .NET Tutorial](./cells/it/net/)
+- [Aspose.Cells per .NET Tutorial](../cells/it/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ Sblocca una gestione efficiente della posta elettronica con i tutorial Aspose.Em
 {{% /alert %}}
 
 ### Tutorial Aspose.Email
-- [Aspose.Email per .NET Tutorial](./email/it/net/)
+- [Aspose.Email per .NET Tutorial](../email/it/net/)
 
 ## Aspose.Slides
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ Masterizza l'elaborazione delle presentazioni con i tutorial di Aspose.Slides. C
 {{% /alert %}}
 
 ### Tutorial di Aspose.Slides
-- [Aspose.Slides per tutorial .NET](./slides/it/net/)
+- [Aspose.Slides per tutorial .NET](../slides/it/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ Esplora tutorial completi su Aspose.HTML per padroneggiare la manipolazione dei 
 {{% /alert %}}
 
 ### Tutorial Aspose.HTML
-- [Aspose.HTML per .NET Tutorial](./html/it/net/)
+- [Aspose.HTML per .NET Tutorial](../html/it/net/)

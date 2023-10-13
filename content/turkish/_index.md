@@ -14,8 +14,8 @@ Uygulamanızda Word belgeleri oluşturmak, düzenlemek, dönüştürmek, yazdır
 
 ### Aspose.Words Eğitimleri
 - [Aspose.Words for .NET Eğitimleri](./words/tr/net/)
-- [Aspose.Words for Java Eğitimleri](./words/tr/java/)
-- [Aspose.Words for Python Eğitimleri](./words/tr/python-net/)
+- [Aspose.Words for Java Eğitimleri](../words/tr/java/)
+- [Aspose.Words for Python Eğitimleri](../words/tr/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Aspose.PDF eğitimleri ve PDF dosyalarıyla çalışmaya yönelik kod parçacık
 {{% /alert %}}
 
 ### Aspose.PDF Eğitimleri
-- [.NET Eğitimleri için Aspose.PDF](./pdf/tr/net/)
+- [.NET Eğitimleri için Aspose.PDF](../pdf/tr/net/)
 
 ## Aspose.Hücreler
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Aspose.Cells eğitimleri ve kod parçacıkları, projelerinizde Aspose.Cells'in 
 {{% /alert %}}
 
 ### Aspose.Cells Eğitimleri
-- [.NET Eğitimleri için Aspose.Cells](./cells/tr/net/)
+- [.NET Eğitimleri için Aspose.Cells](../cells/tr/net/)
 
 ## Aspose.E-posta
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ Aspose.Email eğitimleriyle verimli e-posta yönetiminin kilidini açın. Kompoz
 {{% /alert %}}
 
 ### Aspose.Email Eğitimleri
-- [.NET Eğitimleri için Aspose.Email](./email/tr/net/)
+- [.NET Eğitimleri için Aspose.Email](../email/tr/net/)
 
 ## Aspose.Slides
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ Aspose.Slides eğitimleriyle sunum işlemede ustalaşın. PowerPoint sunumların
 {{% /alert %}}
 
 ### Aspose.Slides Eğitimleri
-- [Aspose.Slides for .NET Eğitimleri](./slides/tr/net/)
+- [Aspose.Slides for .NET Eğitimleri](../slides/tr/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ Güçlü Aspose.HTML kütüphanesini kullanarak HTML belgesi manipülasyonunda u
 {{% /alert %}}
 
 ### Aspose.HTML Eğitimleri
-- [Aspose.HTML for .NET Eğitimleri](./html/tr/net/)
+- [Aspose.HTML for .NET Eğitimleri](../html/tr/net/)

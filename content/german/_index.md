@@ -13,9 +13,9 @@ Aspose.Words-Tutorials und Code-Snippets zum Erstellen, Bearbeiten, Konvertieren
 {{% /alert %}}
 
 ### Aspose.Words-Tutorials
-- [Aspose.Words für .NET-Tutorials](../words/de/net/)
-- [Aspose.Words für Java-Tutorials](../words/de/java/)
-- [Aspose.Words für Python-Tutorials](../words/de/python-net/)
+- [Aspose.Words für .NET-Tutorials](./words/de/net/)
+- [Aspose.Words für Java-Tutorials](./words/de/java/)
+- [Aspose.Words für Python-Tutorials](./words/de/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Aspose.PDF-Tutorials und Code-Snippets für die Arbeit mit PDF-Dateien. Erstelle
 {{% /alert %}}
 
 ### Aspose.PDF-Tutorials
-- [Aspose.PDF für .NET-Tutorials](../pdf/de/net/)
+- [Aspose.PDF für .NET-Tutorials](./pdf/de/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Aspose.Cells-Tutorials und Code-Snippets führen Sie durch verschiedene Schritte
 {{% /alert %}}
 
 ### Aspose.Cells-Tutorials
-- [Aspose.Cells für .NET-Tutorials](../cells/de/net/)
+- [Aspose.Cells für .NET-Tutorials](./cells/de/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,12 +39,20 @@ Erschließen Sie eine effiziente E-Mail-Verwaltung mit Aspose.Email-Tutorials. V
 {{% /alert %}}
 
 ### Aspose.Email-Tutorials
-- [Aspose.Email for .NET Tutorials](./email/de/net/)
+- [Aspose.Email für .NET-Tutorials](./email/de/net/)
 
-## Aspose.Slides
+## Aspose.Folien
 {{% alert color="primary" %}}
 Meistern Sie die Präsentationsverarbeitung mit Aspose.Slides-Tutorials. Erstellen, ändern und verbessern Sie PowerPoint-Präsentationen effizient. Excel in der dynamischen Inhaltsmanipulation.
 {{% /alert %}}
 
 ### Aspose.Slides-Tutorials
-- [Aspose.Slides for .NET Tutorials](./slides/de/net/)
+- [Aspose.Slides für .NET-Tutorials](./slides/de/net/)
+
+## Aspose.HTML
+{{% alert color="primary" %}}
+Entdecken Sie umfassende Aspose.HTML-Tutorials, um die Manipulation von HTML-Dokumenten mithilfe der leistungsstarken Aspose.HTML-Bibliothek zu meistern. Vom Parsen und Rendern bis zum Konvertieren von HTML-Dateien bieten diese Tutorials Schritt-für-Schritt-Anleitungen für Entwickler
+{{% /alert %}}
+
+### Aspose.HTML-Tutorials
+- [Aspose.HTML für .NET-Tutorials](./html/de/net/)

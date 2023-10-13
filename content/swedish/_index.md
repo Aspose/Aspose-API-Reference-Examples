@@ -13,17 +13,17 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 {{% /alert %}}
 
 ### Aspose.Words Tutorials
-- [Aspose.Words för .NET Tutorials](../words/sv/net/)
-- [Aspose.Words för Java Tutorials](../words/sv/java/)
-- [Aspose.Words för Python Tutorials](../words/sv/python-net/)
+- [Aspose.Words för .NET Tutorials](./words/sv/net/)
+- [Aspose.Words för Java Tutorials](./words/sv/java/)
+- [Aspose.Words för Python Tutorials](./words/sv/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
 Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
 {{% /alert %}}
 
-### Aspose.PDF Tutorials
-- [Aspose.PDF för .NET Tutorials](../pdf/sv/net/)
+### Aspose.PDF handledning
+- [Aspose.PDF för .NET Tutorials](./pdf/sv/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Aspose.Cells tutorials och kodsnuttar guidar dig genom olika steg för att fullt
 {{% /alert %}}
 
 ### Aspose.Cells Tutorials
-- [Aspose.Cells för .NET Tutorials](../cells/sv/net/)
+- [Aspose.Cells för .NET Tutorials](./cells/sv/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,12 +39,20 @@ Lås upp effektiv e-posthantering med Aspose.Email tutorials. Från komposition 
 {{% /alert %}}
 
 ### Aspose.Email Tutorials
-- [Aspose.Email for .NET Tutorials](./email/sv/net/)
+- [Aspose.Email för .NET Tutorials](./email/sv/net/)
 
 ## Aspose.Slides
 {{% alert color="primary" %}}
 Bemästra presentationsbearbetning med Aspose.Slides tutorials. Skapa, ändra och förbättra PowerPoint-presentationer effektivt. Excel i dynamisk innehållsmanipulation.
 {{% /alert %}}
 
-### Aspose.Slides Tutorials
-- [Aspose.Slides for .NET Tutorials](./slides/sv/net/)
+### Handledning för Aspose.Slides
+- [Aspose.Slides för .NET Tutorials](./slides/sv/net/)
+
+## Aspose.HTML
+{{% alert color="primary" %}}
+Utforska omfattande Aspose.HTML-handledningar för att bemästra HTML-dokumentmanipulation med det kraftfulla Aspose.HTML-biblioteket. Från att tolka och rendera till att konvertera HTML-filer, dessa tutorials ger steg-för-steg-vägledning för utvecklare
+{{% /alert %}}
+
+### Aspose.HTML Tutorials
+- [Aspose.HTML för .NET Tutorials](./html/sv/net/)

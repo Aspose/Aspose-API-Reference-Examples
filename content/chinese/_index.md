@@ -13,9 +13,9 @@ Aspose.Words 教程和代码片段，用于在应用程序中创建、编辑、�
 {{% /alert %}}
 
 ### Aspose.Words 教程
-- [Aspose.Words for .NET 教程](./words/net/)
-- [Aspose.Words Java 教程](./words/java/)
-- [Python 教程的 Aspose.Words](./words/python-net/)
+- [Aspose.Words for .NET 教程](./words/zh/net/)
+- [Aspose.Words Java 教程](./words/zh/java/)
+- [Python 教程的 Aspose.Words](./words/zh/python-net/)
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
@@ -23,7 +23,7 @@ Aspose.Words 教程和代码片段，用于在应用程序中创建、编辑、�
 {{% /alert %}}
 
 ### Aspose.PDF 教程
-- [Aspose.PDF for .NET 教程](./pdf/net/)
+- [Aspose.PDF for .NET 教程](./pdf/zh/net/)
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
@@ -31,7 +31,7 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 {{% /alert %}}
 
 ### Aspose.Cells 教程
-- [Aspose.Cells for .NET 教程](./cells/net/)
+- [Aspose.Cells for .NET 教程](./cells/zh/net/)
 
 ## Aspose.Email
 {{% alert color="primary" %}}
@@ -39,7 +39,7 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 {{% /alert %}}
 
 ### Aspose.Email 教程
-- [Aspose.Email for .NET 教程](./email/net/)
+- [Aspose.Email for .NET 教程](./email/zh/net/)
 
 ## Aspose.幻灯片
 {{% alert color="primary" %}}
@@ -47,7 +47,7 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 {{% /alert %}}
 
 ### Aspose.Slides 教程
-- [Aspose.Slides for .NET 教程](./slides/net/)
+- [Aspose.Slides for .NET 教程](./slides/zh/net/)
 
 ## Aspose.HTML
 {{% alert color="primary" %}}
@@ -55,4 +55,4 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 {{% /alert %}}
 
 ### Aspose.HTML 教程
-- [Aspose.HTML for .NET 教程](./html/net/)
+- [Aspose.HTML for .NET 教程](./html/zh/net/)

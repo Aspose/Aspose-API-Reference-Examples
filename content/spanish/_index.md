@@ -56,3 +56,21 @@ Explore los tutoriales completos de Aspose.HTML para dominar la manipulación de
 
 ### Tutoriales de Aspose.HTML
 - [Tutoriales de Aspose.HTML para .NET](../html/es/net/)
+
+## Aspose.Imaging
+{{% alert color="primary" %}}
+Explore el mundo del procesamiento de imágenes con nuestros tutoriales de Aspose.Imaging. Desde la instalación hasta técnicas avanzadas, nuestras guías completas se adaptan a todos los niveles. Libere el potencial de Aspose.Imaging para manipular, convertir y mejorar imágenes sin esfuerzo. Mejore sus habilidades de procesamiento de imágenes con tutoriales paso a paso diseñados para una integración perfecta y un rendimiento óptimo.
+{{% /alert %}}
+
+### Tutoriales de Aspose.Imaging
+- [Tutoriales de Aspose.Imaging para .NET](../imaging/es/net/)
+- [Tutoriales de Aspose.Imaging para Java](../imaging/es/java/)
+
+
+## Aspose.BarCode
+{{% alert color="primary" %}}
+Sumérgete en el ámbito de la generación y decodificación de códigos de barras con nuestros tutoriales de Aspose.BarCode. Ya sea un desarrollador novato o experimentado, nuestras guías paso a paso cubren la instalación, creación, personalización y optimización. Domine el arte del manejo de códigos de barras sin esfuerzo y mejore sus habilidades de codificación con Aspose.BarCode, la API definitiva para todas sus necesidades de códigos de barras.
+{{% /alert %}}
+
+### Tutoriales de Aspose.BarCode
+- [Tutoriales de Aspose.BarCode para .NET](../barcode/es/net/)

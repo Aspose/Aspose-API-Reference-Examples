@@ -56,3 +56,21 @@ Explorez des didacticiels Aspose.HTML complets pour maîtriser la manipulation d
 
 ### Tutoriels Aspose.HTML
 - [Aspose.HTML pour les didacticiels .NET](../html/fr/net/)
+
+## Aspose.Imaging
+{{% alert color="primary" %}}
+Explorez le monde du traitement d'image avec nos didacticiels Aspose.Imaging. De l'installation aux techniques avancées, nos guides complets s'adressent à tous les niveaux de compétence. Libérez le potentiel d’Aspose.Imaging pour manipuler, convertir et améliorer les images sans effort. Élevez vos compétences en traitement d’image avec des didacticiels étape par étape conçus pour une intégration transparente et des performances optimales.
+{{% /alert %}}
+
+### Tutoriels Aspose.Imaging
+- [Aspose.Imaging pour les didacticiels .NET](../imaging/fr/net/)
+- [Aspose.Imaging pour les didacticiels Java](../imaging/fr/java/)
+
+
+## Aspose.BarCode
+{{% alert color="primary" %}}
+Plongez dans le domaine de la génération et du décodage de codes-barres avec nos didacticiels Aspose.BarCode. Que vous soyez novice ou développeur expérimenté, nos guides étape par étape couvrent l'installation, la création, la personnalisation et l'optimisation. Maîtrisez l'art de la gestion des codes-barres sans effort et améliorez vos compétences en codage avec Aspose.BarCode, l'API ultime pour tous vos besoins en matière de codes-barres.
+{{% /alert %}}
+
+### Tutoriels Aspose.BarCode
+- [Aspose.BarCode pour les didacticiels .NET](../barcode/fr/net/)

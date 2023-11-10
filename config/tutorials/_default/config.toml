@@ -66,6 +66,14 @@ defaultContentLang = 'en'
      	  name = "Aspose.HTML Tutorials"
 	  url = "/html/"
    	  weight = 60
+			[[languages.en.menu.main]]
+     	  name = "Aspose.Imaging Tutorials"
+	  url = "/imaging/"
+   	  weight = 70
+			[[languages.en.menu.main]]
+     	  name = "Aspose.BarCode Tutorials"
+	  url = "/barcode/"
+   	  weight = 80
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -97,6 +105,14 @@ defaultContentLang = 'en'
      	  name = "Aspose.HTML Учебники"
 	  url = "/html/ru/"
    	  weight = 60
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.Imaging Учебники"
+	  url = "/imaging/ru/"
+   	  weight = 70
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.BarCode Учебники"
+	  url = "/barcode/ru/"
+   	  weight = 80
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -127,7 +143,15 @@ defaultContentLang = 'en'
     	[[languages.zh.menu.main]]
      	  name = "Aspose.HTML 教程"
 	  url = "/html/zh/"
-   	  weight = 60	  
+   	  weight = 60
+    	[[languages.zh.menu.main]]
+     	  name = "Aspose.Imaging 教程"
+	  url = "/imaging/zh/"
+   	  weight = 70
+    	[[languages.zh.menu.main]]
+     	  name = "Aspose.BarCode 教程"
+	  url = "/barcode/zh/"
+   	  weight = 80	  
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -158,7 +182,15 @@ defaultContentLang = 'en'
     	[[languages.ar.menu.main]]
      	  name = "Aspose.HTML دروس"
 	  url = "/html/ar/"
-   	  weight = 60 	  
+   	  weight = 60
+    	[[languages.ar.menu.main]]
+     	  name = "Aspose.Imaging دروس"
+	  url = "/imaging/ar/"
+   	  weight = 70
+    	[[languages.ar.menu.main]]
+     	  name = "Aspose.BarCode دروس"
+	  url = "/barcode/ar/"
+   	  weight = 80 	  
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -189,7 +221,15 @@ defaultContentLang = 'en'
     	[[languages.fr.menu.main]]
      	  name = "Aspose.HTML Tutoriels"
 	  url = "/html/fr/"
-   	  weight = 60 	  
+   	  weight = 60
+    	[[languages.fr.menu.main]]
+     	  name = "Aspose.Imaging Tutoriels"
+	  url = "/imaging/fr/"
+   	  weight = 70
+    	[[languages.fr.menu.main]]
+     	  name = "Aspose.BarCode Tutoriels"
+	  url = "/barcode/fr/"
+   	  weight = 80 	  
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -220,7 +260,15 @@ defaultContentLang = 'en'
     	[[languages.de.menu.main]]
      	  name = "Aspose.HTML-Tutorials"
 	  url = "/html/de/"
-   	  weight = 60	  
+   	  weight = 60
+    	[[languages.de.menu.main]]
+     	  name = "Aspose.Imaging-Tutorials"
+	  url = "/imaging/de/"
+   	  weight = 70
+    	[[languages.de.menu.main]]
+     	  name = "Aspose.BarCode-Tutorials"
+	  url = "/barcode/de/"
+   	  weight = 80	  
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -251,7 +299,15 @@ defaultContentLang = 'en'
     	[[languages.it.menu.main]]
      	  name = "Aspose.HTML Tutorial"
 	  url = "/html/it/"
-   	  weight = 60	  
+   	  weight = 60
+    	[[languages.it.menu.main]]
+     	  name = "Aspose.Imaging Tutorial"
+	  url = "/imaging/it/"
+   	  weight = 70
+    	[[languages.it.menu.main]]
+     	  name = "Aspose.BarCode Tutorial"
+	  url = "/barcode/it/"
+   	  weight = 80	  
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -282,7 +338,15 @@ defaultContentLang = 'en'
     	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.HTML"
 	  url = "/html/es/"
-   	  weight = 60		  
+   	  weight = 60
+    	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.Imaging"
+	  url = "/imaging/es/"
+   	  weight = 70
+    	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.BarCode"
+	  url = "/barcode/es/"
+   	  weight = 80	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -313,7 +377,15 @@ defaultContentLang = 'en'
     	[[languages.sv.menu.main]]
      	  name = "Aspose.HTML Tutorials"
 	  url = "/html/sv/"
-   	  weight = 60	  
+   	  weight = 60
+    	[[languages.sv.menu.main]]
+     	  name = "Aspose.Imaging Tutorials"
+	  url = "/imaging/sv/"
+   	  weight = 70
+    	[[languages.sv.menu.main]]
+     	  name = "Aspose.BarCode Tutorials"
+	  url = "/barcode/sv/"
+   	  weight = 80	  
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -344,7 +416,15 @@ defaultContentLang = 'en'
 	    [[languages.tr.menu.main]]
      	  name = "Aspose.HTML Eğitimleri"
 	  url = "/html/tr/"
-   	  weight = 60	  
+   	  weight = 60
+	    [[languages.tr.menu.main]]
+     	  name = "Aspose.Imaging Eğitimleri"
+	  url = "/imaging/tr/"
+   	  weight = 70
+	    [[languages.tr.menu.main]]
+     	  name = "Aspose.BarCode Eğitimleri"
+	  url = "/barcode/tr/"
+   	  weight = 80	  
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

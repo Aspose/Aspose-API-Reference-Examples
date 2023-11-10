@@ -56,3 +56,21 @@ Güçlü Aspose.HTML kütüphanesini kullanarak HTML belgesi manipülasyonunda u
 
 ### Aspose.HTML Eğitimleri
 - [Aspose.HTML for .NET Eğitimleri](../html/tr/net/)
+
+## Aspose.Imaging
+{{% alert color="primary" %}}
+Aspose.Imaging eğitimlerimizle görüntü işleme dünyasını keşfedin. Kurulumdan ileri tekniklere kadar kapsamlı kılavuzlarımız tüm beceri düzeylerine hitap eder. Aspose.Imaging'in görüntüleri zahmetsizce değiştirme, dönüştürme ve geliştirme potansiyelini ortaya çıkarın. Kusursuz entegrasyon ve optimum performans için tasarlanmış adım adım eğitimlerle görüntü işleme becerilerinizi geliştirin.
+{{% /alert %}}
+
+### Aspose.Imaging Eğitimleri
+- [Aspose.Imaging for .NET Eğitimleri](../imaging/tr/net/)
+- [Aspose.Imaging for Java Eğitimleri](../imaging/tr/java/)
+
+
+## Aspose.BarCode
+{{% alert color="primary" %}}
+Aspose.BarCode eğitimlerimizle barkod oluşturma ve kod çözme dünyasına dalın. İster acemi ister deneyimli bir geliştirici olun, adım adım kılavuzlarımız kurulum, oluşturma, özelleştirme ve optimizasyonu kapsar. Tüm barkod ihtiyaçlarınız için en iyi API olan Aspose.BarCode ile barkod işleme sanatında zahmetsizce ustalaşın ve kodlama becerilerinizi geliştirin.
+{{% /alert %}}
+
+### Aspose.BarCode Eğitimleri
+- [Aspose.BarCode for .NET Eğitimleri](../barcode/tr/net/)

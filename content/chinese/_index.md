@@ -56,3 +56,22 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 
 ### Aspose.HTML 教程
 - [Aspose.HTML for .NET 教程](../html/zh/net/)
+
+
+## Aspose.Imaging
+{{% alert color="primary" %}}
+通过我们的 Aspose.Imaging 教程探索图像处理的世界。 从安装到先进技术，我们的综合指南适合所有技能水平。 释放 Aspose.Imaging 的潜力，轻松操作、转换和增强图像。 通过旨在实现无缝集成和最佳性能的分步教程来提高您的图像处理技能。
+{{% /alert %}}
+
+### Aspose.Imaging 教程
+- [Aspose.Imaging for .NET 教程](../imaging/zh/net/)
+- [Aspose.Imaging Java 教程](../imaging/zh/java/)
+
+
+## Aspose.BarCode
+{{% alert color="primary" %}}
+通过我们的 Aspose.BarCode 教程深入了解条形码生成和解码领域。 无论您是新手还是经验丰富的开发人员，我们的分步指南都涵盖安装、创建、自定义和优化。 使用 Aspose.BarCode 轻松掌握条形码处理艺术并提高您的编码技能，Aspose.BarCode 是满足您所有条形码需求的终极 API。
+{{% /alert %}}
+
+### Aspose.BarCode 教程
+- [Aspose.BarCode for .NET 教程](../barcode/zh/net/)

@@ -74,3 +74,20 @@ Plongez dans le domaine de la génération et du décodage de codes-barres avec 
 
 ### Tutoriels Aspose.BarCode
 - [Aspose.BarCode pour les didacticiels .NET](../barcode/fr/net/)
+
+
+## Aspose.CAD
+{{% alert color="primary" %}}
+Les didacticiels Aspose.CAD sont un référentiel essentiel, offrant aux utilisateurs un chemin simplifié pour maîtriser le logiciel Aspose.CAD. Adapté à tous les niveaux d'expertise, il propose des didacticiels, des extraits de code et une documentation succincts mais complets. Couvrant la manipulation, le rendu et bien plus encore des fichiers CAO, il constitue une ressource essentielle pour les utilisateurs recherchant l'efficacité de l'intégration d'Aspose.CAD dans leurs projets.
+{{% /alert %}}
+
+### Tutoriels Aspose.CAD
+- [Aspose.CAD pour les didacticiels .NET](../cad/fr/net/)
+
+## Aspose.ZIP
+{{% alert color="primary" %}}
+Les didacticiels Aspose.Zip sont un guide crucial pour les utilisateurs souhaitant maximiser leurs compétences avec le logiciel Aspose.Zip. Adapté à divers niveaux d'expertise, il propose des didacticiels concis, des exemples de code et de la documentation. Couvrant la compression, la décompression et les fonctionnalités avancées, la page constitue une ressource essentielle pour une intégration transparente d'Aspose.Zip dans les projets.
+{{% /alert %}}
+
+### Tutoriels Aspose.ZIP
+- [Aspose.ZIP pour les didacticiels .NET](../zip/fr/net/)

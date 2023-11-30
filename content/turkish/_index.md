@@ -74,3 +74,20 @@ Aspose.BarCode eğitimlerimizle barkod oluşturma ve kod çözme dünyasına dal
 
 ### Aspose.BarCode Eğitimleri
 - [Aspose.BarCode for .NET Eğitimleri](../barcode/tr/net/)
+
+
+## Aspose.CAD
+{{% alert color="primary" %}}
+Aspose.CAD Eğitimleri, kullanıcılara Aspose.CAD yazılımında uzmanlaşmaları için kolaylaştırılmış bir yol sağlayan hayati bir kaynaktır. Tüm uzmanlık düzeylerine uygun olarak tasarlanmış olup kısa ve öz ancak kapsamlı eğitimler, kod parçacıkları ve belgeler sunar. CAD dosyası manipülasyonu, renderleme ve daha fazlasını kapsayan bu kitap, Aspose.CAD'i projelerine entegre etmede verimlilik arayan kullanıcılar için önemli bir kaynak görevi görüyor.
+{{% /alert %}}
+
+### Aspose.CAD Eğitimleri
+- [.NET için Aspose.CAD Eğitimleri](../cad/tr/net/)
+
+## Aspose.ZIP
+{{% alert color="primary" %}}
+Aspose.Zip Dersleri, Aspose.Zip yazılımındaki yeterliliklerini en üst düzeye çıkarmak isteyen kullanıcılar için çok önemli bir kılavuzdur. Farklı uzmanlık düzeylerine göre tasarlanmış olup kısa eğitimler, kod örnekleri ve belgeler sunar. Sıkıştırma, açma ve gelişmiş özellikleri kapsayan sayfa, Aspose.Zip'in projelere kusursuz entegrasyonu için önemli bir kaynak görevi görüyor.
+{{% /alert %}}
+
+### Aspose.ZIP Eğitimleri
+- [.NET Eğitimleri için Aspose.ZIP](../zip/tr/net/)

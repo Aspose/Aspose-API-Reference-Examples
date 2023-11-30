@@ -75,3 +75,20 @@ Aspose.Cells 教程和代码片段指导您完成不同的步骤，以充分发�
 
 ### Aspose.BarCode 教程
 - [Aspose.BarCode for .NET 教程](../barcode/zh/net/)
+
+
+## Aspose.CAD
+{{% alert color="primary" %}}
+Aspose.CAD 教程是一个重要的存储库，为用户提供了掌握 Aspose.CAD 软件的简化路径。 它专为各个级别的专业知识量身定制，提供简洁而全面的教程、代码片段和文档。 它涵盖 CAD 文件操作、渲染等内容，对于寻求将 Aspose.CAD 集成到项目中的效率的用户来说，它是一个关键资源。
+{{% /alert %}}
+
+### Aspose.CAD 教程
+- [Aspose.CAD for .NET 教程](../cad/zh/net/)
+
+## Aspose.ZIP
+{{% alert color="primary" %}}
+Aspose.Zip 教程对于希望最大限度地提高 Aspose.Zip 软件熟练程度的用户来说是至关重要的指南。 它专为不同的专业水平量身定制，提供简洁的教程、代码示例和文档。 该页面涵盖压缩、解压缩和高级功能，是 Aspose.Zip 无缝集成到项目中的关键资源。
+{{% /alert %}}
+
+### Aspose.ZIP 教程
+- [Aspose.ZIP for .NET 教程](../zip/zh/net/)

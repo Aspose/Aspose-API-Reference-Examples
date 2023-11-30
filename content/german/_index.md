@@ -74,3 +74,20 @@ Tauchen Sie mit unseren Aspose.BarCode-Tutorials in die Welt der Barcode-Generie
 
 ### Aspose.BarCode-Tutorials
 - [Aspose.BarCode für .NET-Tutorials](../barcode/de/net/)
+
+
+## Aspose.CAD
+{{% alert color="primary" %}}
+Die Aspose.CAD-Tutorials sind ein wichtiges Repository, das Benutzern einen optimierten Weg zur Beherrschung der Aspose.CAD-Software bietet. Es ist auf alle Erfahrungsstufen zugeschnitten und bietet prägnante, aber umfassende Tutorials, Codeausschnitte und Dokumentation. Es deckt die Bearbeitung von CAD-Dateien, das Rendern und mehr ab und dient als zentrale Ressource für Benutzer, die eine effiziente Integration von Aspose.CAD in ihre Projekte anstreben.
+{{% /alert %}}
+
+### Aspose.CAD-Tutorials
+- [Aspose.CAD für .NET-Tutorials](../cad/de/net/)
+
+## Aspose.ZIP
+{{% alert color="primary" %}}
+Die Aspose.Zip-Tutorials sind ein wichtiger Leitfaden für Benutzer, die ihre Kenntnisse mit der Aspose.Zip-Software maximieren möchten. Es ist auf unterschiedliche Fachkenntnisse zugeschnitten und bietet prägnante Tutorials, Codebeispiele und Dokumentation. Die Seite deckt Komprimierung, Dekomprimierung und erweiterte Funktionen ab und dient als zentrale Ressource für die nahtlose Integration von Aspose.Zip in Projekte.
+{{% /alert %}}
+
+### Aspose.ZIP-Tutorials
+- [Aspose.ZIP für .NET-Tutorials](../zip/de/net/)

@@ -58,22 +58,30 @@ defaultContentLang = 'en'
      	  name = "Aspose.Email Tutorials"
 	  url = "/email/"
    	  weight = 40	
-	    	[[languages.en.menu.main]]
+	    [[languages.en.menu.main]]
      	  name = "Aspose.Slides Tutorials"
 	  url = "/slides/"
    	  weight = 50
-	  	    [[languages.en.menu.main]]
+	    [[languages.en.menu.main]]
      	  name = "Aspose.HTML Tutorials"
 	  url = "/html/"
    	  weight = 60
-			[[languages.en.menu.main]]
+		[[languages.en.menu.main]]
      	  name = "Aspose.Imaging Tutorials"
 	  url = "/imaging/"
    	  weight = 70
-			[[languages.en.menu.main]]
+		[[languages.en.menu.main]]
      	  name = "Aspose.BarCode Tutorials"
 	  url = "/barcode/"
    	  weight = 80
+	  	[[languages.en.menu.main]]
+     	  name = "Aspose.CAD Tutorials"
+	  url = "/cad/"
+   	  weight = 90
+	  	[[languages.en.menu.main]]
+     	  name = "Aspose.ZIP Tutorials"
+	  url = "/zip/"
+   	  weight = 100
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -113,6 +121,14 @@ defaultContentLang = 'en'
      	  name = "Aspose.BarCode Учебники"
 	  url = "/barcode/ru/"
    	  weight = 80
+	  	[[languages.ru.menu.main]]
+     	  name = "Aspose.CAD Учебники"
+	  url = "/cad/ru/"
+   	  weight = 90
+	  	[[languages.ru.menu.main]]
+     	  name = "Aspose.ZIP Учебники"
+	  url = "/zip/ru/"
+   	  weight = 100
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -151,7 +167,15 @@ defaultContentLang = 'en'
     	[[languages.zh.menu.main]]
      	  name = "Aspose.BarCode 教程"
 	  url = "/barcode/zh/"
-   	  weight = 80	  
+   	  weight = 80
+	  	[[languages.zh.menu.main]]
+     	  name = "Aspose.CAD 教程"
+	  url = "/cad/zh/"
+   	  weight = 90
+	  	[[languages.zh.menu.main]]
+     	  name = "Aspose.ZIP 教程"
+	  url = "/zip/zh/"
+   	  weight = 100
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -190,7 +214,15 @@ defaultContentLang = 'en'
     	[[languages.ar.menu.main]]
      	  name = "Aspose.BarCode دروس"
 	  url = "/barcode/ar/"
-   	  weight = 80 	  
+   	  weight = 80
+	  	[[languages.ar.menu.main]]
+     	  name = "Aspose.CAD دروس"
+	  url = "/cad/ar/"
+   	  weight = 90
+	  	[[languages.ar.menu.main]]
+     	  name = "Aspose.ZIP دروس"
+	  url = "/zip/ar/"
+   	  weight = 100 	  
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -229,7 +261,15 @@ defaultContentLang = 'en'
     	[[languages.fr.menu.main]]
      	  name = "Aspose.BarCode Tutoriels"
 	  url = "/barcode/fr/"
-   	  weight = 80 	  
+   	  weight = 80 
+	  	[[languages.fr.menu.main]]
+     	  name = "Aspose.CAD Tutoriels"
+	  url = "/cad/fr/"
+   	  weight = 90
+	  	[[languages.fr.menu.main]]
+     	  name = "Aspose.ZIP Tutoriels"
+	  url = "/zip/fr/"
+   	  weight = 100	  
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -268,7 +308,15 @@ defaultContentLang = 'en'
     	[[languages.de.menu.main]]
      	  name = "Aspose.BarCode-Tutorials"
 	  url = "/barcode/de/"
-   	  weight = 80	  
+   	  weight = 80	
+	  	[[languages.de.menu.main]]
+     	  name = "Aspose.CAD-Tutorials"
+	  url = "/cad/de/"
+   	  weight = 90
+	  	[[languages.de.menu.main]]
+     	  name = "Aspose.ZIP-Tutorials"
+	  url = "/zip/de/"
+   	  weight = 100	  
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -307,7 +355,15 @@ defaultContentLang = 'en'
     	[[languages.it.menu.main]]
      	  name = "Aspose.BarCode Tutorial"
 	  url = "/barcode/it/"
-   	  weight = 80	  
+   	  weight = 80
+	  	[[languages.it.menu.main]]
+     	  name = "Aspose.CAD Tutorial"
+	  url = "/cad/it/"
+   	  weight = 90
+	  	[[languages.it.menu.main]]
+     	  name = "Aspose.ZIP Tutorial"
+	  url = "/zip/it/"
+   	  weight = 100	  
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -346,7 +402,15 @@ defaultContentLang = 'en'
     	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.BarCode"
 	  url = "/barcode/es/"
-   	  weight = 80	  
+   	  weight = 80
+	  	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.CAD"
+	  url = "/cad/es/"
+   	  weight = 90
+	  	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.ZIP"
+	  url = "/zip/es/"
+   	  weight = 100	  	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -385,7 +449,15 @@ defaultContentLang = 'en'
     	[[languages.sv.menu.main]]
      	  name = "Aspose.BarCode Tutorials"
 	  url = "/barcode/sv/"
-   	  weight = 80	  
+   	  weight = 80
+	  	[[languages.sv.menu.main]]
+     	  name = "Aspose.CAD Tutorials"
+	  url = "/cad/sv/"
+   	  weight = 90
+	  	[[languages.sv.menu.main]]
+     	  name = "Aspose.ZIP Tutorials"
+	  url = "/zip/sv/"
+   	  weight = 100		  
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -424,7 +496,15 @@ defaultContentLang = 'en'
 	    [[languages.tr.menu.main]]
      	  name = "Aspose.BarCode Eğitimleri"
 	  url = "/barcode/tr/"
-   	  weight = 80	  
+   	  weight = 80
+	  	[[languages.tr.menu.main]]
+     	  name = "Aspose.CAD Eğitimleri"
+	  url = "/cad/tr/"
+   	  weight = 90
+	  	[[languages.tr.menu.main]]
+     	  name = "Aspose.ZIP Eğitimleri"
+	  url = "/zip/tr/"
+   	  weight = 100	  
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

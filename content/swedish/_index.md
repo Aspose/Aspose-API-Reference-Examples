@@ -74,3 +74,20 @@ Dyk in i streckkodsgenerering och -avkodning med våra Aspose.BarCode-handlednin
 
 ### Aspose.BarCode Tutorials
 - [Aspose.BarCode för .NET Tutorials](../barcode/sv/net/)
+
+
+## Aspose.CAD
+{{% alert color="primary" %}}
+Aspose.CAD Tutorials är ett viktigt arkiv som ger användarna en strömlinjeformad väg till att bemästra Aspose.CAD-mjukvaran. Den är skräddarsydd för alla nivåer av expertis och levererar kortfattade men ändå omfattande handledningar, kodavsnitt och dokumentation. Den täcker CAD-filmanipulation, rendering och mer och fungerar som en central resurs för användare som söker effektivitet i att integrera Aspose.CAD i sina projekt.
+{{% /alert %}}
+
+### Aspose.CAD Tutorials
+- [Aspose.CAD för .NET Tutorials](../cad/sv/net/)
+
+## Aspose.ZIP
+{{% alert color="primary" %}}
+Aspose.Zip Tutorials är en viktig guide för användare som strävar efter att maximera sin kunskap med Aspose.Zip-programvaran. Den är skräddarsydd för olika expertnivåer och erbjuder kortfattade handledningar, kodexempel och dokumentation. Sidan täcker komprimering, dekompression och avancerade funktioner och fungerar som en central resurs för sömlös integrering av Aspose.Zip i projekt.
+{{% /alert %}}
+
+### Aspose.ZIP Tutorials
+- [Aspose.ZIP för .NET Tutorials](../zip/sv/net/)

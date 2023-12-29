@@ -99,3 +99,20 @@ Aspose.Drawing, yazılım uygulamalarında grafik manipülasyonunu ve görselle�
 
 ### Aspose.Drawing Eğitimleri
 - [.NET için Aspose.Drawing Eğitimleri](../drawing/tr/net/)
+
+## Aspose.OCR
+{{% alert color="primary" %}}
+Aspose.OCR, görüntülerden ve belgelerden yüksek doğrulukla metin çıkarmak için tasarlanmış güçlü bir optik karakter tanıma (OCR) yazılım çözümüdür. Lider belge işleme ve işleme araçları sağlayıcısı Aspose tarafından geliştirilen Aspose.OCR, çok çeşitli görüntü formatlarını destekleyerek çeşitli uygulamalar için çok yönlü olmasını sağlar.
+{{% /alert %}}
+
+### Aspose.OCR Eğitimleri
+- [.NET için Aspose.OCR Eğitimleri](../ocr/tr/net/)
+- [Aspose.OCR for Java Eğitimleri](../ocr/tr/java/)
+
+## Aspose.PSD
+{{% alert color="primary" %}}
+Aspose.PSD, Adobe Photoshop dosyaları (PSD) ile çalışmak üzere tasarlanmış güçlü ve çok yönlü bir .NET kütüphanesidir. Katman yönetimi, metin oluşturma, görüntü ayarlamaları ve çeşitli formatlara dışa aktarma gibi çeşitli özellikler sunarak geliştiricilere PSD dosyalarını programlı olarak oluşturma, düzenleme ve işleme yeteneği sağlar. Aspose.PSD ile geliştiriciler, PSD dosya işlemeyi sorunsuz bir şekilde uygulamalarına entegre edebilir, böylece grafik tasarım iş akışlarının verimli otomasyonu ve özelleştirilmesi mümkün olur. Bu kitaplığın, .NET çerçevesinde güçlü PSD dosya işleme yetenekleri arayan geliştiriciler için değerli bir araç olduğu kanıtlanmıştır.
+{{% /alert %}}
+
+### Aspose.PSD Tutorials
+- [.NET için Aspose.PSD Eğitimleri](../psd/tr/net/)

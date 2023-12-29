@@ -100,3 +100,20 @@ Aspose.Drawing est une API (Application Programming Interface) puissante et poly
 
 ### Tutoriels Aspose.Drawing
 - [Aspose.Drawing pour les didacticiels .NET](../drawing/fr/net/)
+
+## Aspose.OCR
+{{% alert color="primary" %}}
+Aspose.OCR est une puissante solution logicielle de reconnaissance optique de caractères (OCR) conçue pour extraire le texte des images et des documents avec une grande précision. Développé par Aspose, l'un des principaux fournisseurs d'outils de traitement et de manipulation de documents, Aspose.OCR prend en charge une large gamme de formats d'image, ce qui le rend polyvalent pour diverses applications.
+{{% /alert %}}
+
+### Tutoriels Aspose.OCR
+- [Aspose.OCR pour les didacticiels .NET](../ocr/fr/net/)
+- [Aspose.OCR pour les didacticiels Java](../ocr/fr/java/)
+
+## Aspose.PSD
+{{% alert color="primary" %}}
+Aspose.PSD est une bibliothèque .NET puissante et polyvalente conçue pour travailler avec les fichiers Adobe Photoshop (PSD). Il offre aux développeurs la possibilité de créer, d'éditer et de manipuler des fichiers PSD par programme, offrant une gamme de fonctionnalités telles que la gestion des calques, le rendu du texte, les ajustements d'image et l'exportation vers divers formats. Avec Aspose.PSD, les développeurs peuvent intégrer de manière transparente la gestion des fichiers PSD dans leurs applications, permettant ainsi une automatisation et une personnalisation efficaces des flux de travail de conception graphique. Cette bibliothèque s'avère être un outil précieux pour les développeurs recherchant des capacités robustes de traitement de fichiers PSD dans le framework .NET.
+{{% /alert %}}
+
+### Tutoriels Aspose.PSD
+- [Aspose.PSD pour les didacticiels .NET](../psd/fr/net/)

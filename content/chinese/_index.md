@@ -101,3 +101,20 @@ Aspose.Drawing 是一个功能强大且多功能的 API（应用程序编程接�
 
 ### Aspose.Drawing 教程
 - [Aspose.Drawing for .NET 教程](../drawing/zh/net/)
+
+## Aspose.OCR
+{{% alert color="primary" %}}
+Aspose.OCR 是一款功能强大的光学字符识别 (OCR) 软件解决方案，旨在从图像和文档中高精度提取文本。 Aspose.OCR 由领先的文档处理和操作工具提供商 Aspose 开发，支持多种图像格式，使其适用于各种应用程序
+{{% /alert %}}
+
+### Aspose.OCR 教程
+- [Aspose.OCR for .NET 教程](../ocr/zh/net/)
+- [Aspose.OCR Java 教程](../ocr/zh/java/)
+
+## Aspose.PSD
+{{% alert color="primary" %}}
+Aspose.PSD 是一个功能强大且多功能的 .NET 库，专为处理 Adobe Photoshop 文件 (PSD) 而设计。 它为开发人员提供了以编程方式创建、编辑和操作 PSD 文件的能力，并提供了一系列功能，例如图层管理、文本渲染、图像调整和导出为各种格式。 借助 Aspose.PSD，开发人员可以将 PSD 文件处理无缝集成到他们的应用程序中，从而实现图形设计工作流程的高效自动化和定制。 对于在 .NET 框架内寻求强大的 PSD 文件处理功能的开发人员来说，该库被证明是一个有价值的工具。
+{{% /alert %}}
+
+### Aspose.PSD 教程
+- [Aspose.PSD for .NET 教程](../psd/zh/net/)

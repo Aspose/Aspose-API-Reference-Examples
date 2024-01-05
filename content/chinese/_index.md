@@ -118,3 +118,4 @@ Aspose.PSD 是一个功能强大且多功能的 .NET 库，专为处理 Adobe Ph
 
 ### Aspose.PSD 教程
 - [Aspose.PSD for .NET 教程](../psd/zh/net/)
+- [Aspose.PSD Java 教程](../psd/zh/java/)

@@ -117,3 +117,4 @@ Aspose.PSD est une bibliothèque .NET puissante et polyvalente conçue pour trav
 
 ### Tutoriels Aspose.PSD
 - [Aspose.PSD pour les didacticiels .NET](../psd/fr/net/)
+- [Aspose.PSD pour les didacticiels Java](../psd/fr/java/)

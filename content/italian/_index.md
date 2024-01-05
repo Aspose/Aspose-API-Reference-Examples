@@ -117,3 +117,4 @@ Aspose.PSD is a powerful and versatile .NET library designed for working with Ad
 
 ### Aspose.PSD Tutorials
 - [Aspose.PSD per .NET Tutorial](../psd/it/net/)
+- [Aspose.PSD per tutorial Java](../psd/it/java/)

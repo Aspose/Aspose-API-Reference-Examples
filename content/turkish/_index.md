@@ -116,3 +116,4 @@ Aspose.PSD, Adobe Photoshop dosyaları (PSD) ile çalışmak üzere tasarlanmı�
 
 ### Aspose.PSD Tutorials
 - [.NET için Aspose.PSD Eğitimleri](../psd/tr/net/)
+- [Aspose.PSD for Java Eğitimleri](../psd/tr/java/)

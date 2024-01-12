@@ -118,3 +118,11 @@ Aspose.PSD est une bibliothèque .NET puissante et polyvalente conçue pour trav
 ### Tutoriels Aspose.PSD
 - [Aspose.PSD pour les didacticiels .NET](../psd/fr/net/)
 - [Aspose.PSD pour les didacticiels Java](../psd/fr/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D est une bibliothèque logicielle complète conçue pour faciliter la manipulation et le traitement de documents 3D. Cet outil puissant permet aux développeurs de créer, manipuler et convertir des fichiers 3D dans différents formats, offrant ainsi une solution polyvalente pour intégrer des fonctionnalités 3D dans les applications. Aspose.3D prend en charge les formats de fichiers 3D populaires tels que STL, FBX, GLTF, etc., permettant une interopérabilité transparente. Avec une API conviviale et une gamme de fonctionnalités, notamment des capacités de création, de transformation et de rendu de modèles 3D, Aspose.3D permet aux développeurs de travailler efficacement avec du contenu 3D, ce qui en fait un atout précieux pour les applications de jeux, de simulation, de réalité virtuelle, et d'autres industries où les graphiques 3D jouent un rôle crucial.
+{{% /alert %}}
+
+### Tutoriels Aspose.3D
+- [Aspose.3D pour les didacticiels .NET](../3d/fr/net/)

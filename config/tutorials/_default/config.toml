@@ -94,6 +94,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD Tutorials"
 	  url = "/psd/"
    	  weight = 130
+		[[languages.en.menu.main]]
+     	  name = "Aspose.3D Tutorials"
+	  url = "/3d/"
+   	  weight = 140
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -153,6 +157,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD Учебники"
 	  url = "/psd/ru/"
    	  weight = 130
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.3D Учебники"
+	  url = "/3d/ru/"
+   	  weight = 140
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -212,6 +220,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD 教程"
 	  url = "/psd/zh/"
    	  weight = 130
+		[[languages.zh.menu.main]]
+     	  name = "Aspose.3D 教程"
+	  url = "/3d/zh/"
+   	  weight = 140
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -270,7 +282,11 @@ defaultContentLang = 'en'
 	  	[[languages.ar.menu.main]]
      	  name = "Aspose.PSD دروس"
 	  url = "/psd/ar/"
-   	  weight = 130  	  
+   	  weight = 130
+	  	[[languages.ar.menu.main]]
+     	  name = "Aspose.3D دروس"
+	  url = "/3d/ar/"
+   	  weight = 140  	  
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -329,7 +345,11 @@ defaultContentLang = 'en'
 	  	[[languages.fr.menu.main]]
      	  name = "Aspose.PSD Tutoriels"
 	  url = "/psd/fr/"
-   	  weight = 130	  
+   	  weight = 130	 
+	  	[[languages.fr.menu.main]]
+     	  name = "Aspose.3D Tutoriels"
+	  url = "/3d/fr/"
+   	  weight = 140	  
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -388,7 +408,11 @@ defaultContentLang = 'en'
 	  	[[languages.de.menu.main]]
      	  name = "Aspose.PSD-Tutorials"
 	  url = "/psd/de/"
-   	  weight = 130	  
+   	  weight = 130	
+	  	[[languages.de.menu.main]]
+     	  name = "Aspose.3D-Tutorials"
+	  url = "/3d/de/"
+   	  weight = 140		  
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -448,6 +472,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD Tutorial"
 	  url = "/psd/it/"
    	  weight = 130
+		[[languages.it.menu.main]]
+     	  name = "Aspose.3D Tutorial"
+	  url = "/3d/it/"
+   	  weight = 140
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -506,7 +534,11 @@ defaultContentLang = 'en'
 	  	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.PSD"
 	  url = "/psd/es/"
-   	  weight = 130	  
+   	  weight = 130	
+	  	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.3D"
+	  url = "/3d/es/"
+   	  weight = 140	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -566,6 +598,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD Tutorials"
 	  url = "/psd/sv/"
    	  weight = 130	  
+		[[languages.sv.menu.main]]
+     	  name = "Aspose.3D Tutorials"
+	  url = "/3d/sv/"
+   	  weight = 140
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -625,6 +661,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.PSD Eğitimleri"
 	  url = "/psd/tr/"
    	  weight = 130	  
+		[[languages.tr.menu.main]]
+     	  name = "Aspose.3D Eğitimleri"
+	  url = "/3d/tr/"
+   	  weight = 140
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

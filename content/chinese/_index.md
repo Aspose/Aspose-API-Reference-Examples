@@ -119,3 +119,11 @@ Aspose.PSD 是一个功能强大且多功能的 .NET 库，专为处理 Adobe Ph
 ### Aspose.PSD 教程
 - [Aspose.PSD for .NET 教程](../psd/zh/net/)
 - [Aspose.PSD Java 教程](../psd/zh/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D 是一个综合软件库，旨在促进 3D 文档操作和处理。 这个强大的工具使开发人员能够创建、操作和转换各种格式的 3D 文件，为将 3D 功能集成到应用程序中提供了通用的解决方案。 Aspose.3D 支持流行的 3D 文件格式，例如 STL、FBX、GLTF 等，从而实现无缝的互操作性。 凭借用户友好的 API 和一系列功能，包括 3D 模型创建、转换和渲染功能，Aspose.3D 使开发人员能够高效地处理 3D 内容，使其成为游戏、模拟、虚拟现实、 以及 3D 图形发挥关键作用的其他行业。
+{{% /alert %}}
+
+### Aspose.3D 教程
+- [Aspose.3D for .NET 教程](../3d/zh/net/)

@@ -126,3 +126,4 @@ Aspose.3D è una libreria software completa progettata per facilitare la manipol
 
 ### Aspose.3D Tutorials
 - [Aspose.3D per .NET Tutorials](../3d/it/net/)
+- [Aspose.3D per tutorial Java](../3d/it/java/)

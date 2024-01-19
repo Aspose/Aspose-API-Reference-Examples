@@ -127,3 +127,4 @@ Aspose.3D 是一个综合软件库，旨在促进 3D 文档操作和处理。 �
 
 ### Aspose.3D 教程
 - [Aspose.3D for .NET 教程](../3d/zh/net/)
+- [Aspose.3D Java 教程](../3d/zh/java/)

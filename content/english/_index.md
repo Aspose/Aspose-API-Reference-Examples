@@ -127,3 +127,4 @@ Aspose.3D is a comprehensive software library designed to facilitate 3D document
 
 ### Aspose.3D Tutorials
 - [Aspose.3D for .NET Tutorials](./3d/net/)
+- [Aspose.3D for Java Tutorials](./3d/java/)

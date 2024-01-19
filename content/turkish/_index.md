@@ -125,3 +125,4 @@ Aspose.3D, 3D belge manipülasyonunu ve işlenmesini kolaylaştırmak için tasa
 
 ### Aspose.3D Eğitimleri
 - [.NET için Aspose.3D Eğitimleri](../3d/tr/net/)
+- [Aspose.3D for Java Eğitimleri](../3d/tr/java/)

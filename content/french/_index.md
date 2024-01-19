@@ -126,3 +126,4 @@ Aspose.3D est une bibliothèque logicielle complète conçue pour faciliter la m
 
 ### Tutoriels Aspose.3D
 - [Aspose.3D pour les didacticiels .NET](../3d/fr/net/)
+- [Aspose.3D pour les didacticiels Java](../3d/fr/java/)

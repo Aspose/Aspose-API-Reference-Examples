@@ -118,3 +118,21 @@ Aspose.PSD är ett kraftfullt och mångsidigt .NET-bibliotek designat för att a
 ### Aspose.PSD Tutorials
 - [Aspose.PSD för .NET Tutorials](../psd/sv/net/)
 - [Aspose.PSD för Java Tutorials](../psd/sv/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D är ett omfattande mjukvarubibliotek utformat för att underlätta manipulering och bearbetning av 3D-dokument. Detta kraftfulla verktyg gör det möjligt för utvecklare att skapa, manipulera och konvertera 3D-filer i olika format, vilket ger en mångsidig lösning för att integrera 3D-funktionalitet i applikationer. Aspose.3D stöder populära 3D-filformat som STL, FBX, GLTF och mer, vilket möjliggör sömlös interoperabilitet. Med ett användarvänligt API och en rad funktioner, inklusive 3D-modellskapande, transformation och renderingsmöjligheter, ger Aspose.3D utvecklare möjlighet att effektivt arbeta med 3D-innehåll, vilket gör det till en värdefull tillgång för applikationer inom spel, simulering, virtuell verklighet, och andra branscher där 3D-grafik spelar en avgörande roll.
+{{% /alert %}}
+
+### Aspose.3D Tutorials
+- [Aspose.3D för .NET Tutorials](../3d/sv/net/)
+- [Aspose.3D för Java Tutorials](../3d/sv/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX är ett mångsidigt och kraftfullt dokumentbehandlingsbibliotek utformat för att underlätta skapandet, manipuleringen och konverteringen av TeX-filer. TeX är ett sättningssystem som ofta används för produktion av vetenskapliga och matematiska dokument. Aspose.TeX ger utvecklare möjlighet att sömlöst integrera TeX-relaterade funktioner i sina applikationer, vilket möjliggör generering av högkvalitativa dokument med precision och effektivitet. Med funktioner som typsättning, rendering och konverteringsmöjligheter förenklar Aspose.TeX hanteringen av TeX-filer, vilket gör det till ett viktigt verktyg för applikationer som kräver sofistikerad dokumentbehandling.
+{{% /alert %}}
+
+### Aspose.TeX Tutorials
+- [Aspose.TeX för .NET Tutorials](../tex/sv/net/)
+- [Aspose.TeX för Java Tutorials](../tex/sv/java/)

@@ -119,3 +119,21 @@ Aspose.PSD 是一个功能强大且多功能的 .NET 库，专为处理 Adobe Ph
 ### Aspose.PSD 教程
 - [Aspose.PSD for .NET 教程](../psd/zh/net/)
 - [Aspose.PSD Java 教程](../psd/zh/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D 是一个综合软件库，旨在促进 3D 文档操作和处理。 这个强大的工具使开发人员能够创建、操作和转换各种格式的 3D 文件，为将 3D 功能集成到应用程序中提供了通用的解决方案。 Aspose.3D 支持流行的 3D 文件格式，例如 STL、FBX、GLTF 等，从而实现无缝的互操作性。 凭借用户友好的 API 和一系列功能，包括 3D 模型创建、转换和渲染功能，Aspose.3D 使开发人员能够高效地处理 3D 内容，使其成为游戏、模拟、虚拟现实、 以及 3D 图形发挥关键作用的其他行业。
+{{% /alert %}}
+
+### Aspose.3D 教程
+- [Aspose.3D for .NET 教程](../3d/zh/net/)
+- [Aspose.3D Java 教程](../3d/zh/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX 是一个多功能且功能强大的文档处理库，旨在促进 TeX 文件的创建、操作和转换。 TeX 是一种广泛用于科学和数学文档制作的排版系统。 Aspose.TeX 使开发人员能够将 TeX 相关功能无缝集成到他们的应用程序中，从而精确高效地生成高质量文档。 凭借排版、渲染和转换功能等功能，Aspose.TeX 简化了 TeX 文件的处理，使其成为需要复杂文档处理的应用程序的必备工具。
+{{% /alert %}}
+
+### Aspose.TeX 教程
+- [Aspose.TeX for .NET 教程](../tex/zh/net/)
+- [Aspose.TeX for Java 教程](../tex/zh/java/)

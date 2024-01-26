@@ -118,3 +118,21 @@ Aspose.PSD es una biblioteca .NET potente y versátil diseñada para trabajar co
 ### Tutoriales de Aspose.PSD
 - [Aspose.PSD para tutoriales .NET](../psd/es/net/)
 - [Tutoriales de Aspose.PSD para Java](../psd/es/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D es una biblioteca de software integral diseñada para facilitar la manipulación y el procesamiento de documentos 3D. Esta poderosa herramienta permite a los desarrolladores crear, manipular y convertir archivos 3D en varios formatos, proporcionando una solución versátil para integrar la funcionalidad 3D en las aplicaciones. Aspose.3D admite formatos de archivos 3D populares como STL, FBX, GLTF y más, lo que permite una interoperabilidad perfecta. Con una API fácil de usar y una variedad de funciones, que incluyen capacidades de creación, transformación y renderizado de modelos 3D, Aspose.3D permite a los desarrolladores trabajar de manera eficiente con contenido 3D, lo que lo convierte en un activo valioso para aplicaciones de juegos, simulación, realidad virtual. y otras industrias donde los gráficos 3D juegan un papel crucial.
+{{% /alert %}}
+
+### Tutoriales de Aspose.3D
+- [Aspose.3D para tutoriales .NET](../3d/es/net/)
+- [Tutoriales de Aspose.3D para Java](../3d/es/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX es una biblioteca de procesamiento de documentos potente y versátil diseñada para facilitar la creación, manipulación y conversión de archivos TeX. TeX es un sistema de composición tipográfica ampliamente utilizado para la producción de documentos científicos y matemáticos. Aspose.TeX permite a los desarrolladores integrar perfectamente funcionalidades relacionadas con TeX en sus aplicaciones, permitiendo la generación de documentos de alta calidad con precisión y eficiencia. Con características como capacidades de composición tipográfica, renderizado y conversión, Aspose.TeX simplifica el manejo de archivos TeX, convirtiéndolo en una herramienta esencial para aplicaciones que requieren un procesamiento de documentos sofisticado.
+{{% /alert %}}
+
+### Tutoriales de Aspose.TeX
+- [Aspose.TeX para tutoriales .NET](../tex/es/net/)
+- [Tutoriales de Aspose.TeX para Java](../tex/es/java/)

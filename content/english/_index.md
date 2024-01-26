@@ -119,3 +119,21 @@ Aspose.PSD is a powerful and versatile .NET library designed for working with Ad
 ### Aspose.PSD Tutorials
 - [Aspose.PSD for .NET Tutorials](./psd/net/)
 - [Aspose.PSD for Java Tutorials](./psd/java/)
+
+## Aspose.3D
+{{% alert color="primary" %}}
+Aspose.3D is a comprehensive software library designed to facilitate 3D document manipulation and processing. This powerful tool enables developers to create, manipulate, and convert 3D files across various formats, providing a versatile solution for integrating 3D functionality into applications. Aspose.3D supports popular 3D file formats such as STL, FBX, GLTF, and more, allowing seamless interoperability. With a user-friendly API and a range of features, including 3D model creation, transformation, and rendering capabilities, Aspose.3D empowers developers to efficiently work with 3D content, making it a valuable asset for applications in gaming, simulation, virtual reality, and other industries where 3D graphics play a crucial role.
+{{% /alert %}}
+
+### Aspose.3D Tutorials
+- [Aspose.3D for .NET Tutorials](./3d/net/)
+- [Aspose.3D for Java Tutorials](./3d/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX is a versatile and powerful document processing library designed to facilitate the creation, manipulation, and conversion of TeX files. TeX is a typesetting system widely used for the production of scientific and mathematical documents. Aspose.TeX empowers developers to seamlessly integrate TeX-related functionalities into their applications, enabling the generation of high-quality documents with precision and efficiency. With features such as typesetting, rendering, and conversion capabilities, Aspose.TeX simplifies the handling of TeX files, making it an essential tool for applications requiring sophisticated document processing.
+{{% /alert %}}
+
+### Aspose.TeX Tutorials
+- [Aspose.TeX for .NET Tutorials](./tex/net/)
+- [Aspose.TeX for Java Tutorials](./tex/java/)

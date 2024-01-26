@@ -128,3 +128,12 @@ Aspose.3D 是一个综合软件库，旨在促进 3D 文档操作和处理。 �
 ### Aspose.3D 教程
 - [Aspose.3D for .NET 教程](../3d/zh/net/)
 - [Aspose.3D Java 教程](../3d/zh/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX 是一个多功能且功能强大的文档处理库，旨在促进 TeX 文件的创建、操作和转换。 TeX 是一种广泛用于科学和数学文档制作的排版系统。 Aspose.TeX 使开发人员能够将 TeX 相关功能无缝集成到他们的应用程序中，从而精确高效地生成高质量文档。 凭借排版、渲染和转换功能等功能，Aspose.TeX 简化了 TeX 文件的处理，使其成为需要复杂文档处理的应用程序的必备工具。
+{{% /alert %}}
+
+### Aspose.TeX 教程
+- [Aspose.TeX for .NET 教程](../tex/zh/net/)
+- [Aspose.TeX for Java 教程](../tex/zh/java/)

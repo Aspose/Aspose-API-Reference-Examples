@@ -127,3 +127,12 @@ Aspose.3D è una libreria software completa progettata per facilitare la manipol
 ### Aspose.3D Tutorials
 - [Aspose.3D per .NET Tutorials](../3d/it/net/)
 - [Aspose.3D per tutorial Java](../3d/it/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX è una libreria di elaborazione documenti versatile e potente progettata per facilitare la creazione, la manipolazione e la conversione di file TeX. TeX è un sistema di composizione ampiamente utilizzato per la produzione di documenti scientifici e matematici. Aspose.TeX consente agli sviluppatori di integrare perfettamente le funzionalità relative a TeX nelle loro applicazioni, consentendo la generazione di documenti di alta qualità con precisione ed efficienza. Con funzionalità quali impaginazione, rendering e capacità di conversione, Aspose.TeX semplifica la gestione dei file TeX, rendendolo uno strumento essenziale per le applicazioni che richiedono un'elaborazione di documenti sofisticata.
+{{% /alert %}}
+
+### Aspose.TeX Tutorials
+- [Aspose.TeX per .NET Tutorials](../tex/it/net/)
+- [Aspose.TeX per tutorial Java](../tex/it/java/)

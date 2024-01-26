@@ -126,3 +126,12 @@ Aspose.3D, 3D belge manipülasyonunu ve işlenmesini kolaylaştırmak için tasa
 ### Aspose.3D Eğitimleri
 - [.NET için Aspose.3D Eğitimleri](../3d/tr/net/)
 - [Aspose.3D for Java Eğitimleri](../3d/tr/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX, TeX dosyalarının oluşturulmasını, işlenmesini ve dönüştürülmesini kolaylaştırmak için tasarlanmış çok yönlü ve güçlü bir belge işleme kütüphanesidir. TeX, bilimsel ve matematiksel belgelerin üretiminde yaygın olarak kullanılan bir dizgi sistemidir. Aspose.TeX, geliştiricilerin TeX ile ilgili işlevleri uygulamalarına sorunsuz bir şekilde entegre etmelerine olanak tanıyarak yüksek kaliteli belgelerin hassas ve verimli bir şekilde oluşturulmasını sağlar. Aspose.TeX, dizgi, işleme ve dönüştürme yetenekleri gibi özellikleriyle TeX dosyalarının işlenmesini basitleştirerek, onu karmaşık belge işleme gerektiren uygulamalar için vazgeçilmez bir araç haline getiriyor.
+{{% /alert %}}
+
+### Aspose.TeX Eğitimleri
+- [.NET için Aspose.TeX Eğitimleri](../tex/tr/net/)
+- [Aspose.TeX for Java Eğitimleri](../tex/tr/java/)

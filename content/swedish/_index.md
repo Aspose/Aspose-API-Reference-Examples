@@ -127,3 +127,12 @@ Aspose.3D är ett omfattande mjukvarubibliotek utformat för att underlätta man
 ### Aspose.3D Tutorials
 - [Aspose.3D för .NET Tutorials](../3d/sv/net/)
 - [Aspose.3D för Java Tutorials](../3d/sv/java/)
+
+## Aspose.TeX
+{{% alert color="primary" %}}
+Aspose.TeX är ett mångsidigt och kraftfullt dokumentbehandlingsbibliotek utformat för att underlätta skapandet, manipuleringen och konverteringen av TeX-filer. TeX är ett sättningssystem som ofta används för produktion av vetenskapliga och matematiska dokument. Aspose.TeX ger utvecklare möjlighet att sömlöst integrera TeX-relaterade funktioner i sina applikationer, vilket möjliggör generering av högkvalitativa dokument med precision och effektivitet. Med funktioner som typsättning, rendering och konverteringsmöjligheter förenklar Aspose.TeX hanteringen av TeX-filer, vilket gör det till ett viktigt verktyg för applikationer som kräver sofistikerad dokumentbehandling.
+{{% /alert %}}
+
+### Aspose.TeX Tutorials
+- [Aspose.TeX för .NET Tutorials](../tex/sv/net/)
+- [Aspose.TeX för Java Tutorials](../tex/sv/java/)

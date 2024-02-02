@@ -102,6 +102,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX Tutorials"
 	  url = "/tex/"
    	  weight = 150
+		[[languages.en.menu.main]]
+     	  name = "Aspose.Page Tutorials"
+	  url = "/page/"
+   	  weight = 160
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -169,6 +173,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX Учебники"
 	  url = "/tex/ru/"
    	  weight = 150
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.Page Учебники"
+	  url = "/page/ru/"
+   	  weight = 160
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -236,6 +244,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX 教程"
 	  url = "/tex/zh/"
    	  weight = 150
+		[[languages.zh.menu.main]]
+     	  name = "Aspose.Page 教程"
+	  url = "/page/zh/"
+   	  weight = 160
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -302,7 +314,11 @@ defaultContentLang = 'en'
 	  	[[languages.ar.menu.main]]
      	  name = "Aspose.TeX دروس"
 	  url = "/tex/ar/"
-   	  weight = 150  	  
+   	  weight = 150  
+	  	[[languages.ar.menu.main]]
+     	  name = "Aspose.Page دروس"
+	  url = "/page/ar/"
+   	  weight = 160 	  
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -369,7 +385,11 @@ defaultContentLang = 'en'
 	  	[[languages.fr.menu.main]]
      	  name = "Aspose.TeX Tutoriels"
 	  url = "/tex/fr/"
-   	  weight = 150	  
+   	  weight = 150	
+	  	[[languages.fr.menu.main]]
+     	  name = "Aspose.Page Tutoriels"
+	  url = "/page/fr/"
+   	  weight = 160	  
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -436,7 +456,11 @@ defaultContentLang = 'en'
 	  	[[languages.de.menu.main]]
      	  name = "Aspose.TeX-Tutorials"
 	  url = "/tex/de/"
-   	  weight = 150	  
+   	  weight = 150	 
+	  	[[languages.de.menu.main]]
+     	  name = "Aspose.Page-Tutorials"
+	  url = "/page/de/"
+   	  weight = 160		  
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -504,6 +528,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX Tutorial"
 	  url = "/tex/it/"
    	  weight = 150
+		[[languages.it.menu.main]]
+     	  name = "Aspose.Page Tutorial"
+	  url = "/page/it/"
+   	  weight = 160
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -570,7 +598,11 @@ defaultContentLang = 'en'
 	  	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.TeX"
 	  url = "/tex/es/"
-   	  weight = 150	  
+   	  weight = 150	
+	  	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.Page"
+	  url = "/page/es/"
+   	  weight = 160	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -638,6 +670,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX Tutorials"
 	  url = "/tex/sv/"
    	  weight = 150
+		[[languages.sv.menu.main]]
+     	  name = "Aspose.Page Tutorials"
+	  url = "/page/sv/"
+   	  weight = 160
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -705,6 +741,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.TeX Eğitimleri"
 	  url = "/tex/tr/"
    	  weight = 150
+		[[languages.tr.menu.main]]
+     	  name = "Aspose.Page Eğitimleri"
+	  url = "/page/tr/"
+   	  weight = 160
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

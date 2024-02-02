@@ -137,3 +137,12 @@ Aspose.TeX 是一个多功能且功能强大的文档处理库，旨在促进 Te
 ### Aspose.TeX 教程
 - [Aspose.TeX for .NET 教程](../tex/zh/net/)
 - [Aspose.TeX for Java 教程](../tex/zh/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page 是一个多功能且强大的文档操作 API，旨在简化 .NET 应用程序中各种基于页面的文件格式的处理。 无论是使用可移植文档格式 (PDF) 文件、封装 PostScript (EPS) 还是 XPS（XML 纸张规范），Aspose.Page 都使开发人员能够高效地创建、修改和转换文档。 Aspose.Page 具有丰富的功能，包括页面提取、添加和操作，以及对文本和图像提取的支持，有助于无缝集成到不同的文档管理和处理工作流程中。
+{{% /alert %}}
+
+### Aspose.Page 教程
+- [Aspose.Page for .NET 教程](../page/zh/net/)
+- [Aspose.Page for Java 教程](./page/zh/java/)

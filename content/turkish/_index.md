@@ -135,3 +135,12 @@ Aspose.TeX, TeX dosyalarının oluşturulmasını, işlenmesini ve dönüştür�
 ### Aspose.TeX Eğitimleri
 - [.NET için Aspose.TeX Eğitimleri](../tex/tr/net/)
 - [Aspose.TeX for Java Eğitimleri](../tex/tr/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page, .NET uygulamalarında çeşitli sayfa tabanlı dosya formatlarının işlenmesini kolaylaştırmak için tasarlanmış çok yönlü ve sağlam bir belge işleme API'sidir. Taşınabilir Belge Formatı (PDF) dosyaları, Encapsulated PostScript (EPS) veya XPS (XML Kağıt Belirtimi) ile çalışırken Aspose.Page, geliştiricilere belgeleri verimli bir şekilde oluşturma, değiştirme ve dönüştürme olanağı sağlar. Aspose.Page, sayfa çıkarma, ekleme ve düzenlemenin yanı sıra metin ve resim çıkarma desteği de dahil olmak üzere zengin bir dizi özellik ile çeşitli belge yönetimi ve işleme iş akışlarına kusursuz entegrasyonu kolaylaştırır.
+{{% /alert %}}
+
+### Aspose.Page Eğitimleri
+- [.NET için Aspose.Page Eğitimleri](../page/tr/net/)
+- [Aspose.Page for Java Eğitimleri](../page/tr/java/)

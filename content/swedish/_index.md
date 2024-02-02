@@ -136,3 +136,12 @@ Aspose.TeX är ett mångsidigt och kraftfullt dokumentbehandlingsbibliotek utfor
 ### Aspose.TeX Tutorials
 - [Aspose.TeX för .NET Tutorials](../tex/sv/net/)
 - [Aspose.TeX för Java Tutorials](../tex/sv/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page är ett mångsidigt och robust API för dokumentmanipulering utformat för att effektivisera behandlingen av olika sidbaserade filformat inom .NET-applikationer. Oavsett om du arbetar med PDF-filer (Portable Document Format), Encapsulated PostScript (EPS) eller XPS (XML Paper Specification), ger Aspose.Page utvecklare möjlighet att effektivt skapa, modifiera och konvertera dokument. Med en rik uppsättning funktioner, inklusive sidextraktion, tillägg och manipulering, samt stöd för text- och bildextraktion, underlättar Aspose.Page sömlös integrering i olika dokumenthanterings- och bearbetningsarbetsflöden.
+{{% /alert %}}
+
+### Aspose.Page Tutorials
+- [Aspose.Page för .NET Tutorials](../page/sv/net/)
+- [Aspose.Page för Java Tutorials](../page/sv/java/)

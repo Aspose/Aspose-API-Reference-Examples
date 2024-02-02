@@ -133,6 +133,15 @@ Aspose.3D ist eine umfassende Softwarebibliothek zur Erleichterung der Bearbeitu
 Aspose.TeX ist eine vielseitige und leistungsstarke Dokumentverarbeitungsbibliothek, die die Erstellung, Bearbeitung und Konvertierung von TeX-Dateien erleichtert. TeX ist ein Schriftsatzsystem, das häufig für die Erstellung wissenschaftlicher und mathematischer Dokumente verwendet wird. Aspose.TeX ermöglicht Entwicklern die nahtlose Integration von TeX-bezogenen Funktionen in ihre Anwendungen und ermöglicht so die präzise und effiziente Erstellung hochwertiger Dokumente. Mit Funktionen wie Satz-, Rendering- und Konvertierungsfunktionen vereinfacht Aspose.TeX die Handhabung von TeX-Dateien und macht es zu einem unverzichtbaren Werkzeug für Anwendungen, die eine anspruchsvolle Dokumentenverarbeitung erfordern.
 {{% /alert %}}
 
-### Aspose.TeX Tutorials
+### Aspose.TeX-Tutorials
 - [Aspose.TeX für .NET Tutorials](../tex/de/net/)
 - [Aspose.TeX für Java Tutorials](../tex/de/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page ist eine vielseitige und robuste Dokumentbearbeitungs-API, die entwickelt wurde, um die Verarbeitung verschiedener seitenbasierter Dateiformate in .NET-Anwendungen zu optimieren. Unabhängig davon, ob Sie mit PDF-Dateien (Portable Document Format), EPS (Encapsulated PostScript) oder XPS (XML Paper Specification) arbeiten, ermöglicht Aspose.Page Entwicklern das effiziente Erstellen, Ändern und Konvertieren von Dokumenten. Mit einem umfangreichen Funktionsumfang, einschließlich Seitenextraktion, -ergänzung und -bearbeitung sowie Unterstützung für Text- und Bildextraktion, erleichtert Aspose.Page die nahtlose Integration in verschiedene Dokumentenverwaltungs- und -verarbeitungsworkflows.
+{{% /alert %}}
+
+### Aspose.Page-Tutorials
+- [Aspose.Page für .NET Tutorials](../page/de/net/)
+- [Aspose.Page für Java Tutorials](../page/de/java/)

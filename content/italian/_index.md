@@ -115,7 +115,7 @@ Aspose.OCR è una potente soluzione software di riconoscimento ottico dei caratt
 Aspose.PSD is a powerful and versatile .NET library designed for working with Adobe Photoshop files (PSD). It provides developers with the capability to create, edit, and manipulate PSD files programmatically, offering a range of features such as layer management, text rendering, image adjustments, and exporting to various formats. With Aspose.PSD, developers can integrate PSD file handling seamlessly into their applications, enabling efficient automation and customization of graphic design workflows. This library proves to be a valuable tool for developers seeking robust PSD file processing capabilities within the .NET framework.
 {{% /alert %}}
 
-### Aspose.PSD Tutorials
+### Tutorial Aspose.PSD
 - [Aspose.PSD per .NET Tutorial](../psd/it/net/)
 - [Aspose.PSD per tutorial Java](../psd/it/java/)
 
@@ -124,7 +124,7 @@ Aspose.PSD is a powerful and versatile .NET library designed for working with Ad
 Aspose.3D è una libreria software completa progettata per facilitare la manipolazione e l'elaborazione di documenti 3D. Questo potente strumento consente agli sviluppatori di creare, manipolare e convertire file 3D in vari formati, fornendo una soluzione versatile per integrare la funzionalità 3D nelle applicazioni. Aspose.3D supporta i formati di file 3D più diffusi come STL, FBX, GLTF e altri, consentendo un'interoperabilità senza soluzione di continuità. Con un'API intuitiva e una gamma di funzionalità, tra cui funzionalità di creazione, trasformazione e rendering di modelli 3D, Aspose.3D consente agli sviluppatori di lavorare in modo efficiente con contenuti 3D, rendendolo una risorsa preziosa per applicazioni nei giochi, nella simulazione, nella realtà virtuale, e altri settori in cui la grafica 3D gioca un ruolo cruciale.
 {{% /alert %}}
 
-### Aspose.3D Tutorials
+### Tutorial Aspose.3D
 - [Aspose.3D per .NET Tutorials](../3d/it/net/)
 - [Aspose.3D per tutorial Java](../3d/it/java/)
 
@@ -133,6 +133,15 @@ Aspose.3D è una libreria software completa progettata per facilitare la manipol
 Aspose.TeX è una libreria di elaborazione documenti versatile e potente progettata per facilitare la creazione, la manipolazione e la conversione di file TeX. TeX è un sistema di composizione ampiamente utilizzato per la produzione di documenti scientifici e matematici. Aspose.TeX consente agli sviluppatori di integrare perfettamente le funzionalità relative a TeX nelle loro applicazioni, consentendo la generazione di documenti di alta qualità con precisione ed efficienza. Con funzionalità quali impaginazione, rendering e capacità di conversione, Aspose.TeX semplifica la gestione dei file TeX, rendendolo uno strumento essenziale per le applicazioni che richiedono un'elaborazione di documenti sofisticata.
 {{% /alert %}}
 
-### Aspose.TeX Tutorials
+### Tutorial Aspose.TeX
 - [Aspose.TeX per .NET Tutorials](../tex/it/net/)
 - [Aspose.TeX per tutorial Java](../tex/it/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page è un'API di manipolazione dei documenti versatile e robusta progettata per semplificare l'elaborazione di vari formati di file basati su pagine all'interno delle applicazioni .NET. Sia che si lavori con file PDF (Portable Document Format), Encapsulated PostScript (EPS) o XPS (XML PaperSpecific), Aspose.Page consente agli sviluppatori di creare, modificare e convertire documenti in modo efficiente. Con un ricco set di funzionalità, tra cui l'estrazione, l'aggiunta e la manipolazione delle pagine, nonché il supporto per l'estrazione di testo e immagini, Aspose.Page facilita l'integrazione perfetta in diversi flussi di lavoro di gestione ed elaborazione dei documenti.
+{{% /alert %}}
+
+### Tutorial Aspose.Page
+- [Aspose.Page per .NET Tutorials](../page/it/net/)
+- [Aspose.Page per tutorial Java](../page/it/java/)

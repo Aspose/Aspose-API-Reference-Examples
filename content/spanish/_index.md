@@ -136,3 +136,12 @@ Aspose.TeX es una biblioteca de procesamiento de documentos potente y versátil 
 ### Tutoriales de Aspose.TeX
 - [Aspose.TeX para tutoriales .NET](../tex/es/net/)
 - [Tutoriales de Aspose.TeX para Java](../tex/es/java/)
+
+## Aspose.Page
+{{% alert color="primary" %}}
+Aspose.Page es una API de manipulación de documentos versátil y sólida diseñada para agilizar el procesamiento de varios formatos de archivos basados en páginas dentro de aplicaciones .NET. Ya sea que trabaje con archivos en formato de documento portátil (PDF), PostScript encapsulado (EPS) o XPS (especificación de papel XML), Aspose.Page permite a los desarrolladores crear, modificar y convertir documentos de manera eficiente. Con un amplio conjunto de funciones, que incluyen extracción, adición y manipulación de páginas, así como soporte para extracción de texto e imágenes, Aspose.Page facilita una integración perfecta en diversos flujos de trabajo de procesamiento y gestión de documentos.
+{{% /alert %}}
+
+### Tutoriales de Aspose.Page
+- [Aspose.Page para tutoriales .NET](../page/es/net/)
+- [Tutoriales de Aspose.Page para Java](../page/es/java/)

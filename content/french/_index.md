@@ -145,3 +145,12 @@ Aspose.Page est une API de manipulation de documents polyvalente et robuste con�
 ### Tutoriels Aspose.Page
 - [Aspose.Page pour les didacticiels .NET](../page/fr/net/)
 - [Aspose.Page pour les didacticiels Java](../page/fr/java/)
+
+
+## Aspose.Note
+{{% alert color="primary" %}}
+Aspose.Note est une bibliothèque logicielle polyvalente conçue pour faciliter la manipulation et la conversion des fichiers Microsoft OneNote. Grâce à son ensemble complet de fonctionnalités, les développeurs peuvent facilement créer, lire, modifier et convertir des documents OneNote par programmation dans divers formats populaires. Aspose.Note offre une intégration transparente dans les applications .NET, permettant aux développeurs de rationaliser leur flux de travail et d'améliorer leur productivité lorsqu'ils traitent des fichiers OneNote.
+{{% /alert %}}
+
+### Tutoriels Aspose.Note
+- [Aspose.Note pour les didacticiels .NET](../note/fr/net/)

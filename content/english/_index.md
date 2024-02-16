@@ -154,3 +154,4 @@ Aspose.Note is a versatile software library designed to facilitate the manipulat
 
 ### Aspose.Note Tutorials
 - [Aspose.Note for .NET Tutorials](./note/net/)
+- [Aspose.Note for Java Tutorials](./note/java/)

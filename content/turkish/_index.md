@@ -152,3 +152,4 @@ Aspose.Note, Microsoft OneNote dosyalarının işlenmesini ve dönüştürülmes
 
 ### Aspose.Note Eğitimleri
 - [.NET için Aspose.Note Eğitimleri](../note/tr/net/)
+- [Aspose.Note for Java Eğitimleri](../note/tr/java/)

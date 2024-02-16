@@ -154,3 +154,4 @@ Aspose.Note est une bibliothèque logicielle polyvalente conçue pour faciliter 
 
 ### Tutoriels Aspose.Note
 - [Aspose.Note pour les didacticiels .NET](../note/fr/net/)
+- [Aspose.Note pour les didacticiels Java](../note/fr/java/)

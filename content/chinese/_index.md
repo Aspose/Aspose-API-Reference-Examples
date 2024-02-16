@@ -154,3 +154,4 @@ Aspose.Note 是一个多功能软件库，旨在促进 Microsoft OneNote 文件�
 
 ### Aspose.Note 教程
 - [Aspose.Note for .NET 教程](../note/zh/net/)
+- [Aspose.Note for Java 教程](../note/zh/java/)

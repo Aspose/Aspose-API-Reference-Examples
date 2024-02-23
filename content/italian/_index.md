@@ -134,7 +134,7 @@ Aspose.TeX è una libreria di elaborazione documenti versatile e potente progett
 {{% /alert %}}
 
 ### Tutorial Aspose.TeX
-- [Aspose.TeX per .NET Tutorials](../tex/it/net/)
+- [Aspose.TeX per .NET Tutorial](../tex/it/net/)
 - [Aspose.TeX per tutorial Java](../tex/it/java/)
 
 ## Aspose.Page
@@ -143,7 +143,7 @@ Aspose.Page è un'API di manipolazione dei documenti versatile e robusta progett
 {{% /alert %}}
 
 ### Tutorial Aspose.Page
-- [Aspose.Page per .NET Tutorials](../page/it/net/)
+- [Aspose.Page per .NET Tutorial](../page/it/net/)
 - [Aspose.Page per tutorial Java](../page/it/java/)
 
 ## Aspose.Note
@@ -152,5 +152,13 @@ Aspose.Note è una libreria software versatile progettata per facilitare la mani
 {{% /alert %}}
 
 ### Tutorial Aspose.Note
-- [Aspose.Note per .NET Tutorials](../note/it/net/)
+- [Aspose.Note per .NET Tutorial](../note/it/net/)
 - [Aspose.Note per tutorial Java](../note/it/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks è una potente API .NET che consente agli sviluppatori di manipolare i file di Microsoft Project senza richiedere l'installazione di Microsoft Project. Fornisce funzionalità per leggere, scrivere, manipolare e convertire file di progetto in vari formati, rendendolo uno strumento prezioso per la gestione e l'automazione delle attività relative al progetto all'interno delle applicazioni software.
+{{% /alert %}}
+
+### Tutorial Aspose.Tasks
+- [Aspose.Tasks for .NET Tutorial](../tasks/it/net/)

@@ -153,3 +153,11 @@ Aspose.Note, Microsoft OneNote dosyalarının işlenmesini ve dönüştürülmes
 ### Aspose.Note Eğitimleri
 - [.NET için Aspose.Note Eğitimleri](../note/tr/net/)
 - [Aspose.Note for Java Eğitimleri](../note/tr/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks, geliştiricilerin Microsoft Project'in kurulmasına gerek kalmadan Microsoft Project dosyalarını değiştirmesine olanak tanıyan güçlü bir .NET API'sidir. Proje dosyalarını okumak, yazmak, değiştirmek ve çeşitli formatlara dönüştürmek için işlevler sağlar; bu da onu yazılım uygulamaları içindeki projeyle ilgili görevleri yönetmek ve otomatikleştirmek için değerli bir araç haline getirir.
+{{% /alert %}}
+
+### Aspose.Tasks Eğitimleri
+- [.NET için Aspose.Tasks Eğitimleri](../tasks/tr/net/)

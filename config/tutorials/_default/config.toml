@@ -110,6 +110,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Tutorials"
 	  url = "/note/"
    	  weight = 170
+		[[languages.en.menu.main]]
+     	  name = "Aspose.Tasks Tutorials"
+	  url = "/tasks/"
+   	  weight = 180
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -185,6 +189,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Учебники"
 	  url = "/note/ru/"
    	  weight = 170
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.Tasks Учебники"
+	  url = "/tasks/ru/"
+   	  weight = 180
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -260,6 +268,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note 教程"
 	  url = "/note/zh/"
    	  weight = 170
+		[[languages.zh.menu.main]]
+     	  name = "Aspose.Tasks 教程"
+	  url = "/tasks/zh/"
+   	  weight = 180
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -335,6 +347,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note دروس"
 	  url = "/note/ar/"
    	  weight = 170 	  
+		[[languages.ar.menu.main]]
+     	  name = "Aspose.Tasks دروس"
+	  url = "/tasks/ar/"
+   	  weight = 180 
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -410,6 +426,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Tutoriels"
 	  url = "/note/fr/"
    	  weight = 170	  
+		[[languages.fr.menu.main]]
+     	  name = "Aspose.Tasks Tutoriels"
+	  url = "/tasks/fr/"
+   	  weight = 180
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -485,6 +505,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note-Tutorials"
 	  url = "/note/de/"
    	  weight = 170	  
+		[[languages.de.menu.main]]
+     	  name = "Aspose.Tasks-Tutorials"
+	  url = "/tasks/de/"
+   	  weight = 180	
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -560,6 +584,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Tutorial"
 	  url = "/note/it/"
    	  weight = 170
+		[[languages.it.menu.main]]
+     	  name = "Aspose.Tasks Tutorial"
+	  url = "/tasks/it/"
+   	  weight = 180
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -634,7 +662,11 @@ defaultContentLang = 'en'
 	  	[[languages.es.menu.main]]
      	  name = "Tutoriales de Aspose.Note"
 	  url = "/note/es/"
-   	  weight = 170	  
+   	  weight = 170	
+	  	[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.Tasks"
+	  url = "/tasks/es/"
+   	  weight = 180	  
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -710,6 +742,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Tutorials"
 	  url = "/note/sv/"
    	  weight = 170
+		[[languages.sv.menu.main]]
+     	  name = "Aspose.Tasks Tutorials"
+	  url = "/tasks/sv/"
+   	  weight = 180
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -785,6 +821,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Note Eğitimleri"
 	  url = "/note/tr/"
    	  weight = 170
+		[[languages.tr.menu.main]]
+     	  name = "Aspose.Tasks Eğitimleri"
+	  url = "/tasks/tr/"
+   	  weight = 180
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

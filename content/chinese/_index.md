@@ -155,3 +155,11 @@ Aspose.Note 是一个多功能软件库，旨在促进 Microsoft OneNote 文件�
 ### Aspose.Note 教程
 - [Aspose.Note for .NET 教程](../note/zh/net/)
 - [Aspose.Note for Java 教程](../note/zh/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks 是一个功能强大的.NET API，允许开发人员操作 Microsoft Project 文件，而无需安装 Microsoft Project。 它提供了读取、写入、操作项目文件并将其转换为各种格式的功能，使其成为在软件应用程序中管理和自动化项目相关任务的宝贵工具。
+{{% /alert %}}
+
+### Aspose.Tasks 教程
+- [Aspose.Tasks for .NET 教程](../tasks/zh/net/)

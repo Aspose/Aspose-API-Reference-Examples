@@ -155,3 +155,11 @@ Aspose.Note est une bibliothèque logicielle polyvalente conçue pour faciliter 
 ### Tutoriels Aspose.Note
 - [Aspose.Note pour les didacticiels .NET](../note/fr/net/)
 - [Aspose.Note pour les didacticiels Java](../note/fr/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks est une puissante API .NET qui permet aux développeurs de manipuler les fichiers Microsoft Project sans nécessiter l'installation de Microsoft Project. Il fournit des fonctionnalités pour lire, écrire, manipuler et convertir des fichiers de projet dans différents formats, ce qui en fait un outil précieux pour gérer et automatiser les tâches liées au projet dans les applications logicielles.
+{{% /alert %}}
+
+### Tutoriels Aspose.Tasks
+- [Aspose.Tasks pour les didacticiels .NET](../tasks/fr/net/)

@@ -161,3 +161,4 @@ Aspose.Tasks, geliştiricilerin Microsoft Project'in kurulmasına gerek kalmadan
 
 ### Aspose.Tasks Eğitimleri
 - [.NET için Aspose.Tasks Eğitimleri](../tasks/tr/net/)
+- [Aspose.Tasks for Java Eğitimleri](../tasks/tr/java/)

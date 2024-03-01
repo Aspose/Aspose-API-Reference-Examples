@@ -163,3 +163,4 @@ Aspose.Tasks 是一个功能强大的.NET API，允许开发人员操作 Microso
 
 ### Aspose.Tasks 教程
 - [Aspose.Tasks for .NET 教程](../tasks/zh/net/)
+- [Aspose.Tasks for Java 教程](../tasks/zh/java/)

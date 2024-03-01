@@ -163,3 +163,4 @@ Aspose.Tasks est une puissante API .NET qui permet aux développeurs de manipule
 
 ### Tutoriels Aspose.Tasks
 - [Aspose.Tasks pour les didacticiels .NET](../tasks/fr/net/)
+- [Aspose.Tasks pour les didacticiels Java](../tasks/fr/java/)

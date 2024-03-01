@@ -163,3 +163,4 @@ Aspose.Tasks عبارة عن واجهة برمجة تطبيقات .NET قوية 
 
 ### دروس Aspose.Tasks
 - [Aspose.Tasks لبرامج .NET التعليمية](../tasks/ar/net/)
+- [Aspose.Tasks دروس جافا](../tasks/ar/java/)

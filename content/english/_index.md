@@ -163,3 +163,4 @@ Aspose.Tasks is a powerful .NET API that allows developers to manipulate Microso
 
 ### Aspose.Tasks Tutorials
 - [Aspose.Tasks for .NET Tutorials](./tasks/net/)
+- [Aspose.Tasks for Java Tutorials](./tasks/java/)

@@ -146,3 +146,21 @@ Aspose.Page عبارة عن واجهة برمجة تطبيقات قوية ومت
 ### دروس Aspose.Page
 - [Aspose.Page لبرامج .NET التعليمية](../page/ar/net/)
 - [Aspose.Page دروس جافا](../page/ar/java/)
+
+## Aspose.Note
+{{% alert color="primary" %}}
+Aspose.Note هي مكتبة برامج متعددة الاستخدامات مصممة لتسهيل معالجة وتحويل ملفات Microsoft OneNote. بفضل مجموعة الميزات الشاملة، يمكن للمطورين إنشاء مستندات OneNote وقراءتها وتحريرها وتحويلها بسهولة برمجيًا بتنسيقات شائعة متنوعة. يوفر Aspose.Note تكاملاً سلسًا مع تطبيقات .NET، مما يتيح للمطورين تبسيط سير العمل وتحسين الإنتاجية عند التعامل مع ملفات OneNote.
+{{% /alert %}}
+
+### دروس Aspose.Note
+- [Aspose.Note لبرامج .NET التعليمية](../note/ar/net/)
+- [Aspose.Note دروس جافا](../note/ar/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks عبارة عن واجهة برمجة تطبيقات .NET قوية تسمح للمطورين بمعالجة ملفات Microsoft Project دون الحاجة إلى تثبيت Microsoft Project. فهو يوفر وظائف لقراءة ملفات المشروع وكتابتها ومعالجتها وتحويلها إلى تنسيقات مختلفة، مما يجعله أداة قيمة لإدارة وأتمتة المهام المتعلقة بالمشروع داخل تطبيقات البرامج.
+{{% /alert %}}
+
+### دروس Aspose.Tasks
+- [Aspose.Tasks لبرامج .NET التعليمية](../tasks/ar/net/)
+- [Aspose.Tasks دروس جافا](../tasks/ar/java/)

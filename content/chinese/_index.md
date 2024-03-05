@@ -146,3 +146,21 @@ Aspose.Page 是一个多功能且强大的文档操作 API，旨在简化 .NET �
 ### Aspose.Page 教程
 - [Aspose.Page for .NET 教程](../page/zh/net/)
 - [Aspose.Page for Java 教程](./page/zh/java/)
+
+## Aspose.Note
+{{% alert color="primary" %}}
+Aspose.Note 是一个多功能软件库，旨在促进 Microsoft OneNote 文件的操作和转换。 凭借其全面的功能，开发人员可以轻松地以编程方式创建、读取、编辑和转换各种流行格式的 OneNote 文档。 Aspose.Note 提供与 .NET 应用程序的无缝集成，使开发人员能够在处理 OneNote 文件时简化工作流程并提高工作效率。
+{{% /alert %}}
+
+### Aspose.Note 教程
+- [Aspose.Note for .NET 教程](../note/zh/net/)
+- [Aspose.Note for Java 教程](../note/zh/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks 是一个功能强大的.NET API，允许开发人员操作 Microsoft Project 文件，而无需安装 Microsoft Project。 它提供了读取、写入、操作项目文件并将其转换为各种格式的功能，使其成为在软件应用程序中管理和自动化项目相关任务的宝贵工具。
+{{% /alert %}}
+
+### Aspose.Tasks 教程
+- [Aspose.Tasks for .NET 教程](../tasks/zh/net/)
+- [Aspose.Tasks for Java 教程](../tasks/zh/java/)

@@ -144,3 +144,21 @@ Aspose.Page, .NET uygulamalarında çeşitli sayfa tabanlı dosya formatlarını
 ### Aspose.Page Eğitimleri
 - [.NET için Aspose.Page Eğitimleri](../page/tr/net/)
 - [Aspose.Page for Java Eğitimleri](../page/tr/java/)
+
+## Aspose.Note
+{{% alert color="primary" %}}
+Aspose.Note, Microsoft OneNote dosyalarının işlenmesini ve dönüştürülmesini kolaylaştırmak için tasarlanmış çok yönlü bir yazılım kitaplığıdır. Kapsamlı özellikleri sayesinde geliştiriciler, OneNote belgelerini program aracılığıyla çeşitli popüler formatlarda zahmetsizce oluşturabilir, okuyabilir, düzenleyebilir ve dönüştürebilir. Aspose.Note, .NET uygulamalarına kusursuz entegrasyon sunarak geliştiricilerin OneNote dosyalarıyla uğraşırken iş akışlarını kolaylaştırmalarına ve üretkenliği artırmalarına olanak tanır.
+{{% /alert %}}
+
+### Aspose.Note Eğitimleri
+- [.NET için Aspose.Note Eğitimleri](../note/tr/net/)
+- [Aspose.Note for Java Eğitimleri](../note/tr/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks, geliştiricilerin Microsoft Project'in kurulmasına gerek kalmadan Microsoft Project dosyalarını değiştirmesine olanak tanıyan güçlü bir .NET API'sidir. Proje dosyalarını okumak, yazmak, değiştirmek ve çeşitli formatlara dönüştürmek için işlevler sağlar; bu da onu yazılım uygulamaları içindeki projeyle ilgili görevleri yönetmek ve otomatikleştirmek için değerli bir araç haline getirir.
+{{% /alert %}}
+
+### Aspose.Tasks Eğitimleri
+- [.NET için Aspose.Tasks Eğitimleri](../tasks/tr/net/)
+- [Aspose.Tasks for Java Eğitimleri](../tasks/tr/java/)

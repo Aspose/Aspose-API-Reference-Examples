@@ -145,3 +145,21 @@ Aspose.Page ist eine vielseitige und robuste Dokumentbearbeitungs-API, die entwi
 ### Aspose.Page-Tutorials
 - [Aspose.Page für .NET Tutorials](../page/de/net/)
 - [Aspose.Page für Java Tutorials](../page/de/java/)
+
+## Aspose.Note
+{{% alert color="primary" %}}
+Aspose.Note ist eine vielseitige Softwarebibliothek, die die Bearbeitung und Konvertierung von Microsoft OneNote-Dateien erleichtert. Mit seinen umfassenden Funktionen können Entwickler OneNote-Dokumente mühelos programmgesteuert in verschiedenen gängigen Formaten erstellen, lesen, bearbeiten und konvertieren. Aspose.Note bietet eine nahtlose Integration in .NET-Anwendungen und ermöglicht Entwicklern so, ihren Arbeitsablauf zu optimieren und die Produktivität beim Umgang mit OneNote-Dateien zu steigern.
+{{% /alert %}}
+
+### Aspose.Note-Tutorials
+- [Aspose.Note für .NET Tutorials](../note/de/net/)
+- [Aspose.Note für Java Tutorials](../note/de/java/)
+
+## Aspose.Tasks
+{{% alert color="primary" %}}
+Aspose.Tasks ist eine leistungsstarke .NET-API, die es Entwicklern ermöglicht, Microsoft Project-Dateien zu bearbeiten, ohne dass Microsoft Project installiert sein muss. Es bietet Funktionen zum Lesen, Schreiben, Bearbeiten und Konvertieren von Projektdateien in verschiedene Formate und ist damit ein wertvolles Werkzeug für die Verwaltung und Automatisierung projektbezogener Aufgaben in Softwareanwendungen.
+{{% /alert %}}
+
+### Aspose.Tasks-Tutorials
+- [Aspose.Tasks für .NET Tutorials](../tasks/de/net/)
+- [Aspose.Tasks für Java Tutorials](../tasks/de/java/)

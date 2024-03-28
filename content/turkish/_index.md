@@ -162,3 +162,11 @@ Aspose.Tasks, geliştiricilerin Microsoft Project'in kurulmasına gerek kalmadan
 ### Aspose.Tasks Eğitimleri
 - [.NET için Aspose.Tasks Eğitimleri](../tasks/tr/net/)
 - [Aspose.Tasks for Java Eğitimleri](../tasks/tr/java/)
+
+## Aspose.GIS
+{{% alert color="primary" %}}
+Aspose.GIS, geliştiricilerin uygulamaları dahilinde coğrafi verilerle çalışmasına olanak tanıyan güçlü bir .NET API'sidir. Aspose.GIS ile kullanıcılar Shapefile, GeoJSON, KML ve GPX gibi çeşitli coğrafi dosya formatlarını okuyabilir, yazabilir, düzenleyebilir ve dönüştürebilir. Bu API, geometri manipülasyonu, uzamsal analiz, koordinat sistemi dönüşümü ve daha fazlası gibi görevler için geniş bir işlevsellik yelpazesi sağlar.
+{{% /alert %}}
+
+### Aspose.GIS Eğitimleri
+- [.NET için Aspose.GIS Eğitimleri](../gis/tr/net/)

@@ -163,3 +163,11 @@ Aspose.Tasks es una potente API .NET que permite a los desarrolladores manipular
 ### Tutoriales de Aspose.Tasks
 - [Aspose.Tasks para tutoriales .NET](../tasks/es/net/)
 - [Tutoriales de Aspose.Tasks para Java](../tasks/es/java/)
+
+## Aspose.GIS
+{{% alert color="primary" %}}
+Aspose.GIS es una potente API .NET que permite a los desarrolladores trabajar con datos geoespaciales dentro de sus aplicaciones. Con Aspose.GIS, los usuarios pueden leer, escribir, editar y convertir varios formatos de archivos geoespaciales como Shapefile, GeoJSON, KML y GPX. Esta API proporciona una amplia gama de funciones para tareas como manipulación de geometría, análisis espacial, transformación de sistemas de coordenadas y más.
+{{% /alert %}}
+
+### Tutoriales de Aspose.GIS
+- [Aspose.GIS para tutoriales .NET](../gis/es/net/)

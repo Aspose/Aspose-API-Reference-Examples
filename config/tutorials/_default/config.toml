@@ -114,6 +114,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Tutorials"
 	  url = "/tasks/"
    	  weight = 180
+		[[languages.en.menu.main]]
+     	  name = "Aspose.GIS Tutorials"
+	  url = "/gis/"
+   	  weight = 190
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -193,6 +197,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Учебники"
 	  url = "/tasks/ru/"
    	  weight = 180
+		[[languages.ru.menu.main]]
+     	  name = "Aspose.GIS Учебники"
+	  url = "/gis/ru/"
+   	  weight = 190
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -272,6 +280,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks 教程"
 	  url = "/tasks/zh/"
    	  weight = 180
+		[[languages.zh.menu.main]]
+     	  name = "Aspose.GIS 教程"
+	  url = "/gis/zh/"
+   	  weight = 190
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -351,6 +363,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks دروس"
 	  url = "/tasks/ar/"
    	  weight = 180 
+		[[languages.ar.menu.main]]
+     	  name = "Aspose.GIS دروس"
+	  url = "/gis/ar/"
+   	  weight = 190 
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -430,6 +446,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Tutoriels"
 	  url = "/tasks/fr/"
    	  weight = 180
+		[[languages.fr.menu.main]]
+     	  name = "Aspose.GIS Tutoriels"
+	  url = "/gis/fr/"
+   	  weight = 190
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -509,6 +529,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks-Tutorials"
 	  url = "/tasks/de/"
    	  weight = 180	
+		[[languages.de.menu.main]]
+     	  name = "Aspose.GIS-Tutorials"
+	  url = "/gis/de/"
+   	  weight = 190
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -588,6 +612,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Tutorial"
 	  url = "/tasks/it/"
    	  weight = 180
+		[[languages.it.menu.main]]
+     	  name = "Aspose.GIS Tutorial"
+	  url = "/gis/it/"
+   	  weight = 190
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -667,6 +695,10 @@ defaultContentLang = 'en'
      	  name = "Tutoriales de Aspose.Tasks"
 	  url = "/tasks/es/"
    	  weight = 180	  
+		[[languages.es.menu.main]]
+     	  name = "Tutoriales de Aspose.GIS"
+	  url = "/gis/es/"
+   	  weight = 190
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -746,6 +778,10 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Tutorials"
 	  url = "/tasks/sv/"
    	  weight = 180
+		[[languages.sv.menu.main]]
+     	  name = "Aspose.GIS Tutorials"
+	  url = "/gis/sv/"
+   	  weight = 190
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -825,6 +861,1090 @@ defaultContentLang = 'en'
      	  name = "Aspose.Tasks Eğitimleri"
 	  url = "/tasks/tr/"
    	  weight = 180
+		[[languages.tr.menu.main]]
+     	  name = "Aspose.GIS Eğitimleri"
+	  url = "/gis/tr/"
+   	  weight = 190
+  [languages.pt]
+    contentDir = 'content/portuguese'
+    languageName = "Português"
+    languageCode = "pt"
+    flag = "flag-br"
+    weight = 20
+    [languages.pt.menu]
+    	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Words"
+	  url = "/words/pt/"
+   	  weight = 10
+    	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.PDF"
+	  url = "/pdf/pt/"
+   	  weight = 20
+    	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Cells"
+	  url = "/cells/pt/"
+   	  weight = 30
+    	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Email"
+	  url = "/email/pt/"
+   	  weight = 40
+    	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Slides"
+	  url = "/slides/pt/"
+   	  weight = 50	  
+	    [[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.HTML"
+	  url = "/html/pt/"
+   	  weight = 60
+	    [[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Imaging"
+	  url = "/imaging/pt/"
+   	  weight = 70
+	    [[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.BarCode"
+	  url = "/barcode/pt/"
+   	  weight = 80
+	  	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.CAD"
+	  url = "/cad/pt/"
+   	  weight = 90
+	  	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.ZIP"
+	  url = "/zip/pt/"
+   	  weight = 100
+	  	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Drawing"
+	  url = "/drawing/pt/"
+   	  weight = 110
+	  	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.OCR"
+	  url = "/ocr/pt/"
+   	  weight = 120
+	  	[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.PSD"
+	  url = "/psd/pt/"
+   	  weight = 130	  
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.3D"
+	  url = "/3d/pt/"
+   	  weight = 140
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.TeX"
+	  url = "/tex/pt/"
+   	  weight = 150
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Page"
+	  url = "/page/pt/"
+   	  weight = 160
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Note"
+	  url = "/note/pt/"
+   	  weight = 170
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.Tasks"
+	  url = "/tasks/pt/"
+   	  weight = 180
+		[[languages.pt.menu.main]]
+     	  name = "Tutoriais Aspose.GIS"
+	  url = "/gis/pt/"
+   	  weight = 190
+  [languages.ko]
+    contentDir = 'content/korean'
+    languageName = "한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 21
+    [languages.ko.menu]
+    	[[languages.ko.menu.main]]
+     	  name = "Aspose.Words 튜토리얼"
+	  url = "/words/ko/"
+   	  weight = 10
+    	[[languages.ko.menu.main]]
+     	  name = "Aspose.PDF 튜토리얼"
+	  url = "/pdf/ko/"
+   	  weight = 20
+    	[[languages.ko.menu.main]]
+     	  name = "Aspose.Cells 튜토리얼"
+	  url = "/cells/ko/"
+   	  weight = 30
+    	[[languages.ko.menu.main]]
+     	  name = "Aspose.Email 튜토리얼"
+	  url = "/email/ko/"
+   	  weight = 40
+    	[[languages.ko.menu.main]]
+     	  name = "Aspose.Slides 튜토리얼"
+	  url = "/slides/ko/"
+   	  weight = 50	  
+	    [[languages.ko.menu.main]]
+     	  name = "Aspose.HTML 튜토리얼"
+	  url = "/html/ko/"
+   	  weight = 60
+	    [[languages.ko.menu.main]]
+     	  name = "Aspose.Imaging 튜토리얼"
+	  url = "/imaging/ko/"
+   	  weight = 70
+	    [[languages.ko.menu.main]]
+     	  name = "Aspose.BarCode 튜토리얼"
+	  url = "/barcode/ko/"
+   	  weight = 80
+	  	[[languages.ko.menu.main]]
+     	  name = "Aspose.CAD 튜토리얼"
+	  url = "/cad/ko/"
+   	  weight = 90
+	  	[[languages.ko.menu.main]]
+     	  name = "Aspose.ZIP 튜토리얼"
+	  url = "/zip/ko/"
+   	  weight = 100
+	  	[[languages.ko.menu.main]]
+     	  name = "Aspose.Drawing 튜토리얼"
+	  url = "/drawing/ko/"
+   	  weight = 110
+	  	[[languages.ko.menu.main]]
+     	  name = "Aspose.OCR 튜토리얼"
+	  url = "/ocr/ko/"
+   	  weight = 120
+	  	[[languages.ko.menu.main]]
+     	  name = "Aspose.PSD 튜토리얼"
+	  url = "/psd/ko/"
+   	  weight = 130	  
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.3D 튜토리얼"
+	  url = "/3d/ko/"
+   	  weight = 140
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.TeX 튜토리얼"
+	  url = "/tex/ko/"
+   	  weight = 150
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.Page 튜토리얼"
+	  url = "/page/ko/"
+   	  weight = 160
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.Note 튜토리얼"
+	  url = "/note/ko/"
+   	  weight = 170
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.Tasks 튜토리얼"
+	  url = "/tasks/ko/"
+   	  weight = 180
+		[[languages.ko.menu.main]]
+     	  name = "Aspose.GIS 튜토리얼"
+	  url = "/gis/ko/"
+   	  weight = 190
+  [languages.vi]
+    contentDir = 'content/vietnamese'
+    languageName = "Tiếng Việt"
+    languageCode = "vi"
+    flag = "flag-vn"
+    weight = 22
+    [languages.vi.menu]
+    	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Words"
+	  url = "/words/vi/"
+   	  weight = 10
+    	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.PDF"
+	  url = "/pdf/vi/"
+   	  weight = 20
+    	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Cells"
+	  url = "/cells/vi/"
+   	  weight = 30
+    	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Email"
+	  url = "/email/vi/"
+   	  weight = 40
+    	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Slides"
+	  url = "/slides/vi/"
+   	  weight = 50	  
+	    [[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.HTML"
+	  url = "/html/vi/"
+   	  weight = 60
+	    [[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Imaging"
+	  url = "/imaging/vi/"
+   	  weight = 70
+	    [[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.BarCode"
+	  url = "/barcode/vi/"
+   	  weight = 80
+	  	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.CAD"
+	  url = "/cad/vi/"
+   	  weight = 90
+	  	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.ZIP"
+	  url = "/zip/vi/"
+   	  weight = 100
+	  	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Drawing"
+	  url = "/drawing/vi/"
+   	  weight = 110
+	  	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.OCR"
+	  url = "/ocr/vi/"
+   	  weight = 120
+	  	[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.PSD"
+	  url = "/psd/vi/"
+   	  weight = 130	  
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.3D"
+	  url = "/3d/vi/"
+   	  weight = 140
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.TeX"
+	  url = "/tex/vi/"
+   	  weight = 150
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Page"
+	  url = "/page/vi/"
+   	  weight = 160
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Note"
+	  url = "/note/vi/"
+   	  weight = 170
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.Tasks"
+	  url = "/tasks/vi/"
+   	  weight = 180
+		[[languages.vi.menu.main]]
+     	  name = "Hướng dẫn Aspose.GIS"
+	  url = "/gis/vi/"
+   	  weight = 190
+  [languages.id]
+    contentDir = 'content/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 23
+    [languages.id.menu]
+    	[[languages.id.menu.main]]
+     	  name = "Aspose.Words Tutorial"
+	  url = "/words/id/"
+   	  weight = 10
+    	[[languages.id.menu.main]]
+     	  name = "Aspose.PDF Tutorial"
+	  url = "/pdf/id/"
+   	  weight = 20
+    	[[languages.id.menu.main]]
+     	  name = "Aspose.Cells Tutorial"
+	  url = "/cells/id/"
+   	  weight = 30
+    	[[languages.id.menu.main]]
+     	  name = "Aspose.Email Tutorial"
+	  url = "/email/id/"
+   	  weight = 40
+    	[[languages.id.menu.main]]
+     	  name = "Aspose.Slides Tutorial"
+	  url = "/slides/id/"
+   	  weight = 50	  
+	    [[languages.id.menu.main]]
+     	  name = "Aspose.HTML Tutorial"
+	  url = "/html/id/"
+   	  weight = 60
+	    [[languages.id.menu.main]]
+     	  name = "Aspose.Imaging Tutorial"
+	  url = "/imaging/id/"
+   	  weight = 70
+	    [[languages.id.menu.main]]
+     	  name = "Aspose.BarCode Tutorial"
+	  url = "/barcode/id/"
+   	  weight = 80
+	  	[[languages.id.menu.main]]
+     	  name = "Aspose.CAD Tutorial"
+	  url = "/cad/id/"
+   	  weight = 90
+	  	[[languages.id.menu.main]]
+     	  name = "Aspose.ZIP Tutorial"
+	  url = "/zip/id/"
+   	  weight = 100
+	  	[[languages.id.menu.main]]
+     	  name = "Aspose.Drawing Tutorial"
+	  url = "/drawing/id/"
+   	  weight = 110
+	  	[[languages.id.menu.main]]
+     	  name = "Aspose.OCR Tutorial"
+	  url = "/ocr/id/"
+   	  weight = 120
+	  	[[languages.id.menu.main]]
+     	  name = "Aspose.PSD Tutorial"
+	  url = "/psd/id/"
+   	  weight = 130	  
+		[[languages.id.menu.main]]
+     	  name = "Aspose.3D Tutorial"
+	  url = "/3d/id/"
+   	  weight = 140
+		[[languages.id.menu.main]]
+     	  name = "Aspose.TeX Tutorial"
+	  url = "/tex/id/"
+   	  weight = 150
+		[[languages.id.menu.main]]
+     	  name = "Aspose.Page Tutorial"
+	  url = "/page/id/"
+   	  weight = 160
+		[[languages.id.menu.main]]
+     	  name = "Aspose.Note Tutorial"
+	  url = "/note/id/"
+   	  weight = 170
+		[[languages.id.menu.main]]
+     	  name = "Aspose.Tasks Tutorial"
+	  url = "/tasks/id/"
+   	  weight = 180
+		[[languages.id.menu.main]]
+     	  name = "Aspose.GIS Tutorial"
+	  url = "/gis/id/"
+   	  weight = 190
+  [languages.ja]
+    contentDir = 'content/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 24
+    [languages.ja.menu]
+    	[[languages.ja.menu.main]]
+     	  name = "Aspose.Words チュートリアル"
+	  url = "/words/ja/"
+   	  weight = 10
+    	[[languages.ja.menu.main]]
+     	  name = "Aspose.PDF チュートリアル"
+	  url = "/pdf/ja/"
+   	  weight = 20
+    	[[languages.ja.menu.main]]
+     	  name = "Aspose.Cells チュートリアル"
+	  url = "/cells/ja/"
+   	  weight = 30
+    	[[languages.ja.menu.main]]
+     	  name = "Aspose.Email チュートリアル"
+	  url = "/email/ja/"
+   	  weight = 40
+    	[[languages.ja.menu.main]]
+     	  name = "Aspose.Slides チュートリアル"
+	  url = "/slides/ja/"
+   	  weight = 50	  
+	    [[languages.ja.menu.main]]
+     	  name = "Aspose.HTML チュートリアル"
+	  url = "/html/ja/"
+   	  weight = 60
+	    [[languages.ja.menu.main]]
+     	  name = "Aspose.Imaging チュートリアル"
+	  url = "/imaging/ja/"
+   	  weight = 70
+	    [[languages.ja.menu.main]]
+     	  name = "Aspose.BarCode チュートリアル"
+	  url = "/barcode/ja/"
+   	  weight = 80
+	  	[[languages.ja.menu.main]]
+     	  name = "Aspose.CAD チュートリアル"
+	  url = "/cad/ja/"
+   	  weight = 90
+	  	[[languages.ja.menu.main]]
+     	  name = "Aspose.ZIP チュートリアル"
+	  url = "/zip/ja/"
+   	  weight = 100
+	  	[[languages.ja.menu.main]]
+     	  name = "Aspose.Drawing チュートリアル"
+	  url = "/drawing/ja/"
+   	  weight = 110
+	  	[[languages.ja.menu.main]]
+     	  name = "Aspose.OCR チュートリアル"
+	  url = "/ocr/ja/"
+   	  weight = 120
+	  	[[languages.ja.menu.main]]
+     	  name = "Aspose.PSD チュートリアル"
+	  url = "/psd/ja/"
+   	  weight = 130	  
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.3D チュートリアル"
+	  url = "/3d/ja/"
+   	  weight = 140
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.TeX チュートリアル"
+	  url = "/tex/ja/"
+   	  weight = 150
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.Page チュートリアル"
+	  url = "/page/ja/"
+   	  weight = 160
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.Note チュートリアル"
+	  url = "/note/ja/"
+   	  weight = 170
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.Tasks チュートリアル"
+	  url = "/tasks/ja/"
+   	  weight = 180
+		[[languages.ja.menu.main]]
+     	  name = "Aspose.GIS チュートリアル"
+	  url = "/gis/ja/"
+   	  weight = 190
+  [languages.pl]
+    contentDir = 'content/polish'
+    languageName = "Polski"
+    languageCode = "pl"
+    flag = "flag-pl"
+    weight = 25
+    [languages.pl.menu]
+    	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Words"
+	  url = "/words/pl/"
+   	  weight = 10
+    	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.PDF"
+	  url = "/pdf/pl/"
+   	  weight = 20
+    	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Cells"
+	  url = "/cells/pl/"
+   	  weight = 30
+    	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Email"
+	  url = "/email/pl/"
+   	  weight = 40
+    	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Slides"
+	  url = "/slides/pl/"
+   	  weight = 50	  
+	    [[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.HTML"
+	  url = "/html/pl/"
+   	  weight = 60
+	    [[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Imaging"
+	  url = "/imaging/pl/"
+   	  weight = 70
+	    [[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.BarCode"
+	  url = "/barcode/pl/"
+   	  weight = 80
+	  	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.CAD"
+	  url = "/cad/pl/"
+   	  weight = 90
+	  	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.ZIP"
+	  url = "/zip/pl/"
+   	  weight = 100
+	  	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Drawing"
+	  url = "/drawing/pl/"
+   	  weight = 110
+	  	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.OCR"
+	  url = "/ocr/pl/"
+   	  weight = 120
+	  	[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.PSD"
+	  url = "/psd/pl/"
+   	  weight = 130	  
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.3D"
+	  url = "/3d/pl/"
+   	  weight = 140
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.TeX"
+	  url = "/tex/pl/"
+   	  weight = 150
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Page"
+	  url = "/page/pl/"
+   	  weight = 160
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Note"
+	  url = "/note/pl/"
+   	  weight = 170
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.Tasks"
+	  url = "/tasks/pl/"
+   	  weight = 180
+		[[languages.pl.menu.main]]
+     	  name = "Poradniki Aspose.GIS"
+	  url = "/gis/pl/"
+   	  weight = 190
+  [languages.nl]
+    contentDir = 'content/dutch'
+    languageName = "Nederlands"
+    languageCode = "nl"
+    flag = "flag-nl"
+    weight = 26
+    [languages.nl.menu]
+    	[[languages.nl.menu.main]]
+     	  name = "Aspose.Words-handleidingen"
+	  url = "/words/nl/"
+   	  weight = 10
+    	[[languages.nl.menu.main]]
+     	  name = "Aspose.PDF-handleidingen"
+	  url = "/pdf/nl/"
+   	  weight = 20
+    	[[languages.nl.menu.main]]
+     	  name = "Aspose.Cells-handleidingen"
+	  url = "/cells/nl/"
+   	  weight = 30
+    	[[languages.nl.menu.main]]
+     	  name = "Aspose.Email-handleidingen"
+	  url = "/email/nl/"
+   	  weight = 40
+    	[[languages.nl.menu.main]]
+     	  name = "Aspose.Slides-handleidingen"
+	  url = "/slides/nl/"
+   	  weight = 50	  
+	    [[languages.nl.menu.main]]
+     	  name = "Aspose.HTML-handleidingen"
+	  url = "/html/nl/"
+   	  weight = 60
+	    [[languages.nl.menu.main]]
+     	  name = "Aspose.Imaging-handleidingen"
+	  url = "/imaging/nl/"
+   	  weight = 70
+	    [[languages.nl.menu.main]]
+     	  name = "Aspose.BarCode-handleidingen"
+	  url = "/barcode/nl/"
+   	  weight = 80
+	  	[[languages.nl.menu.main]]
+     	  name = "Aspose.CAD-handleidingen"
+	  url = "/cad/nl/"
+   	  weight = 90
+	  	[[languages.nl.menu.main]]
+     	  name = "Aspose.ZIP-handleidingen"
+	  url = "/zip/nl/"
+   	  weight = 100
+	  	[[languages.nl.menu.main]]
+     	  name = "Aspose.Drawing-handleidingen"
+	  url = "/drawing/nl/"
+   	  weight = 110
+	  	[[languages.nl.menu.main]]
+     	  name = "Aspose.OCR-handleidingen"
+	  url = "/ocr/nl/"
+   	  weight = 120
+	  	[[languages.nl.menu.main]]
+     	  name = "Aspose.PSD-handleidingen"
+	  url = "/psd/nl/"
+   	  weight = 130	  
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.3D-handleidingen"
+	  url = "/3d/nl/"
+   	  weight = 140
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.TeX-handleidingen"
+	  url = "/tex/nl/"
+   	  weight = 150
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.Page-handleidingen"
+	  url = "/page/nl/"
+   	  weight = 160
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.Note-handleidingen"
+	  url = "/note/nl/"
+   	  weight = 170
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.Tasks-handleidingen"
+	  url = "/tasks/nl/"
+   	  weight = 180
+		[[languages.nl.menu.main]]
+     	  name = "Aspose.GIS-handleidingen"
+	  url = "/gis/nl/"
+   	  weight = 190
+  [languages.hu]
+    contentDir = 'content/hungarian'
+    languageName = "Magyar"
+    languageCode = "hu"
+    flag = "flag-hu"
+    weight = 27
+    [languages.hu.menu]
+    	[[languages.hu.menu.main]]
+     	  name = "Aspose.Words oktatóanyagok"
+	  url = "/words/hu/"
+   	  weight = 10
+    	[[languages.hu.menu.main]]
+     	  name = "Aspose.PDF oktatóanyagok"
+	  url = "/pdf/hu/"
+   	  weight = 20
+    	[[languages.hu.menu.main]]
+     	  name = "Aspose.Cells oktatóanyagok"
+	  url = "/cells/hu/"
+   	  weight = 30
+    	[[languages.hu.menu.main]]
+     	  name = "Aspose.Email oktatóanyagok"
+	  url = "/email/hu/"
+   	  weight = 40
+    	[[languages.hu.menu.main]]
+     	  name = "Aspose.Slides oktatóanyagok"
+	  url = "/slides/hu/"
+   	  weight = 50	  
+	    [[languages.hu.menu.main]]
+     	  name = "Aspose.HTML oktatóanyagok"
+	  url = "/html/hu/"
+   	  weight = 60
+	    [[languages.hu.menu.main]]
+     	  name = "Aspose.Imaging oktatóanyagok"
+	  url = "/imaging/hu/"
+   	  weight = 70
+	    [[languages.hu.menu.main]]
+     	  name = "Aspose.BarCode oktatóanyagok"
+	  url = "/barcode/hu/"
+   	  weight = 80
+	  	[[languages.hu.menu.main]]
+     	  name = "Aspose.CAD oktatóanyagok"
+	  url = "/cad/hu/"
+   	  weight = 90
+	  	[[languages.hu.menu.main]]
+     	  name = "Aspose.ZIP oktatóanyagok"
+	  url = "/zip/hu/"
+   	  weight = 100
+	  	[[languages.hu.menu.main]]
+     	  name = "Aspose.Drawing oktatóanyagok"
+	  url = "/drawing/hu/"
+   	  weight = 110
+	  	[[languages.hu.menu.main]]
+     	  name = "Aspose.OCR oktatóanyagok"
+	  url = "/ocr/hu/"
+   	  weight = 120
+	  	[[languages.hu.menu.main]]
+     	  name = "Aspose.PSD oktatóanyagok"
+	  url = "/psd/hu/"
+   	  weight = 130	  
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.3D oktatóanyagok"
+	  url = "/3d/hu/"
+   	  weight = 140
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.TeX oktatóanyagok"
+	  url = "/tex/hu/"
+   	  weight = 150
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.Page oktatóanyagok"
+	  url = "/page/hu/"
+   	  weight = 160
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.Note oktatóanyagok"
+	  url = "/note/hu/"
+   	  weight = 170
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.Tasks oktatóanyagok"
+	  url = "/tasks/hu/"
+   	  weight = 180
+		[[languages.hu.menu.main]]
+     	  name = "Aspose.GIS oktatóanyagok"
+	  url = "/gis/hu/"
+   	  weight = 190
+  [languages.hi]
+    contentDir = 'content/hindi'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 28
+    [languages.hi.menu]
+    	[[languages.hi.menu.main]]
+     	  name = "Aspose.Words ट्यूटोरियल"
+	  url = "/words/hi/"
+   	  weight = 10
+    	[[languages.hi.menu.main]]
+     	  name = "Aspose.PDF ट्यूटोरियल"
+	  url = "/pdf/hi/"
+   	  weight = 20
+    	[[languages.hi.menu.main]]
+     	  name = "Aspose.Cells ट्यूटोरियल"
+	  url = "/cells/hi/"
+   	  weight = 30
+    	[[languages.hi.menu.main]]
+     	  name = "Aspose.Email ट्यूटोरियल"
+	  url = "/email/hi/"
+   	  weight = 40
+    	[[languages.hi.menu.main]]
+     	  name = "Aspose.Slides ट्यूटोरियल"
+	  url = "/slides/hi/"
+   	  weight = 50	  
+	    [[languages.hi.menu.main]]
+     	  name = "Aspose.HTML ट्यूटोरियल"
+	  url = "/html/hi/"
+   	  weight = 60
+	    [[languages.hi.menu.main]]
+     	  name = "Aspose.Imaging ट्यूटोरियल"
+	  url = "/imaging/hi/"
+   	  weight = 70
+	    [[languages.hi.menu.main]]
+     	  name = "Aspose.BarCode ट्यूटोरियल"
+	  url = "/barcode/hi/"
+   	  weight = 80
+	  	[[languages.hi.menu.main]]
+     	  name = "Aspose.CAD ट्यूटोरियल"
+	  url = "/cad/hi/"
+   	  weight = 90
+	  	[[languages.hi.menu.main]]
+     	  name = "Aspose.ZIP ट्यूटोरियल"
+	  url = "/zip/hi/"
+   	  weight = 100
+	  	[[languages.hi.menu.main]]
+     	  name = "Aspose.Drawing ट्यूटोरियल"
+	  url = "/drawing/hi/"
+   	  weight = 110
+	  	[[languages.hi.menu.main]]
+     	  name = "Aspose.OCR ट्यूटोरियल"
+	  url = "/ocr/hi/"
+   	  weight = 120
+	  	[[languages.hi.menu.main]]
+     	  name = "Aspose.PSD ट्यूटोरियल"
+	  url = "/psd/hi/"
+   	  weight = 130	  
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.3D ट्यूटोरियल"
+	  url = "/3d/hi/"
+   	  weight = 140
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.TeX ट्यूटोरियल"
+	  url = "/tex/hi/"
+   	  weight = 150
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.Page ट्यूटोरियल"
+	  url = "/page/hi/"
+   	  weight = 160
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.Note ट्यूटोरियल"
+	  url = "/note/hi/"
+   	  weight = 170
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.Tasks ट्यूटोरियल"
+	  url = "/tasks/hi/"
+   	  weight = 180
+		[[languages.hi.menu.main]]
+     	  name = "Aspose.GIS ट्यूटोरियल"
+	  url = "/gis/hi/"
+   	  weight = 190
+  [languages.th]
+    contentDir = 'content/thai'
+    languageName = "ไทย"
+    languageCode = "th"
+    flag = "flag-th"
+    weight = 29
+    [languages.th.menu]
+    	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Words"
+	  url = "/words/th/"
+   	  weight = 10
+    	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.PDF"
+	  url = "/pdf/th/"
+   	  weight = 20
+    	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Cells"
+	  url = "/cells/th/"
+   	  weight = 30
+    	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Email "
+	  url = "/email/th/"
+   	  weight = 40
+    	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Slides"
+	  url = "/slides/th/"
+   	  weight = 50	  
+	    [[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.HTML"
+	  url = "/html/th/"
+   	  weight = 60
+	    [[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Imaging"
+	  url = "/imaging/th/"
+   	  weight = 70
+	    [[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.BarCode"
+	  url = "/barcode/th/"
+   	  weight = 80
+	  	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.CAD"
+	  url = "/cad/th/"
+   	  weight = 90
+	  	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.ZIP"
+	  url = "/zip/th/"
+   	  weight = 100
+	  	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Drawing"
+	  url = "/drawing/th/"
+   	  weight = 110
+	  	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.OCR"
+	  url = "/ocr/th/"
+   	  weight = 120
+	  	[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.PSD"
+	  url = "/psd/th/"
+   	  weight = 130	  
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.3D"
+	  url = "/3d/th/"
+   	  weight = 140
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.TeX"
+	  url = "/tex/th/"
+   	  weight = 150
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Page"
+	  url = "/page/th/"
+   	  weight = 160
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Note"
+	  url = "/note/th/"
+   	  weight = 170
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.Tasks"
+	  url = "/tasks/th/"
+   	  weight = 180
+		[[languages.th.menu.main]]
+     	  name = "บทช่วยสอน Aspose.GIS"
+	  url = "/gis/th/"
+   	  weight = 190
+  [languages.el]
+    contentDir = 'content/greek'
+    languageName = "Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 30
+    [languages.el.menu]
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.Words Tutorials"
+	  url = "/words/el/"
+   	  weight = 10
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.PDF Tutorials"
+	  url = "/pdf/el/"
+   	  weight = 20
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.Cells Tutorials"
+	  url = "/cells/el/"
+   	  weight = 30
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.Emal Tutorials"
+	  url = "/email/el/"
+   	  weight = 40  
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.Slides Tutorials"
+	  url = "/slides/el/"
+   	  weight = 50
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.HTML Tutorials"
+	  url = "/html/el/"
+   	  weight = 60
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.Imaging Tutorials"
+	  url = "/imaging/el/"
+   	  weight = 70
+    	[[languages.el.menu.main]]
+     	  name = "Aspose.BarCode Tutorials"
+	  url = "/barcode/el/"
+   	  weight = 80
+	  	[[languages.el.menu.main]]
+     	  name = "Aspose.CAD Tutorials"
+	  url = "/cad/el/"
+   	  weight = 90
+	  	[[languages.el.menu.main]]
+     	  name = "Aspose.ZIP Tutorials"
+	  url = "/zip/el/"
+   	  weight = 100
+	  	[[languages.el.menu.main]]
+     	  name = "Aspose.Drawing Tutorials"
+	  url = "/drawing/el/"
+   	  weight = 110
+	  	[[languages.el.menu.main]]
+     	  name = "Aspose.OCR Tutorials"
+	  url = "/ocr/el/"
+   	  weight = 120
+	  	[[languages.el.menu.main]]
+     	  name = "Aspose.PSD Tutorials"
+	  url = "/psd/el/"
+   	  weight = 130	  
+		[[languages.el.menu.main]]
+     	  name = "Aspose.3D Tutorials"
+	  url = "/3d/el/"
+   	  weight = 140
+		[[languages.el.menu.main]]
+     	  name = "Aspose.TeX Tutorials"
+	  url = "/tex/el/"
+   	  weight = 150
+		[[languages.el.menu.main]]
+     	  name = "Aspose.Page Tutorials"
+	  url = "/page/el/"
+   	  weight = 160
+		[[languages.el.menu.main]]
+     	  name = "Aspose.Note Tutorials"
+	  url = "/note/el/"
+   	  weight = 170
+		[[languages.el.menu.main]]
+     	  name = "Aspose.Tasks Tutorials"
+	  url = "/tasks/el/"
+   	  weight = 180
+		[[languages.el.menu.main]]
+     	  name = "Aspose.GIS Tutorials"
+	  url = "/gis/el/"
+   	  weight = 190
+  [languages.cs]
+    contentDir = 'content/czech'
+    languageName = "čeština"
+    languageCode = "cs"
+    flag = "flag-cz"
+    weight = 31
+    [languages.cs.menu]
+    	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Words"
+	  url = "/words/cs/"
+   	  weight = 10
+    	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.PDF"
+	  url = "/pdf/cs/"
+   	  weight = 20
+    	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Cells"
+	  url = "/cells/cs/"
+   	  weight = 30
+    	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Email "
+	  url = "/email/cs/"
+   	  weight = 40
+    	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Slides"
+	  url = "/slides/cs/"
+   	  weight = 50	  
+	    [[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.HTML"
+	  url = "/html/cs/"
+   	  weight = 60
+	    [[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Imaging"
+	  url = "/imaging/cs/"
+   	  weight = 70
+	    [[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.BarCode"
+	  url = "/barcode/cs/"
+   	  weight = 80
+	  	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.CAD"
+	  url = "/cad/cs/"
+   	  weight = 90
+	  	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.ZIP"
+	  url = "/zip/cs/"
+   	  weight = 100
+	  	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Drawing"
+	  url = "/drawing/cs/"
+   	  weight = 110
+	  	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.OCR"
+	  url = "/ocr/cs/"
+   	  weight = 120
+	  	[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.PSD"
+	  url = "/psd/cs/"
+   	  weight = 130	  
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.3D"
+	  url = "/3d/cs/"
+   	  weight = 140
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.TeX"
+	  url = "/tex/cs/"
+   	  weight = 150
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Page"
+	  url = "/page/cs/"
+   	  weight = 160
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Note"
+	  url = "/note/cs/"
+   	  weight = 170
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.Tasks"
+	  url = "/tasks/cs/"
+   	  weight = 180
+		[[languages.cs.menu.main]]
+     	  name = "Výukové programy Aspose.GIS"
+	  url = "/gis/cs/"
+   	  weight = 190
+  [languages.zh-hant]
+    contentDir = 'content/hongkong'
+    languageName = "繁體中文"
+    languageCode = "zh-hant"
+    flag = "flag-tw"
+    weight = 32
+    [languages.zh-hant.menu]
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Words 教學課程"
+	  url = "/words/zh-hant/"
+   	  weight = 10
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.PDF 教學課程"
+	  url = "/pdf/zh-hant/"
+   	  weight = 20
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Cells 教學課程"
+	  url = "/cells/zh-hant/"
+   	  weight = 30
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Emal 教學課程"
+	  url = "/email/zh-hant/"
+   	  weight = 40  
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Slides 教學課程"
+	  url = "/slides/zh-hant/"
+   	  weight = 50
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.HTML 教學課程"
+	  url = "/html/zh-hant/"
+   	  weight = 60
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Imaging 教學課程"
+	  url = "/imaging/zh-hant/"
+   	  weight = 70
+    	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.BarCode 教學課程"
+	  url = "/barcode/zh-hant/"
+   	  weight = 80
+	  	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.CAD 教學課程"
+	  url = "/cad/zh-hant/"
+   	  weight = 90
+	  	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.ZIP 教學課程"
+	  url = "/zip/zh-hant/"
+   	  weight = 100
+	  	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Drawing 教學課程"
+	  url = "/drawing/zh-hant/"
+   	  weight = 110
+	  	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.OCR 教學課程"
+	  url = "/ocr/zh-hant/"
+   	  weight = 120
+	  	[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.PSD 教學課程"
+	  url = "/psd/zh-hant/"
+   	  weight = 130	  
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.3D 教學課程"
+	  url = "/3d/zh-hant/"
+   	  weight = 140
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.TeX 教學課程"
+	  url = "/tex/zh-hant/"
+   	  weight = 150
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Page 教學課程"
+	  url = "/page/zh-hant/"
+   	  weight = 160
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Note 教學課程"
+	  url = "/note/zh-hant/"
+   	  weight = 170
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.Tasks 教學課程"
+	  url = "/tasks/zh-hant/"
+   	  weight = 180
+		[[languages.zh-hant.menu.main]]
+     	  name = "Aspose.GIS 教學課程"
+	  url = "/gis/zh-hant/"
+   	  weight = 190
+
     
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

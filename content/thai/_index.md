@@ -1,6 +1,6 @@
 ---
 title: บทช่วยสอนและตัวอย่างโค้ด
-additionalTitle: หัวข้อเพิ่มเติม: กำหนดการอ้างอิง API
+additionalTitle: กำหนดการอ้างอิง API
 description: บทช่วยสอนและตัวอย่างโค้ดของผลิตภัณฑ์ Aspose เช่น Aspose.Words, Aspose.Cells, Aspose.PDF และผลิตภัณฑ์อื่นๆ ประกอบด้วยบทช่วยสอนขั้นพื้นฐานและขั้นสูงเกี่ยวกับการใช้งานผลิตภัณฑ์ Aspose
 type: docs
 weight: 10
